@@ -1,0 +1,55 @@
+Vater;батько;;family
+Mutter;мати;;family
+Eltern;батьки;;family
+Sohn;син;;family
+Tochter;донька;;family
+Bruder;брат;;family
+Schwester;сестра;;family
+Großvater;дідусь;;family
+Großmutter;бабуся;;family
+Opa;дідусь;;family
+Oma;бабуся;;family
+Enkel;онук;;family
+Enkelin;онучка;;family
+Onkel;дядько;;family
+Tante;тітка;;family
+Neffe;племінник;;family
+Nichte;племінниця;;family
+Cousin;двоюрідний брат;;family
+Cousine;двоюрідна сестра;;family
+Ehemann;чоловік;;family
+Ehefrau;дружина;;family
+Kind;дитина;;family
+Baby;немовля;;family
+Jugendlicher;підліток;;family
+Erwachsener;дорослий;;family
+Verwandter;родич;;family
+Verwandte;родичка;;family
+Schwiegervater;тесть (свекор);;family
+Schwiegermutter;теща (свекруха);;family
+Schwager;шурин (дівер);;family
+Schwägerin;зовиця (невістка);;family
+Stiefvater;вітчим;;family
+Stiefmutter;мачуха;;family
+Stiefsohn;пасинок;;family
+Stieftochter;падчерка;;family
+Stiefbruder;зведений брат;;family
+Stiefschwester;зведена сестра;;family
+Pate;хрещений батько;;family
+Patin;хрещена мати;;family
+Patensohn;хрещеник;;family
+Patenkind;хрещениця;;family
+Familie;родина;;family
+Haushalt;домогосподарство;;family
+Verlobter;наречений;;family
+Verlobte;наречена;;family
+Ehe;шлюб;;family
+Hochzeit;весілля;;family
+Geburt;народження;;family
+Taufe;хрестини;;family
+Adoption;усиновлення;;family
+Waise;сирота;;family
+Stammbaum;родовід;;family
+Nachname;прізвище;;family
+Vorfahre;предок;;family
+Nachkomme;нащадок;;family

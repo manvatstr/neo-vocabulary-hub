@@ -1,0 +1,55 @@
+здоров'я;salud;;general
+хвороба;enfermedad;;general
+ліки;medicamento;;general
+лікар;médico;;profession
+медсестра;enfermera;;profession
+пацієнт;paciente;;general
+діагноз;diagnóstico;;medical
+симптом;síntoma;;medical
+лікування;tratamiento;;medical
+імунітет;inmunidad;;medical
+вакцина;vacuna;;medical
+інфекція;infección;;medical
+вірус;virus;;medical
+бактерія;bacteria;;medical
+антибіотик;antibiótico;;medical
+біль;dolor;;symptom
+головний біль;dolor de cabeza;;symptom
+кашель;tos;;symptom
+нежить;resfriado;;symptom
+гарячка;fiebre;;symptom
+запалення;inflamación;;medical
+алергія;alergia;;medical
+дієта;dieta;;nutrition
+харчування;nutrición;;nutrition
+вітамін;vitamina;;nutrition
+білок;proteína;;nutrition
+вуглевод;carbohidrato;;nutrition
+жир;grasa;;nutrition
+калорія;caloría;;nutrition
+гігієна;higiene;;general
+фізична активність;actividad física;;fitness
+вправа;ejercicio;;fitness
+стрес;estrés;;mental
+сон;sueño;;general
+медицина;medicina;;general
+хірургія;cirugía;;medical
+терапія;terapia;;medical
+реабілітація;rehabilitación;;medical
+профілактика;prevención;;medical
+аналіз;análisis;;medical
+кров;sangre;;medical
+серце;corazón;;anatomy
+легені;pulmones;;anatomy
+шлунок;estómago;;anatomy
+печінка;hígado;;anatomy
+нирки;riñones;;anatomy
+м'яз;músculo;;anatomy
+кістка;hueso;;anatomy
+шкіра;piel;;anatomy
+мозок;cerebro;;anatomy
+здоровий спосіб життя;estilo de vida saludable;;general
+профілактичний огляд;chequeo preventivo;;medical
+рецепт;receta;;medical
+амбулаторія;ambulatorio;;medical
+стаціонар;hospitalización;;medical

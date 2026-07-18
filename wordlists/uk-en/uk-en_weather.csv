@@ -1,0 +1,54 @@
+rain;дощ;;weather
+sun;сонце;;weather
+cloud;хмара;;weather
+wind;вітер;;weather
+snow;сніг;;weather
+storm;буря;;weather
+fog;туман;;weather
+hail;град;;weather
+thunder;грім;;weather
+lightning;блискавка;;weather
+temperature;температура;;weather
+humidity;вологість;;weather
+pressure;тиск;;weather
+forecast;прогноз;;weather
+drizzle;мряка;;weather
+shower;злива;;weather
+breeze;легкий вітерець;;weather
+gale;штормовий вітер;;weather
+hurricane;ураган;;weather
+typhoon;тайфун;;weather
+tornado;торнадо;;weather
+blizzard;хуртовина;;weather
+frost;мороз;;weather
+ice;лід;;weather
+dew;роса;;weather
+heatwave;спека;;weather
+cold;холод;;weather
+chill;прохолода;;weather
+overcast;похмуро;;weather
+clear;ясно;;weather
+sunny;сонячно;;weather
+cloudy;хмарно;;weather
+rainy;дощово;;weather
+snowy;сніжно;;weather
+windy;вітряно;;weather
+foggy;туманно;;weather
+drought;посуха;;weather
+flood;повінь;;weather
+mist;імла;;weather
+sleet;мокрий сніг;;weather
+heat;тепло;;weather
+cold snap;раптове похолодання;;weather
+monsoon;мусон;;weather
+cyclone;циклон;;weather
+anticyclone;антициклон;;weather
+barometer;барометр;;weather
+anemometer;анемометр;;weather
+thermometer;термометр;;weather
+precipitation;опади;;weather
+umbrella;парасолька;;weather
+raincoat;дощовик;;weather
+sunshine;сонячне світло;;weather
+climate;клімат;;weather
+season;пора року;;weather

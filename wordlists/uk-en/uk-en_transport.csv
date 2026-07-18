@@ -1,0 +1,60 @@
+car;автомобіль;;transport
+bus;автобус;;transport
+train;потяг;;transport
+tram;трамвай;;transport
+bicycle;велосипед;;transport
+motorcycle;мотоцикл;;transport
+scooter;скутер;;transport
+truck;вантажівка;;transport
+van;фургон;;transport
+taxi;таксі;;transport
+airplane;літак;;transport
+helicopter;гелікоптер;;transport
+ship;корабель;;transport
+boat;човен;;transport
+ferry;пором;;transport
+subway;метро;;transport
+underground;метрополітен;;transport
+railway;залізниця;;transport
+station;станція;;transport
+stop;зупинка;;transport
+ticket;квиток;;transport
+passenger;пасажир;;transport
+driver;водій;;transport
+pilot;пілот;;transport
+captain;капітан;;transport
+conductor;кондуктор;;transport
+engine;двигун;;transport
+wheel;колесо;;transport
+steering wheel;кермо;;transport
+brake;гальмо;;transport
+accelerator;акселератор;;transport
+clutch;зчеплення;;transport
+gear;передача;;transport
+fuel;паливо;;transport
+petrol;бензин;;transport
+diesel;дизель;;transport
+electric;електричний;;transport
+hybrid;гібридний;;transport
+road;дорога;;transport
+highway;швидкісна дорога;;transport
+motorway;автомагістраль;;transport
+bridge;міст;;transport
+tunnel;тунель;;transport
+traffic;рух;;transport
+traffic light;світлофор;;transport
+sign;знак;;transport
+speed;швидкість;;transport
+route;маршрут;;transport
+navigation;навігація;;transport
+parking;парковка;;transport
+garage;гараж;;transport
+license;посвідчення;;transport
+insurance;страхування;;transport
+fare;плата за проїзд;;transport
+luggage;багаж;;transport
+seatbelt;ремінь безпеки;;transport
+horn;гудок;;transport
+mirror;дзеркало;;transport
+headlight;фара;;transport
+taillight;задній ліхтар;;transport

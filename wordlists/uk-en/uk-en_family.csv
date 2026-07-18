@@ -1,0 +1,54 @@
+parent;батько;;family
+mother;мати;;family
+father;тато;;family
+son;син;;family
+daughter;донька;;family
+sibling;брат або сестра;;family
+brother;брат;;family
+sister;сестра;;family
+grandparent;дідусь або бабуся;;family
+grandfather;дідусь;;family
+grandmother;бабуся;;family
+grandson;онук;;family
+granddaughter;онучка;;family
+uncle;дядько;;family
+aunt;тітка;;family
+nephew;племінник;;family
+niece;племінниця;;family
+cousin;двоюрідний брат/сестра;;family
+husband;чоловік;;family
+wife;дружина;;family
+spouse;подружжя;;family
+child;дитина;;family
+children;діти;;family
+baby;немовля;;family
+toddler;малюк;;family
+teenager;підліток;;family
+adult;дорослий;;family
+relative;родич;;family
+family;родина;;family
+kin;рідня;;family
+ancestor;предок;;family
+descendant;нащадок;;family
+stepfather;вітчим;;family
+stepmother;мачуха;;family
+stepson;пасинок;;family
+stepdaughter;падчерка;;family
+stepsibling;зведений брат/сестра;;family
+half-brother;зведений брат;;family
+half-sister;зведена сестра;;family
+godfather;хрещений батько;;family
+godmother;хрещена мати;;family
+godson;хрещеник;;family
+goddaughter;хрещениця;;family
+in-law;свояк/своячка;;family
+father-in-law;тесть/свекор;;family
+mother-in-law;теща/свекруха;;family
+son-in-law;зять;;family
+daughter-in-law;невістка;;family
+sibling-in-law;шурин/дівер/зовиця;;family
+orphan;сирота;;family
+guardian;опікун;;family
+foster parent;прийомний батько/мати;;family
+adoptive parent;прийомний батько/мати;;family
+adopted child;прийомна дитина;;family

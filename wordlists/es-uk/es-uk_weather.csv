@@ -1,0 +1,55 @@
+сонце;sol;;weather
+дощ;lluvia;;weather
+вітер;viento;;weather
+сніг;nieve;;weather
+хмара;nube;;weather
+туман;niebla;;weather
+гроза;tormenta;;weather
+блискавка;relámpago;;weather
+грім;trueno;;weather
+град;granizo;;weather
+температура;temperatura;;weather
+холод;frío;;weather
+тепло;calor;;weather
+спека;calor intenso;;weather
+мороз;helada;;weather
+вологість;humedad;;weather
+атмосфера;atmósfera;;weather
+прогноз;pronóstico;;weather
+погода;tiempo;;weather
+клімат;clima;;weather
+циклон;ciclón;;weather
+антициклон;anticiclón;;weather
+ураган;huracán;;weather
+тайфун;tifón;;weather
+торнадо;tornado;;weather
+шторм;tormenta;;weather
+мряка;llovizna;;weather
+злива;aguacero;;weather
+заметіль;ventisca;;weather
+ожеледиця;hielo;;weather
+роса;rocío;;weather
+іній;escarcha;;weather
+паморозь;cencellada;;weather
+туманність;neblina;;weather
+хмарність;nubosidad;;weather
+ясно;despejado;;weather
+похмуро;nublado;;weather
+вологий;húmedo;;weather
+сухий;seco;;weather
+прохолодно;fresco;;weather
+теплий;templado;;weather
+холодний;frío;;weather
+жаркий;caluroso;;weather
+вітер;brisa;;weather
+шквальний вітер;viento racheado;;weather
+захід сонця;puesta de sol;;weather
+схід сонця;amanecer;;weather
+барометр;barómetro;;weather
+термометр;termómetro;;weather
+вологомір;higrómetro;;weather
+фронт;frente;;weather
+опади;precipitaciones;;weather
+засуха;sequía;;weather
+повінь;inundación;;weather
+льодяний;glacial;;weather
