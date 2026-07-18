@@ -1,60 +1,53 @@
-Computer;Комп'ютер;m;technology
-Software;Програмне забезпечення;n;technology
-Hardware;Апаратне забезпечення;n;technology
-Internet;Інтернет;m;technology
-Netzwerk;Мережа;f;technology
-Daten;Дані;pl;technology
-Server;Сервер;m;technology
-Cloud;Хмара;f;technology
-Speicher;Пам'ять;f;technology
-Prozessor;Процесор;m;technology
-Bildschirm;Екран;m;technology
-Tastatur;Клавіатура;f;technology
-Maus;Миша;f;technology
-Drucker;Принтер;m;technology
-Scanner;Сканер;m;technology
-Kabel;Кабель;m;technology
-Router;Роутер;m;technology
-Modem;Модем;m;technology
-Firewall;Брандмауер;m;technology
-Virus;Вірус;m;technology
-Antivirus;Антивірус;m;technology
-Update;Оновлення;n;technology
-Download;Завантаження;n;technology
-Upload;Вивантаження;n;technology
-Browser;Браузер;m;technology
-Website;Вебсайт;m;technology
-Link;Посилання;n;technology
-E-Mail;Електронна пошта;f;technology
-Passwort;Пароль;m;technology
-Benutzer;Користувач;m;technology
-Account;Акаунт;m;technology
-Login;Вхід;m;technology
-Logout;Вихід;m;technology
-Algorithmus;Алгоритм;m;technology
-Code;Код;m;technology
-Programm;Програма;f;technology
-App;Додаток;m;technology
-Smartphone;Смартфон;m;technology
-Tablet;Планшет;m;technology
-Laptop;Ноутбук;m;technology
-Batterie;Акумулятор;f;technology
-Ladegerät;Зарядний пристрій;m;technology
-Bluetooth;Блютуз;m;technology
-Wi-Fi;Вай-Фай;m;technology
-GPS;Джи-Пі-Ес;m;technology
-Sensor;Датчик;m;technology
-Kamera;Камера;f;technology
-Mikrofon;Мікрофон;m;technology
-Lautsprecher;Динамік;m;technology
-Touchscreen;Сенсорний екран;m;technology
-Chip;Чіп;m;technology
-Festplatte;Жорсткий диск;m;technology
-USB;ЮЕсБі;m;technology
-Monitor;Монітор;m;technology
-Grafikkarte;Відеокарта;f;technology
-RAM;Оперативна пам'ять;f;technology
-CPU;Центральний процесор;m;technology
-Motherboard;Материнська плата;f;technology
-Netzteil;Блок живлення;m;technology
-Kühlung;Охолодження;n;technology
+der Computer;комп'ютер;die Computer;technology
+die Software;програмне забезпечення;;technology
+das Internet;інтернет;;technology
+der Bildschirm;екран;die Bildschirme;technology
+die Tastatur;клавіатура;die Tastaturen;technology
+die Maus;миша;die Mäuse;technology
+der Laptop;ноутбук;die Laptops;technology
+das Smartphone;смартфон;die Smartphones;technology
+der Prozessor;процесор;die Prozessoren;technology
+die Festplatte;жорсткий диск;die Festplatten;technology
+der Speicher;пам'ять;die Speicher;technology
+das Betriebssystem;операційна система;die Betriebssysteme;technology
+die Anwendung;застосунок;die Anwendungen;technology
+der Algorithmus;алгоритм;die Algorithmen;technology
+die Datenbank;база даних;die Datenbanken;technology
+das Netzwerk;мережа;die Netzwerke;technology
+die Cloud;хмара;;technology
+der Server;сервер;die Server;technology
+die Firewall;брандмауер;die Firewalls;technology
+das WLAN;бездротова мережа;die WLANs;technology
+der Router;роутер;die Router;technology
+das Kabel;кабель;die Kabel;technology
+der USB-Stick;флешка;die USB-Sticks;technology
+die Kamera;камера;die Kameras;technology
+das Mikrofon;мікрофон;die Mikrofone;technology
+der Lautsprecher;динамік;die Lautsprecher;technology
+der Akku;акумулятор;die Akkus;technology
+das Ladegerät;зарядний пристрій;die Ladegeräte;technology
+der Drucker;принтер;die Drucker;technology
+der Scanner;сканер;die Scanner;technology
+das Tablet;планшет;die Tablets;technology
+die Virtualisierung;віртуалізація;;technology
+die KI;штучний інтелект;;technology
+der Roboter;робот;die Roboter;technology
+das Display;дисплей;die Displays;technology
+die Grafikkarte;відеокарта;die Grafikkarten;technology
+der Chip;чіп;die Chips;technology
+die Schnittstelle;інтерфейс;die Schnittstellen;technology
+das Update;оновлення;die Updates;technology
+der Bug;баг;die Bugs;technology
+die Verschlüsselung;шифрування;;technology
+das Backup;резервна копія;die Backups;technology
+der Hacker;хакер;die Hacker;technology
+die Malware;шкідливе ПЗ;;technology
+das Passwort;пароль;die Passwörter;technology
+die Benutzeroberfläche;інтерфейс користувача;die Benutzeroberflächen;technology
+der Touchscreen;сенсорний екран;die Touchscreens;technology
+die App;додаток;die Apps;technology
+das E-Mail;електронна пошта;die E-Mails;technology
+die Suchmaschine;пошукова система;die Suchmaschinen;technology
+der Browser;браузер;die Browser;technology
+das Cookie;кукі;;technology
+die Bandbreite;пропускна здатність;die Bandbreiten;technology

@@ -1,52 +1,52 @@
-Кофта;Pullover;;clothing
-Штани;Hose;ж.р.;clothing
-Сорочка;Hemd;ж.р.;clothing
-Плаття;Kleid;с.р.;clothing
-Пальто;Mantel;с.р.;clothing
-Шапка;Mütze;ж.р.;clothing
-Шарф;Schal;ч.р.;clothing
-Рукавиці;Handschuhe;ж.р. (мн.);clothing
-Черевики;Schuhe;ч.р. (мн.);clothing
-Чоботи;Stiefel;ч.р. (мн.);clothing
-Светр;Strickjacke;ч.р.;clothing
-Куртка;Jacke;ж.р.;clothing
-Спідниця;Rock;ж.р.;clothing
-Блуза;Bluse;ж.р.;clothing
-Футболка;T-Shirt;ж.р.;clothing
-Джинси;Jeans;мн.;clothing
-Шорти;Shorts;мн.;clothing
-Кепка;Basecap;ж.р.;clothing
-Пояс;Gürtel;ч.р.;clothing
-Краватка;Krawatte;ж.р.;clothing
-Бюстгальтер;BH;ч.р.;clothing
-Труси;Unterhose;мн.;clothing
-Шкарпетки;Socken;ж.р. (мн.);clothing
-Халат;Bademantel;ч.р.;clothing
-Піжама;Schlafanzug;ж.р.;clothing
-Сукня;Kleid;ж.р.;clothing
-Жакет;Jackett;ч.р.;clothing
-Жилет;Weste;ч.р.;clothing
-Шаровари;Pluderhose;мн.;clothing
-Берет;Baskenmütze;ч.р.;clothing
-Панама;Panamahut;ж.р.;clothing
-Бейсболка;Baseballcap;ж.р.;clothing
-Комбінезон;Overall;ч.р.;clothing
-Сандалі;Sandalen;мн.;clothing
-Кросівки;Turnschuhe;мн.;clothing
-Туфлі;Schuhe;мн.;clothing
-Капелюх;Hut;ч.р.;clothing
-Плащ;Regenmantel;ч.р.;clothing
-Взуття;Schuhe;с.р. (збірн.);clothing
-Білизна;Unterwäsche;ж.р.;clothing
-Колготки;Strumpfhose;мн.;clothing
-Шалик;Tuch;ч.р.;clothing
-Ремінь;Gürtel;ч.р.;clothing
-Піджак;Sakko;ч.р.;clothing
-Сорочка (жіноча);Bluse;ж.р.;clothing
-Брюки;Hose;мн.;clothing
-Светр;Pullover;ч.р.;clothing
-Фартух;Schürze;ч.р.;clothing
-Шльопанці;Pantoffeln;мн.;clothing
-Бандана;Bandana;ж.р.;clothing
-Кардиган;Cardigan;ч.р.;clothing
-В’язана шапка;Strickmütze;ж.р.;clothing
+der Rock;спідниця;die Röcke;clothing
+die Hose;штани;die Hosen;clothing
+das Hemd;сорочка;die Hemden;clothing
+der Pullover;светр;die Pullover;clothing
+die Jacke;куртка;die Jacken;clothing
+das T-Shirt;футболка;die T-Shirts;clothing
+die Bluse;блузка;die Blusen;clothing
+der Mantel;пальто;die Mäntel;clothing
+die Mütze;шапка;die Mützen;clothing
+der Schal;шарф;die Schals;clothing
+die Handschuhe;рукавиці;die Handschuhe;clothing
+die Socken;шкарпетки;die Socken;clothing
+die Schuhe;взуття;die Schuhe;clothing
+der Stiefel;чобіт;die Stiefel;clothing
+die Sandalen;сандалі;die Sandalen;clothing
+die Unterwäsche;нижня білизна;;clothing
+der BH;бюстгальтер;die BHs;clothing
+die Unterhose;труси;die Unterhosen;clothing
+das Kleid;сукня;die Kleider;clothing
+der Anzug;костюм;die Anzüge;clothing
+die Krawatte;краватка;die Krawatten;clothing
+der Gürtel;пояс;die Gürtel;clothing
+die Jeans;джинси;die Jeans;clothing
+der Hut;капелюх;die Hüte;clothing
+die Brille;окуляри;die Brillen;clothing
+die Strumpfhose;колготки;die Strumpfhosen;clothing
+der Schlafanzug;піжама;die Schlafanzüge;clothing
+die Badehose;плавки;die Badehosen;clothing
+der Bademantel;халат;die Bademäntel;clothing
+die Weste;жилет;die Westen;clothing
+der Overall;комбінезон;die Overalls;clothing
+die Socke;шкарпетка;die Socken;clothing
+der Schuh;черевик;die Schuhe;clothing
+die Strickjacke;кардиган;die Strickjacken;clothing
+die Kapuze;капюшон;die Kapuzen;clothing
+der Regenmantel;дощовик;die Regenmäntel;clothing
+die Shorts;шорти;die Shorts;clothing
+der Slip;трусики;die Slips;clothing
+die Strickmütze;в’язана шапка;die Strickmützen;clothing
+die Turnschuhe;кросівки;die Turnschuhe;clothing
+der Pyjama;піжама;die Pyjamas;clothing
+die Leggings;легінси;die Leggings;clothing
+der Rollkragenpullover;светр з горлом;die Rollkragenpullover;clothing
+die Fliege;метелик (краватка);die Fliegen;clothing
+der Overall;роба;die Overalls;clothing
+die Strickweste;в’язаний жилет;die Strickwesten;clothing
+der Trainingsanzug;спортивний костюм;die Trainingsanzüge;clothing
+die Sonnenbrille;сонцезахисні окуляри;die Sonnenbrillen;clothing
+der Bikini;бікіні;die Bikinis;clothing
+die Strickjacke;кофта;die Strickjacken;clothing
+der Poncho;пончо;;clothing
+die Strumpfhose;панчохи;die Strumpfhosen;clothing

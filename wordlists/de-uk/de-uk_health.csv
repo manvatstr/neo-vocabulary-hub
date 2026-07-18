@@ -1,56 +1,50 @@
-Gesundheit;здоров'я;;health
-Krankheit;хвороба;ж.р.;health
-Arzt;лікар;ч.р.;health
-Ärztin;лікарка;ж.р.;health
-Krankenhaus;лікарня;ж.р.;health
-Medizin;медицина;ж.р.;health
-Apotheke;аптека;ж.р.;health
-Tablette;таблетка;ж.р.;health
-Schmerz;біль;ч.р.;health
-Fieber;гарячка;ж.р.;health
-Husten;кашель;ч.р.;health
-Schnupfen;нежить;ч.р.;health
-Impfung;щеплення;с.р.;health
-Blut;кров;ж.р.;health
-Herz;серце;с.р.;health
-Lunge;легеня;ж.р.;health
-Magen;шлунок;ч.р.;health
-Darm;кишечник;ч.р.;health
-Leber;печінка;ж.р.;health
-Niere;нирка;ж.р.;health
-Gehirn;мозок;ч.р.;health
-Muskel;м'яз;ч.р.;health
-Knochen;кістка;ж.р.;health
-Haut;шкіра;ж.р.;health
-Auge;око;с.р.;health
-Ohr;вухо;с.р.;health
-Nase;ніс;ч.р.;health
-Mund;рот;ч.р.;health
-Zahn;зуб;ч.р.;health
-Schlaf;сон;ч.р.;health
-Ernährung;харчування;с.р.;health
-Diät;дієта;ж.р.;health
-Vitamin;вітамін;ч.р.;health
-Bewegung;рух;ч.р.;health
-Sport;спорт;ч.р.;health
-Stress;стрес;ч.р.;health
-Entspannung;розслаблення;с.р.;health
-Hygiene;гігієна;ж.р.;health
-Seife;мило;с.р.;health
-Wasser;вода;ж.р.;health
-Luft;повітря;с.р.;health
-Sonne;сонце;с.р.;health
-Schlafzimmer;спальня;ж.р.;health
-Bett;ліжко;с.р.;health
-Puls;пульс;ч.р.;health
-Atmung;дихання;с.р.;health
-Allergie;алергія;ж.р.;health
-Infektion;інфекція;ж.р.;health
-Virus;вірус;ч.р.;health
-Bakterie;бактерія;ж.р.;health
-Therapie;терапія;ж.р.;health
-Rezept;рецепт;ч.р.;health
-Untersuchung;обстеження;с.р.;health
-Diagnose;діагноз;ч.р.;health
-Operation;операція;ж.р.;health
-Pflege;догляд;ч.р.;health
+der Arzt;лікар;die Ärzte;health
+die Ärztin;лікарка;die Ärztinnen;health
+das Krankenhaus;лікарня;die Krankenhäuser;health
+die Apotheke;аптека;die Apotheken;health
+das Medikament;ліки;die Medikamente;health
+die Gesundheit;здоров'я;;health
+die Krankheit;хвороба;die Krankheiten;health
+der Patient;пацієнт;die Patienten;health
+die Patientin;пацієнтка;die Patientinnen;health
+die Untersuchung;обстеження;die Untersuchungen;health
+die Diagnose;діагноз;die Diagnosen;health
+die Therapie;терапія;die Therapien;health
+die Operation;операція;die Operationen;health
+der Schmerz;біль;die Schmerzen;health
+das Fieber;жар;die Fieber;health
+die Erkältung;застуда;die Erkältungen;health
+die Grippe;грип;die Grippen;health
+die Impfung;щеплення;die Impfungen;health
+die Allergie;алергія;die Allergien;health
+die Verletzung;травма;die Verletzungen;health
+die Wunde;рана;die Wunden;health
+der Verband;пов'язка;die Verbände;health
+die Tablette;таблетка;die Tabletten;health
+der Sirup;сироп;die Sirupe;health
+die Spritze;укол;die Spritzen;health
+die Salbe;мазь;die Salben;health
+die Ernährung;харчування;;health
+die Diät;дієта;die Diäten;health
+die Bewegung;рух;;health
+der Sport;спорт;;health
+die Fitness;фітнес;;health
+das Gewicht;вага;die Gewichte;health
+der Blutdruck;тиск;die Blutdrücke;health
+der Puls;пульс;die Pulse;health
+die Atmung;дихання;;health
+der Schlaf;сон;;health
+die Müdigkeit;втома;;health
+der Stress;стрес;;health
+die Entspannung;розслаблення;;health
+die Hygiene;гігієна;;health
+die Zahnbürste;зубна щітка;die Zahnbürsten;health
+die Zahnpasta;зубна паста;die Zahnpasten;health
+das Desinfektionsmittel;дезінфікуючий засіб;die Desinfektionsmittel;health
+der Mundschutz;медична маска;die Mundschutze;health
+die Vorsorge;профілактика;die Vorsorgen;health
+der Notfall;надзвичайна ситуація;die Notfälle;health
+der Krankenwagen;швидка допомога;die Krankenwagen;health
+die Rehabilitation;реабілітація;die Rehabilitationen;health
+die Physiotherapie;фізіотерапія;die Physiotherapien;health
+die Psychologie;психологія;;health

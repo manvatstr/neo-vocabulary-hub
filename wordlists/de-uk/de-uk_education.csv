@@ -1,55 +1,49 @@
-Schule;школа;ж.р.;education
-Lehrer;вчитель;ч.р.;education
-Lehrerin;вчителька;ж.р.;education
-Schüler;учень;ч.р.;education
-Schülerin;учениця;ж.р.;education
-Unterricht;урок;ч.р.;education
-Klasse;клас;ж.р.;education
-Stunde;урок;ж.р.;education
-Hausaufgabe;домашнє завдання;ж.р.;education
-Prüfung;іспит;ч.р.;education
-Test;тест;ч.р.;education
-Note;оцінка;ж.р.;education
-Buch;книга;ж.р.;education
-Heft;зошит;ч.р.;education
-Stift;ручка;ж.р.;education
-Bleistift;олівець;ч.р.;education
-Tafel;дошка;ж.р.;education
-Kreide;крейда;ж.р.;education
-Schultasche;шкільний рюкзак;ж.р.;education
-Fach;предмет;ч.р.;education
-Mathematik;математика;ж.р.;education
-Physik;фізика;ж.р.;education
-Chemie;хімія;ж.р.;education
-Biologie;біологія;ж.р.;education
-Geschichte;історія;ж.р.;education
-Geographie;географія;ж.р.;education
-Sprache;мова;ж.р.;education
-Englisch;англійська мова;ж.р.;education
-Deutsch;німецька мова;ж.р.;education
-Französisch;французька мова;ж.р.;education
-Latein;латина;ж.р.;education
-Universität;університет;ч.р.;education
-Hochschule;вищий навчальний заклад;ч.р.;education
-Studium;навчання;с.р.;education
-Student;студент;ч.р.;education
-Studentin;студентка;ж.р.;education
-Vorlesung;лекція;ж.р.;education
-Seminar;семінар;ч.р.;education
-Dozent;викладач;ч.р.;education
-Professor;професор;ч.р.;education
-Dissertation;дисертація;ж.р.;education
-Abschluss;закінчення;ч.р.;education
-Diplom;диплом;ч.р.;education
-Bachelor;бакалавр;ч.р.;education
-Master;магістр;ч.р.;education
-Promotion;аспірантура;ж.р.;education
-Bibliothek;бібліотека;ж.р.;education
-Lernen;навчання;с.р.;education
-Wissen;знання;с.р.;education
-Bildung;освіта;ж.р.;education
-Pädagogik;педагогіка;ж.р.;education
-Schuljahr;навчальний рік;ч.р.;education
-Ferien;канікули;мн.;education
-Ausbildung;професійна підготовка;ж.р.;education
-Lehrplan;навчальний план;ч.р.;education
+der Unterricht;урок;die Unterrichte;education
+die Schule;школа;die Schulen;education
+der Schüler;учень;die Schüler;education
+die Schülerin;учениця;die Schülerinnen;education
+der Lehrer;вчитель;die Lehrer;education
+die Lehrerin;вчителька;die Lehrerinnen;education
+die Klasse;клас;die Klassen;education
+das Klassenzimmer;класна кімната;die Klassenzimmer;education
+die Stunde;урок;die Stunden;education
+die Pause;перерва;die Pausen;education
+das Buch;книга;die Bücher;education
+der Bleistift;олівець;die Bleistifte;education
+der Kugelschreiber;ручка;die Kugelschreiber;education
+das Heft;зошит;die Hefte;education
+die Hausaufgabe;домашнє завдання;die Hausaufgaben;education
+die Prüfung;іспит;die Prüfungen;education
+der Test;тест;die Tests;education
+die Note;оцінка;die Noten;education
+das Zeugnis;атестат;die Zeugnisse;education
+der Stundenplan;розклад уроків;die Stundenpläne;education
+die Universität;університет;die Universitäten;education
+der Student;студент;die Studenten;education
+die Studentin;студентка;die Studentinnen;education
+der Professor;професор;die Professoren;education
+die Professorin;професорка;die Professorinnen;education
+die Vorlesung;лекція;die Vorlesungen;education
+das Seminar;семінар;die Seminare;education
+die Bibliothek;бібліотека;die Bibliotheken;education
+das Studium;навчання;die Studien;education
+der Abschluss;диплом;die Abschlüsse;education
+die Forschung;дослідження;;education
+die Wissenschaft;наука;die Wissenschaften;education
+der Hörsaal;аудиторія;die Hörsäle;education
+die Mensa;їдальня;die Mensen;education
+der Campus;кампус;die Campus;education
+die Fakultät;факультет;die Fakultäten;education
+der Studiengang;спеціальність;die Studiengänge;education
+das Praktikum;практика;die Praktika;education
+die Bildung;освіта;;education
+der Kindergarten;дитячий садок;die Kindergärten;education
+die Grundschule;початкова школа;die Grundschulen;education
+die weiterführende Schule;середня школа;die weiterführenden Schulen;education
+das Gymnasium;гімназія;die Gymnasien;education
+die Realschule;реальна школа;die Realschulen;education
+die Hauptschule;основна школа;die Hauptschulen;education
+die Berufsschule;професійно-технічне училище;die Berufsschulen;education
+der Schulabschluss;шкільний атестат;die Schulabschlüsse;education
+die Nachhilfe;репетиторство;die Nachhilfen;education
+der Schulhof;шкільне подвір'я;die Schulhöfe;education

@@ -1,52 +1,52 @@
-мати;mama;ж.р.;родина
-батько;tata;ч.р.;родина
-син;syn;ч.р.;родина
-донька;córka;ж.р.;родина
-брат;brat;ч.р.;родина
-сестра;siostra;ж.р.;родина
-дідусь;dziadek;ч.р.;родина
-бабуся;babcia;ж.р.;родина
-дядько;wujek;ч.р.;родина
-тітка;ciocia;ж.р.;родина
-племінник;bratanek/siostrzeniec;ч.р.;родина
-племінниця;bratanica/siostrzenica;ж.р.;родина
-чоловік;mąż;ч.р.;родина
-дружина;żona;ж.р.;родина
-онук;wnuk;ч.р.;родина
-онука;wnuczka;ж.р.;родина
-родич;krewny;ч.р.;родина
-родичка;krewna;ж.р.;родина
-свекруха;teściowa;ж.р.;родина
-свекор;teść;ч.р.;родина
-зять;zięć;ч.р.;родина
-невістка;synowa;ж.р.;родина
-шурин;szwagier;ч.р.;родина
-своячка;szwagierka;ж.р.;родина
-хрещений батько;ojciec chrzestny;ч.р.;родина
-хрещена мати;matka chrzestna;ж.р.;родина
-кум;kum;ч.р.;родина
-кума;kuma;ж.р.;родина
-пасинок;pasierb;ч.р.;родина
-падчерка;pasierbica;ж.р.;родина
-двоюрідний брат;kuzyn;ч.р.;родина
-двоюрідна сестра;kuzynka;ж.р.;родина
-прадід;pradziadek;ч.р.;родина
-прабаба;prababcia;ж.р.;родина
-хлопець;chłopak;ч.р.;родина
-дівчина;dziewczyna;ж.р.;родина
-наречений;narzeczony;ч.р.;родина
-наречена;narzeczona;ж.р.;родина
-дитина;dziecko;с.р.;родина
-немовля;niemowlę;с.р.;родина
-підліток;nastolatek;ч.р.;родина
-підліток;nastolatka;ж.р.;родина
-родинне дерево;drzewo genealogiczne;с.р.;родина
-сімейний;rodzinny;ч.р.;родина
-сімейна;rodzinna;ж.р.;родина
-сімейне;rodzinne;с.р.;родина
-одружений;żonaty;ч.р.;родина
-заміжня;zamężna;ж.р.;родина
-розлучений;rozwiedziony;ч.р.;родина
-розлучена;rozwiedziona;ж.р.;родина
-вдівець;wdowiec;ч.р.;родина
-вдова;wdowa;ж.р.;родина
+matka;мати;ж.р.;family
+ojciec;батько;м.р.;family
+syn;син;м.р.;family
+córka;дочка;ж.р.;family
+brat;брат;м.р.;family
+siostra;сестра;ж.р.;family
+dziadek;дідусь;м.р.;family
+babcia;бабуся;ж.р.;family
+wnuk;онук;м.р.;family
+wnuczka;онука;ж.р.;family
+mąż;чоловік;м.р.;family
+żona;дружина;ж.р.;family
+dziecko;дитина;с.р.;family
+rodzice;батьки;;family
+rodzeństwo;брати й сестри;;family
+teść;тесть;м.р.;family
+teściowa;теща;ж.р.;family
+zięć;зять;м.р.;family
+synowa;невістка;ж.р.;family
+kuzyn;двоюрідний брат;м.р.;family
+kuzynka;двоюрідна сестра;ж.р.;family
+wujek;дядько;м.р.;family
+ciocia;тітка;ж.р.;family
+bratanek;племінник;м.р.;family
+bratanica;племінниця;ж.р.;family
+siostrzeniec;племінник;м.р.;family
+siostrzenica;племінниця;ж.р.;family
+pradziadek;прадід;м.р.;family
+prababcia;прабабуся;ж.р.;family
+prawnuk;правнук;м.р.;family
+prawnuczka;правнучка;ж.р.;family
+szwagier;шурин;м.р.;family
+szwagierka;своячка;ж.р.;family
+ojczym;вітчим;м.р.;family
+macocha;мачуха;ж.р.;family
+pasierb;пасинок;м.р.;family
+pasierbica;падчерка;ж.р.;family
+krewny;родич;м.р.;family
+krewna;родичка;ж.р.;family
+rodzina;родина;ж.р.;family
+małżeństwo;подружжя;с.р.;family
+narzeczony;наречений;м.р.;family
+narzeczona;наречена;ж.р.;family
+chrzestny;хрещений батько;м.р.;family
+chrzestna;хрещена мати;ж.р.;family
+chrześniak;хрещеник;м.р.;family
+chrześniaczka;хрещениця;ж.р.;family
+opiekun;опікун;м.р.;family
+opiekunka;опікунка;ж.р.;family
+sierota;сирота;ж.р.;family
+adoptowany;усиновлений;м.р.;family
+adoptowana;усиновлена;ж.р.;family

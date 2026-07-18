@@ -1,55 +1,53 @@
-Fußball;футбол;м.р.;sports
-Basketball;баскетбол;м.р.;sports
-Tennis;теніс;м.р.;sports
-Volleyball;волейбол;м.р.;sports
-Handball;гандбол;м.р.;sports
-Schwimmen;плавання;с.р.;sports
-Laufen;біг;м.р.;sports
-Springen;стрибки;мн.;sports
-Boxen;бокс;м.р.;sports
-Ringen;боротьба;ж.р.;sports
-Gymnastik;гімнастика;ж.р.;sports
-Eishockey;хокей;м.р.;sports
-Radsport;велоспорт;м.р.;sports
-Leichtathletik;легка атлетика;ж.р.;sports
-Ski;лижі;мн.;sports
-Snowboard;сноуборд;м.р.;sports
-Tauchen;дайвінг;м.р.;sports
-Segeln;вітрильний спорт;м.р.;sports
-Reiten;кінний спорт;м.р.;sports
-Golf;гольф;м.р.;sports
-Badminton;бадмінтон;м.р.;sports
-Tischtennis;настільний теніс;м.р.;sports
-Rugby;регбі;с.р.;sports
-Baseball;бейсбол;м.р.;sports
-Cricket;крикет;м.р.;sports
-Bowling;боулінг;м.р.;sports
-Darts;дартс;м.р.;sports
-Billard;білярд;м.р.;sports
-Klettern;скелелазіння;с.р.;sports
-Surfen;серфінг;м.р.;sports
-Wandern;піший туризм;м.р.;sports
-Kampfsport;бойові мистецтва;мн.;sports
-Triathlon;тріатлон;м.р.;sports
-Marathon;марафон;м.р.;sports
-Hürdenlauf;біг з бар'єрами;м.р.;sports
-Weitsprung;стрибок у довжину;м.р.;sports
-Hochsprung;стрибок у висоту;м.р.;sports
-Kugelstoßen;штовхання ядра;с.р.;sports
-Speerwurf;метання списа;м.р.;sports
-Diskuswurf;метання диска;м.р.;sports
-Staffel;естафета;ж.р.;sports
-Tor;ворота;мн.;sports
-Ball;м'яч;м.р.;sports
-Schläger;ракетка;м.р.;sports
-Netz;сітка;ж.р.;sports
-Schiedsrichter;арбітр;м.р.;sports
-Trainer;тренер;м.р.;sports
-Mannschaft;команда;ж.р.;sports
-Stadion;стадіон;м.р.;sports
-Spielfeld;поле;с.р.;sports
-Pokal;кубок;м.р.;sports
-Medaille;медаль;ж.р.;sports
-Rekord;рекорд;м.р.;sports
-Turnier;турнір;м.р.;sports
-Training;тренування;с.р.;sports
+der Ball;м'яч;die Bälle;sports
+der Spieler;гравець;die Spieler;sports
+die Mannschaft;команда;die Mannschaften;sports
+das Spiel;гра;die Spiele;sports
+der Sieg;перемога;die Siege;sports
+die Niederlage;поразка;die Niederlagen;sports
+der Trainer;тренер;die Trainer;sports
+das Training;тренування;die Trainings;sports
+der Wettkampf;змагання;die Wettkämpfe;sports
+das Stadion;стадіон;die Stadien;sports
+die Tribüne;трибуна;die Tribünen;sports
+der Schiedsrichter;арбітр;die Schiedsrichter;sports
+die Regel;правило;die Regeln;sports
+der Torwart;воротар;die Torwarte;sports
+das Tor;ворота;die Tore;sports
+der Punkt;очко;die Punkte;sports
+die Medaille;медаль;die Medaillen;sports
+das Doping;допінг;;sports
+der Rekord;рекорд;die Rekorde;sports
+die Ausrüstung;спортивне спорядження;die Ausrüstungen;sports
+der Helm;шолом;die Helme;sports
+die Sportart;вид спорту;die Sportarten;sports
+der Lauf;біг;die Läufe;sports
+der Sprung;стрибок;die Sprünge;sports
+der Wurf;кидок;die Würfe;sports
+der Schlag;удар;die Schläge;sports
+die Verteidigung;захист;die Verteidigungen;sports
+der Angriff;напад;die Angriffe;sports
+die Strategie;стратегія;die Strategien;sports
+das Foul;фол;;sports
+die Strafe;пенальті;die Strafen;sports
+der Elfmeter;пенальті;die Elfmeter;sports
+die Halbzeit;тайм;die Halbzeiten;sports
+die Verlängerung;додатковий час;die Verlängerungen;sports
+das Unentschieden;нічия;die Unentschieden;sports
+der Pokal;кубок;die Pokale;sports
+die Liga;ліга;die Ligen;sports
+der Meister;чемпіон;die Meister;sports
+die Meisterschaft;чемпіонат;die Meisterschaften;sports
+der Fan;уболівальник;die Fans;sports
+die Flagge;прапор;die Flaggen;sports
+das Trikot;футболка;die Trikots;sports
+die Hose;шорти;die Hosen;sports
+der Schuh;черевик;die Schuhe;sports
+die Socke;шкарпетка;die Socken;sports
+das Handtuch;рушник;die Handtücher;sports
+die Trinkflasche;фляга;die Trinkflaschen;sports
+der Sportplatz;спортивний майданчик;die Sportplätze;sports
+die Sporthalle;спортивний зал;die Sporthallen;sports
+das Schwimmbad;басейн;die Schwimmbäder;sports
+die Strecke;дистанція;die Strecken;sports
+der Start;старт;die Starts;sports
+das Ziel;фініш;die Ziele;sports

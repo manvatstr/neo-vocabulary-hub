@@ -1,52 +1,54 @@
-computer;комп'ютер;м.р.;hardware
-software;програмне забезпечення;с.р.;software
-internet;інтернет;м.р.;network
-smartphone;смартфон;м.р.;hardware
-laptop;ноутбук;м.р.;hardware
-keyboard;клавіатура;ж.р.;hardware
-mouse;миша;ж.р.;hardware
-monitor;монітор;м.р.;hardware
-printer;принтер;м.р.;hardware
-scanner;сканер;м.р.;hardware
-router;роутер;м.р.;network
-server;сервер;м.р.;network
-database;база даних;ж.р.;software
-algorithm;алгоритм;м.р.;software
-program;програма;ж.р.;software
-application;додаток;м.р.;software
-code;код;м.р.;software
-developer;розробник;м.р.;profession
-engineer;інженер;м.р.;profession
-network;мережа;ж.р.;network
-cloud;хмара;ж.р.;network
-data;дані;мн.;data
-security;безпека;ж.р.;security
-encryption;шифрування;с.р.;security
-firewall;брандмауер;м.р.;security
-virus;вірус;м.р.;security
-hacker;хакер;м.р.;security
-password;пароль;м.р.;security
-login;вхід;м.р.;software
-browser;браузер;м.р.;software
-website;вебсайт;м.р.;network
-email;електронна пошта;ж.р.;network
-download;завантаження;с.р.;network
-upload;вивантаження;с.р.;network
-streaming;потокове мовлення;с.р.;network
-wireless;бездротовий;м.р.;network
-bluetooth;блютуз;м.р.;network
-battery;батарея;ж.р.;hardware
-charger;зарядний пристрій;м.р.;hardware
-screen;екран;м.р.;hardware
-camera;камера;ж.р.;hardware
-microphone;мікрофон;м.р.;hardware
-speaker;динамік;м.р.;hardware
-processor;процесор;м.р.;hardware
-memory;пам'ять;ж.р.;hardware
-storage;сховище;с.р.;hardware
-hardware;апаратне забезпечення;с.р.;hardware
-update;оновлення;с.р.;software
-installation;встановлення;с.р.;software
-interface;інтерфейс;м.р.;software
-user;користувач;м.р.;software
-system;система;ж.р.;software
+computer;комп’ютер;ч.р.;technology
+software;програмне забезпечення;с.р.;technology
+hardware;апаратне забезпечення;с.р.;technology
+internet;інтернет;ч.р.;technology
+network;мережа;ж.р.;technology
+server;сервер;ч.р.;technology
+database;база даних;ж.р.;technology
+algorithm;алгоритм;ч.р.;technology
+program;програма;ж.р.;technology
+code;код;ч.р.;technology
+keyboard;клавіатура;ж.р.;technology
+mouse;миша;ж.р.;technology
+monitor;монітор;ч.р.;technology
+screen;екран;ч.р.;technology
+printer;принтер;ч.р.;technology
+scanner;сканер;ч.р.;technology
+laptop;ноутбук;ч.р.;technology
+tablet;планшет;ч.р.;technology
+smartphone;смартфон;ч.р.;technology
+battery;батарея;ж.р.;technology
+charger;зарядний пристрій;ч.р.;technology
+cable;кабель;ч.р.;technology
+router;роутер;ч.р.;technology
+modem;модем;ч.р.;technology
+firewall;брандмауер;ч.р.;technology
+virus;вірус;ч.р.;technology
+malware;шкідливе програмне забезпечення;с.р.;technology
+update;оновлення;с.р.;technology
+download;завантаження;с.р.;technology
+upload;вивантаження;с.р.;technology
+cloud;хмара;ж.р.;technology
+storage;сховище;с.р.;technology
+memory;пам’ять;ж.р.;technology
+processor;процесор;ч.р.;technology
+graphics;графіка;ж.р.;technology
+display;дисплей;ч.р.;technology
+resolution;роздільна здатність;ж.р.;technology
+pixel;піксель;ч.р.;technology
+sensor;сенсор;ч.р.;technology
+camera;камера;ж.р.;technology
+microphone;мікрофон;ч.р.;technology
+speaker;динамік;ч.р.;technology
+headphones;навушники;ч.р. (мн.);technology
+bluetooth;блютуз;ч.р.;technology
+Wi-Fi;вай-фай;ч.р.;technology
+password;пароль;ч.р.;technology
+encryption;шифрування;с.р.;technology
+hacker;хакер;ч.р.;technology
+cybersecurity;кібербезпека;ж.р.;technology
+artificial intelligence;штучний інтелект;ч.р.;technology
+machine learning;машинне навчання;с.р.;technology
+blockchain;блокчейн;ч.р.;technology
+virtual reality;віртуальна реальність;ж.р.;technology
+augmented reality;доповнена реальність;ж.р.;technology

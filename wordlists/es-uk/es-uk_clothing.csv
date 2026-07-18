@@ -1,54 +1,52 @@
-camisa;сорочка;ж.р.;clothing
-pantalones;штани;мн.;clothing
-vestido;сукня;ж.р.;clothing
-zapatos;взуття;с.р.;clothing
-chaqueta;куртка;ж.р.;clothing
-falda;спідниця;ж.р.;clothing
-calcetines;шкарпетки;мн.;clothing
-sombrero;капелюх;ч.р.;clothing
-bufanda;шарф;ч.р.;clothing
-guantes;рукавички;мн.;clothing
-cinturón;пояс;ч.р.;clothing
-blusa;блузка;ж.р.;clothing
-abrigo;пальто;с.р.;clothing
-traje;костюм;ч.р.;clothing
-zapato;черевик;ч.р.;clothing
-bota;чобіт;ч.р.;clothing
-sandalias;сандалі;мн.;clothing
-chanclas;шльопанці;мн.;clothing
-ropa interior;білизна;ж.р.;clothing
-suéter;светр;ч.р.;clothing
-pijama;піжама;ж.р.;clothing
-bragas;трусики;мн.;clothing
-calzoncillos;труси;мн.;clothing
-medias;панчохи;мн.;clothing
-leggings;легінси;мн.;clothing
-gorra;кепка;ж.р.;clothing
-corbata;краватка;ж.р.;clothing
-chaleco;жилет;ч.р.;clothing
-pantalones cortos;шорти;мн.;clothing
-vaqueros;джинси;мн.;clothing
-camiseta;футболка;ж.р.;clothing
-sudadera;толстовка;ж.р.;clothing
-impermeable;дощовик;ч.р.;clothing
-paraguas;парасолька;ж.р.;clothing
-bolso;сумка;ж.р.;clothing
-mochila;рюкзак;ч.р.;clothing
-pañuelo;хустка;ж.р.;clothing
-bikini;бікіні;с.р.;clothing
-bañador;купальник;ч.р.;clothing
-tanga;танга;ж.р.;clothing
-top;топ;ч.р.;clothing
-minifalda;мініспідниця;ж.р.;clothing
-vestido de noche;вечірня сукня;ж.р.;clothing
-traje de baño;купальний костюм;ч.р.;clothing
-delantal;фартух;ч.р.;clothing
-pantalones de vestir;брюки;мн.;clothing
-camisa de manga larga;сорочка з довгим рукавом;ж.р.;clothing
-camisa de manga corta;сорочка з коротким рукавом;ж.р.;clothing
-chaleco salvavidas;рятувальний жилет;ч.р.;clothing
-gorro;шапка;ж.р.;clothing
-mitones;рукавиці;мн.;clothing
-pashmina;пашміна;ж.р.;clothing
-fular;фуляр;ч.р.;clothing
-pantalones de chándal;спортивні штани;мн.;clothing
+camisa;сорочка;camisas;clothing
+pantalón;штани;pantalones;clothing
+vestido;сукня;vestidos;clothing
+falda;спідниця;faldas;clothing
+zapato;черевик;zapatos;clothing
+chaqueta;куртка;chaquetas;clothing
+abrigo;пальто;abrigos;clothing
+suéter;светр;suéteres;clothing
+bufanda;шарф;bufandas;clothing
+guante;рукавичка;guantes;clothing
+sombrero;капелюх;sombreros;clothing
+gorra;кепка;gorras;clothing
+calcetín;шкарпетка;calcetines;clothing
+medias;панчохи;medias;clothing
+bota;чобіт;botas;clothing
+zapatilla;кросівок;zapatillas;clothing
+blusa;блузка;blusas;clothing
+camiseta;футболка;camisetas;clothing
+traje;костюм;trajes;clothing
+cinturón;ремінь;cinturones;clothing
+pijama;піжама;pijamas;clothing
+bragas;трусики;bragas;clothing
+calzoncillos;труси;calzoncillos;clothing
+chaleco;жилет;chalecos;clothing
+corbata;краватка;corbatas;clothing
+pantalón corto;шорти;pantalones cortos;clothing
+sandalia;сандалія;sandalias;clothing
+bikini;бікіні;bikinis;clothing
+bañador;купальник;bañadores;clothing
+delantal;фартух;delantales;clothing
+pantalón vaquero;джинси;pantalones vaqueros;clothing
+sudadera;толстовка;sudaderas;clothing
+impermeable;дощовик;impermeables;clothing
+chal;шаль;chales;clothing
+pañuelo;хустка;pañuelos;clothing
+mitón;рукавиця;mitones;clothing
+pantalón de chándal;спортивні штани;pantalones de chándal;clothing
+leggings;легінси;leggings;clothing
+top;топ;tops;clothing
+tanga;танга;tangas;clothing
+braguita;трусики;braguitas;clothing
+calcetín largo;шкарпетки до колін;calcetines largos;clothing
+zueco;дерев'яний черевик;zuecos;clothing
+mono;комбінезон;monos;clothing
+túnica;туніка;túnicas;clothing
+polo;поло;polos;clothing
+camisa de dormir;нічна сорочка;camisas de dormir;clothing
+bata;халат;batas;clothing
+gorro;шапка;gorros;clothing
+pashmina;пашміна;pashminas;clothing
+fular;фуляр;fulares;clothing
+polera;светр;poleras;clothing

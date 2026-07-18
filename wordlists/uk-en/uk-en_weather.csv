@@ -1,52 +1,53 @@
-rain;дощ;ч.р.;weather
-snow;сніг;ч.р.;weather
-wind;вітер;ч.р.;weather
+rain;дощ;м.р.;weather
+snow;сніг;м.р.;weather
+wind;вітер;м.р.;weather
 sun;сонце;с.р.;weather
 cloud;хмара;ж.р.;weather
 storm;буря;ж.р.;weather
-fog;туман;ч.р.;weather
-hail;град;ч.р.;weather
-thunder;грім;ч.р.;weather
+thunder;грім;м.р.;weather
 lightning;блискавка;ж.р.;weather
+fog;туман;м.р.;weather
+hail;град;м.р.;weather
 temperature;температура;ж.р.;weather
 humidity;вологість;ж.р.;weather
-pressure;тиск;ч.р.;weather
-forecast;прогноз;ч.р.;weather
+pressure;тиск;м.р.;weather
+forecast;прогноз;м.р.;weather
 drizzle;мряка;ж.р.;weather
-shower;злива;ж.р.;weather
-breeze;легкий вітер;ч.р.;weather
-gale;штормовий вітер;ч.р.;weather
-hurricane;ураган;ч.р.;weather
-typhoon;тайфун;ч.р.;weather
+breeze;легкий вітер;м.р.;weather
+gale;штормовий вітер;м.р.;weather
+hurricane;ураган;м.р.;weather
 tornado;торнадо;с.р.;weather
 blizzard;хуртовина;ж.р.;weather
-frost;мороз;ч.р.;weather
-ice;лід;ч.р.;weather
+frost;мороз;м.р.;weather
+ice;лід;м.р.;weather
+dew;роса;ж.р.;weather
+mist;імла;ж.р.;weather
 heatwave;спека;ж.р.;weather
+cold;холод;м.р.;weather
+chill;прохолода;ж.р.;weather
+shower;злива;ж.р.;weather
+downpour;злива;ж.р.;weather
 drought;посуха;ж.р.;weather
 flood;повінь;ж.р.;weather
-mist;імла;ж.р.;weather
-dew;роса;ж.р.;weather
+sky;небо;с.р.;weather
 sunshine;сонячне світло;с.р.;weather
-overcast;похмурий;ч.р.;weather
-clear;ясно;;weather
-partly cloudy;мінлива хмарність;;weather
-sleet;мокрий сніг;ч.р.;weather
-monsoon;мусон;ч.р.;weather
-cyclone;циклон;ч.р.;weather
-anticyclone;антициклон;ч.р.;weather
-barometer;барометр;ч.р.;weather
-thermometer;термометр;ч.р.;weather
-anemometer;анемометр;ч.р.;weather
+overcast;похмура погода;ж.р.;weather
+clear;ясно;с.р.;weather
+partly cloudy;мінлива хмарність;ж.р.;weather
+rainbow;веселка;ж.р.;weather
+sleet;мокрий сніг;м.р.;weather
+avalanche;лавина;ж.р.;weather
+monsoon;мусон;м.р.;weather
+typhoon;тайфун;м.р.;weather
+cyclone;циклон;м.р.;weather
+anticyclone;антициклон;м.р.;weather
+barometer;барометр;м.р.;weather
+thermometer;термометр;м.р.;weather
+anemometer;анемометр;м.р.;weather
 precipitation;опади;мн.;weather
-climate;клімат;ч.р.;weather
+climate;клімат;м.р.;weather
 season;пора року;ж.р.;weather
 spring;весна;ж.р.;weather
 summer;літо;с.р.;weather
 autumn;осінь;ж.р.;weather
 winter;зима;ж.р.;weather
-heat;спека;ж.р.;weather
-cold;холод;ч.р.;weather
-umbrella;парасолька;ж.р.;weather
-raincoat;дощовик;ч.р.;weather
-boots;чоботи;мн.;weather

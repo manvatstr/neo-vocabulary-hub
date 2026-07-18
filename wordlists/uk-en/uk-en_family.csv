@@ -1,51 +1,53 @@
-mother;мама;ж.р.;family
-father;тато;ч.р.;family
-parent;батько;ч.р.;family
-son;син;ч.р.;family
+parent;батько;м.р.;family
+mother;мати;ж.р.;family
+father;тато;м.р.;family
+son;син;м.р.;family
 daughter;донька;ж.р.;family
 child;дитина;ж.р.;family
+children;діти;;family
 sibling;брат або сестра;;family
-brother;брат;ч.р.;family
+brother;брат;м.р.;family
 sister;сестра;ж.р.;family
-grandmother;бабуся;ж.р.;family
-grandfather;дідусь;ч.р.;family
 grandparent;дідусь або бабуся;;family
-grandson;онук;ч.р.;family
+grandfather;дідусь;м.р.;family
+grandmother;бабуся;ж.р.;family
+grandson;онук;м.р.;family
 granddaughter;онучка;ж.р.;family
-uncle;дядько;ч.р.;family
+uncle;дядько;м.р.;family
 aunt;тітка;ж.р.;family
-cousin;двоюрідний брат/сестра;;family
-nephew;племінник;ч.р.;family
+cousin;двоюрідний брат або сестра;;family
+nephew;племінник;м.р.;family
 niece;племінниця;ж.р.;family
-husband;чоловік;ч.р.;family
+husband;чоловік;м.р.;family
 wife;дружина;ж.р.;family
 spouse;подружжя;с.р.;family
-partner;партнер;ч.р.;family
-relative;родич;ч.р.;family
+partner;партнер;м.р.;family
+relative;родич;м.р.;family
 family;родина;ж.р.;family
-stepfather;вітчим;ч.р.;family
+stepfather;вітчим;м.р.;family
 stepmother;мачуха;ж.р.;family
-stepson;пасинок;ч.р.;family
+stepson;пасинок;м.р.;family
 stepdaughter;падчерка;ж.р.;family
-stepsibling;зведений брат/сестра;;family
-half-brother;зведений брат;ч.р.;family
+stepsibling;зведений брат або сестра;;family
+half-brother;зведений брат;м.р.;family
 half-sister;зведена сестра;ж.р.;family
-godfather;хрещений батько;ч.р.;family
+godfather;хрещений батько;м.р.;family
 godmother;хрещена мати;ж.р.;family
-godson;хрещеник;ч.р.;family
-goddaughter;хресниця;ж.р.;family
-father-in-law;тесть/свекор;ч.р.;family
-mother-in-law;теща/свекруха;ж.р.;family
-son-in-law;зять;ч.р.;family
+godson;хрещеник;м.р.;family
+goddaughter;хрещениця;ж.р.;family
+father-in-law;тесть або свекор;м.р.;family
+mother-in-law;теща або свекруха;ж.р.;family
+son-in-law;зять;м.р.;family
 daughter-in-law;невістка;ж.р.;family
-brother-in-law;шурин/дівер;ч.р.;family
-sister-in-law;зовиця/невістка;ж.р.;family
-twin;близнюк;ч.р.;family
-adoptive parent;прийомний батько/мати;;family
+brother-in-law;шурин або дівер;м.р.;family
+sister-in-law;зовиця або невістка;ж.р.;family
+twin;близнюк;м.р.;family
+adoptive parent;прийомний батько або мати;;family
 adopted child;прийомна дитина;ж.р.;family
-foster parent;опікун;ч.р.;family
-guardian;опікун;ч.р.;family
-ancestor;предок;ч.р.;family
-descendant;нащадок;ч.р.;family
-generation;покоління;с.р.;family
-household;домогосподарство;с.р.;family
+foster parent;опікун;м.р.;family
+guardian;опікун;м.р.;family
+ancestor;предок;м.р.;family
+descendant;нащадок;м.р.;family
+orphan;сирота;м.р./ж.р.;family
+widow;вдова;ж.р.;family
+widower;вдівець;м.р.;family

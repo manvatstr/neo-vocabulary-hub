@@ -1,55 +1,51 @@
-Firma;фірма;ж.р.;business
-Geschäft;бізнес;с.р.;business
-Unternehmen;підприємство;с.р.;business
-Markt;ринок;ч.р.;business
-Kunde;клієнт;ч.р.;business
-Kundin;клієнтка;ж.р.;business
-Vertrag;договір;ч.р.;business
-Preis;ціна;ж.р.;business
-Rabatt;знижка;ж.р.;business
-Gewinn;прибуток;ч.р.;business
-Verlust;збиток;ч.р.;business
-Investition;інвестиція;ж.р.;business
-Aktie;акція;ж.р.;business
-Börse;біржа;ж.р.;business
-Konkurrenz;конкуренція;ж.р.;business
-Werbung;реклама;ж.р.;business
-Marke;бренд;ч.р.;business
-Produkt;продукт;ч.р.;business
-Dienstleistung;послуга;ж.р.;business
-Rechnung;рахунок;ч.р.;business
-Steuer;податок;ч.р.;business
-Gehalt;зарплата;ж.р.;business
-Mitarbeiter;співробітник;ч.р.;business
-Mitarbeiterin;співробітниця;ж.р.;business
-Chef;керівник;ч.р.;business
-Chefin;керівниця;ж.р.;business
-Meeting;зустріч;с.р.;business
-Präsentation;презентація;ж.р.;business
-Projekt;проєкт;ч.р.;business
-Ziel;мета;ж.р.;business
-Strategie;стратегія;ж.р.;business
-Budget;бюджет;ч.р.;business
-Kosten;витрати;мн.;business
-Umsatz;оборот;ч.р.;business
-Lieferant;постачальник;ч.р.;business
-Partner;партнер;ч.р.;business
-Kredit;кредит;ч.р.;business
-Zahlung;оплата;ж.р.;business
-Recht;право;с.р.;business
-Versicherung;страхування;с.р.;business
-Export;експорт;ч.р.;business
-Import;імпорт;ч.р.;business
-Logistik;логістика;ж.р.;business
-Lager;склад;ч.р.;business
-Lieferung;поставка;ж.р.;business
-Qualität;якість;ж.р.;business
-Innovation;інновація;ж.р.;business
-Risiko;ризик;ч.р.;business
-Analyse;аналіз;ч.р.;business
-Bericht;звіт;ч.р.;business
-Netzwerk;мережа;ж.р.;business
-Konferenz;конференція;ж.р.;business
-Verhandlung;переговори;мн.;business
-Verkauf;продаж;ч.р.;business
-Einkauf;закупівля;ж.р.;business
+der Geschäftsführer;керівник підприємства;die Geschäftsführer;business
+die Firma;фірма;die Firmen;business
+das Unternehmen;підприємство;die Unternehmen;business
+der Vertrag;договір;die Verträge;business
+die Rechnung;рахунок;die Rechnungen;business
+der Kunde;клієнт;die Kunden;business
+die Kundin;клієнтка;die Kundinnen;business
+das Produkt;продукт;die Produkte;business
+der Markt;ринок;die Märkte;business
+die Konkurrenz;конкуренція;die Konkurrenzen;business
+der Preis;ціна;die Preise;business
+der Gewinn;прибуток;die Gewinne;business
+der Verlust;збиток;die Verluste;business
+die Investition;інвестиція;die Investitionen;business
+das Kapital;капітал;die Kapitalien;business
+die Aktie;акція;die Aktien;business
+die Börse;біржа;die Börsen;business
+der Handel;торгівля;die Händel;business
+der Export;експорт;;business
+der Import;імпорт;;business
+die Lieferung;поставка;die Lieferungen;business
+der Lieferant;постачальник;die Lieferanten;business
+die Ware;товар;die Waren;business
+die Qualität;якість;die Qualitäten;business
+der Service;сервіс;die Services;business
+die Dienstleistung;послуга;die Dienstleistungen;business
+das Büro;офіс;die Büros;business
+der Mitarbeiter;співробітник;die Mitarbeiter;business
+die Mitarbeiterin;співробітниця;die Mitarbeiterinnen;business
+das Gehalt;зарплата;die Gehälter;business
+die Steuer;податок;die Steuern;business
+der Kredit;кредит;die Kredite;business
+die Bank;банк;die Banken;business
+das Konto;рахунок;die Konten;business
+die Überweisung;переказ;die Überweisungen;business
+die Zahlung;оплата;die Zahlungen;business
+die Mahnung;нагадування;die Mahnungen;business
+der Rabatt;знижка;die Rabatte;business
+die Werbung;реклама;die Werbungen;business
+das Marketing;маркетинг;;business
+der Verkauf;продаж;die Verkäufe;business
+der Einkauf;закупівля;die Einkäufe;business
+die Strategie;стратегія;die Strategien;business
+die Analyse;аналіз;die Analysen;business
+der Bericht;звіт;die Berichte;business
+die Besprechung;нарада;die Besprechungen;business
+die Präsentation;презентація;die Präsentationen;business
+der Termin;зустріч;die Termine;business
+die Deadline;дедлайн;die Deadlines;business
+die Effizienz;ефективність;;business
+die Innovation;інновація;die Innovationen;business

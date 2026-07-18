@@ -1,55 +1,51 @@
-мама;madre;ж.р.;family
-тато;padre;ч.р.;family
-син;hijo;ч.р.;family
-дочка;hija;ж.р.;family
-брат;hermano;ч.р.;family
-сестра;hermana;ж.р.;family
-дідусь;abuelo;ч.р.;family
-бабуся;abuela;ж.р.;family
-онук;nieto;ч.р.;family
-онучка;nieta;ж.р.;family
-дядько;tío;ч.р.;family
-тітка;tía;ж.р.;family
-племінник;sobrino;ч.р.;family
-племінниця;sobrina;ж.р.;family
-двоюрідний брат;primo;ч.р.;family
-двоюрідна сестра;prima;ж.р.;family
-чоловік;esposo;ч.р.;family
-дружина;esposa;ж.р.;family
-тесть;suegro;ч.р.;family
-теща;suegra;ж.р.;family
-зять;yerno;ч.р.;family
-невістка;nuera;ж.р.;family
-свекруха;suegra;ж.р.;family
-свекор;suegro;ч.р.;family
-шурин;cuñado;ч.р.;family
-своячка;cuñada;ж.р.;family
-батьки;padres;;family
-родина;familia;ж.р.;family
-дитина;niño;ж.р.;family
-немовля;bebé;с.р.;family
-хлопчик;chico;ч.р.;family
-дівчинка;chica;ж.р.;family
-подружжя;matrimonio;с.р.;family
-наречений;novio;ч.р.;family
-наречена;novia;ж.р.;family
-хрещений батько;padrino;ч.р.;family
-хрещена мати;madrina;ж.р.;family
-хрещеник;ahijado;ч.р.;family
-хрещениця;ahijada;ж.р.;family
-пасинок;hijastro;ч.р.;family
-падчерка;hijastra;ж.р.;family
-вітчим;padrastro;ч.р.;family
-мачуха;madrastra;ж.р.;family
-рідня;parientes;;family
-предки;antepasados;;family
-нащадки;descendientes;;family
-близнюк;gemelo;ч.р.;family
-близнючка;gemela;ж.р.;family
-сирота;huérfano;ч.р.;family
-опікун;tutor;ч.р.;family
-опікунка;tutora;ж.р.;family
-спадкоємець;heredero;ч.р.;family
-спадкоємиця;heredera;ж.р.;family
-побратим;hermano de sangre;ч.р.;family
-посестра;hermana de sangre;ж.р.;family
+padre;батько;padres;family
+madre;мати;madres;family
+hijo;син;hijos;family
+hija;донька;hijas;family
+hermano;брат;hermanos;family
+hermana;сестра;hermanas;family
+abuelo;дідусь;abuelos;family
+abuela;бабуся;abuelas;family
+nieto;онук;nietos;family
+nieta;онука;nietas;family
+tío;дядько;tíos;family
+tía;тітка;tías;family
+primo;двоюрідний брат;primos;family
+prima;двоюрідна сестра;primas;family
+sobrino;племінник;sobrinos;family
+sobrina;племінниця;sobrinas;family
+esposo;чоловік;esposos;family
+esposa;дружина;esposas;family
+marido;чоловік;maridos;family
+mujer;дружина;mujeres;family
+padrastro;вітчим;padrastros;family
+madrastra;мачуха;madrastras;family
+hijastro;пасинок;hijastros;family
+hijastra;падчерка;hijastras;family
+hermanastro;зведений брат;hermanastros;family
+hermanastra;зведена сестра;hermanastras;family
+suegro;тесть;свекор;suegros;family
+suegra;теща;свекруха;suegras;family
+yerno;зять;yernos;family
+nuera;невістка;nueras;family
+cuñado;шурин;дівер;cuñados;family
+cuñada;зовиця;своячка;cuñadas;family
+bisabuelo;прадід;bisabuelos;family
+bisabuela;прабабуся;bisabuelas;family
+bisnieto;правнук;bisnietos;family
+bisnieta;правнучка;bisnietas;family
+tatarabuelo;прапрадід;tatarabuelos;family
+tatarabuela;прапрабабуся;tatarabuelas;family
+familia;родина;familias;family
+pariente;родич;parientes;family
+parienta;родичка;parientas;family
+gemelo;близнюк;gemelos;family
+gemela;близнючка;gemelas;family
+bebé;немовля;bebés;family
+niño;хлопчик;niños;family
+niña;дівчинка;niñas;family
+adolescente;підліток;adolescentes;family
+adulta;доросла;adultas;family
+adulto;дорослий;adultos;family
+anciano;старий;ancianos;family
+anciana;старенька;ancianas;family

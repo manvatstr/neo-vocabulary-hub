@@ -1,0 +1,54 @@
+school;школа;ж.р.;education
+teacher;вчитель;ч.р.;education
+student;учень;ч.р.;education
+lesson;урок;ч.р.;education
+homework;домашнє завдання;с.р.;education
+exam;іспит;ч.р.;education
+test;тест;ч.р.;education
+grade;оцінка;ж.р.;education
+classroom;класна кімната;ж.р.;education
+book;книга;ж.р.;education
+notebook;зошит;ч.р.;education
+pen;ручка;ж.р.;education
+pencil;олівець;ч.р.;education
+desk;парта;ж.р.;education
+blackboard;дошка;ж.р.;education
+chalk;крейда;ж.р.;education
+subject;предмет;ч.р.;education
+mathematics;математика;ж.р.;education
+science;наука;ж.р.;education
+history;історія;ж.р.;education
+geography;географія;ж.р.;education
+language;мова;ж.р.;education
+literature;література;ж.р.;education
+art;мистецтво;с.р.;education
+music;музика;ж.р.;education
+physical education;фізкультура;ж.р.;education
+university;університет;ч.р.;education
+college;коледж;ч.р.;education
+lecture;лекція;ж.р.;education
+professor;професор;ч.р.;education
+semester;семестр;ч.р.;education
+course;курс;ч.р.;education
+degree;ступінь;ч.р.;education
+diploma;диплом;ч.р.;education
+scholarship;стипендія;ж.р.;education
+library;бібліотека;ж.р.;education
+research;дослідження;с.р.;education
+essay;есе;с.р.;education
+presentation;презентація;ж.р.;education
+project;проєкт;ч.р.;education
+group;група;ж.р.;education
+class;клас;ч.р.;education
+schedule;розклад;ч.р.;education
+break;перерва;ж.р.;education
+attendance;відвідуваність;ж.р.;education
+knowledge;знання;с.р.;education
+skill;навичка;ж.р.;education
+learning;навчання;с.р.;education
+education;освіта;ж.р.;education
+curriculum;навчальний план;ч.р.;education
+assignment;завдання;с.р.;education
+exercise;вправа;ж.р.;education
+tutor;репетитор;ч.р.;education
+graduation;випуск;ч.р.;education

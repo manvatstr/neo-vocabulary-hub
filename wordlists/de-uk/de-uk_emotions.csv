@@ -1,53 +1,52 @@
-Freude;радість;ж.р.;emotion
-Trauer;смуток;м.р.;emotion
-Wut;гнів;м.р.;emotion
-Angst;страх;м.р.;emotion
-Liebe;любов;ж.р.;emotion
-Hass;ненависть;ж.р.;emotion
-Glück;щастя;с.р.;emotion
-Unglück;нещастя;с.р.;emotion
-Stolz;гордість;ж.р.;emotion
-Scham;сором;м.р.;emotion
-Eifersucht;ревнощі;ж.р.;emotion
-Neid;заздрість;ж.р.;emotion
-Hoffnung;надія;ж.р.;emotion
-Verzweiflung;відчай;м.р.;emotion
-Einsamkeit;самотність;ж.р.;emotion
-Zufriedenheit;задоволення;с.р.;emotion
-Unzufriedenheit;незадоволення;с.р.;emotion
-Überraschung;здивування;с.р.;emotion
-Enttäuschung;розчарування;с.р.;emotion
-Erleichterung;полегшення;с.р.;emotion
-Schuld;провина;ж.р.;emotion
-Reue;каяття;с.р.;emotion
-Mitleid;співчуття;с.р.;emotion
-Mitgefühl;співпереживання;с.р.;emotion
-Verachtung;презирство;с.р.;emotion
-Bewunderung;захоплення;с.р.;emotion
-Vertrauen;довіра;ж.р.;emotion
-Misstrauen;недовіра;ж.р.;emotion
-Gelassenheit;спокій;м.р.;emotion
-Unruhe;неспокій;м.р.;emotion
-Sehnsucht;туга;ж.р.;emotion
-Langeweile;нудьга;ж.р.;emotion
-Euphorie;ейфорія;ж.р.;emotion
-Melancholie;меланхолія;ж.р.;emotion
-Panik;паніка;ж.р.;emotion
-Erschöpfung;виснаження;с.р.;emotion
-Erregung;збудження;с.р.;emotion
-Gelächter;сміх;м.р.;emotion
-Weinen;плач;м.р.;emotion
-Verwirrung;розгубленість;ж.р.;emotion
-Erstaunen;здивування;с.р.;emotion
-Zorn;лють;ж.р.;emotion
-Ekel;огида;ж.р.;emotion
-Schreck;переляк;м.р.;emotion
-Geduld;терпіння;с.р.;emotion
-Ungeduld;нетерпіння;с.р.;emotion
-Verlegenheit;зніяковілість;ж.р.;emotion
-Befriedigung;задоволеність;ж.р.;emotion
-Leidenschaft;пристрасть;ж.р.;emotion
-Gleichgültigkeit;байдужість;ж.р.;emotion
-Begeisterung;захват;м.р.;emotion
-Furcht;боязнь;ж.р.;emotion
-Sorge;турбота;ж.р.;emotion
+der Ärger;гнів;die Ärgernisse;emotions
+die Angst;страх;die Ängste;emotions
+die Freude;радість;die Freuden;emotions
+die Trauer;сум;die Trauern;emotions
+die Wut;лють;;emotions
+die Liebe;любов;;emotions
+der Hass;ненависть;;emotions
+die Hoffnung;надія;die Hoffnungen;emotions
+die Verzweiflung;відчай;;emotions
+die Einsamkeit;самотність;;emotions
+die Eifersucht;ревнощі;;emotions
+die Scham;сором;die Schamgefühle;emotions
+die Schuld;провина;die Schulden;emotions
+die Zufriedenheit;задоволення;;emotions
+die Enttäuschung;розчарування;die Enttäuschungen;emotions
+die Überraschung;здивування;die Überraschungen;emotions
+die Langeweile;нудьга;;emotions
+die Begeisterung;захоплення;;emotions
+die Neugier;цікавість;;emotions
+die Erleichterung;полегшення;;emotions
+die Sehnsucht;туга;die Sehnsüchte;emotions
+die Melancholie;меланхолія;;emotions
+die Verachtung;презирство;;emotions
+die Dankbarkeit;вдячність;;emotions
+die Nervosität;нервовість;;emotions
+die Gelassenheit;спокій;;emotions
+die Euphorie;ейфорія;;emotions
+die Panik;паніка;die Paniken;emotions
+die Reue;каяття;;emotions
+die Sympathie;симпатія;die Sympathien;emotions
+die Antipathie;антипатія;die Antipathien;emotions
+die Gleichgültigkeit;байдужість;;emotions
+die Bewunderung;захоплення;;emotions
+die Verlegenheit;зніяковілість;die Verlegenheiten;emotions
+die Erschöpfung;виснаження;;emotions
+die Vorfreude;передчуття радості;;emotions
+die Entsetzen;жах;;emotions
+die Zufriedenheit;задоволеність;;emotions
+die Unsicherheit;невпевненість;die Unsicherheiten;emotions
+die Begeisterung;ентузіазм;;emotions
+die Traurigkeit;сум;;emotions
+die Glückseligkeit;блаженство;;emotions
+die Unruhe;неспокій;die Unruhen;emotions
+die Verärgerung;роздратування;die Verärgerungen;emotions
+die Rührung;зворушення;;emotions
+die Empörung;обурення;die Empörungen;emotions
+die Furcht;боязнь;die Befürchtungen;emotions
+die Zuneigung;прихильність;die Zuneigungen;emotions
+die Abneigung;неприязнь;die Abneigungen;emotions
+die Erregung;збудження;die Erregungen;emotions
+die Resignation;резигнація;;emotions
+die Begeisterung;пал;;emotions
