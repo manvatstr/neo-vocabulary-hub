@@ -1,58 +1,56 @@
-shirt;сорочка;;clothing
-trousers;штани;;clothing
-jeans;джинси;;clothing
-jacket;куртка;;clothing
-coat;пальто;;clothing
-dress;сукня;;clothing
-skirt;спідниця;;clothing
-blouse;блузка;;clothing
-T-shirt;футболка;;clothing
-sweater;светр;;clothing
-hoodie;толстовка з капюшоном;;clothing
-sweatshirt;світшот;;clothing
-cardigan;кардиган;;clothing
-vest;жилет;;clothing
-suit;костюм;;clothing
-tie;краватка;;clothing
-scarf;шарф;;clothing
-gloves;рукавички;;clothing
-hat;капелюх;;clothing
-cap;кепка;;clothing
-beanie;шапка;;clothing
-socks;шкарпетки;;clothing
-shoes;взуття;;clothing
-boots;чоботи;;clothing
-sneakers;кросівки;;clothing
-sandals;сандалі;;clothing
-heels;туфлі на підборах;;clothing
-belt;ремінь;;clothing
-underwear;нижня білизна;;clothing
-bra;бюстгальтер;;clothing
-panties;трусики;;clothing
-boxers;боксери;;clothing
-pajamas;піжама;;clothing
-robe;халат;;clothing
-swimsuit;купальник;;clothing
-bikini;бікіні;;clothing
-shorts;шорти;;clothing
-leggings;легінси;;clothing
-tights;колготки;;clothing
-polo shirt;поло;;clothing
-blazer;блейзер;;clothing
-overcoat;шинель;;clothing
-raincoat;дощовик;;clothing
-waistcoat;жилет (частина костюма);;clothing
-mittens;рукавиці;;clothing
-earmuffs;навушники (теплі);;clothing
-apron;фартух;;clothing
-suspenders;підтяжки;;clothing
-bow tie;метелик (краватка);;clothing
-pocket;кишеня;;clothing
-zipper;блискавка;;clothing
-button;ґудзик;;clothing
-fabric;тканина;;clothing
-lace;мереживо;;clothing
-cotton;бавовна;;clothing
-wool;вовна;;clothing
-silk;шовк;;clothing
-linen;льон;;clothing
+dress;сукня;ж.р.;clothing
+shirt;сорочка;ж.р.;clothing
+pants;штани;мн.;clothing
+jeans;джинси;мн.;clothing
+skirt;спідниця;ж.р.;clothing
+jacket;куртка;ж.р.;clothing
+coat;пальто;с.р.;clothing
+sweater;светр;ч.р.;clothing
+hoodie;толстовка;ж.р.;clothing
+T-shirt;футболка;ж.р.;clothing
+blouse;блузка;ж.р.;clothing
+vest;жилет;ч.р.;clothing
+suit;костюм;ч.р.;clothing
+tie;краватка;ж.р.;clothing
+scarf;шарф;ч.р.;clothing
+hat;капелюх;ч.р.;clothing
+cap;кепка;ж.р.;clothing
+gloves;рукавички;мн.;clothing
+socks;шкарпетки;мн.;clothing
+shoes;взуття;с.р.;clothing
+boots;чоботи;мн.;clothing
+sandals;сандалі;мн.;clothing
+heels;туфлі на підборах;мн.;clothing
+belt;ремінь;ч.р.;clothing
+underwear;білизна;ж.р.;clothing
+bra;бюстгальтер;ч.р.;clothing
+pajamas;піжама;ж.р.;clothing
+robe;халат;ч.р.;clothing
+swimsuit;купальник;ч.р.;clothing
+shorts;шорти;мн.;clothing
+leggings;легінси;мн.;clothing
+tights;колготки;мн.;clothing
+sweatshirt;світшот;ч.р.;clothing
+cardigan;кардиган;ч.р.;clothing
+overcoat;пальто;с.р.;clothing
+raincoat;дощовик;ч.р.;clothing
+windbreaker;вітровка;ж.р.;clothing
+polo;поло;с.р.;clothing
+tank top;майка;ж.р.;clothing
+blazer;блейзер;ч.р.;clothing
+waistcoat;жилет;ч.р.;clothing
+trench coat;тренч;ч.р.;clothing
+parka;парка;ж.р.;clothing
+anorak;анорак;ч.р.;clothing
+poncho;пончо;с.р.;clothing
+beret;берет;ч.р.;clothing
+beanie;шапка;ж.р.;clothing
+mittens;рукавиці;мн.;clothing
+slippers;тапочки;мн.;clothing
+loafers;лофери;мн.;clothing
+flip-flops;в'єтнамки;мн.;clothing
+sneakers;кросівки;мн.;clothing
+high heels;туфлі на високих підборах;мн.;clothing
+bow tie;метелик;ч.р.;clothing
+suspenders;підтяжки;мн.;clothing
+bandana;бандана;ж.р.;clothing

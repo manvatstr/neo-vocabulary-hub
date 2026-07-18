@@ -1,58 +1,55 @@
-samochód;автомобіль;;transport
-rower;велосипед;;transport
-autobus;автобус;;transport
-pociąg;поїзд;;transport
-tramwaj;трамвай;;transport
-metro;метро;;transport
-taksówka;таксі;;transport
-ciężarówka;вантажівка;;transport
-motocykl;мотоцикл;;transport
-statek;корабель;;transport
-samolot;літак;;transport
-łódź;човен;;transport
-helikopter;гелікоптер;;transport
-hulajnoga;самокат;;transport
-skuter;скутер;;transport
-prom;пором;;transport
-ciągnik;трактор;;transport
-furgonetka;фургон;;transport
-karetka;швидка допомога;;transport
-wóz strażacki;пожежна машина;;transport
-rower elektryczny;електровелосипед;;transport
-deskorolka;скейтборд;;transport
-monocykl;одноколісний велосипед;;transport
-dorożka;фаетон;;transport
-riksza;рікша;;transport
-balon;повітряна куля;;transport
-sterowiec;дирижабль;;transport
-poduszkowiec;судно на повітряній подушці;;transport
-kajak;каяк;;transport
-kajak motorowy;моторний човен;;transport
-jacht;яхта;;transport
-skuter wodny;гідроцикл;;transport
-pociąg towarowy;товарний поїзд;;transport
-pociąg podmiejski;електричка;;transport
-pociąg ekspresowy;експрес;;transport
-stacja benzynowa;автозаправна станція;;transport
-dworzec;вокзал;;transport
-lotnisko;аеропорт;;transport
-port;порт;;transport
-przystanek;зупинка;;transport
-peron;перон;;transport
-tor;колія;;transport
-most;міст;;transport
-tunel;тунель;;transport
-droga;дорога;;transport
-autostrada;автострада;;transport
-ulica;вулиця;;transport
-sygnalizacja świetlna;світлофор;;transport
-znak drogowy;дорожній знак;;transport
-parking;парковка;;transport
-benzyna;бензин;;transport
-diesel;дизель;;transport
-hamulec;гальмо;;transport
-silnik;двигун;;transport
-kierownica;кермо;;transport
-bilet;квиток;;transport
-przejazd;поїздка;;transport
-opłata drogowa;дорожній збір;;transport
+samochód;автомобіль;м.р.;transport
+rower;велосипед;м.р.;transport
+autobus;автобус;м.р.;transport
+pociąg;поїзд;м.р.;transport
+tramwaj;трамвай;м.р.;transport
+metro;метро;с.р.;transport
+taksówka;таксі;ж.р.;transport
+motocykl;мотоцикл;м.р.;transport
+ciężarówka;вантажівка;ж.р.;transport
+statek;корабель;м.р.;transport
+łódź;човен;ж.р.;transport
+samolot;літак;м.р.;transport
+helikopter;гелікоптер;м.р.;transport
+hulajnoga;самокат;ж.р.;transport
+skuter;скутер;м.р.;transport
+prom;пором;м.р.;transport
+furgonetka;фургон;ж.р.;transport
+ciągnik;трактор;м.р.;transport
+wózek;візок;м.р.;transport
+kolej;залізниця;ж.р.;transport
+droga;дорога;ж.р.;transport
+ulica;вулиця;ж.р.;transport
+most;міст;м.р.;transport
+tunel;тунель;м.р.;transport
+stacja;станція;ж.р.;transport
+przystanek;зупинка;м.р.;transport
+peron;перон;м.р.;transport
+kierowca;водій;м.р.;transport
+pasażer;пасажир;м.р.;transport
+bilet;квиток;м.р.;transport
+kierownica;кермо;с.р.;transport
+hamulec;гальмо;м.р.;transport
+silnik;двигун;м.р.;transport
+benzyna;бензин;ж.р.;transport
+olej;масло;м.р.;transport
+opona;шина;ж.р.;transport
+koło;колесо;с.р.;transport
+klakson;гудок;м.р.;transport
+światła;фари;мн.;transport
+bagaż;багаж;м.р.;transport
+bagażnik;багажник;м.р.;transport
+pas;ремінь;м.р.;transport
+podróż;поїздка;ж.р.;transport
+ruch;рух;м.р.;transport
+korek;пробка;м.р.;transport
+prędkość;швидкість;ж.р.;transport
+przeprawa;переправа;ж.р.;transport
+port;порт;м.р.;transport
+lotnisko;аеропорт;с.р.;transport
+dworzec;вокзал;м.р.;transport
+tor;колія;ж.р.;transport
+przejazd;переїзд;м.р.;transport
+przejście;перехід;с.р.;transport
+kierunek;напрямок;м.р.;transport
+trasa;маршрут;ж.р.;transport

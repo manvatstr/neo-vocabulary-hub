@@ -1,55 +1,56 @@
-piłka;м'яч;;sports
-boisko;поле;;sports
-bramka;ворота;;sports
-zawody;змагання;;sports
-sędzia;арбітр;;sports
-gracz;гравець;;sports
-drużyna;команда;;sports
-trening;тренування;;sports
-mecz;матч;;sports
-wygrana;перемога;;sports
-przegrana;поразка;;sports
-remis;нічия;;sports
-strzał;удар;;sports
-gol;гол;;sports
-karny;пенальті;;sports
-rzut;кидок;;sports
-obrona;захист;;sports
-atak;атака;;sports
-rozgrywka;гра;;sports
-sędzia liniowy;боковий суддя;;sports
-kibic;уболівальник;;sports
-mistrzostwa;чемпіонат;;sports
-liga;ліга;;sports
-puchar;кубок;;sports
-medal;медаль;;sports
-złoto;золото;;sports
-srebro;срібло;;sports
-brąz;бронза;;sports
-rekord;рекорд;;sports
-sztanga;штанга;;sports
-bieżnia;бігова доріжка;;sports
-skok;стрибок;;sports
-rzut dyskiem;метання диска;;sports
-rzut oszczepem;метання списа;;sports
-pchnięcie kulą;штовхання ядра;;sports
-gimnastyka;гімнастика;;sports
-pływanie;плавання;;sports
-rower;велосипед;;sports
-bieg;біг;;sports
-maraton;марафон;;sports
-koszykówka;баскетбол;;sports
-siatkówka;волейбол;;sports
-piłka nożna;футбол;;sports
-hokej;хокей;;sports
-tenis;теніс;;sports
-boks;бокс;;sports
-sztuki walki;бойові мистецтва;;sports
-ring;ринг;;sports
-kij;ключка;;sports
-kask;шолом;;sports
-ochraniacze;наколінники;;sports
-buty sportowe;спортивне взуття;;sports
-strój sportowy;спортивна форма;;sports
-kort;корт;;sports
-basen;басейн;;sports
+гравець;zawodnik;ч.р.;sports
+команда;drużyna;ж.р.;sports
+м’яч;piłka;ч.р.;sports
+стадіон;stadion;ч.р.;sports
+матч;mecz;ч.р.;sports
+гол;gol;ч.р.;sports
+суддя;sędzia;ч.р.;sports
+воротар;bramkarz;ч.р.;sports
+тренер;trener;ч.р.;sports
+футбол;piłka nożna;ч.р.;sports
+баскетбол;koszykówka;ч.р.;sports
+волейбол;siatkówka;ч.р.;sports
+теніс;tenis;ч.р.;sports
+бокс;boks;ч.р.;sports
+плавання;pływanie;с.р.;sports
+біг;bieganie;ч.р.;sports
+стрибок;skok;ч.р.;sports
+турнір;turniej;ч.р.;sports
+чемпіонат;mistrzostwa;ч.р.;sports
+медаль;medal;ж.р.;sports
+кубок;puchar;ч.р.;sports
+спортивний;sportowy;ч.р.;sports
+змагання;zawody;с.р.;sports
+перемога;zwycięstwo;ж.р.;sports
+поразка;porażka;ж.р.;sports
+нічия;remis;ч.р.;sports
+рекорд;rekord;ч.р.;sports
+тренування;trening;с.р.;sports
+розминка;rozgrzewka;ж.р.;sports
+спортивна форма;strój sportowy;ж.р.;sports
+штанга;sztanga;ж.р.;sports
+гантель;hantel;ж.р.;sports
+велосипед;rower;ч.р.;sports
+лижі;narty;мн.;sports
+ковзани;łyżwy;мн.;sports
+ракетка;rakieta;ж.р.;sports
+ключка;kij;ч.р.;sports
+сітка;siatka;ж.р.;sports
+ворота;bramka;ж.р.;sports
+фініш;meta;ч.р.;sports
+старт;start;ч.р.;sports
+дискваліфікація;dyskwalifikacja;ж.р.;sports
+фол;faul;ч.р.;sports
+пенальті;rzut karny;ч.р.;sports
+тайм;czas;ч.р.;sports
+перерва;przerwa;ж.р.;sports
+екіпірування;sprzęt;ч.р.;sports
+спортивна зала;sala gimnastyczna;ж.р.;sports
+басейн;basen;ч.р.;sports
+траса;tor;ч.р.;sports
+спринт;sprint;ч.р.;sports
+марафон;maraton;ч.р.;sports
+гімнастика;gimnastyka;ж.р.;sports
+боротьба;zapasy;ж.р.;sports
+дзюдо;judo;с.р.;sports
+карате;karate;с.р.;sports

@@ -1,59 +1,59 @@
-football;футбол;;sports
-basketball;баскетбол;;sports
-tennis;теніс;;sports
-volleyball;волейбол;;sports
-hockey;хокей;;sports
-swimming;плавання;;sports
-running;біг;;sports
-cycling;велоспорт;;sports
-gymnastics;гімнастика;;sports
-boxing;бокс;;sports
-wrestling;боротьба;;sports
-skiing;лижний спорт;;sports
-snowboarding;сноубординг;;sports
-golf;гольф;;sports
-rugby;регбі;;sports
-cricket;крикет;;sports
-baseball;бейсбол;;sports
-handball;гандбол;;sports
-badminton;бадмінтон;;sports
-table tennis;настільний теніс;;sports
-athletics;легка атлетика;;sports
-marathon;марафон;;sports
-sprint;спринт;;sports
-javelin;метання списа;;sports
-discus;метання диска;;sports
-shot put;штовхання ядра;;sports
-high jump;стрибки у висоту;;sports
-long jump;стрибки у довжину;;sports
-pole vault;стрибки з жердиною;;sports
-relay;естафета;;sports
-coach;тренер;;sports
-referee;суддя;;sports
-player;гравець;;sports
-team;команда;;sports
-goal;гол;;sports
-point;очко;;sports
-score;рахунок;;sports
-match;матч;;sports
-tournament;турнір;;sports
-championship;чемпіонат;;sports
-medal;медаль;;sports
-gold;золото;;sports
-silver;срібло;;sports
-bronze;бронза;;sports
-stadium;стадіон;;sports
-arena;арена;;sports
-court;корт;;sports
-field;поле;;sports
-track;трек;;sports
-equipment;спортивний інвентар;;sports
-uniform;спортивна форма;;sports
-shoes;взуття;;sports
-ball;м'яч;;sports
-racket;ракетка;;sports
-net;сітка;;sports
-helmet;шолом;;sports
-gloves;рукавиці;;sports
-bat;бита;;sports
-stick;ключка;;sports
+football;футбол;m;sports
+basketball;баскетбол;m;sports
+tennis;теніс;m;sports
+volleyball;волейбол;m;sports
+hockey;хокей;m;sports
+swimming;плавання;n;sports
+running;біг;m;sports
+cycling;велоспорт;m;sports
+boxing;бокс;m;sports
+gymnastics;гімнастика;f;sports
+athletics;легка атлетика;f;sports
+skiing;лижний спорт;m;sports
+snowboarding;сноубординг;m;sports
+surfing;серфінг;m;sports
+golf;гольф;m;sports
+rugby;регбі;n;sports
+cricket;крикет;m;sports
+baseball;бейсбол;m;sports
+badminton;бадмінтон;m;sports
+table tennis;настільний теніс;m;sports
+archery;стрільба з лука;f;sports
+fencing;фехтування;n;sports
+judo;дзюдо;n;sports
+karate;карате;n;sports
+wrestling;боротьба;f;sports
+weightlifting;важка атлетика;f;sports
+rowing;веслування;n;sports
+sailing;вітрильний спорт;m;sports
+diving;стрибки у воду;m;sports
+shooting;стрільба;f;sports
+handball;гандбол;m;sports
+water polo;водне поло;n;sports
+curling;керлінг;m;sports
+biathlon;біатлон;m;sports
+triathlon;тріатлон;m;sports
+marathon;марафон;m;sports
+sprint;спринт;m;sports
+javelin;метання списа;n;sports
+discus;метання диска;n;sports
+shot put;штовхання ядра;n;sports
+high jump;стрибки у висоту;m;sports
+long jump;стрибки у довжину;m;sports
+pole vault;стрибки з жердиною;m;sports
+gym;спортзал;m;sports
+coach;тренер;m;sports
+team;команда;f;sports
+player;гравець;m;sports
+referee;арбітр;m;sports
+tournament;турнір;m;sports
+championship;чемпіонат;m;sports
+medal;медаль;f;sports
+cup;кубок;m;sports
+score;рахунок;m;sports
+goal;гол;m;sports
+point;очко;n;sports
+match;матч;m;sports
+training;тренування;n;sports
+warm-up;розминка;f;sports
+stretching;розтяжка;f;sports

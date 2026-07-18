@@ -1,0 +1,60 @@
+Computer;Комп'ютер;m;technology
+Software;Програмне забезпечення;n;technology
+Hardware;Апаратне забезпечення;n;technology
+Internet;Інтернет;m;technology
+Netzwerk;Мережа;f;technology
+Daten;Дані;pl;technology
+Server;Сервер;m;technology
+Cloud;Хмара;f;technology
+Speicher;Пам'ять;f;technology
+Prozessor;Процесор;m;technology
+Bildschirm;Екран;m;technology
+Tastatur;Клавіатура;f;technology
+Maus;Миша;f;technology
+Drucker;Принтер;m;technology
+Scanner;Сканер;m;technology
+Kabel;Кабель;m;technology
+Router;Роутер;m;technology
+Modem;Модем;m;technology
+Firewall;Брандмауер;m;technology
+Virus;Вірус;m;technology
+Antivirus;Антивірус;m;technology
+Update;Оновлення;n;technology
+Download;Завантаження;n;technology
+Upload;Вивантаження;n;technology
+Browser;Браузер;m;technology
+Website;Вебсайт;m;technology
+Link;Посилання;n;technology
+E-Mail;Електронна пошта;f;technology
+Passwort;Пароль;m;technology
+Benutzer;Користувач;m;technology
+Account;Акаунт;m;technology
+Login;Вхід;m;technology
+Logout;Вихід;m;technology
+Algorithmus;Алгоритм;m;technology
+Code;Код;m;technology
+Programm;Програма;f;technology
+App;Додаток;m;technology
+Smartphone;Смартфон;m;technology
+Tablet;Планшет;m;technology
+Laptop;Ноутбук;m;technology
+Batterie;Акумулятор;f;technology
+Ladegerät;Зарядний пристрій;m;technology
+Bluetooth;Блютуз;m;technology
+Wi-Fi;Вай-Фай;m;technology
+GPS;Джи-Пі-Ес;m;technology
+Sensor;Датчик;m;technology
+Kamera;Камера;f;technology
+Mikrofon;Мікрофон;m;technology
+Lautsprecher;Динамік;m;technology
+Touchscreen;Сенсорний екран;m;technology
+Chip;Чіп;m;technology
+Festplatte;Жорсткий диск;m;technology
+USB;ЮЕсБі;m;technology
+Monitor;Монітор;m;technology
+Grafikkarte;Відеокарта;f;technology
+RAM;Оперативна пам'ять;f;technology
+CPU;Центральний процесор;m;technology
+Motherboard;Материнська плата;f;technology
+Netzteil;Блок живлення;m;technology
+Kühlung;Охолодження;n;technology

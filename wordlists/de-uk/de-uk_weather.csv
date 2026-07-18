@@ -1,0 +1,49 @@
+Regen;дощ;;weather
+Sonne;сонце;;weather
+Wolke;хмара;Wolken;weather
+Wind;вітер;Winde;weather
+Schnee;сніг;;weather
+Hagel;град;;weather
+Nebel;туман;;weather
+Sturm;буря;Stürme;weather
+Gewitter;гроза;Gewitter;weather
+Blitz;блискавка;Blitze;weather
+Donner;грім;Donner;weather
+Hitze;спека;;weather
+Kälte;холод;;weather
+Temperatur;температура;Temperaturen;weather
+Luft;повітря;;weather
+Feuchtigkeit;вологість;;weather
+Druck;тиск;;weather
+Hochdruckgebiet;антициклон;;weather
+Tiefdruckgebiet;циклон;;weather
+Wettervorhersage;прогноз погоди;Wettervorhersagen;weather
+Klima;клімат;Klimata;weather
+Wetter;погода;Wetter;weather
+Regenbogen;веселка;Regenbögen;weather
+Tau;роса;;weather
+Frost;мороз;;weather
+Eis;лід;;weather
+Niederschlag;опади;;weather
+Wolkenbruch;злива;Wolkenbrüche;weather
+Orkan;ураган;Orkane;weather
+Taifun;тайфун;Taifune;weather
+Hurrikan;ураган;Hurrikane;weather
+Monsun;мусон;Monsune;weather
+Dürre;посуха;Dürren;weather
+Nieselregen;мряка;;weather
+Schauer;злива;Schauer;weather
+Böe;порив вітру;Böen;weather
+Luftfeuchtigkeit;вологість повітря;;weather
+Barometer;барометр;Barometer;weather
+Thermometer;термометр;Thermometer;weather
+Anemometer;анемометр;Anemometer;weather
+Hygrometer;гігрометр;Hygrometer;weather
+Wetterstation;метеостанція;Wetterstationen;weather
+Wetterkarte;синоптична карта;Wetterkarten;weather
+Wetterbericht;звіт про погоду;Wetterberichte;weather
+Wetterumschwung;зміна погоди;Wetterumschwünge;weather
+Wetterlage;погодні умови;Wetterlagen;weather
+Wetterphänomen;погодне явище;Wetterphänomene;weather
+Wetterextrem;екстремальна погода;Wetterextreme;weather
+Wetterwarnung;попередження про негоду;Wetterwarnungen;weather

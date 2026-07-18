@@ -1,55 +1,53 @@
-Vater;батько;;family
-Mutter;мати;;family
-Eltern;батьки;;family
-Sohn;син;;family
-Tochter;донька;;family
-Bruder;брат;;family
-Schwester;сестра;;family
-Großvater;дідусь;;family
-Großmutter;бабуся;;family
-Opa;дідусь;;family
-Oma;бабуся;;family
-Enkel;онук;;family
-Enkelin;онучка;;family
-Onkel;дядько;;family
-Tante;тітка;;family
-Neffe;племінник;;family
-Nichte;племінниця;;family
-Cousin;двоюрідний брат;;family
-Cousine;двоюрідна сестра;;family
-Ehemann;чоловік;;family
-Ehefrau;дружина;;family
-Kind;дитина;;family
-Baby;немовля;;family
-Jugendlicher;підліток;;family
-Erwachsener;дорослий;;family
-Verwandter;родич;;family
-Verwandte;родичка;;family
-Schwiegervater;тесть (свекор);;family
-Schwiegermutter;теща (свекруха);;family
-Schwager;шурин (дівер);;family
-Schwägerin;зовиця (невістка);;family
-Stiefvater;вітчим;;family
-Stiefmutter;мачуха;;family
-Stiefsohn;пасинок;;family
-Stieftochter;падчерка;;family
-Stiefbruder;зведений брат;;family
-Stiefschwester;зведена сестра;;family
-Pate;хрещений батько;;family
-Patin;хрещена мати;;family
-Patensohn;хрещеник;;family
-Patenkind;хрещениця;;family
-Familie;родина;;family
-Haushalt;домогосподарство;;family
-Verlobter;наречений;;family
-Verlobte;наречена;;family
-Ehe;шлюб;;family
-Hochzeit;весілля;;family
-Geburt;народження;;family
-Taufe;хрестини;;family
-Adoption;усиновлення;;family
-Waise;сирота;;family
-Stammbaum;родовід;;family
-Nachname;прізвище;;family
-Vorfahre;предок;;family
-Nachkomme;нащадок;;family
+Mutter;мати;ж.р.;family
+Vater;батько;ч.р.;family
+Eltern;батьки;мн.;family
+Kind;дитина;с.р.;family
+Sohn;син;ч.р.;family
+Tochter;донька;ж.р.;family
+Bruder;брат;ч.р.;family
+Schwester;сестра;ж.р.;family
+Großmutter;бабуся;ж.р.;family
+Großvater;дідусь;ч.р.;family
+Oma;бабуся;ж.р.;family
+Opa;дідусь;ч.р.;family
+Enkel;онук;ч.р.;family
+Enkelin;онука;ж.р.;family
+Onkel;дядько;ч.р.;family
+Tante;тітка;ж.р.;family
+Neffe;племінник;ч.р.;family
+Nichte;племінниця;ж.р.;family
+Cousin;двоюрідний брат;ч.р.;family
+Cousine;двоюрідна сестра;ж.р.;family
+Ehemann;чоловік;ч.р.;family
+Ehefrau;дружина;ж.р.;family
+Schwiegermutter;свекруха/теща;ж.р.;family
+Schwiegervater;свекор/тесть;ч.р.;family
+Schwager;шурин/дівер;ч.р.;family
+Schwägerin;зовиця/невістка;ж.р.;family
+Stiefmutter;мачуха;ж.р.;family
+Stiefvater;вітчим;ч.р.;family
+Stiefsohn;пасинок;ч.р.;family
+Stieftochter;падчерка;ж.р.;family
+Halbbruder;зведений брат;ч.р.;family
+Halbschwester;зведена сестра;ж.р.;family
+Baby;немовля;с.р.;family
+Zwilling;близнюк;ч.р.;family
+Drilling;трійня;мн.;family
+Pate;хрещений батько;ч.р.;family
+Patin;хрещена мати;ж.р.;family
+Patensohn;хрещеник;ч.р.;family
+Patenkind;хрещеник/хрещениця;с.р.;family
+Patentochter;хрещениця;ж.р.;family
+Verwandte;родич;ч.р.;family
+Verwandter;родичка;ж.р.;family
+Familie;родина;ж.р.;family
+Haushalt;домогосподарство;ч.р.;family
+Erbe;спадкоємець;ч.р.;family
+Erbin;спадкоємиця;ж.р.;family
+Vorfahre;предок;ч.р.;family
+Vorfahrin;предкиня;ж.р.;family
+Nachkomme;нащадок;ч.р.;family
+Nachkommin;нащадка;ж.р.;family
+Waise;сирота;ч.р./ж.р.;family
+Adoptivkind;усиновлена дитина;с.р.;family
+Pflegekind;дитина під опікою;с.р.;family

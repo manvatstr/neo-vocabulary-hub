@@ -1,59 +1,55 @@
-Fußball;футбол;;sports
-Basketball;баскетбол;;sports
-Tennis;теніс;;sports
-Volleyball;волейбол;;sports
-Handball;гандбол;;sports
-Schwimmen;плавання;;sports
-Laufen;біг;;sports
-Springen;стрибки;;sports
-Werfen;метання;;sports
-Ringen;боротьба;;sports
-Boxen;бокс;;sports
-Judo;дзюдо;;sports
-Karate;карате;;sports
-Golf;гольф;;sports
-Hockey;хокей;;sports
-Eishockey;хокей із шайбою;;sports
-Radsport;велоспорт;;sports
-Leichtathletik;легка атлетика;;sports
-Turnen;гімнастика;;sports
-Skifahren;лижний спорт;;sports
-Snowboarden;сноубординг;;sports
-Eislaufen;ковзанярство;;sports
-Tauchen;дайвінг;;sports
-Segeln;вітрильний спорт;;sports
-Rudern;веслування;;sports
-Klettern;скелелазіння;;sports
-Bogenschießen;стрільба з лука;;sports
-Gewichtheben;важка атлетика;;sports
-Fechten;фехтування;;sports
-Badminton;бадмінтон;;sports
-Tischtennis;настільний теніс;;sports
-Baseball;бейсбол;;sports
-Rugby;регбі;;sports
-Triathlon;тріатлон;;sports
-Marathon;марафон;;sports
-Sprint;спринт;;sports
-Hürdenlauf;біг з бар’єрами;;sports
-Diskuswerfen;метання диска;;sports
-Speerwerfen;метання списа;;sports
-Hammerwerfen;метання молота;;sports
-Kugelstoßen;штовхання ядра;;sports
-Staffel;естафета;;sports
-Tor;ворота;;sports
-Schiedsrichter;арбітр;;sports
-Mannschaft;команда;;sports
-Spieler;гравець;;sports
-Trainer;тренер;;sports
-Stadion;стадіон;;sports
-Spielfeld;поле;;sports
-Pokal;кубок;;sports
-Medaille;медаль;;sports
-Sieg;перемога;;sports
-Niederlage;поразка;;sports
-Unentschieden;нічия;;sports
-Training;тренування;;sports
-Wettkampf;змагання;;sports
-Ausdauer;витривалість;;sports
-Kraft;сила;;sports
-Geschwindigkeit;швидкість;;sports
+Fußball;футбол;м.р.;sports
+Basketball;баскетбол;м.р.;sports
+Tennis;теніс;м.р.;sports
+Volleyball;волейбол;м.р.;sports
+Handball;гандбол;м.р.;sports
+Schwimmen;плавання;с.р.;sports
+Laufen;біг;м.р.;sports
+Springen;стрибки;мн.;sports
+Boxen;бокс;м.р.;sports
+Ringen;боротьба;ж.р.;sports
+Gymnastik;гімнастика;ж.р.;sports
+Eishockey;хокей;м.р.;sports
+Radsport;велоспорт;м.р.;sports
+Leichtathletik;легка атлетика;ж.р.;sports
+Ski;лижі;мн.;sports
+Snowboard;сноуборд;м.р.;sports
+Tauchen;дайвінг;м.р.;sports
+Segeln;вітрильний спорт;м.р.;sports
+Reiten;кінний спорт;м.р.;sports
+Golf;гольф;м.р.;sports
+Badminton;бадмінтон;м.р.;sports
+Tischtennis;настільний теніс;м.р.;sports
+Rugby;регбі;с.р.;sports
+Baseball;бейсбол;м.р.;sports
+Cricket;крикет;м.р.;sports
+Bowling;боулінг;м.р.;sports
+Darts;дартс;м.р.;sports
+Billard;білярд;м.р.;sports
+Klettern;скелелазіння;с.р.;sports
+Surfen;серфінг;м.р.;sports
+Wandern;піший туризм;м.р.;sports
+Kampfsport;бойові мистецтва;мн.;sports
+Triathlon;тріатлон;м.р.;sports
+Marathon;марафон;м.р.;sports
+Hürdenlauf;біг з бар'єрами;м.р.;sports
+Weitsprung;стрибок у довжину;м.р.;sports
+Hochsprung;стрибок у висоту;м.р.;sports
+Kugelstoßen;штовхання ядра;с.р.;sports
+Speerwurf;метання списа;м.р.;sports
+Diskuswurf;метання диска;м.р.;sports
+Staffel;естафета;ж.р.;sports
+Tor;ворота;мн.;sports
+Ball;м'яч;м.р.;sports
+Schläger;ракетка;м.р.;sports
+Netz;сітка;ж.р.;sports
+Schiedsrichter;арбітр;м.р.;sports
+Trainer;тренер;м.р.;sports
+Mannschaft;команда;ж.р.;sports
+Stadion;стадіон;м.р.;sports
+Spielfeld;поле;с.р.;sports
+Pokal;кубок;м.р.;sports
+Medaille;медаль;ж.р.;sports
+Rekord;рекорд;м.р.;sports
+Turnier;турнір;м.р.;sports
+Training;тренування;с.р.;sports

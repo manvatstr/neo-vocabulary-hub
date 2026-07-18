@@ -1,58 +1,55 @@
-Lernen;навчання;;education
-Schule;школа;;education
-Universität;університет;;education
-Lehrer;вчитель;;education
-Lehrerin;вчителька;;education
-Schüler;учень;;education
-Schülerin;учениця;;education
-Student;студент;;education
-Studentin;студентка;;education
-Klasse;клас;;education
-Unterricht;урок;;education
-Stunde;урок;;education
-Hausaufgabe;домашнє завдання;;education
-Prüfung;іспит;;education
-Test;тест;;education
-Note;оцінка;;education
-Buch;книга;;education
-Heft;зошит;;education
-Stift;ручка;;education
-Bleistift;олівець;;education
-Tafel;дошка;;education
-Kreide;крейда;;education
-Schulranzen;шкільний рюкзак;;education
-Schultasche;шкільна сумка;;education
-Bibliothek;бібліотека;;education
-Lesen;читання;;education
-Schreiben;письмо;;education
-Rechnen;рахунок;;education
-Mathematik;математика;;education
-Physik;фізика;;education
-Chemie;хімія;;education
-Biologie;біологія;;education
-Geschichte;історія;;education
-Geographie;географія;;education
-Sprache;мова;;education
-Englisch;англійська;;education
-Deutsch;німецька;;education
-Französisch;французька;;education
-Latein;латина;;education
-Kunst;мистецтво;;education
-Musik;музика;;education
-Sport;фізкультура;;education
-Pausenhof;шкільне подвір'я;;education
-Schulhof;шкільний двір;;education
-Direktor;директор;;education
-Direktorin;директорка;;education
-Schuljahr;навчальний рік;;education
-Semester;семестр;;education
-Ferien;канікули;;education
-Abschluss;закінчення;;education
-Diplom;диплом;;education
-Zertifikat;сертифікат;;education
-Vorlesung;лекція;;education
-Seminar;семінар;;education
-Labor;лабораторія;;education
-Forschung;дослідження;;education
-Wissen;знання;;education
-Bildung;освіта;;education
+Schule;школа;ж.р.;education
+Lehrer;вчитель;ч.р.;education
+Lehrerin;вчителька;ж.р.;education
+Schüler;учень;ч.р.;education
+Schülerin;учениця;ж.р.;education
+Unterricht;урок;ч.р.;education
+Klasse;клас;ж.р.;education
+Stunde;урок;ж.р.;education
+Hausaufgabe;домашнє завдання;ж.р.;education
+Prüfung;іспит;ч.р.;education
+Test;тест;ч.р.;education
+Note;оцінка;ж.р.;education
+Buch;книга;ж.р.;education
+Heft;зошит;ч.р.;education
+Stift;ручка;ж.р.;education
+Bleistift;олівець;ч.р.;education
+Tafel;дошка;ж.р.;education
+Kreide;крейда;ж.р.;education
+Schultasche;шкільний рюкзак;ж.р.;education
+Fach;предмет;ч.р.;education
+Mathematik;математика;ж.р.;education
+Physik;фізика;ж.р.;education
+Chemie;хімія;ж.р.;education
+Biologie;біологія;ж.р.;education
+Geschichte;історія;ж.р.;education
+Geographie;географія;ж.р.;education
+Sprache;мова;ж.р.;education
+Englisch;англійська мова;ж.р.;education
+Deutsch;німецька мова;ж.р.;education
+Französisch;французька мова;ж.р.;education
+Latein;латина;ж.р.;education
+Universität;університет;ч.р.;education
+Hochschule;вищий навчальний заклад;ч.р.;education
+Studium;навчання;с.р.;education
+Student;студент;ч.р.;education
+Studentin;студентка;ж.р.;education
+Vorlesung;лекція;ж.р.;education
+Seminar;семінар;ч.р.;education
+Dozent;викладач;ч.р.;education
+Professor;професор;ч.р.;education
+Dissertation;дисертація;ж.р.;education
+Abschluss;закінчення;ч.р.;education
+Diplom;диплом;ч.р.;education
+Bachelor;бакалавр;ч.р.;education
+Master;магістр;ч.р.;education
+Promotion;аспірантура;ж.р.;education
+Bibliothek;бібліотека;ж.р.;education
+Lernen;навчання;с.р.;education
+Wissen;знання;с.р.;education
+Bildung;освіта;ж.р.;education
+Pädagogik;педагогіка;ж.р.;education
+Schuljahr;навчальний рік;ч.р.;education
+Ferien;канікули;мн.;education
+Ausbildung;професійна підготовка;ж.р.;education
+Lehrplan;навчальний план;ч.р.;education

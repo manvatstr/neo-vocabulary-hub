@@ -1,59 +1,54 @@
-komputer;комп'ютер;;technologia
-telefon;телефон;;technologia
-internet;інтернет;;technologia
-oprogramowanie;програмне забезпечення;;technologia
-sprzęt;обладнання;;technologia
-aplikacja;додаток;;technologia
-system;система;;technologia
-sieć;мережа;;technologia
-serwer;сервер;;technologia
-baza danych;база даних;;technologia
-chmura;хмара;;technologia
-sztuczna inteligencja;штучний інтелект;;technologia
-robotyka;робототехніка;;technologia
-algorytm;алгоритм;;technologia
-programowanie;програмування;;technologia
-kod;код;;technologia
-debugowanie;налагодження;;technologia
-interfejs;інтерфейс;;technologia
-procesor;процесор;;technologia
-pamięć;пам'ять;;technologia
-dysk twardy;жорсткий диск;;technologia
-karta graficzna;відеокарта;;technologia
-monitor;монітор;;technologia
-klawiatura;клавіатура;;technologia
-mysz;миша;;technologia
-drukarka;принтер;;technologia
-skaner;сканер;;technologia
-router;роутер;;technologia
-modem;модем;;technologia
-kabel;кабель;;technologia
-bateria;батарея;;technologia
-ładowarka;зарядний пристрій;;technologia
-ekran;екран;;technologia
-dotykowy;сенсорний;;technologia
-smartfon;смартфон;;technologia
-tablet;планшет;;technologia
-laptop;ноутбук;;technologia
-komputer stacjonarny;стаціонарний комп'ютер;;technologia
-wirus;вірус;;technologia
-zabezpieczenia;захист;;technologia
-firewall;брандмауер;;technologia
-szyfrowanie;шифрування;;technologia
-aktualizacja;оновлення;;technologia
-backup;резервне копіювання;;technologia
-przeglądarka;браузер;;technologia
-wyszukiwarka;пошукова система;;technologia
-strona internetowa;веб-сайт;;technologia
-link;посилання;;technologia
-hasło;пароль;;technologia
-konto;акаунт;;technologia
-logowanie;вхід;;technologia
-wylogowanie;вихід;;technologia
-multimedia;мультимедіа;;technologia
-streaming;потокове мовлення;;technologia
-głośnik;динамік;;technologia
-mikrofon;мікрофон;;technologia
-kamera;камера;;technologia
-wirtualna rzeczywistość;віртуальна реальність;;technologia
-rozszerzona rzeczywistość;доповнена реальність;;technologia
+комп'ютер;komputer;м.р.;tech
+програма;program;ж.р.;tech
+інтернет;internet;м.р.;tech
+мобільний;mobilny;м.р.;tech
+телефон;telefon;м.р.;tech
+екран;ekran;м.р.;tech
+клавіатура;klawiatura;ж.р.;tech
+миша;mysz;ж.р.;tech
+монітор;monitor;м.р.;tech
+процесор;procesor;м.р.;tech
+пам'ять;pamięć;ж.р.;tech
+жорсткий диск;dysk twardy;м.р.;tech
+операційна система;system operacyjny;ж.р.;tech
+мережа;sieć;ж.р.;tech
+сервер;serwer;м.р.;tech
+база даних;baza danych;ж.р.;tech
+алгоритм;algorytm;м.р.;tech
+код;kod;м.р.;tech
+програмування;programowanie;с.р.;tech
+дані;dane;мн.;tech
+файл;plik;м.р.;tech
+папка;folder;ж.р.;tech
+вірус;wirus;м.р.;tech
+антивірус;antywirus;м.р.;tech
+безпека;bezpieczeństwo;ж.р.;tech
+хмарні технології;chmura obliczeniowa;мн.;tech
+штучний інтелект;sztuczna inteligencja;м.р.;tech
+робот;robot;м.р.;tech
+дрон;dron;м.р.;tech
+віртуальна реальність;rzeczywistość wirtualna;ж.р.;tech
+доповнена реальність;rzeczywistość rozszerzona;ж.р.;tech
+інтерфейс;interfejs;м.р.;tech
+програміст;programista;м.р.;tech
+розробник;deweloper;м.р.;tech
+веб-сайт;strona internetowa;м.р.;tech
+домен;domena;ж.р.;tech
+хостинг;hosting;м.р.;tech
+браузер;przeglądarka;ж.р.;tech
+пошукова система;wyszukiwarka;ж.р.;tech
+електронна пошта;poczta elektroniczna;ж.р.;tech
+соціальна мережа;portal społecznościowy;ж.р.;tech
+відеоконференція;wideokonferencja;ж.р.;tech
+блокчейн;blockchain;м.р.;tech
+криптовалюта;kryptowaluta;ж.р.;tech
+хакер;haker;м.р.;tech
+кібербезпека;cyberbezpieczeństwo;ж.р.;tech
+шифрування;szyfrowanie;с.р.;tech
+вхід;logowanie;с.р.;tech
+пароль;hasło;м.р.;tech
+автентифікація;uwierzytelnianie;ж.р.;tech
+біометрія;biometria;ж.р.;tech
+датчик;czujnik;м.р.;tech
+пристрій;urządzenie;с.р.;tech
+гаджет;gadżet;м.р.;tech

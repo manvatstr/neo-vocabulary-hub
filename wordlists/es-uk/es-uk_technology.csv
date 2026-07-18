@@ -1,62 +1,57 @@
-smartphone;смартфон;;technology
-computer;комп'ютер;;technology
-laptop;ноутбук;;technology
-tablet;планшет;;technology
-software;програмне забезпечення;;technology
-hardware;апаратне забезпечення;;technology
-internet;інтернет;;technology
-network;мережа;;technology
-router;роутер;;technology
-server;сервер;;technology
-database;база даних;;technology
-cloud;хмара;;technology
-algorithm;алгоритм;;technology
-programming;програмування;;technology
-code;код;;technology
-application;додаток;;technology
-app;додаток;;technology
-browser;браузер;;technology
-website;вебсайт;;technology
-email;електронна пошта;;technology
-password;пароль;;technology
-encryption;шифрування;;technology
-firewall;брандмауер;;technology
-virus;вірус;;technology
-malware;шкідливе ПЗ;;technology
-hacker;хакер;;technology
-cybersecurity;кібербезпека;;technology
-artificial intelligence;штучний інтелект;;technology
-machine learning;машинне навчання;;technology
-data;дані;;technology
-big data;великі дані;;technology
-blockchain;блокчейн;;technology
-cryptocurrency;криптовалюта;;technology
-virtual reality;віртуальна реальність;;technology
-augmented reality;доповнена реальність;;technology
-gadget;гаджет;;technology
-device;пристрій;;technology
-processor;процесор;;technology
-memory;пам'ять;;technology
-storage;сховище;;technology
-RAM;ОЗП;;technology
-GPU;графічний процесор;;technology
-monitor;монітор;;technology
-keyboard;клавіатура;;technology
-mouse;миша;;technology
-printer;принтер;;technology
-scanner;сканер;;technology
-camera;камера;;technology
-microphone;мікрофон;;technology
-speaker;динамік;;technology
-battery;батарея;;technology
-charger;зарядний пристрій;;technology
-USB;USB;;technology
-Bluetooth;Bluetooth;;technology
-Wi-Fi;Wi-Fi;;technology
-5G;5G;;technology
-IoT;інтернет речей;;technology
-robot;робот;;technology
-automation;автоматизація;;technology
-drone;дрон;;technology
-smartwatch;розумний годинник;;technology
-smart home;розумний дім;;technology
+комп'ютер;ordenador;м.р.;technology
+програма;programa;ж.р.;technology
+інтернет;internet;м.р.;technology
+мобільний телефон;teléfono móvil;м.р.;technology
+екран;pantalla;м.р.;technology
+клавіатура;teclado;ж.р.;technology
+миша;ratón;ж.р.;technology
+монітор;monitor;м.р.;technology
+процесор;procesador;м.р.;technology
+пам'ять;memoria;ж.р.;technology
+жорсткий диск;disco duro;м.р.;technology
+програмне забезпечення;software;с.р.;technology
+операційна система;sistema operativo;ж.р.;technology
+мережа;red;ж.р.;technology
+сервер;servidor;м.р.;technology
+база даних;base de datos;ж.р.;technology
+вірус;virus;м.р.;technology
+антивірус;antivirus;м.р.;technology
+безпека;seguridad;ж.р.;technology
+шифрування;encriptación;с.р.;technology
+хмарні обчислення;nube;мн.;technology
+штучний інтелект;inteligencia artificial;м.р.;technology
+робот;robot;м.р.;technology
+дрон;dron;м.р.;technology
+віртуальна реальність;realidad virtual;ж.р.;technology
+додаток;aplicación;м.р.;technology
+браузер;navegador;м.р.;technology
+пошукова система;motor de búsqueda;ж.р.;technology
+електронна пошта;correo electrónico;ж.р.;technology
+соціальна мережа;red social;ж.р.;technology
+відеоконференція;videoconferencia;ж.р.;technology
+планшет;tableta;м.р.;technology
+ноутбук;portátil;м.р.;technology
+камера;cámara;ж.р.;technology
+мікрофон;micrófono;м.р.;technology
+навушники;auriculares;мн.;technology
+зарядний пристрій;cargador;м.р.;technology
+батарея;batería;ж.р.;technology
+сенсорний екран;pantalla táctil;м.р.;technology
+відео;vídeo;с.р.;technology
+аудіо;audio;с.р.;technology
+потік;streaming;м.р.;technology
+хмарне сховище;almacenamiento en la nube;с.р.;technology
+блокчейн;blockchain;м.р.;technology
+криптовалюта;criptomoneda;ж.р.;technology
+відеокарта;tarjeta gráfica;ж.р.;technology
+материнська плата;placa base;ж.р.;technology
+вентилятор;ventilador;м.р.;technology
+блок живлення;fuente de alimentación;м.р.;technology
+маршрутизатор;router;м.р.;technology
+модем;módem;м.р.;technology
+кабель;cable;м.р.;technology
+Wi-Fi;Wi-Fi;м.р.;technology
+Bluetooth;Bluetooth;м.р.;technology
+GPS;GPS;м.р.;technology
+5G;5G;м.р.;technology
+квантові обчислення;computación cuántica;мн.;technology
