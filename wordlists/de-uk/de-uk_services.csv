@@ -1,0 +1,199 @@
+die Bank;банк;die Banken;services
+das Konto;рахунок;die Konten;services
+das Sparkonto;ощадний рахунок;die Sparkonten;services
+das Girokonto;поточний рахунок;die Girokonten;services
+die Kreditkarte;кредитна картка;die Kreditkarten;services
+die Bankkarte;банківська картка;die Bankkarten;services
+der Kredit;кредит;die Kredite;services
+die Hypothek;іпотека;die Hypotheken;services
+der Zins;відсоток;die Zinsen;services
+die Überweisung;грошовий переказ;die Überweisungen;services
+der Dauerauftrag;регулярне доручення;die Daueraufträge;services
+die Lastschrift;пряме списання;die Lastschriften;services
+der Kontoauszug;виписка з рахунку;die Kontoauszüge;services
+der Geldautomat;банкомат;die Geldautomaten;services
+der Bankschalter;банківське віконце;die Bankschalter;services
+der Bankangestellte;банківський службовець;die Bankangestellten;services
+das Sparbuch;ощадна книжка;die Sparbücher;services
+die Einzahlung;внесення коштів;die Einzahlungen;services
+die Auszahlung;зняття готівки;die Auszahlungen;services
+das Bargeld;готівка;;services
+der Scheck;чек;die Schecks;services
+der Wechselkurs;обмінний курс;die Wechselkurse;services
+die Währung;валюта;die Währungen;services
+das Schließfach;банківський сейф;die Schließfächer;services
+die Bankleitzahl;банківський код;die Bankleitzahlen;services
+die Kontonummer;номер рахунку;die Kontonummern;services
+die Quittung;квитанція;die Quittungen;services
+die Post;пошта;;services
+das Postamt;поштове відділення;die Postämter;services
+die Postfiliale;поштове відділення;die Postfilialen;services
+der Brief;лист;die Briefe;services
+die Postkarte;листівка;die Postkarten;services
+das Paket;посилка;die Pakete;services
+das Päckchen;маленька посилка;die Päckchen;services
+der Briefumschlag;конверт;die Briefumschläge;services
+die Briefmarke;поштова марка;die Briefmarken;services
+der Stempel;штамп;die Stempel;services
+der Postbote;листоноша;die Postboten;services
+die Postleitzahl;поштовий індекс;die Postleitzahlen;services
+der Briefkasten;поштова скринька;die Briefkästen;services
+das Einschreiben;рекомендований лист;die Einschreiben;services
+das Postfach;абонентська скринька;die Postfächer;services
+die Adresse;адреса;die Adressen;services
+der Absender;відправник;die Absender;services
+der Empfänger;отримувач;die Empfänger;services
+die Nachnahme;післяплата;die Nachnahmen;services
+die Luftpost;авіапошта;;services
+das Porto;поштовий збір;;services
+der Versand;відправка;;services
+der Friseur;перукар;die Friseure;services
+die Friseurin;перукарка;die Friseurinnen;services
+der Friseursalon;перукарня;die Friseursalons;services
+der Kunde;клієнт;die Kunden;services
+die Kundin;клієнтка;die Kundinnen;services
+der Haarschnitt;стрижка;die Haarschnitte;services
+die Frisur;зачіска;die Frisuren;services
+die Dauerwelle;хімічна завивка;die Dauerwellen;services
+die Haarfarbe;колір волосся;die Haarfarben;services
+das Färben;фарбування;;services
+die Tönung;тонування;die Tönungen;services
+die Strähne;пасмо;die Strähnen;services
+der Pony;чубчик;die Ponys;services
+die Spitzen;кінчики;die Spitzen;services
+die Kopfmassage;масаж голови;die Kopfmassagen;services
+der Spiegel;дзеркало;die Spiegel;services
+der Friseurstuhl;перукарське крісло;die Friseurstühle;services
+das Waschbecken;умивальник;die Waschbecken;services
+die Schere;ножиці;die Scheren;services
+der Kamm;гребінець;die Kämme;services
+die Bürste;щітка;die Bürsten;services
+der Föhn;фен;die Föhne;services
+der Lockenstab;плойка;die Lockenstäbe;services
+das Glätteisen;випрямляч;die Glätteisen;services
+die Haarschneidemaschine;машинка для стрижки;die Haarschneidemaschinen;services
+das Haargummi;гумка для волосся;die Haargummis;services
+die Haarklammer;затискач для волосся;die Haarklammern;services
+die Haarnadel;шпилька;die Haarnadeln;services
+das Haarnetz;сітка для волосся;die Haarnetze;services
+der Umhang;накидка;die Umhänge;services
+der Termin;запис;die Termine;services
+das Shampoo;шампунь;die Shampoos;services
+die Spülung;кондиціонер;die Spülungen;services
+die Haarkur;маска для волосся;die Haarkuren;services
+das Haarspray;лак для волосся;die Haarsprays;services
+das Haargel;гель для волосся;die Haargele;services
+der Haarschaum;пінка;die Haarschäume;services
+die Pomade;помада для волосся;die Pomaden;services
+die Haarverlängerung;нарощування волосся;die Haarverlängerungen;services
+die Blondierung;освітлення;die Blondierungen;services
+das Strähnchen;мелірування;die Strähnchen;services
+die Balayage;балаяж;die Balayagen;services
+der Bob;боб;die Bobs;services
+der Kurzhaarschnitt;коротка стрижка;die Kurzhaarschnitte;services
+der Stufenschnitt;каскадна стрижка;die Stufenschnitte;services
+der Herrenhaarschnitt;чоловіча стрижка;die Herrenhaarschnitte;services
+der Damenhaarschnitt;жіноча стрижка;die Damenhaarschnitte;services
+die Bartpflege;догляд за бородою;;services
+schneiden;стригти;;services
+föhnen;сушити феном;;services
+die Autowerkstatt;автосервіс;die Autowerkstätten;services
+der Mechaniker;механік;die Mechaniker;services
+die Reparatur;ремонт;die Reparaturen;services
+das Auto;автомобіль;die Autos;services
+der Motor;двигун;die Motoren;services
+die Karosserie;кузов;die Karosserien;services
+der Reifen;шина;die Reifen;services
+der Ölwechsel;заміна масла;die Ölwechsel;services
+die Zündkerze;свічка запалювання;die Zündkerzen;services
+die Batterie;акумулятор;die Batterien;services
+die Bremse;гальмо;die Bremsen;services
+der Auspuff;вихлопна труба;die Auspuffe;services
+das Lenkrad;кермо;die Lenkräder;services
+der Scheibenwischer;склоочисник;die Scheibenwischer;services
+die Windschutzscheibe;лобове скло;die Windschutzscheiben;services
+der Kühlergrill;решітка радіатора;die Kühlergrille;services
+die Stoßstange;бампер;die Stoßstangen;services
+der Kotflügel;крило;die Kotflügel;services
+die Motorhaube;капот;die Motorhauben;services
+der Kofferraum;багажник;die Kofferräume;services
+der Blinker;покажчик повороту;die Blinker;services
+das Rücklicht;задній ліхтар;die Rücklichter;services
+der Scheinwerfer;фара;die Scheinwerfer;services
+das Ersatzteil;запчастина;die Ersatzteile;services
+die Werkzeugkiste;ящик для інструментів;die Werkzeugkisten;services
+der Schraubenschlüssel;гайковий ключ;die Schraubenschlüssel;services
+der Schraubenzieher;викрутка;die Schraubenzieher;services
+die Zange;плоскогубці;die Zangen;services
+der Wagenheber;домкрат;die Wagenheber;services
+die Hebebühne;підйомник;die Hebebühnen;services
+die Reifenpanne;прокол шини;die Reifenpannen;services
+der Plattfuß;спущена шина;die Plattfüße;services
+der Abschleppdienst;служба евакуації;die Abschleppdienste;services
+die Versicherung;страховка;die Versicherungen;services
+die Inspektion;техогляд;die Inspektionen;services
+die Hauptuntersuchung;основний техогляд;die Hauptuntersuchungen;services
+der TÜV;ТЮФ;;services
+die Reparaturwerkstatt;ремонтна майстерня;die Reparaturwerkstätten;services
+der Diagnosetest;діагностичний тест;die Diagnosetests;services
+das Motoröl;моторне масло;die Motoröle;services
+das Kühlwasser;охолоджувальна рідина;;services
+der Keilriemen;клиновий ремінь;die Keilriemen;services
+die Lichtmaschine;генератор;die Lichtmaschinen;services
+der Anlasser;стартер;die Anlasser;services
+das Getriebe;коробка передач;die Getriebe;services
+die Kupplung;зчеплення;die Kupplungen;services
+das Fahrgestell;шасі;die Fahrgestelle;services
+reparieren;ремонтувати;;services
+wechseln;міняти;;services
+abschleppen;буксирувати;;services
+der Polizist;поліцейський;die Polizisten;services
+die Polizistin;жінка-поліцейський;die Polizistinnen;services
+die Feuerwehr;пожежна служба;die Feuerwehren;services
+der Feuerwehrmann;пожежник;die Feuerwehrmänner;services
+der Rettungswagen;автомобіль швидкої допомоги;die Rettungswagen;services
+der Krankenwagen;карета швидкої допомоги;die Krankenwagen;services
+der Notruf;екстрений виклик;die Notrufe;services
+die Notrufnummer;номер екстреної служби;die Notrufnummern;services
+der Unfall;аварія;die Unfälle;services
+der Diebstahl;крадіжка;die Diebstähle;services
+der Einbruch;крадіжка з проникненням;die Einbrüche;services
+der Raub;грабіж;die Raube;services
+der Überfall;напад;die Überfälle;services
+die Verletzung;травма;die Verletzungen;services
+der Kranke;постраждалий;die Kranken;services
+die Hilfe;допомога;die Hilfen;services
+der Notarzt;лікар швидкої допомоги;die Notärzte;services
+das Krankenhaus;лікарня;die Krankenhäuser;services
+die Polizeiwache;поліцейська дільниця;die Polizeiwachen;services
+der Zeuge;свідок;die Zeugen;services
+die Zeugin;свідчиця;die Zeuginnen;services
+der Täter;злочинець;die Täter;services
+das Opfer;жертва;die Opfer;services
+der Alarm;тривога;die Alarme;services
+der Notausgang;аварійний вихід;die Notausgänge;services
+die Erste Hilfe;перша допомога;;services
+der Feuerlöscher;вогнегасник;die Feuerlöscher;services
+das Polizeiauto;поліцейська машина;die Polizeiautos;services
+die Sirene;сирена;die Sirenen;services
+der Hubschrauber;вертоліт;die Hubschrauber;services
+die Rettung;рятування;die Rettungen;services
+der Rettungsdienst;служба порятунку;die Rettungsdienste;services
+das Blaulicht;синій проблисковий маячок;die Blaulichter;services
+die Gefahr;небезпека;die Gefahren;services
+der Notfall;надзвичайна ситуація;die Notfälle;services
+die Sicherheit;безпека;;services
+die Festnahme;затримання;die Festnahmen;services
+die Anzeige;заява;die Anzeigen;services
+der Verdächtige;підозрюваний;die Verdächtigen;services
+der Fingerabdruck;відбиток пальця;die Fingerabdrücke;services
+der Beweis;доказ;die Beweise;services
+die Spurensicherung;криміналістична експертиза;die Spurensicherungen;services
+der Dieb;злодій;die Diebe;services
+der Räuber;грабіжник;die Räuber;services
+anrufen;телефонувати;;services
+melden;повідомляти;;services
+helfen;допомагати;;services
+fliehen;тікати;;services
+festnehmen;заарештовувати;;services
+die Polizei;поліція;die Polizeien;services

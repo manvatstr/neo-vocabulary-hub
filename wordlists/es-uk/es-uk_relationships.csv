@@ -1,0 +1,200 @@
+amigo;друг;amigos;relationships
+amiga;подруга;amigas;relationships
+amistad;дружба;amistades;relationships
+compañero;товариш;compañeros;relationships
+compañera;товаришка;compañeras;relationships
+conocido;знайомий;conocidos;relationships
+conocida;знайома;conocidas;relationships
+colega;колега;colegas;relationships
+pandilla;компанія;pandillas;relationships
+confianza;довіра;confianzas;relationships
+lealtad;вірність;lealtades;relationships
+apoyo;підтримка;apoyos;relationships
+cariño;ніжність;cariños;relationships
+respeto;повага;respetos;relationships
+sinceridad;щирість;sinceridades;relationships
+honestidad;чесність;honestidades;relationships
+comprensión;розуміння;comprensiones;relationships
+paciencia;терпіння;paciencias;relationships
+humor;гумор;humores;relationships
+risa;сміх;risas;relationships
+abrazo;обійми;abrazos;relationships
+beso;поцілунок;besos;relationships
+recuerdo;спогад;recuerdos;relationships
+secreto;секрет;secretos;relationships
+promesa;обіцянка;promesas;relationships
+perdón;прощення;;relationships
+solidaridad;солідарність;solidaridades;relationships
+empatía;емпатія;empatías;relationships
+gratitud;вдячність;gratitudes;relationships
+celos;ревнощі;;relationships
+envidia;заздрість;envidias;relationships
+conflicto;конфлікт;conflictos;relationships
+discusión;суперечка;discusiones;relationships
+pelea;сварка;peleas;relationships
+reunión;зустріч;reuniones;relationships
+cita;побачення;citas;relationships
+quedada;посиденьки;quedadas;relationships
+fiesta;вечірка;fiestas;relationships
+celebración;святкування;celebraciones;relationships
+aniversario;річниця;aniversarios;relationships
+regalo;подарунок;regalos;relationships
+confiar;довіряти;;relationships
+apoyar;підтримувати;;relationships
+compartir;ділитися;;relationships
+escuchar;слухати;;relationships
+perdonar;пробачати;;relationships
+reconciliarse;миритися;;relationships
+ayudar;допомагати;;relationships
+animar;підбадьорювати;;relationships
+bromear;жартувати;;relationships
+la fiesta;вечірка;las fiestas;relationships
+la invitación;запрошення;las invitaciones;relationships
+el invitado;гість;los invitados;relationships
+el anfitrión;господар;los anfitriones;relationships
+el amigo;друг;los amigos;relationships
+la cita;побачення;las citas;relationships
+el baile;танець;los bailes;relationships
+la música;музика;las músicas;relationships
+la canción;пісня;las canciones;relationships
+el brindis;тост;los brindis;relationships
+la copa;келих;las copas;relationships
+la bebida;напій;las bebidas;relationships
+la charla;розмова;las charlas;relationships
+la conversación;бесіда;las conversaciones;relationships
+el saludo;привітання;los saludos;relationships
+la despedida;прощання;las despedidas;relationships
+el abrazo;обійма;los abrazos;relationships
+el beso;поцілунок;los besos;relationships
+la pareja;пара;las parejas;relationships
+la celebración;святкування;las celebraciones;relationships
+el cumpleaños;день народження;los cumpleaños;relationships
+la sorpresa;сюрприз;las sorpresas;relationships
+el regalo;подарунок;los regalos;relationships
+la diversión;розвага;las diversiones;relationships
+el juego;гра;los juegos;relationships
+la risa;сміх;las risas;relationships
+la sonrisa;усмішка;las sonrisas;relationships
+el chiste;жарт;los chistes;relationships
+la reunión;зустріч;las reuniones;relationships
+la confianza;довіра;;relationships
+invitar;запрошувати;;relationships
+quedar;зустрічатися;;relationships
+bailar;танцювати;;relationships
+charlar;розмовляти;;relationships
+celebrar;святкувати;;relationships
+brindar;тостувати;;relationships
+despedirse;прощатися;;relationships
+saludar;вітатися;;relationships
+abrazar;обіймати;;relationships
+besar;цілувати;;relationships
+reírse;сміятися;;relationships
+sonreír;усміхатися;;relationships
+contar;розповідати;;relationships
+discutir;обговорювати;;relationships
+compartir;ділитися;;relationships
+divertirse;веселитися;;relationships
+conocer;знайомитися;;relationships
+presentar;знайомити;;relationships
+cotillear;пліткувати;;relationships
+confiar;довіряти;;relationships
+la discusión;суперечка;las discusiones;relationships
+el conflicto;конфлікт;los conflictos;relationships
+la pelea;бійка;las peleas;relationships
+el malentendido;непорозуміння;los malentendidos;relationships
+la ofensa;образа;las ofensas;relationships
+el insulto;образа;los insultos;relationships
+la disculpa;вибачення;las disculpas;relationships
+el perdón;пробачення;los perdones;relationships
+la reconciliación;примирення;las reconciliaciones;relationships
+el arrepentimiento;каяття;los arrepentimientos;relationships
+la queja;скарга;las quejas;relationships
+el reproche;докір;los reproches;relationships
+la crítica;критика;las críticas;relationships
+el acuerdo;згода;los acuerdos;relationships
+el desacuerdo;незгода;los desacuerdos;relationships
+el grito;крик;los gritos;relationships
+el silencio;мовчання;los silencios;relationships
+la lágrima;сльоза;las lágrimas;relationships
+la culpa;вина;las culpas;relationships
+la mentira;брехня;las mentiras;relationships
+la verdad;правда;las verdades;relationships
+el engaño;обман;los engaños;relationships
+la confianza;довіра;las confianzas;relationships
+la desconfianza;недовіра;las desconfianzas;relationships
+el respeto;повага;los respetos;relationships
+la falta de respeto;неповага;las faltas de respeto;relationships
+la ira;лють;las iras;relationships
+el odio;ненависть;los odios;relationships
+el resentimiento;образа;los resentimientos;relationships
+la venganza;помста;las venganzas;relationships
+el rencor;злопам'ятність;los rencores;relationships
+pedir disculpas;просити вибачення;;relationships
+disculparse;вибачатися;;relationships
+perdonar;пробачати;;relationships
+ofender;ображати;;relationships
+insultar;ображати;;relationships
+gritar;кричати;;relationships
+llorar;плакати;;relationships
+quejarse;скаржитися;;relationships
+criticar;критикувати;;relationships
+acusar;звинувачувати;;relationships
+culpar;звинувачувати;;relationships
+arrepentirse;каятися;;relationships
+reconciliarse;миритися;;relationships
+enfadarse;сердитися;;relationships
+calmarse;заспокоюватися;;relationships
+ignorar;ігнорувати;;relationships
+hacer las paces;миритися;;relationships
+enfadado;сердитий;enfadados;relationships
+ofendido;ображений;ofendidos;relationships
+el amor;кохання;los amores;relationships
+la cita;побачення;las citas;relationships
+el novio;хлопець;los novios;relationships
+la novia;дівчина;las novias;relationships
+salir;зустрічатися;;relationships
+enamorarse;закохатися;;relationships
+besar;цілувати;;relationships
+el beso;поцілунок;los besos;relationships
+abrazar;обіймати;;relationships
+el abrazo;обійми;los abrazos;relationships
+la pareja;пара;las parejas;relationships
+el corazón;серце;los corazones;relationships
+romántico;романтичний;románticos;relationships
+querer;кохати;;relationships
+gustar;подобатися;;relationships
+la cita a ciegas;побачення наосліп;las citas a ciegas;relationships
+el flechazo;кохання з першого погляду;los flechazos;relationships
+coquetear;фліртувати;;relationships
+el piropo;комплімент;los piropos;relationships
+la relación;стосунки;las relaciones;relationships
+el compromiso;заручини;los compromisos;relationships
+casarse;одружитися;;relationships
+la boda;весілля;las bodas;relationships
+el matrimonio;шлюб;los matrimonios;relationships
+la luna de miel;медовий місяць;las lunas de miel;relationships
+el anillo de compromiso;обручка;los anillos de compromiso;relationships
+el regalo;подарунок;los regalos;relationships
+la sorpresa;сюрприз;las sorpresas;relationships
+la cita romántica;романтичне побачення;las citas románticas;relationships
+la primera cita;перше побачення;las primeras citas;relationships
+la pareja perfecta;ідеальна пара;las parejas perfectas;relationships
+la atracción;потяг;las atracciones;relationships
+la cena a la luz de las velas;вечеря при свічках;las cenas a la luz de las velas;relationships
+el ramo de flores;букет квітів;los ramos de flores;relationships
+la rosa;троянда;las rosas;relationships
+el chocolate;шоколад;los chocolates;relationships
+el poema;вірш;los poemas;relationships
+la canción de amor;пісня про кохання;las canciones de amor;relationships
+el detalle;знак уваги;los detalles;relationships
+la serenata;серенада;las serenatas;relationships
+la declaración de amor;освідчення в коханні;las declaraciones de amor;relationships
+el corazón roto;розбите серце;los corazones rotos;relationships
+la ruptura;розрив;las rupturas;relationships
+discutir;сперечатися;;relationships
+perdonar;прощати;;relationships
+confiar;довіряти;;relationships
+la confianza;довіра;las confianzas;relationships
+los celos;ревнощі;;relationships
+la discusión;суперечка;las discusiones;relationships
+la reconciliación;примирення;las reconciliaciones;relationships

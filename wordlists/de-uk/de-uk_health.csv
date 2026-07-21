@@ -1,50 +1,200 @@
+der Kopf;голова;die Köpfe;health
+das Gesicht;обличчя;die Gesichter;health
+die Stirn;лоб;die Stirnen;health
+das Auge;око;die Augen;health
+die Augenbraue;брова;die Augenbrauen;health
+das Augenlid;повіка;die Augenlider;health
+die Wimper;вія;die Wimpern;health
+die Nase;ніс;die Nasen;health
+das Ohr;вухо;die Ohren;health
+der Mund;рот;die Münder;health
+die Lippe;губа;die Lippen;health
+der Zahn;зуб;die Zähne;health
+die Zunge;язик;die Zungen;health
+der Hals;шия;die Hälse;health
+die Schulter;плече;die Schultern;health
+der Arm;рука (від плеча до кисті);die Arme;health
+der Ellenbogen;лікоть;die Ellenbogen;health
+der Unterarm;передпліччя;die Unterarme;health
+das Handgelenk;зап'ястя;die Handgelenke;health
+die Hand;кисть руки;die Hände;health
+der Finger;палець (на руці);die Finger;health
+der Daumen;великий палець руки;die Daumen;health
+der Zeigefinger;вказівний палець;die Zeigefinger;health
+der Mittelfinger;середній палець;die Mittelfinger;health
+der Ringfinger;підмізинний палець;die Ringfinger;health
+der kleine Finger;мізинець;die kleinen Finger;health
+die Brust;груди;die Brüste;health
+der Bauch;живіт;die Bäuche;health
+der Rücken;спина;die Rücken;health
+das Bein;нога;die Beine;health
+das Knie;коліно;die Knie;health
+der Oberschenkel;стегно;die Oberschenkel;health
+der Unterschenkel;гомілка;die Unterschenkel;health
+der Knöchel;щиколотка;die Knöchel;health
+der Fuß;стопа;die Füße;health
+die Zehe;палець ноги;die Zehen;health
+der Zeh;палець на нозі;die Zehen;health
+die Ferse;п'ята;die Fersen;health
+die Haut;шкіра;die Häute;health
+der Knochen;кістка;die Knochen;health
+das Gelenk;суглоб;die Gelenke;health
+der Muskel;м'яз;die Muskeln;health
+die Sehne;сухожилля;die Sehnen;health
+das Blut;кров;;health
+der Nerv;нерв;die Nerven;health
+das Gehirn;мозок;die Gehirne;health
+das Herz;серце;die Herzen;health
+die Lunge;легеня;die Lungen;health
+der Magen;шлунок;die Mägen;health
+die Leber;печінка;die Lebern;health
+die Erkältung;застуда;die Erkältungen;health
+der Husten;кашель;die Husten;health
+der Schnupfen;нежить;die Schnupfen;health
+das Fieber;лихоманка;;health
+die Grippe;грип;die Grippen;health
+die Halsschmerzen;біль у горлі;;health
+die Kopfschmerzen;головний біль;;health
+die Bauchschmerzen;біль у животі;;health
+die Übelkeit;нудота;;health
+der Durchfall;діарея;die Durchfälle;health
+die Verstopfung;запор;die Verstopfungen;health
+der Schwindel;запаморочення;;health
+die Allergie;алергія;die Allergien;health
+der Ausschlag;висип;die Ausschläge;health
+die Blase;пухир;die Blasen;health
+der Bluterguss;синець;die Blutergüsse;health
+die Prellung;забій;die Prellungen;health
+der Knochenbruch;перелом;die Knochenbrüche;health
+die Verstauchung;розтягнення зв'язок;die Verstauchungen;health
+die Verbrennung;опік;die Verbrennungen;health
+die Vergiftung;отруєння;die Vergiftungen;health
+die Ohrenschmerzen;біль у вухах;;health
+die Zahnschmerzen;зубний біль;;health
+der Insektenstich;укус комахи;die Insektenstiche;health
+der Sonnenbrand;сонячний опік;;health
+die Migräne;мігрень;die Migränen;health
+die Heiserkeit;хрипота;;health
+die Atemnot;задишка;;health
+die Schlaflosigkeit;безсоння;;health
+die Appetitlosigkeit;відсутність апетиту;;health
+die Müdigkeit;втома;;health
+die Schwäche;слабкість;die Schwächen;health
+der Schüttelfrost;озноб;;health
+der Krampf;судома;die Krämpfe;health
+die Schwellung;набряк;die Schwellungen;health
+der Juckreiz;свербіж;;health
+der Niesreiz;чхання;die Niesreize;health
+die laufende Nase;нежить;die laufenden Nasen;health
+der Schmerz;біль;die Schmerzen;health
+die Entzündung;запалення;die Entzündungen;health
+die Infektion;інфекція;die Infektionen;health
+die Wunde;рана;die Wunden;health
+der Schnitt;поріз;die Schnitte;health
+die Platzwunde;рвана рана;die Platzwunden;health
+der Splitter;заноза;die Splitter;health
+die Blutung;кровотеча;die Blutungen;health
+das Nasenbluten;носова кровотеча;;health
+der Pickel;прищ;die Pickel;health
+die Warze;бородавка;die Warzen;health
+der Herpes;герпес;;health
 der Arzt;лікар;die Ärzte;health
 die Ärztin;лікарка;die Ärztinnen;health
-das Krankenhaus;лікарня;die Krankenhäuser;health
-die Apotheke;аптека;die Apotheken;health
-das Medikament;ліки;die Medikamente;health
-die Gesundheit;здоров'я;;health
-die Krankheit;хвороба;die Krankheiten;health
 der Patient;пацієнт;die Patienten;health
 die Patientin;пацієнтка;die Patientinnen;health
-die Untersuchung;обстеження;die Untersuchungen;health
-die Diagnose;діагноз;die Diagnosen;health
-die Therapie;терапія;die Therapien;health
-die Operation;операція;die Operationen;health
+die Apotheke;аптека;die Apotheken;health
+das Rezept;рецепт;die Rezepte;health
+die Tablette;таблетка;die Tabletten;health
+die Pille;пігулка;die Pillen;health
+der Husten;кашель;;health
+der Schnupfen;нежить;;health
+das Fieber;гарячка;;health
 der Schmerz;біль;die Schmerzen;health
-das Fieber;жар;die Fieber;health
-die Erkältung;застуда;die Erkältungen;health
-die Grippe;грип;die Grippen;health
-die Impfung;щеплення;die Impfungen;health
+die Kopfschmerzen;головний біль;;health
+die Halsschmerzen;біль у горлі;;health
+die Bauchschmerzen;біль у животі;;health
+die Rückenschmerzen;біль у спині;;health
+der Durchfall;діарея;;health
+die Übelkeit;нудота;;health
+das Erbrechen;блювання;;health
 die Allergie;алергія;die Allergien;health
-die Verletzung;травма;die Verletzungen;health
+der Ausschlag;висип;die Ausschläge;health
 die Wunde;рана;die Wunden;health
 der Verband;пов'язка;die Verbände;health
-die Tablette;таблетка;die Tabletten;health
-der Sirup;сироп;die Sirupe;health
+das Pflaster;пластир;die Pflaster;health
 die Spritze;укол;die Spritzen;health
+die Impfung;щеплення;die Impfungen;health
+die Krankheit;хвороба;die Krankheiten;health
+die Erkältung;застуда;die Erkältungen;health
+die Grippe;грип;;health
+die Infektion;інфекція;die Infektionen;health
+das Antibiotikum;антибіотик;die Antibiotika;health
 die Salbe;мазь;die Salben;health
+die Creme;крем;die Cremes;health
+der Blutdruck;кров'яний тиск;;health
+das Fieberthermometer;градусник;die Fieberthermometer;health
+der Termin;прийом;die Termine;health
+die Sprechstunde;прийомні години;die Sprechstunden;health
+die Krankschreibung;лікарняний;die Krankschreibungen;health
+die Überweisung;направлення;die Überweisungen;health
+die Krankenkasse;медична страховка;die Krankenkassen;health
+die Versicherungskarte;страховий поліс;die Versicherungskarten;health
+der Hustensaft;сироп від кашлю;die Hustensäfte;health
+die Augentropfen;очні краплі;;health
+der Nasenspray;спрей для носа;die Nasensprays;health
+das Schmerzmittel;знеболювальне;die Schmerzmittel;health
+der Arztbesuch;візит до лікаря;die Arztbesuche;health
+die Untersuchung;обстеження;die Untersuchungen;health
+die Diagnose;діагноз;die Diagnosen;health
+die Behandlung;лікування;die Behandlungen;health
+die Nebenwirkung;побічна дія;die Nebenwirkungen;health
+die Gesundheit;здоров'я;;health
+der Lebensstil;спосіб життя;die Lebensstile;health
 die Ernährung;харчування;;health
-die Diät;дієта;die Diäten;health
-die Bewegung;рух;;health
+das Obst;фрукти;;health
+das Gemüse;овочі;;health
+der Apfel;яблуко;die Äpfel;health
+die Banane;банан;die Bananen;health
+die Karotte;морква;die Karotten;health
+der Salat;салат;die Salate;health
+das Wasser;вода;;health
+der Tee;чай;die Tees;health
 der Sport;спорт;;health
+die Bewegung;рух;die Bewegungen;health
+das Training;тренування;die Trainings;health
 die Fitness;фітнес;;health
-das Gewicht;вага;die Gewichte;health
-der Blutdruck;тиск;die Blutdrücke;health
-der Puls;пульс;die Pulse;health
-die Atmung;дихання;;health
+die Übung;вправа;die Übungen;health
+der Muskel;м'яз;die Muskeln;health
+die Ausdauer;витривалість;;health
+die Kraft;сила;die Kräfte;health
+die Entspannung;розслаблення;;health
 der Schlaf;сон;;health
 die Müdigkeit;втома;;health
 der Stress;стрес;;health
-die Entspannung;розслаблення;;health
-die Hygiene;гігієна;;health
-die Zahnbürste;зубна щітка;die Zahnbürsten;health
-die Zahnpasta;зубна паста;die Zahnpasten;health
-das Desinfektionsmittel;дезінфікуючий засіб;die Desinfektionsmittel;health
-der Mundschutz;медична маска;die Mundschutze;health
-die Vorsorge;профілактика;die Vorsorgen;health
-der Notfall;надзвичайна ситуація;die Notfälle;health
-der Krankenwagen;швидка допомога;die Krankenwagen;health
-die Rehabilitation;реабілітація;die Rehabilitationen;health
-die Physiotherapie;фізіотерапія;die Physiotherapien;health
-die Psychologie;психологія;;health
+die Achtsamkeit;уважність;;health
+die Meditation;медитація;die Meditationen;health
+das Wohlbefinden;благополуччя;;health
+die Gewohnheit;звичка;die Gewohnheiten;health
+die Ernährungsumstellung;зміна харчування;die Ernährungsumstellungen;health
+die Kalorie;калорія;die Kalorien;health
+das Fett;жир;die Fette;health
+der Zucker;цукор;;health
+das Salz;сіль;;health
+das Vitamin;вітамін;die Vitamine;health
+der Nährstoff;поживна речовина;die Nährstoffe;health
+die Portion;порція;die Portionen;health
+die Diät;дієта;die Diäten;health
+der Body-Mass-Index;індекс маси тіла;;health
+der Blutdruck;кров'яний тиск;;health
+das Immunsystem;імунна система;die Immunsysteme;health
+die Allergie;алергія;die Allergien;health
+der Arzt;лікар;die Ärzte;health
+die Apotheke;аптека;die Apotheken;health
+das Medikament;ліки;die Medikamente;health
+die Impfung;вакцинація;die Impfungen;health
+die Krankheit;хвороба;die Krankheiten;health
+die Heilung;зцілення;die Heilungen;health
+das Krankenhaus;лікарня;die Krankenhäuser;health
+die Krankenversicherung;медичне страхування;die Krankenversicherungen;health
+gesund;здоровий;;health
+sich bewegen;рухатися;;health

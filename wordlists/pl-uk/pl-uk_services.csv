@@ -1,0 +1,200 @@
+bank;банк;m;services
+konto;рахунок;n;services
+karta kredytowa;кредитна картка;f;services
+pieniądze;гроші;pl;services
+gotówka;готівка;f;services
+czek;чек;m;services
+przelew;переказ;m;services
+wpłata;внесок;f;services
+wypłata;виплата;f;services
+bankomat;банкомат;m;services
+oddział;відділення;m;services
+rachunek;рахунок;m;services
+oszczędności;заощадження;pl;services
+kredyt;кредит;m;services
+pożyczka;позика;f;services
+odsetki;відсотки;pl;services
+waluta;валюта;f;services
+kurs wymiany;обмінний курс;m;services
+kantor;обмінний пункт;m;services
+karta płatnicza;платіжна картка;f;services
+PIN;PIN-код;m;services
+wyciąg bankowy;банківська виписка;m;services
+lokata;депозит;f;services
+ubezpieczenie;страхування;n;services
+formularz;формуляр;m;services
+podpis;підпис;m;services
+dowód osobisty;посвідчення особи;m;services
+banknot;банкнота;m;services
+moneta;монета;f;services
+reszta;решта;f;services
+wpłacić;внести;;services
+wypłacić;зняти;;services
+przelać;переказати;;services
+poczta;пошта;f;services
+list;лист;m;services
+paczka;посилка;f;services
+znaczek pocztowy;поштова марка;m;services
+koperta;конверт;f;services
+adres;адреса;m;services
+nadawca;відправник;m;services
+odbiorca;одержувач;m;services
+kod pocztowy;поштовий індекс;m;services
+skrytka pocztowa;абонентська скринька;f;services
+list polecony;рекомендований лист;m;services
+paczkomat;пачкомат;m;services
+przekaz pocztowy;поштовий переказ;m;services
+awizo;авізо;n;services
+doręczenie;доставка;n;services
+listonosz;листоноша;m;services
+stempel;штемпель;m;services
+fryzjer;перукар;m;services
+fryzjerka;перукарка;f;services
+salon;салон;m;services
+nożyczki;ножиці;pl;services
+grzebień;гребінець;m;services
+szczotka;щітка;f;services
+suszarka;фен;f;services
+maszynka;машинка;f;services
+lokówka;плойка;f;services
+prostownica;випрямляч;f;services
+farba;фарба;f;services
+szampon;шампунь;m;services
+odżywka;кондиціонер;f;services
+maska;маска;f;services
+balsam;бальзам;m;services
+pianka;пінка;f;services
+lakier;лак;m;services
+żel;гель;m;services
+pasta;паста;f;services
+wosk;віск;m;services
+spray;спрей;m;services
+strzyżenie;стрижка;n;services
+modelowanie;укладка;n;services
+farbowanie;фарбування;n;services
+rozjaśnianie;освітлення;n;services
+ondulacja;завивка;f;services
+lok;локон;m;services
+fala;хвиля;f;services
+grzywka;чубчик;f;services
+pasemko;пасмо;n;services
+balejaż;балаяж;m;services
+ombre;омбре;n;services
+degaż;філірування;m;services
+golenie;гоління;n;services
+broda;борода;f;services
+wąs;вус;m;services
+trymer;тример;m;services
+brzytwa;бритва;f;services
+ręcznik;рушник;m;services
+peleryna;накидка;f;services
+fotel;крісло;m;services
+lustro;дзеркало;n;services
+umywalka;раковина;f;services
+wizyta;візит;f;services
+umawianie;запис;n;services
+termin;термін;m;services
+fryzura;зачіска;f;services
+stylizacja;стайлінг;f;services
+kosmetyk;косметика;m;services
+płukanka;ополіскувач;f;services
+mechanik;механік;mechanicy;services
+warsztat;майстерня;warsztaty;services
+część;деталь;części;services
+narzędzie;інструмент;narzędzia;services
+klucz;ключ;klucze;services
+śruba;болт;śruby;services
+opona;шина;opony;services
+silnik;двигун;silniki;services
+hamulec;гальмо;hamulce;services
+olej;масло;oleje;services
+paliwo;паливо;paliwa;services
+akumulator;акумулятор;akumulatory;services
+świeca;свічка;świece;services
+filtr;фільтр;filtry;services
+wydech;вихлоп;wydechy;services
+tłumik;глушник;tłumiki;services
+katalizator;каталізатор;katalizatory;services
+sprzęgło;зчеплення;sprzęgła;services
+skrzynia biegów;коробка передач;skrzynie biegów;services
+pasek rozrządu;ремінь ГРМ;paski rozrządu;services
+naprawa;ремонт;naprawy;services
+wymiana;заміна;wymiany;services
+regulacja;регулювання;regulacje;services
+smarowanie;змащування;smarowania;services
+holowanie;буксирування;holowania;services
+lakierowanie;фарбування;lakierowania;services
+spawanie;зварювання;spawania;services
+wyważanie kół;балансування коліс;wyważania kół;services
+geometria kół;розвал-сходження;geometrie kół;services
+przegląd;огляд;przeglądy;services
+rejestracja;реєстрація;rejestracje;services
+ubezpieczenie;страхування;ubezpieczenia;services
+pomoc drogowa;допомога на дорозі;;services
+laweta;евакуатор;lawety;services
+podnośnik;підйомник;podnośniki;services
+kompresor;компресор;kompresory;services
+myjnia;мийка;myjnie;services
+uszczelka;прокладка;uszczelki;services
+cylinder;циліндр;cylindry;services
+alternator;генератор;alternatory;services
+rozrusznik;стартер;rozruszniki;services
+chłodnica;радіатор;chłodnice;services
+pasek klinowy;клиновий ремінь;paski klinowe;services
+blacharz;бляхар;blacharze;services
+lakiernik;маляр;lakiernicy;services
+wulkanizacja;вулканізація;wulkanizacje;services
+olej silnikowy;моторне масло;oleje silnikowe;services
+naprawiać;ремонтувати;;services
+wymieniać;заміняти;;services
+sprawdzać;перевіряти;;services
+policjant;поліцейський;policjanci;services
+policjantka;поліцейська;policjantki;services
+policja;поліція;;services
+posterunek policji;поліцейський відділок;posterunki policji;services
+radiowóz;поліцейська машина;radiowozy;services
+mundur;форма;mundury;services
+odznaka;значок;odznaki;services
+kajdanki;наручники;pl;services
+areszt;арешт;areszty;services
+przestępca;злочинець;przestępcy;services
+ofiara;жертва;ofiary;services
+świadek;свідок;świadkowie;services
+zgłoszenie;повідомлення;zgłoszenia;services
+patrol;патруль;patrole;services
+dochodzenie;розслідування;dochodzenia;services
+śledztwo;слідство;śledztwa;services
+alarm;тривога;alarmy;services
+pożar;пожежа;pożary;services
+straż pożarna;пожежна охорона;;services
+strażak;пожежник;strażacy;services
+karetka pogotowia;швидка допомога;karetki pogotowia;services
+ratownik medyczny;медичний рятувальник;ratownicy medyczni;services
+wypadek;нещасний випадок;wypadki;services
+katastrofa;катастрофа;katastrofy;services
+pomoc;допомога;;services
+numer alarmowy;номер екстреної служби;numery alarmowe;services
+ucieczka;втеча;ucieczki;services
+napad;напад;napady;services
+kradzież;крадіжка;kradzieże;services
+włamanie;злом;włamania;services
+przemoc;насильство;;services
+broń;зброя;;services
+nóż;ніж;noże;services
+niebezpieczeństwo;небезпека;niebezpieczeństwa;services
+lawina;лавина;lawiny;services
+powódź;повінь;powodzie;services
+trzęsienie ziemi;землетрус;trzęsienia ziemi;services
+ewakuacja;евакуація;ewakuacje;services
+schron;укриття;schrony;services
+apteczka pierwszej pomocy;аптечка першої допомоги;apteczki pierwszej pomocy;services
+defibrylator;дефібрилятор;defibrylatory;services
+ranny;поранений;ranni;services
+poszkodowany;постраждалий;poszkodowani;services
+zaginiony;зниклий безвісти;zaginieni;services
+poszukiwania;пошуки;pl;services
+helikopter ratunkowy;рятувальний гелікоптер;helikoptery ratunkowe;services
+służby ratunkowe;екстрені служби;pl;services
+zgłosić;повідомити;;services
+wezwać pomoc;викликати допомогу;;services
+pierwsza pomoc;перша допомога;;services

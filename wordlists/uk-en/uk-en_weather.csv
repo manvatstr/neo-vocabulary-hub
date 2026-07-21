@@ -1,53 +1,200 @@
-rain;дощ;м.р.;weather
-snow;сніг;м.р.;weather
-wind;вітер;м.р.;weather
-sun;сонце;с.р.;weather
-cloud;хмара;ж.р.;weather
-storm;буря;ж.р.;weather
-thunder;грім;м.р.;weather
-lightning;блискавка;ж.р.;weather
-fog;туман;м.р.;weather
-hail;град;м.р.;weather
-temperature;температура;ж.р.;weather
-humidity;вологість;ж.р.;weather
-pressure;тиск;м.р.;weather
-forecast;прогноз;м.р.;weather
-drizzle;мряка;ж.р.;weather
-breeze;легкий вітер;м.р.;weather
-gale;штормовий вітер;м.р.;weather
-hurricane;ураган;м.р.;weather
-tornado;торнадо;с.р.;weather
-blizzard;хуртовина;ж.р.;weather
-frost;мороз;м.р.;weather
-ice;лід;м.р.;weather
-dew;роса;ж.р.;weather
-mist;імла;ж.р.;weather
-heatwave;спека;ж.р.;weather
-cold;холод;м.р.;weather
-chill;прохолода;ж.р.;weather
-shower;злива;ж.р.;weather
-downpour;злива;ж.р.;weather
-drought;посуха;ж.р.;weather
-flood;повінь;ж.р.;weather
-sky;небо;с.р.;weather
-sunshine;сонячне світло;с.р.;weather
-overcast;похмура погода;ж.р.;weather
-clear;ясно;с.р.;weather
-partly cloudy;мінлива хмарність;ж.р.;weather
-rainbow;веселка;ж.р.;weather
-sleet;мокрий сніг;м.р.;weather
-avalanche;лавина;ж.р.;weather
-monsoon;мусон;м.р.;weather
-typhoon;тайфун;м.р.;weather
-cyclone;циклон;м.р.;weather
-anticyclone;антициклон;м.р.;weather
-barometer;барометр;м.р.;weather
-thermometer;термометр;м.р.;weather
-anemometer;анемометр;м.р.;weather
-precipitation;опади;мн.;weather
-climate;клімат;м.р.;weather
-season;пора року;ж.р.;weather
-spring;весна;ж.р.;weather
-summer;літо;с.р.;weather
-autumn;осінь;ж.р.;weather
-winter;зима;ж.р.;weather
+season;сезон;m;weather
+spring;весна;f;weather
+summer;літо;n;weather
+autumn;осінь;f;weather
+winter;зима;f;weather
+climate;клімат;m;weather
+weather;погода;f;weather
+forecast;прогноз;m;weather
+temperature;температура;f;weather
+degree;градус;m;weather
+rain;дощ;m;weather
+snow;сніг;m;weather
+wind;вітер;m;weather
+cloud;хмара;f;weather
+sun;сонце;n;weather
+storm;буря;f;weather
+thunder;грім;m;weather
+lightning;блискавка;f;weather
+fog;туман;m;weather
+mist;імла;f;weather
+hail;град;m;weather
+ice;лід;m;weather
+frost;мороз;m;weather
+drought;посуха;f;weather
+flood;повінь;f;weather
+heat;спека;f;weather
+cold;холод;m;weather
+warmth;тепло;n;weather
+humidity;вологість;f;weather
+breeze;бриз;m;weather
+gale;буревій;m;weather
+hurricane;ураган;m;weather
+tornado;торнадо;m;weather
+rainbow;веселка;f;weather
+sky;небо;n;weather
+air;повітря;n;weather
+atmosphere;атмосфера;f;weather
+pressure;тиск;m;weather
+precipitation;опади;pl;weather
+sleet;крупа;f;weather
+cloudiness;хмарність;f;weather
+sunshine;сонячне світло;n;weather
+to rain;дощити;;weather
+to snow;сніжити;;weather
+to freeze;замерзати;;weather
+to melt;танути;;weather
+sunny;сонячний;m;weather
+cloudy;хмарний;m;weather
+rainy;дощовий;m;weather
+windy;вітряний;m;weather
+forecast;прогноз;m;weather
+temperature;температура;f;weather
+rain;дощ;m;weather
+snow;сніг;m;weather
+wind;вітер;m;weather
+storm;буря;f;weather
+thunder;грім;m;weather
+lightning;блискавка;f;weather
+hail;град;m;weather
+fog;туман;m;weather
+mist;імла;f;weather
+humidity;вологість;f;weather
+pressure;тиск;m;weather
+degree;градус;m;weather
+Celsius;Цельсій;m;weather
+Fahrenheit;Фаренгейт;m;weather
+weatherman;синоптик;m;weather
+meteorologist;метеоролог;m;weather
+front;фронт;m;weather
+low pressure;циклон;m;weather
+high pressure;антициклон;m;weather
+warm front;теплий фронт;m;weather
+cold front;холодний фронт;m;weather
+chance;ймовірність;f;weather
+precipitation;опади;pl;weather
+shower;короткочасний дощ;m;weather
+drizzle;мряка;f;weather
+downpour;злива;f;weather
+blizzard;хуртовина;f;weather
+heatwave;спека;f;weather
+cold spell;похолодання;n;weather
+breeze;вітерець;m;weather
+gale;сильний вітер;m;weather
+gust;порив;m;weather
+sleet;крупа;f;weather
+freezing rain;крижаний дощ;m;weather
+snowstorm;буран;m;weather
+snowflake;сніжинка;f;weather
+raindrop;крапля дощу;f;weather
+cloud;хмара;f;weather
+cloud cover;хмарність;f;weather
+overcast;похмура погода;f;weather
+clear sky;ясне небо;n;weather
+sun;сонце;n;weather
+UV index;ультрафіолетовий індекс;m;weather
+warning;попередження;n;weather
+visibility;видимість;f;weather
+smog;смог;m;weather
+ice;лід;m;weather
+frost;мороз;m;weather
+earthquake;землетрус;m;weather
+flood;повінь;f;weather
+tsunami;цунамі;n;weather
+hurricane;ураган;m;weather
+tornado;торнадо;n;weather
+cyclone;циклон;m;weather
+typhoon;тайфун;m;weather
+storm;буря;f;weather
+thunderstorm;гроза;f;weather
+lightning;блискавка;f;weather
+thunder;грім;m;weather
+drought;посуха;f;weather
+heatwave;спека;f;weather
+blizzard;заметіль;f;weather
+avalanche;лавина;f;weather
+landslide;зсув;m;weather
+volcano;вулкан;m;weather
+eruption;виверження;n;weather
+wildfire;лісова пожежа;f;weather
+hail;град;m;weather
+ice storm;ожеледь;f;weather
+dust storm;пилова буря;f;weather
+sandstorm;піщана буря;f;weather
+monsoon;мусон;m;weather
+aftershock;афтершок;m;weather
+downpour;злива;f;weather
+flash flood;паводок;m;weather
+inundation;затоплення;n;weather
+storm surge;штормовий приплив;m;weather
+rescue operation;рятувальна операція;f;weather
+evacuation;евакуація;f;weather
+warning;попередження;n;weather
+alert;тривога;f;weather
+disaster;катастрофа;f;weather
+natural disaster;стихійне лихо;n;weather
+danger;небезпека;f;weather
+emergency;надзвичайна ситуація;f;weather
+damage;шкода;f;weather
+destruction;руйнування;n;weather
+victim;жертва;f;weather
+tremor;поштовх;m;weather
+lava;лава;f;weather
+ash;попіл;m;weather
+mudslide;сель;m;weather
+rockfall;обвал;m;weather
+blackout;відключення;n;weather
+climate change;зміна клімату;f;weather
+shelter;укриття;n;weather
+rescue service;рятувальна служба;f;weather
+first aid;перша допомога;f;weather
+temperature;температура;f;weather
+heat;спека;f;weather
+cold;холод;m;weather
+chill;прохолода;f;weather
+frost;мороз;m;weather
+thaw;відлига;f;weather
+wind;вітер;m;weather
+breeze;вітерець;m;weather
+gale;шквал;m;weather
+storm;буря;f;weather
+thunderstorm;гроза;f;weather
+lightning;блискавка;f;weather
+thunder;грім;m;weather
+rain;дощ;m;weather
+drizzle;мряка;f;weather
+shower;злива;f;weather
+hail;град;m;weather
+sleet;мокрий сніг;m;weather
+snow;сніг;m;weather
+snowfall;снігопад;m;weather
+blizzard;хуртовина;f;weather
+fog;туман;m;weather
+mist;імла;f;weather
+smog;смог;m;weather
+cloud;хмара;f;weather
+overcast;похмурість;f;weather
+sky;небо;n;weather
+sun;сонце;n;weather
+sunshine;сонячне світло;n;weather
+rainbow;веселка;f;weather
+humidity;вологість;f;weather
+dryness;сухість;f;weather
+drought;посуха;f;weather
+flood;повінь;f;weather
+heatwave;теплова хвиля;f;weather
+cold snap;похолодання;n;weather
+mild weather;м'яка погода;f;weather
+visibility;видимість;f;weather
+atmospheric pressure;атмосферний тиск;m;weather
+forecast;прогноз;m;weather
+climate;клімат;m;weather
+season;сезон;m;weather
+global warming;глобальне потепління;n;weather
+ice;лід;m;weather
+icicle;бурулька;f;weather
+snowflake;сніжинка;f;weather
+puddle;калюжа;f;weather
+wind chill;вітровий холод;m;weather
+whirlwind;вихор;m;weather
+sandstorm;піщана буря;f;weather

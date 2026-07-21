@@ -1,0 +1,199 @@
+bank;банк;m;services
+post office;пошта;f;services
+account;рахунок;m;services
+cash machine;банкомат;m;services
+credit card;кредитна картка;f;services
+debit card;дебетова картка;f;services
+cheque;чек;m;services
+cash;готівка;f;services
+teller;касир;m;services
+queue;черга;f;services
+envelope;конверт;m;services
+stamp;марка;f;services
+parcel;посилка;f;services
+postbox;поштова скринька;f;services
+letter;лист;m;services
+postman;листоноша;m;services
+delivery;доставка;f;services
+registered mail;рекомендований лист;m;services
+address;адреса;f;services
+sender;відправник;m;services
+recipient;одержувач;m;services
+postcode;поштовий індекс;m;services
+form;бланк;m;services
+receipt;квитанція;f;services
+loan;кредит;m;services
+mortgage;іпотека;f;services
+interest rate;відсоткова ставка;f;services
+savings;заощадження;n;services
+balance;баланс;m;services
+statement;виписка;f;services
+fee;комісія;f;services
+exchange rate;обмінний курс;m;services
+currency;валюта;f;services
+to deposit;вносити;;services
+to withdraw;знімати;;services
+to transfer;переказувати;;services
+to send;відправляти;;services
+to receive;отримувати;;services
+to cash;отримувати готівку;;services
+to queue;стояти в черзі;;services
+to sign;підписувати;;services
+signature;підпис;m;services
+PIN code;ПІН-код;m;services
+money transfer;грошовий переказ;m;services
+post office box;абонентська скринька;f;services
+airmail;авіапошта;f;services
+surface mail;наземна пошта;f;services
+insurance;страхування;n;services
+customs;митниця;f;services
+hairdresser;перукар;m;services
+barber;барбер;m;services
+hair salon;перукарня;f;services
+haircut;стрижка;f;services
+hairdryer;фен;m;services
+shampoo;шампунь;m;services
+conditioner;кондиціонер;m;services
+scissors;ножиці;pl;services
+comb;гребінець;m;services
+hairbrush;щітка;f;services
+cape;накидка;f;services
+mirror;дзеркало;n;services
+appointment;запис;m;services
+queue;черга;f;services
+hairstyle;зачіска;f;services
+blow-dry;укладка;f;services
+curling iron;плойка;f;services
+straightener;праска;f;services
+hair dye;фарба;f;services
+highlights;мелірування;n;services
+perm;завивка;f;services
+straightening;випрямлення;n;services
+washing;миття;n;services
+scalp;шкіра голови;f;services
+hair clipper;машинка;f;services
+razor;бритва;f;services
+shaving foam;піна;f;services
+towel;рушник;m;services
+robe;халат;m;services
+hair clip;затискач;m;services
+hair band;гумка;f;services
+hairpin;шпилька;f;services
+fringe;чубчик;m;services
+layers;філірування;n;services
+hair length;довжина;f;services
+updo;висока зачіска;f;services
+braid;коса;f;services
+ponytail;хвіст;m;services
+bun;пучок;m;services
+hairspray;лак;m;services
+mousse;мус;m;services
+gel;гель;m;services
+hair mask;маска;f;services
+shampoo basin;мийка;f;services
+reception;стійка;f;services
+tip;чайові;pl;services
+price list;прайс-лист;m;services
+trim;підрівнювання;n;services
+styling;стайлінг;m;services
+to make an appointment;записатися;;services
+car;автомобіль;m;services
+mechanic;механік;m;services
+garage;гараж;m;services
+workshop;майстерня;f;services
+repair;ремонт;m;services
+to repair;ремонтувати;;services
+engine;двигун;m;services
+motor;мотор;m;services
+oil;олія;f;services
+tire;шина;f;services
+wheel;колесо;n;services
+brake;гальмо;n;services
+battery;акумулятор;m;services
+headlight;фара;f;services
+windshield;лобове скло;n;services
+wiper;склоочисник;m;services
+mirror;дзеркало;n;services
+seat belt;ремінь безпеки;m;services
+exhaust;вихлопна труба;f;services
+spare part;запчастина;f;services
+tool;інструмент;m;services
+jack;домкрат;m;services
+wrench;гайковий ключ;m;services
+screwdriver;викрутка;f;services
+pliers;плоскогубці;pl;services
+hammer;молоток;m;services
+nut;гайка;f;services
+bolt;болт;m;services
+screw;гвинт;m;services
+hose;шланг;m;services
+belt;ремінь;m;services
+filter;фільтр;m;services
+spark plug;свічка запалювання;f;services
+fuse;запобіжник;m;services
+light bulb;лампочка;f;services
+dent;вм'ятина;f;services
+scratch;подряпина;f;services
+paint;фарба;f;services
+rust;іржа;f;services
+towing;буксирування;n;services
+insurance;страховка;f;services
+accident;аварія;f;services
+breakdown;поломка;f;services
+service;сервіс;m;services
+to maintain;обслуговувати;;services
+to replace;замінювати;;services
+to diagnose;діагностувати;;services
+estimate;кошторис;m;services
+invoice;рахунок;m;services
+to pay;платити;;services
+поліція;police;f;services
+поліцейський;police officer (male);m;services
+поліцейська;police officer (female);f;services
+пожежний;firefighter (male);m;services
+пожежна;firefighter (female);f;services
+парамедик;paramedic;m;services
+аварія;accident;f;services
+надзвичайна ситуація;emergency;f;services
+злочин;crime;m;services
+крадіжка;theft;f;services
+пограбування;robbery;n;services
+квартирна крадіжка;burglary;f;services
+свідок;witness (male);m;services
+свідчиця;witness (female);f;services
+жертва;victim;f;services
+підозрюваний;suspect (male);m;services
+підозрювана;suspect (female);f;services
+злочинець;criminal (male);m;services
+злочинниця;criminal (female);f;services
+арешт;arrest;m;services
+арештувати;to arrest;;services
+повідомляти;to report;;services
+тривога;alarm;f;services
+пожежа;fire;f;services
+швидка допомога;ambulance;f;services
+пожежна машина;fire truck;f;services
+поліцейський відділок;police station;m;services
+в'язниця;prison;f;services
+суд;court;m;services
+адвокат;lawyer (male);m;services
+адвокатка;lawyer (female);f;services
+суддя;judge;m;services
+наручники;handcuffs;pl;services
+зброя;weapon;f;services
+пістолет;gun;m;services
+ніж;knife;m;services
+викликати;to call;;services
+номер екстреної служби;emergency number;m;services
+сирена;siren;f;services
+розслідування;investigation;n;services
+доказ;evidence;m;services
+відбиток пальця;fingerprint;m;services
+патруль;patrol;m;services
+поліцейська машина;police car;f;services
+травма;injury;f;services
+небезпека;danger;f;services
+допомога;help;f;services
+порятунок;rescue;m;services
+грабіжник;robber (male);m;services
+злодій;thief (male);m;services

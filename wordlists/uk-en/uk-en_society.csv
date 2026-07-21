@@ -1,0 +1,200 @@
+news;новини;pl;society
+article;стаття;f;society
+journalist;журналіст;m;society
+newspaper;газета;f;society
+magazine;журнал;m;society
+report;репортаж;m;society
+interview;інтерв'ю;n;society
+headline;заголовок;m;society
+broadcast;трансляція;f;society
+radio;радіо;n;society
+television;телебачення;n;society
+channel;канал;m;society
+program;програма;f;society
+feature;сюжет;m;society
+press;преса;f;society
+media;медіа;pl;society
+editor;редактор;m;society
+correspondent;кореспондент;m;society
+photographer;фотограф;m;society
+source;джерело;n;society
+information;інформація;f;society
+opinion;думка;f;society
+column;колонка;f;society
+publication;публікація;f;society
+issue;випуск;m;society
+cover;обкладинка;f;society
+subscription;підписка;f;society
+viewer;глядач;m;society
+listener;слухач;m;society
+reader;читач;m;society
+audience;аудиторія;f;society
+anchor;ведучий;m;society
+commentator;коментатор;m;society
+fake news;фейк;m;society
+social media;соцмережі;pl;society
+post;пост;m;society
+agency;агентство;n;society
+tabloid;таблоїд;m;society
+bias;упередженість;f;society
+censorship;цензура;f;society
+propaganda;пропаганда;f;society
+clickbait;клікбейт;m;society
+whistleblower;викривач;m;society
+fact-check;фактчекінг;m;society
+exclusive;ексклюзив;m;society
+press conference;прес-конференція;f;society
+bulletin;бюлетень;m;society
+podcast;подкаст;m;society
+reporter;репортер;m;society
+network;мережа;f;society
+politics;політика;f;society
+politician;політик;m;society
+party;партія;f;society
+election;вибори;pl;society
+vote;голос;m;society
+to vote;голосувати;;society
+candidate;кандидат;m;society
+campaign;кампанія;f;society
+parliament;парламент;m;society
+government;уряд;m;society
+president;президент;m;society
+prime minister;прем'єр-міністр;m;society
+law;закон;m;society
+right;право;n;society
+freedom;свобода;f;society
+democracy;демократія;f;society
+constitution;конституція;f;society
+referendum;референдум;m;society
+ballot;бюлетень;m;society
+polling station;виборча дільниця;f;society
+voter;виборець;m;society
+majority;більшість;f;society
+minority;меншість;f;society
+policy;реформа;f;society
+debate;дебати;pl;society
+speech;промова;f;society
+protest;протест;m;society
+demonstration;демонстрація;f;society
+activist;активіст;m;society
+opposition;опозиція;f;society
+coalition;коаліція;f;society
+ministry;міністерство;n;society
+minister;міністр;m;society
+embassy;посольство;n;society
+treaty;договір;m;society
+alliance;альянс;m;society
+diplomacy;дипломатія;f;society
+cabinet;кабінет;m;society
+state;держава;f;society
+nation;нація;f;society
+citizen;громадянин;m;society
+citizenship;громадянство;n;society
+mayor;мер;m;society
+council;рада;f;society
+decision;рішення;n;society
+social;соціальний;m;society
+political;політичний;m;society
+democratic;демократичний;m;society
+corruption;корупція;f;society
+justice;справедливість;f;society
+crime;злочин;m;society
+criminal;злочинець;m;society
+law;закон;m;society
+court;суд;m;society
+judge;суддя;m;society
+jury;присяжні;pl;society
+trial;судовий процес;m;society
+defendant;обвинувачений;m;society
+plaintiff;позивач;m;society
+lawyer;адвокат;m;society
+prosecutor;прокурор;m;society
+witness;свідок;m;society
+victim;жертва;f;society
+suspect;підозрюваний;m;society
+police;поліція;f;society
+police officer;поліцейський;m;society
+arrest;арешт;m;society
+handcuffs;наручники;pl;society
+prison;в'язниця;f;society
+jail;тюрма;f;society
+cell;камера;f;society
+punishment;покарання;n;society
+sentence;вирок;m;society
+fine;штраф;m;society
+community service;громадські роботи;pl;society
+probation;умовне засудження;n;society
+parole;умовно-дострокове звільнення;n;society
+guilty;винний;m;society
+innocent;невинний;m;society
+conviction;засудження;n;society
+acquittal;виправдання;n;society
+appeal;апеляція;f;society
+evidence;доказ;m;society
+testimony;свідчення;n;society
+alibi;алібі;n;society
+murder;вбивство;n;society
+theft;крадіжка;f;society
+robbery;грабіж;m;society
+burglary;злам;m;society
+shoplifting;крадіжка в магазині;f;society
+fraud;шахрайство;n;society
+assault;напад;m;society
+kidnapping;викрадення;n;society
+rape;зґвалтування;n;society
+drug;наркотик;m;society
+illegal;незаконний;m;society
+crime scene;місце злочину;n;society
+investigation;розслідування;n;society
+detective;детектив;m;society
+forensic;криміналістика;f;society
+computer;комп'ютер;m;society
+laptop;ноутбук;m;society
+tablet;планшет;m;society
+smartphone;смартфон;m;society
+internet;інтернет;m;society
+website;веб-сайт;m;society
+webpage;веб-сторінка;f;society
+browser;браузер;m;society
+search engine;пошукова система;f;society
+social network;соціальна мережа;f;society
+email;електронна пошта;f;society
+message;повідомлення;n;society
+chat;чат;m;society
+video call;відеодзвінок;m;society
+download;завантаження;n;society
+upload;вивантаження;n;society
+file;файл;m;society
+folder;папка;f;society
+document;документ;m;society
+app;додаток;m;society
+software;програма;f;society
+hardware;апаратне забезпечення;n;society
+screen;екран;m;society
+keyboard;клавіатура;f;society
+mouse;миша;f;society
+printer;принтер;m;society
+scanner;сканер;m;society
+camera;камера;f;society
+microphone;мікрофон;m;society
+speaker;динамік;m;society
+headphones;навушники;pl;society
+Wi-Fi;вай-фай;m;society
+password;пароль;m;society
+username;ім'я користувача;n;society
+account;акаунт;m;society
+profile;профіль;m;society
+link;посилання;n;society
+blog;блог;m;society
+post;допис;m;society
+comment;коментар;m;society
+like;лайк;m;society
+share;поділитися;;society
+notification;сповіщення;n;society
+settings;налаштування;n;society
+update;оновлення;n;society
+virus;вірус;m;society
+cybersecurity;кібербезпека;f;society
+data;дані;pl;society
+e-book;електронна книга;f;society
+technology;технологія;f;society

@@ -1,0 +1,200 @@
+bluzka;блузка;f;shopping
+koszula;сорочка;f;shopping
+spódnica;спідниця;f;shopping
+sukienka;сукня;f;shopping
+spodnie;штани;pl;shopping
+dżinsy;джинси;pl;shopping
+szorty;шорти;pl;shopping
+kurtka;куртка;f;shopping
+płaszcz;пальто;m;shopping
+sweter;светр;m;shopping
+golf;водолазка;m;shopping
+marynarka;жакет;f;shopping
+garnitur;костюм;m;shopping
+kamizelka;жилет;f;shopping
+bielizna;білизна;f;shopping
+majtki;труси;pl;shopping
+skarpetki;шкарпетки;pl;shopping
+rajstopy;колготки;pl;shopping
+but;черевик;m;shopping
+sandał;сандаль;m;shopping
+adidasy;кросівки;pl;shopping
+kapelusz;капелюх;m;shopping
+czapka;шапка;f;shopping
+szalik;шарф;m;shopping
+rękawiczki;рукавички;pl;shopping
+pasek;ремінь;m;shopping
+krawat;краватка;m;shopping
+apaszka;хустка;f;shopping
+torebka;сумка;f;shopping
+plecak;рюкзак;m;shopping
+portfel;гаманець;m;shopping
+okulary;окуляри;pl;shopping
+zegarek;годинник;m;shopping
+biżuteria;біжутерія;f;shopping
+kolczyki;сережки;pl;shopping
+naszyjnik;намисто;m;shopping
+rozmiar;розмір;m;shopping
+mały;маленький;;shopping
+średni;середній;;shopping
+duży;великий;;shopping
+ciasny;тісний;;shopping
+luźny;вільний;;shopping
+przymierzać;приміряти;;shopping
+mierzyć;міряти;;shopping
+kupować;купувати;;shopping
+sprzedawać;продавати;;shopping
+płacić;платити;;shopping
+paragon;чек;m;shopping
+kasa;каса;f;shopping
+przymierzalnia;примірочна;f;shopping
+zakup;покупка;m;shopping
+koszyk;кошик;m;shopping
+wózek;візок;m;shopping
+kasa;каса;f;shopping
+paragon;чек;m;shopping
+kolejka;черга;f;shopping
+klient;клієнт;m;shopping
+sprzedawca;продавець;m;shopping
+półka;полиця;f;shopping
+alejka;прохід;f;shopping
+produkt;продукт;m;shopping
+opakowanie;упаковка;n;shopping
+cena;ціна;f;shopping
+promocja;акція;f;shopping
+przecena;знижка;f;shopping
+gotówka;готівка;f;shopping
+terminal;термінал;m;shopping
+torba;сумка;f;shopping
+siatka;сітка;f;shopping
+warzywo;овоч;n;shopping
+owoc;фрукт;m;shopping
+pieczywo;хліб;n;shopping
+nabiał;молочні продукти;m;shopping
+mięso;м'ясо;n;shopping
+wędlina;ковбаса;f;shopping
+ryba;риба;f;shopping
+mrożonki;заморожені продукти;pl;shopping
+kosmetyk;косметичний засіб;m;shopping
+detergent;мийний засіб;m;shopping
+szampon;шампунь;m;shopping
+mydło;мило;n;shopping
+papier toaletowy;туалетний папір;m;shopping
+chleb;хліб;m;shopping
+bułka;булочка;f;shopping
+masło;масло;n;shopping
+ser;сир;m;shopping
+mleko;молоко;n;shopping
+jogurt;йогурт;m;shopping
+jajko;яйце;n;shopping
+cukier;цукор;m;shopping
+sól;сіль;f;shopping
+mąka;борошно;f;shopping
+ryż;рис;m;shopping
+makaron;макарони;m;shopping
+woda;вода;f;shopping
+sok;сік;m;shopping
+herbata;чай;f;shopping
+kawa;кава;f;shopping
+płacić;платити;;shopping
+kupować;купувати;;shopping
+gotówka;готівка;f;shopping
+karta kredytowa;кредитна картка;f;shopping
+karta debetowa;дебетова картка;f;shopping
+płatność;платіж;f;shopping
+paragon;чек;m;shopping
+faktura;рахунок-фактура;f;shopping
+rachunek;рахунок;m;shopping
+portfel;гаманець;m;shopping
+moneta;монета;f;shopping
+banknot;банкнота;m;shopping
+reszta;решта;f;shopping
+terminal płatniczy;платіжний термінал;m;shopping
+czytnik kart;зчитувач карток;m;shopping
+płatność zbliżeniowa;безконтактний платіж;f;shopping
+PIN;PIN-код;m;shopping
+paragon fiskalny;фіскальний чек;m;shopping
+bon;ваучер;m;shopping
+kupon;купон;m;shopping
+kod rabatowy;промокод;m;shopping
+zniżka;знижка;f;shopping
+przecena;уцінка;f;shopping
+promocja;акція;f;shopping
+wyprzedaż;розпродаж;f;shopping
+zwrot;повернення коштів;m;shopping
+reklamacja;рекламація;f;shopping
+gwarancja;гарантія;f;shopping
+płatność online;онлайн-платіж;f;shopping
+przelew bankowy;банківський переказ;m;shopping
+polecenie zapłaty;доручення на сплату;n;shopping
+BLIK;BLIK;m;shopping
+portmonetka;гаманець;f;shopping
+bankomat;банкомат;m;shopping
+wpłata;внесення коштів;f;shopping
+wypłata;зняття готівки;f;shopping
+saldo;баланс;n;shopping
+kredyt;кредит;m;shopping
+debet;дебет;m;shopping
+pożyczka;позика;f;shopping
+rata;внесок;f;shopping
+odsetki;відсотки;pl;shopping
+oprocentowanie;відсоткова ставка;n;shopping
+karta lojalnościowa;картка лояльності;f;shopping
+karta podarunkowa;подарункова картка;f;shopping
+voucher;ваучер;m;shopping
+aplikacja bankowa;банківський додаток;f;shopping
+płatność mobilna;мобільний платіж;f;shopping
+portfel elektroniczny;електронний гаманець;m;shopping
+kryptowaluta;криптовалюта;f;shopping
+czek;чек;m;shopping
+gotówka przy odbiorze;післяплата;f;shopping
+reklamacja;рекламація;f;shopping
+zwrot;повернення;m;shopping
+wymiana;обмін;f;shopping
+paragon;чек;m;shopping
+faktura;рахунок-фактура;f;shopping
+gwarancja;гарантія;f;shopping
+rękojmia;порука;f;shopping
+wada;дефект;f;shopping
+usterka;несправність;f;shopping
+uszkodzenie;пошкодження;n;shopping
+opakowanie;упаковка;n;shopping
+etykieta;етикетка;f;shopping
+metka;бирка;f;shopping
+cena;ціна;f;shopping
+rabat;знижка;m;shopping
+przecena;уцінка;f;shopping
+zwrot pieniędzy;повернення коштів;m;shopping
+odszkodowanie;відшкодування;n;shopping
+niezgodność;невідповідність;f;shopping
+termin;термін;m;shopping
+data ważności;термін придатності;f;shopping
+dowód zakupu;доказ покупки;m;shopping
+kasa;каса;f;shopping
+sprzedawca;продавець;m;shopping
+klient;клієнт;m;shopping
+konsument;споживач;m;shopping
+reklamować;подавати рекламацію;;shopping
+zwracać;повертати;;shopping
+wymieniać;обмінювати;;shopping
+odstąpić od umowy;відмовитися від договору;;shopping
+żądać;вимагати;;shopping
+odmowa;відмова;f;shopping
+protest;протест;m;shopping
+skarga;скарга;f;shopping
+zażalenie;скарга;n;shopping
+nieprzyjemność;неприємність;f;shopping
+opóźnienie;затримка;n;shopping
+brak;відсутність;m;shopping
+wadliwy;дефектний;m;shopping
+uszkodzony;пошкоджений;m;shopping
+nietrafiony;невдалий;m;shopping
+niekompletny;некомплектний;m;shopping
+zepsuty;зіпсований;m;shopping
+fałszywy;фальшивий;m;shopping
+podrobiony;підроблений;m;shopping
+niezadowolony;незадоволений;m;shopping
+rozczarowany;розчарований;m;shopping
+reklamacyjny;рекламаційний;m;shopping
+zwrotny;поворотний;m;shopping
+gwarancyjny;гарантійний;m;shopping

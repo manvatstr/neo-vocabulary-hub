@@ -1,0 +1,200 @@
+el libro;книга;los libros;free_time
+la lectura;читання;las lecturas;free_time
+la pintura;живопис;las pinturas;free_time
+el dibujo;малювання;los dibujos;free_time
+la fotografía;фотографія;las fotografías;free_time
+la danza;танець;las danzas;free_time
+el baile;танець;los bailes;free_time
+el canto;спів;los cantos;free_time
+la música;музика;las músicas;free_time
+el instrumento musical;музичний інструмент;los instrumentos musicales;free_time
+la guitarra;гітара;las guitarras;free_time
+el piano;піаніно;los pianos;free_time
+el ajedrez;шахи;los ajedreces;free_time
+el juego de mesa;настільна гра;los juegos de mesa;free_time
+el videojuego;відеогра;los videojuegos;free_time
+la televisión;телебачення;las televisiones;free_time
+el cine;кіно;los cines;free_time
+la película;фільм;las películas;free_time
+la serie;серіал;las series;free_time
+el deporte;спорт;los deportes;free_time
+el fútbol;футбол;;free_time
+el baloncesto;баскетбол;;free_time
+el tenis;теніс;;free_time
+la natación;плавання;;free_time
+el ciclismo;велоспорт;;free_time
+el senderismo;піший туризм;;free_time
+la cocina;кухня (кулінарія);las cocinas;free_time
+la jardinería;садівництво;las jardinerías;free_time
+la costura;шиття;las costuras;free_time
+el tejido;в'язання;los tejidos;free_time
+el bordado;вишивка;los bordados;free_time
+la escritura;письмо;las escrituras;free_time
+el aprendizaje;навчання;los aprendizajes;free_time
+leer;читати;;free_time
+escribir;писати;;free_time
+pintar;малювати;;free_time
+dibujar;малювати;;free_time
+cocinar;готувати;;free_time
+bailar;танцювати;;free_time
+cantar;співати;;free_time
+tocar;грати (на інструменті);;free_time
+escuchar;слухати;;free_time
+ver;дивитися;;free_time
+jugar;грати;;free_time
+coleccionar;колекціонувати;;free_time
+hacer ejercicio;займатися фізичними вправами;;free_time
+pasear;гуляти;;free_time
+nadar;плавати;;free_time
+correr;бігати;;free_time
+viajar;подорожувати;;free_time
+la película;фільм;las películas;free_time
+el cine;кінотеатр;los cines;free_time
+la entrada;квиток;las entradas;free_time
+la taquilla;каса;las taquillas;free_time
+la pantalla;екран;las pantallas;free_time
+la butaca;крісло;las butacas;free_time
+la fila;ряд;las filas;free_time
+el espectador;глядач;los espectadores;free_time
+la sesión;сеанс;las sesiones;free_time
+el estreno;прем'єра;los estrenos;free_time
+la cartelera;афіша;las carteleras;free_time
+el tráiler;трейлер;los tráileres;free_time
+el efecto especial;спецефект;los efectos especiales;free_time
+el director;режисер;los directores;free_time
+el actor;актор;los actores;free_time
+la actriz;акторка;las actrices;free_time
+el guion;сценарій;los guiones;free_time
+la banda sonora;саундтрек;las bandas sonoras;free_time
+el documental;документальний фільм;los documentales;free_time
+la comedia;комедія;las comedias;free_time
+el drama;драма;los dramas;free_time
+el musical;мюзикл;los musicales;free_time
+la obra de teatro;театральна вистава;las obras de teatro;free_time
+el teatro;театр;los teatros;free_time
+el escenario;сцена;los escenarios;free_time
+el telón;завіса;los telones;free_time
+el decorado;декорація;los decorados;free_time
+el vestuario;костюми;los vestuarios;free_time
+el ensayo;репетиція;los ensayos;free_time
+la función;вистава;las funciones;free_time
+el aplauso;оплески;los aplausos;free_time
+el personaje;персонаж;los personajes;free_time
+el protagonista;головний герой;los protagonistas;free_time
+el argumento;сюжет;los argumentos;free_time
+la crítica;рецензія;las críticas;free_time
+la escena;сцена;las escenas;free_time
+el palco;ложа;los palcos;free_time
+la platea;партер;las plateas;free_time
+el entreacto;антракт;los entreactos;free_time
+el subtítulo;субтитр;los subtítulos;free_time
+el doblaje;дубляж;los doblajes;free_time
+la versión original;оригінальна версія;las versiones originales;free_time
+la sala;зал;las salas;free_time
+el acomodador;білетер;los acomodadores;free_time
+la alfombra roja;червона доріжка;las alfombras rojas;free_time
+la entrevista;інтерв'ю;las entrevistas;free_time
+el maquillaje;грим;los maquillajes;free_time
+la iluminación;освітлення;las iluminaciones;free_time
+el sonido;звук;los sonidos;free_time
+el ensayo general;генеральна репетиція;los ensayos generales;free_time
+el fútbol;футбол;los fútboles;free_time
+el baloncesto;баскетбол;los baloncestos;free_time
+el tenis;теніс;los tenis;free_time
+el voleibol;волейбол;los voleiboles;free_time
+el béisbol;бейсбол;los béisboles;free_time
+el golf;гольф;los golfes;free_time
+el hockey;хокей;los hockeys;free_time
+el atletismo;легка атлетика;;free_time
+la natación;плавання;;free_time
+el ciclismo;велоспорт;;free_time
+el esquí;лижі;los esquíes;free_time
+el snowboard;сноуборд;los snowboards;free_time
+la gimnasia;гімнастика;;free_time
+el judo;дзюдо;;free_time
+el kárate;карате;;free_time
+el boxeo;бокс;;free_time
+la lucha;боротьба;;free_time
+la esgrima;фехтування;;free_time
+el tiro con arco;стрільба з лука;;free_time
+el ping-pong;настільний теніс;los ping-pongs;free_time
+el partido;матч;los partidos;free_time
+la competición;змагання;las competiciones;free_time
+el torneo;турнір;los torneos;free_time
+el campeonato;чемпіонат;los campeonatos;free_time
+el equipo;команда;los equipos;free_time
+el jugador;гравець;los jugadores;free_time
+la jugadora;гравчиня;las jugadoras;free_time
+el entrenador;тренер;los entrenadores;free_time
+la entrenadora;тренерка;las entrenadoras;free_time
+el árbitro;арбітр;los árbitros;free_time
+la árbitra;арбітриня;las árbitras;free_time
+el estadio;стадіон;los estadios;free_time
+el campo de fútbol;футбольне поле;los campos de fútbol;free_time
+la cancha;майданчик;las canchas;free_time
+la pista;доріжка;las pistas;free_time
+el gimnasio;спортзал;los gimnasios;free_time
+la piscina;басейн;las piscinas;free_time
+la pelota;м’яч;las pelotas;free_time
+el balón;м’яч;los balones;free_time
+la raqueta;ракетка;las raquetas;free_time
+la bicicleta;велосипед;las bicicletas;free_time
+el patín;ковзан;los patines;free_time
+la tabla de surf;дошка для серфінгу;las tablas de surf;free_time
+el casco;шолом;los cascos;free_time
+la zapatilla de deporte;кросівок;las zapatillas de deporte;free_time
+el chándal;спортивний костюм;los chándales;free_time
+el juego;гра;los juegos;free_time
+el videojuego;відеогра;los videojuegos;free_time
+el ajedrez;шахи;los ajedreces;free_time
+el dado;кубик;los dados;free_time
+música;музика;músicas;free_time
+canción;пісня;canciones;free_time
+baile;танець;bailes;free_time
+pintura;картина;pinturas;free_time
+dibujo;малюнок;dibujos;free_time
+escultura;скульптура;esculturas;free_time
+teatro;театр;teatros;free_time
+museo;музей;museos;free_time
+galería;галерея;galerías;free_time
+exposición;виставка;exposiciones;free_time
+concierto;концерт;conciertos;free_time
+instrumento;інструмент;instrumentos;free_time
+guitarra;гітара;guitarras;free_time
+piano;піаніно;pianos;free_time
+violín;скрипка;violines;free_time
+flauta;флейта;flautas;free_time
+tambor;барабан;tambores;free_time
+cantante;співак;cantantes;free_time
+músico;музикант;músicos;free_time
+actor;актор;actores;free_time
+actriz;акторка;actrices;free_time
+artista;митець;artistas;free_time
+cuadro;картина;cuadros;free_time
+fotografía;фотографія;fotografías;free_time
+poema;вірш;poemas;free_time
+novela;роман;novelas;free_time
+película;фільм;películas;free_time
+danza;танець;danzas;free_time
+coro;хор;coros;free_time
+orquesta;оркестр;orquestas;free_time
+banda;гурт;bandas;free_time
+entrada;квиток;entradas;free_time
+espectáculo;вистава;espectáculos;free_time
+escenario;сцена;escenarios;free_time
+aplauso;оплески;aplausos;free_time
+público;публіка;públicos;free_time
+ensayo;репетиція;ensayos;free_time
+partitura;партитура;partituras;free_time
+micrófono;мікрофон;micrófonos;free_time
+auricular;навушник;auriculares;free_time
+altavoz;гучномовець;altavoces;free_time
+boceto;ескіз;bocetos;free_time
+pincel;пензель;pinceles;free_time
+acuarela;акварель;acuarelas;free_time
+óleo;олійна фарба;óleos;free_time
+lienzo;полотно;lienzos;free_time
+caballete;мольберт;caballetes;free_time
+paleta;палітра;paletas;free_time
+escultor;скульптор;escultores;free_time
+bailarín;танцівник;bailarines;free_time

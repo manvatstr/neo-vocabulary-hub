@@ -1,0 +1,200 @@
+der Bus;автобус;die Busse;travel
+die U-Bahn;метро;die U-Bahnen;travel
+die Straßenbahn;трамвай;die Straßenbahnen;travel
+die S-Bahn;міська електричка;die S-Bahnen;travel
+der Zug;поїзд;die Züge;travel
+der Bahnhof;залізничний вокзал;die Bahnhöfe;travel
+die Haltestelle;зупинка;die Haltestellen;travel
+das Gleis;колія;die Gleise;travel
+der Bahnsteig;платформа;die Bahnsteige;travel
+die Fahrkarte;квиток на проїзд;die Fahrkarten;travel
+das Ticket;квиток;die Tickets;travel
+der Fahrschein;проїзний документ;die Fahrscheine;travel
+der Fahrplan;розклад;die Fahrpläne;travel
+die Abfahrt;відправлення;die Abfahrten;travel
+die Ankunft;прибуття;die Ankünfte;travel
+die Verspätung;затримка;die Verspätungen;travel
+das Umsteigen;пересадка;;travel
+die Verbindung;сполучення;die Verbindungen;travel
+die Linie;лінія;die Linien;travel
+die Endstation;кінцева зупинка;die Endstationen;travel
+der Fahrgast;пасажир;die Fahrgäste;travel
+der Schaffner;кондуктор;die Schaffner;travel
+der Fahrer;водій;die Fahrer;travel
+die Rückfahrkarte;зворотний квиток;die Rückfahrkarten;travel
+die Einzelfahrkarte;разовий квиток;die Einzelfahrkarten;travel
+die Monatskarte;місячний проїзний;die Monatskarten;travel
+die Tageskarte;денний квиток;die Tageskarten;travel
+der Fahrkartenautomat;квитковий автомат;die Fahrkartenautomaten;travel
+der Automat;автомат;die Automaten;travel
+der Ausgang;вихід;die Ausgänge;travel
+der Eingang;вхід;die Eingänge;travel
+die Toilette;туалет;die Toiletten;travel
+der Sitzplatz;сидяче місце;die Sitzplätze;travel
+die Reservierung;бронювання;die Reservierungen;travel
+der Waggon;вагон;die Waggons;travel
+das Abteil;купе;die Abteile;travel
+die Gepäckaufbewahrung;камера схову;die Gepäckaufbewahrungen;travel
+die Information;довідка;die Informationen;travel
+die Bahncard;залізнична картка;die Bahncards;travel
+das Schließfach;шафка для багажу;die Schließfächer;travel
+der Schlafwagen;спальний вагон;die Schlafwagen;travel
+der Speisewagen;вагон-ресторан;die Speisewagen;travel
+die Ampel;світлофор;die Ampeln;travel
+die Kreuzung;перехрестя;die Kreuzungen;travel
+die Bushaltestelle;автобусна зупинка;die Bushaltestellen;travel
+die Straßenbahnhaltestelle;трамвайна зупинка;die Straßenbahnhaltestellen;travel
+die U-Bahn-Station;станція метро;die U-Bahn-Stationen;travel
+der Fahrausweis;проїзний квиток;die Fahrausweise;travel
+einsteigen;сідати;;travel
+aussteigen;виходити;;travel
+der Flug;політ;die Flüge;travel
+das Flugticket;авіаквиток;die Flugtickets;travel
+die Buchung;бронювання;die Buchungen;travel
+der Flughafen;аеропорт;die Flughäfen;travel
+die Fluggesellschaft;авіакомпанія;die Fluggesellschaften;travel
+der Abflug;виліт;die Abflüge;travel
+die Ankunft;прибуття;die Ankünfte;travel
+das Gepäck;багаж;;travel
+der Koffer;валіза;die Koffer;travel
+die Bordkarte;посадковий талон;die Bordkarten;travel
+der Reisepass;закордонний паспорт;die Reisepässe;travel
+das Visum;віза;die Visa;travel
+die Reservierung;резервування;die Reservierungen;travel
+das Hotel;готель;die Hotels;travel
+das Zimmer;кімната;die Zimmer;travel
+das Einzelzimmer;одномісний номер;die Einzelzimmer;travel
+das Doppelzimmer;двомісний номер;die Doppelzimmer;travel
+die Übernachtung;ночівля;die Übernachtungen;travel
+der Check-in;реєстрація;die Check-ins;travel
+der Check-out;виселення;die Check-outs;travel
+die Rezeption;рецепція;die Rezeptionen;travel
+der Zimmerschlüssel;ключ від номера;die Zimmerschlüssel;travel
+die Kaution;застава;die Kautionen;travel
+die Stornierung;скасування;die Stornierungen;travel
+die Verspätung;затримка;die Verspätungen;travel
+der Flugsteig;гейт;die Flugsteige;travel
+die Sicherheitskontrolle;перевірка безпеки;die Sicherheitskontrollen;travel
+der Zoll;митниця;die Zölle;travel
+die Reiseversicherung;страхування подорожей;die Reiseversicherungen;travel
+das Reisebüro;туристичне агентство;die Reisebüros;travel
+die Bestätigung;підтвердження;die Bestätigungen;travel
+der Online-Check-in;онлайн-реєстрація;die Online-Check-ins;travel
+die Warteliste;лист очікування;die Wartelisten;travel
+der Reiseveranstalter;туроператор;die Reiseveranstalter;travel
+das Frühstücksbuffet;сніданковий буфет;die Frühstücksbuffets;travel
+die Halbpension;напівпансіон;die Halbpensionen;travel
+die Vollpension;повний пансіон;die Vollpensionen;travel
+der Meerblick;вид на море;;travel
+die Rechnung;рахунок;die Rechnungen;travel
+der Preis;ціна;die Preise;travel
+die Ermäßigung;знижка;die Ermäßigungen;travel
+die Buchungsnummer;номер бронювання;die Buchungsnummern;travel
+die Anreise;прибуття;die Anreisen;travel
+die Abreise;від’їзд;die Abreisen;travel
+die Flugdauer;тривалість польоту;die Flugdauern;travel
+der Zwischenstopp;пересадка;die Zwischenstopps;travel
+das Reiseziel;пункт призначення;die Reiseziele;travel
+buchen;бронювати;;travel
+reservieren;резервувати;;travel
+stornieren;скасовувати;;travel
+die Sehenswürdigkeit;пам'ятка;die Sehenswürdigkeiten;travel
+das Wahrzeichen;символ (орієнтир);die Wahrzeichen;travel
+das Museum;музей;die Museen;travel
+die Ausstellung;виставка;die Ausstellungen;travel
+die Galerie;галерея;die Galerien;travel
+das Denkmal;пам'ятник;die Denkmäler;travel
+das Monument;монумент;die Monumente;travel
+die Statue;статуя;die Statuen;travel
+der Brunnen;фонтан;die Brunnen;travel
+die Kirche;церква;die Kirchen;travel
+die Kathedrale;кафедральний собор;die Kathedralen;travel
+der Dom;кафедральний собор;die Dome;travel
+die Moschee;мечеть;die Moscheen;travel
+die Synagoge;синагога;die Synagogen;travel
+der Tempel;храм;die Tempel;travel
+das Schloss;замок (палац);die Schlösser;travel
+die Burg;фортеця (замок);die Burgen;travel
+die Festung;фортеця;die Festungen;travel
+der Palast;палац;die Paläste;travel
+das Rathaus;ратуша;die Rathäuser;travel
+der Marktplatz;ринкова площа;die Marktplätze;travel
+der Platz;площа;die Plätze;travel
+die Altstadt;старе місто;die Altstädte;travel
+das Stadtviertel;квартал;die Stadtviertel;travel
+die Fußgängerzone;пішохідна зона;die Fußgängerzonen;travel
+die Brücke;міст;die Brücken;travel
+der Turm;вежа;die Türme;travel
+der Glockenturm;дзвіниця;die Glockentürme;travel
+der Aussichtspunkt;оглядовий майданчик;die Aussichtspunkte;travel
+die Aussichtsplattform;оглядова платформа;die Aussichtsplattformen;travel
+die Stadtmauer;міська стіна;die Stadtmauern;travel
+das Stadttor;міські ворота;die Stadttore;travel
+der Stadtführer;гід (людина);die Stadtführer;travel
+die Führung;екскурсія (з гідом);die Führungen;travel
+die Stadtrundfahrt;оглядова екскурсія містом;die Stadtrundfahrten;travel
+der Reiseleiter;гід (керівник групи);die Reiseleiter;travel
+die Besichtigung;огляд пам'яток;die Besichtigungen;travel
+der Reiseführer;путівник (книга);die Reiseführer;travel
+der Stadtplan;карта міста;die Stadtpläne;travel
+das Souvenir;сувенір;die Souvenirs;travel
+der Andenkenladen;сувенірний магазин;die Andenkenläden;travel
+die Postkarte;листівка;die Postkarten;travel
+der Fotoapparat;фотоапарат;die Fotoapparate;travel
+die Kamera;камера;die Kameras;travel
+das Foto;фотографія;die Fotos;travel
+das Panorama;панорама;die Panoramen;travel
+der Blick;вид;die Blicke;travel
+die Aussicht;вид (краєвид);die Aussichten;travel
+der Park;парк;die Parks;travel
+der Garten;сад;die Gärten;travel
+der Koffer;валіза;die Koffer;travel
+die Reisetasche;дорожня сумка;die Reisetaschen;travel
+der Rucksack;рюкзак;die Rucksäcke;travel
+das Gepäck;багаж;;travel
+die Handtasche;сумочка;die Handtaschen;travel
+der Kulturbeutel;косметичка;die Kulturbeutel;travel
+das Handgepäck;ручна поклажа;;travel
+der Koffergurt;ремінь для валізи;die Koffergurte;travel
+das Vorhängeschloss;замок;die Vorhängeschlösser;travel
+das Namensschild;багажна бирка;die Namensschilder;travel
+die Packliste;список речей;die Packlisten;travel
+das Reisedokument;проїзний документ;die Reisedokumente;travel
+der Reisepass;закордонний паспорт;die Reisepässe;travel
+das Visum;віза;die Visa;travel
+die Bordkarte;посадковий талон;die Bordkarten;travel
+das Ticket;квиток;die Tickets;travel
+die Reiseversicherung;страховка подорожі;die Reiseversicherungen;travel
+die Reiseapotheke;дорожня аптечка;die Reiseapotheken;travel
+der Reiseadapter;дорожній адаптер;die Reiseadapter;travel
+die Kofferwaage;ваги для валізи;die Kofferwaagen;travel
+die Kleidung;одяг;;travel
+der Schuh;черевик;die Schuhe;travel
+die Socke;шкарпетка;die Socken;travel
+das Hemd;сорочка;die Hemden;travel
+die Hose;штани;die Hosen;travel
+der Pullover;светр;die Pullover;travel
+die Jacke;куртка;die Jacken;travel
+der Regenmantel;дощовик;die Regenmäntel;travel
+die Badehose;плавки;die Badehosen;travel
+der Bikini;бікіні;die Bikinis;travel
+das Handtuch;рушник;die Handtücher;travel
+die Sonnencreme;сонцезахисний крем;die Sonnencremes;travel
+die Zahnbürste;зубна щітка;die Zahnbürsten;travel
+die Zahnpasta;зубна паста;die Zahnpasten;travel
+der Kamm;гребінець;die Kämme;travel
+die Haarbürste;щітка для волосся;die Haarbürsten;travel
+das Shampoo;шампунь;die Shampoos;travel
+das Duschgel;гель для душу;die Duschgels;travel
+der Rasierer;бритва;die Rasierer;travel
+die Schere;ножиці;die Scheren;travel
+das Buch;книга;die Bücher;travel
+die Zeitschrift;журнал;die Zeitschriften;travel
+das Ladegerät;зарядний пристрій;die Ladegeräte;travel
+die Kamera;камера;die Kameras;travel
+das Tablet;планшет;die Tablets;travel
+der Regenschirm;парасоля;die Regenschirme;travel
+die Sonnenbrille;сонцезахисні окуляри;die Sonnenbrillen;travel
+packen;пакувати;;travel
+auspacken;розпаковувати;;travel
+einpacken;запаковувати;;travel

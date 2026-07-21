@@ -1,50 +1,200 @@
-der Regen;дощ;die Regen;weather
-die Sonne;сонце;die Sonnen;weather
-der Schnee;сніг;die Schnee;weather
-der Wind;вітер;die Winde;weather
-die Wolke;хмара;die Wolken;weather
-der Sturm;буря;die Stürme;weather
-der Nebel;туман;die Nebel;weather
-die Temperatur;температура;die Temperaturen;weather
-der Hagel;град;die Hagel;weather
-der Blitz;блискавка;die Blitze;weather
-der Donner;грім;die Donner;weather
-der Frost;мороз;die Fröste;weather
-die Hitze;спека;die Hitzen;weather
-der Himmel;небо;die Himmel;weather
-die Luft;повітря;die Lüfte;weather
-der Niederschlag;опади;die Niederschläge;weather
-die Feuchtigkeit;вологість;die Feuchtigkeiten;weather
-der Tau;роса;die Taue;weather
-der Orkan;ураган;die Orkane;weather
-der Wirbelsturm;смерч;die Wirbelstürme;weather
-die Dürre;посуха;die Dürren;weather
-der Schauer;злива;die Schauer;weather
-die Böe;порив вітру;die Böen;weather
-der Smog;смог;;weather
-die Kälte;холод;die Kälten;weather
-der Monsun;мусон;die Monsune;weather
-der Taifun;тайфун;die Taifune;weather
-der Zyklon;циклон;die Zyklone;weather
-der Nieselregen;мряка;die Nieselregen;weather
-der Eisregen;крижаний дощ;die Eisregen;weather
-die Glätte;ожеледиця;die Glätten;weather
-der Schneefall;снігопад;die Schneefälle;weather
-der Platzregen;злива;die Platzregen;weather
-die Wettervorhersage;прогноз погоди;die Wettervorhersagen;weather
-der Luftdruck;атмосферний тиск;die Luftdrücke;weather
-die Wetterlage;погодні умови;die Wetterlagen;weather
-der Sonnenschein;сонячне сяйво;die Sonnenscheine;weather
-der Schatten;тінь;die Schatten;weather
-der Himmel;небосхил;die Himmel;weather
 die Jahreszeit;пора року;die Jahreszeiten;weather
 der Frühling;весна;die Frühlinge;weather
 der Sommer;літо;die Sommer;weather
 der Herbst;осінь;die Herbste;weather
 der Winter;зима;die Winter;weather
-die Wetterkarte;погодна карта;die Wetterkarten;weather
-der Klimawandel;зміна клімату;die Klimawandel;weather
-die Luftfeuchtigkeit;вологість повітря;die Luftfeuchtigkeiten;weather
-der Schneesturm;хуртовина;die Schneestürme;weather
-der Eisglätte;ожеледь;die Eisglätten;weather
-der Wetterumschwung;різка зміна погоди;die Wetterumschwünge;weather
+das Klima;клімат;die Klimas;weather
+das Wetter;погода;;weather
+die Temperatur;температура;die Temperaturen;weather
+der Grad;градус;die Grade;weather
+die Sonne;сонце;die Sonnen;weather
+der Regen;дощ;;weather
+der Schnee;сніг;;weather
+der Wind;вітер;die Winde;weather
+der Sturm;буря;die Stürme;weather
+das Gewitter;гроза;die Gewitter;weather
+der Blitz;блискавка;die Blitze;weather
+der Donner;грім;;weather
+der Hagel;град;;weather
+der Nebel;туман;die Nebel;weather
+die Wolke;хмара;die Wolken;weather
+der Himmel;небо;die Himmel;weather
+die Luft;повітря;die Lüfte;weather
+die Feuchtigkeit;вологість;;weather
+die Trockenheit;посуха;die Trockenheiten;weather
+die Dürre;посуха;die Dürren;weather
+die Überschwemmung;повінь;die Überschwemmungen;weather
+das Hochwasser;паводок;die Hochwasser;weather
+die Erderwärmung;глобальне потепління;;weather
+der Klimawandel;зміна клімату;;weather
+der Treibhauseffekt;парниковий ефект;;weather
+der Jahreszeitenwechsel;зміна пір року;die Jahreszeitenwechsel;weather
+der Pollenflug;сезон пилку;;weather
+der Heuschnupfen;сінна лихоманка;;weather
+der Sonnenaufgang;схід сонця;die Sonnenaufgänge;weather
+der Sonnenuntergang;захід сонця;die Sonnenuntergänge;weather
+die Tagundnachtgleiche;рівнодення;die Tagundnachtgleichen;weather
+die Sonnenwende;сонцестояння;die Sonnenwenden;weather
+die Wettervorhersage;прогноз погоди;die Wettervorhersagen;weather
+die Klimazone;кліматична зона;die Klimazonen;weather
+der Schneefall;снігопад;die Schneefälle;weather
+der Regenfall;опади;die Regenfälle;weather
+der Niederschlag;опади;die Niederschläge;weather
+der Luftdruck;атмосферний тиск;;weather
+das Hochdruckgebiet;область високого тиску;die Hochdruckgebiete;weather
+das Tiefdruckgebiet;область низького тиску;die Tiefdruckgebiete;weather
+schwül;душний;;weather
+frostig;морозний;;weather
+wechselhaft;мінливий;;weather
+sonnig;сонячний;;weather
+bewölkt;хмарний;;weather
+die Wettervorhersage;прогноз погоди;die Wettervorhersagen;weather
+das Wetter;погода;;weather
+die Temperatur;температура;die Temperaturen;weather
+die Höchsttemperatur;максимальна температура;die Höchsttemperaturen;weather
+die Tiefsttemperatur;мінімальна температура;die Tiefsttemperaturen;weather
+die Regenwahrscheinlichkeit;ймовірність дощу;die Regenwahrscheinlichkeiten;weather
+der Niederschlag;опади;die Niederschläge;weather
+der Regen;дощ;;weather
+der Schnee;сніг;;weather
+der Wind;вітер;die Winde;weather
+die Windgeschwindigkeit;швидкість вітру;die Windgeschwindigkeiten;weather
+die Böe;порив вітру;die Böen;weather
+der Sturm;шторм;die Stürme;weather
+das Gewitter;гроза;die Gewitter;weather
+der Blitz;блискавка;die Blitze;weather
+der Donner;грім;;weather
+der Hagel;град;;weather
+die Wolke;хмара;die Wolken;weather
+die Bewölkung;хмарність;;weather
+der Nebel;туман;;weather
+die Sicht;видимість;;weather
+die Luftfeuchtigkeit;вологість повітря;;weather
+der Luftdruck;атмосферний тиск;;weather
+das Hoch;антициклон;die Hochs;weather
+das Tief;циклон;die Tiefs;weather
+die Kaltfront;холодний фронт;die Kaltfronten;weather
+die Warmfront;теплий фронт;die Warmfronten;weather
+die Wetterkarte;карта погоди;die Wetterkarten;weather
+die Vorhersage;прогноз;die Vorhersagen;weather
+die Wetterlage;погодна ситуація;die Wetterlagen;weather
+das Thermometer;термометр;die Thermometer;weather
+der Grad;градус;die Grade;weather
+der Sonnenschein;сонячне світло;;weather
+die Sonne;сонце;die Sonnen;weather
+der Himmel;небо;die Himmel;weather
+die Hitze;спека;;weather
+die Kälte;холод;;weather
+die Trockenheit;посуха;;weather
+die Feuchtigkeit;вологість;;weather
+der Regenschauer;злива;die Regenschauer;weather
+der Schneeschauer;снігопад;die Schneeschauer;weather
+der Graupel;крупа;;weather
+der Sprühregen;мряка;;weather
+die Glätte;ожеледь;;weather
+die Unwetterwarnung;попередження про негоду;die Unwetterwarnungen;weather
+der Wetterbericht;звіт про погоду;die Wetterberichte;weather
+die Prognose;прогноз;die Prognosen;weather
+die Wetterstation;метеостанція;die Wetterstationen;weather
+der Meteorologe;метеоролог;die Meteorologen;weather
+die Meteorologin;метеорологиня;die Meteorologinnen;weather
+das Erdbeben;землетрус;die Erdbeben;weather
+der Vulkanausbruch;виверження вулкана;die Vulkanausbrüche;weather
+der Tsunami;цунамі;die Tsunamis;weather
+die Überschwemmung;повінь;die Überschwemmungen;weather
+der Hurrikan;ураган;die Hurrikane;weather
+der Tornado;торнадо;die Tornados;weather
+der Wirbelsturm;смерч;die Wirbelstürme;weather
+die Dürre;посуха;die Dürren;weather
+der Waldbrand;лісова пожежа;die Waldbrände;weather
+der Blizzard;буран;die Blizzards;weather
+die Lawine;лавина;die Lawinen;weather
+der Erdrutsch;зсув;die Erdrutsche;weather
+die Hitzewelle;хвиля спеки;die Hitzewellen;weather
+der Sturm;буря;die Stürme;weather
+das Gewitter;гроза;die Gewitter;weather
+der Hagel;град;;weather
+der Blitz;блискавка;die Blitze;weather
+der Donner;грім;;weather
+die Flut;повідь;die Fluten;weather
+der Sandsturm;піщана буря;die Sandstürme;weather
+der Schneesturm;заметіль;die Schneestürme;weather
+der Eissturm;льодяний шторм;die Eisstürme;weather
+der Taifun;тайфун;die Taifune;weather
+der Zyklon;циклон;die Zyklone;weather
+die Eruption;ерупція;die Eruptionen;weather
+die Aschewolke;хмара попелу;die Aschewolken;weather
+die Lava;лава;;weather
+die Schlammlawine;селевий потік;die Schlammlawinen;weather
+die Sturmflut;штормовий прилив;die Sturmfluten;weather
+der Monsun;мусон;die Monsune;weather
+die Trockenheit;сухість;;weather
+der Flächenbrand;масштабна пожежа;die Flächenbrände;weather
+der Vulkan;вулкан;die Vulkane;weather
+die Asche;попіл;;weather
+das Beben;поштовх;die Beben;weather
+das Nachbeben;афтершок;die Nachbeben;weather
+die Katastrophe;катастрофа;die Katastrophen;weather
+der Notfall;надзвичайна ситуація;die Notfälle;weather
+die Evakuierung;евакуація;die Evakuierungen;weather
+die Warnung;попередження;die Warnungen;weather
+der Rettungsdienst;рятувальна служба;die Rettungsdienste;weather
+die Zerstörung;руйнування;die Zerstörungen;weather
+der Schaden;шкода;die Schäden;weather
+das Unwetter;негода;die Unwetter;weather
+der Blitzeinschlag;удар блискавки;die Blitzeinschläge;weather
+der Erdbebenherd;вогнище землетрусу;die Erdbebenherde;weather
+die Erschütterung;струс;die Erschütterungen;weather
+die Flutwelle;хвиля повені;die Flutwellen;weather
+der Wirbel;вихор;die Wirbel;weather
+evakuieren;евакуювати;;weather
+die Temperatur;температура;die Temperaturen;weather
+die Hitze;спека;;weather
+die Kälte;холод;;weather
+die Wärme;тепло;;weather
+die Kühle;прохолода;;weather
+die Sonne;сонце;;weather
+der Regen;дощ;;weather
+der Schnee;сніг;;weather
+der Wind;вітер;die Winde;weather
+der Nebel;туман;die Nebel;weather
+der Sturm;шторм;die Stürme;weather
+das Gewitter;гроза;die Gewitter;weather
+die Wolke;хмара;die Wolken;weather
+der Himmel;небо;die Himmel;weather
+der Grad;градус;die Grade;weather
+das Thermometer;термометр;die Thermometer;weather
+die Vorhersage;прогноз;die Vorhersagen;weather
+der Wetterbericht;звіт про погоду;die Wetterberichte;weather
+das Klima;клімат;;weather
+die Trockenheit;сухість;;weather
+die Feuchtigkeit;вологість;;weather
+die Nässe;сирість;;weather
+das Eis;лід;;weather
+die Glätte;ожеледиця;;weather
+der Frost;мороз;die Fröste;weather
+die Schwüle;духота;;weather
+die Windböe;порив вітру;die Windböen;weather
+der Sonnenschein;сонячне світло;;weather
+die Bewölkung;хмарність;;weather
+der Niederschlag;опади;die Niederschläge;weather
+der Hagel;град;;weather
+der Blitz;блискавка;die Blitze;weather
+der Donner;грім;die Donner;weather
+das Unwetter;негода;die Unwetter;weather
+die Hitzeperiode;період спеки;die Hitzeperioden;weather
+die Kaltfront;холодний фронт;die Kaltfronten;weather
+die Warmfront;теплий фронт;die Warmfronten;weather
+das Hochdruckgebiet;область високого тиску;die Hochdruckgebiete;weather
+das Tiefdruckgebiet;область низького тиску;die Tiefdruckgebiete;weather
+die Luft;повітря;;weather
+die Brise;бриз;die Brisen;weather
+die Dürre;посуха;die Dürren;weather
+der Regenschauer;злива;die Regenschauer;weather
+die Schneeflocke;сніжинка;die Schneeflocken;weather
+die Eiseskälte;льодяний холод;;weather
+die Heiterkeit;ясність;;weather
+die Trübung;помутніння;die Trübungen;weather
+der Wetterumschwung;зміна погоди;die Wetterumschwünge;weather
+die Wetterschwankung;коливання погоди;die Wetterschwankungen;weather
+die Wetterlage;погодна ситуація;die Wetterlagen;weather

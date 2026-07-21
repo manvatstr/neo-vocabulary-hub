@@ -1,0 +1,200 @@
+praca;робота;f;daily_life
+zawód;професія;m;daily_life
+szef;шеф;m;daily_life
+pracownik;працівник;m;daily_life
+pracodawca;роботодавець;m;daily_life
+współpracownik;співробітник;m;daily_life
+kolega z pracy;колега по роботі;m;daily_life
+firma;фірма;f;daily_life
+biuro;офіс;n;daily_life
+pensja;зарплата;f;daily_life
+wynagrodzenie;винагорода;n;daily_life
+umowa;договір;f;daily_life
+staż;стажування;m;daily_life
+szkolenie;навчання;n;daily_life
+rekrutacja;рекрутинг;f;daily_life
+CV;резюме;n;daily_life
+rozmowa kwalifikacyjna;співбесіда;f;daily_life
+urlop;відпустка;m;daily_life
+dzień wolny;вихідний;m;daily_life
+nadgodziny;понаднормові;pl;daily_life
+awans;підвищення;m;daily_life
+zwolnienie;звільнення;n;daily_life
+bezrobocie;безробіття;n;daily_life
+emerytura;пенсія;f;daily_life
+lekarz;лікар;m;daily_life
+pielęgniarka;медсестра;f;daily_life
+nauczyciel;вчитель;m;daily_life
+inżynier;інженер;m;daily_life
+prawnik;юрист;m;daily_life
+księgowy;бухгалтер;m;daily_life
+kelner;офіціант;m;daily_life
+sprzedawca;продавець;m;daily_life
+kucharz;кухар;m;daily_life
+fryzjer;перукар;m;daily_life
+mechanik;механік;m;daily_life
+elektryk;електрик;m;daily_life
+rolnik;фермер;m;daily_life
+dziennikarz;журналіст;m;daily_life
+architekt;архітектор;m;daily_life
+programista;програміст;m;daily_life
+kierowca;водій;m;daily_life
+pilot;пілот;m;daily_life
+stewardessa;стюардеса;f;daily_life
+policjant;поліцейський;m;daily_life
+strażak;пожежник;m;daily_life
+żołnierz;солдат;m;daily_life
+artysta;художник;m;daily_life
+muzyk;музикант;m;daily_life
+aktor;актор;m;daily_life
+pisarz;письменник;m;daily_life
+biurko;письмовий стіл;n;daily_life
+krzesło;стілець;n;daily_life
+komputer;комп'ютер;m;daily_life
+monitor;монітор;m;daily_life
+klawiatura;клавіатура;f;daily_life
+myszka;мишка;f;daily_life
+drukarka;принтер;f;daily_life
+telefon;телефон;m;daily_life
+notatnik;блокнот;m;daily_life
+długopis;ручка;m;daily_life
+ołówek;олівець;m;daily_life
+notes;записник;m;daily_life
+zszywacz;степлер;m;daily_life
+zszywki;скоби;pl;daily_life
+dziurkacz;дирокол;m;daily_life
+spinacz;скріпка;m;daily_life
+teczka;папка;f;daily_life
+segregator;швидкозшивач;m;daily_life
+szuflada;шухляда;f;daily_life
+szafa;шафа;f;daily_life
+półka;полиця;f;daily_life
+lampka;лампа;f;daily_life
+kalendarz;календар;m;daily_life
+spotkanie;зустріч;n;daily_life
+zebranie;нарада;n;daily_life
+szef;шеф;m;daily_life
+kierownik;керівник;m;daily_life
+pracownik;працівник;m;daily_life
+kolega;колега;m;daily_life
+koleżanka;колежанка;f;daily_life
+klient;клієнт;m;daily_life
+umowa;договір;f;daily_life
+faktura;рахунок-фактура;f;daily_life
+paragon;чек;m;daily_life
+dokument;документ;m;daily_life
+raport;звіт;m;daily_life
+prezentacja;презентація;f;daily_life
+projekt;проєкт;m;daily_life
+zespół;команда;m;daily_life
+wiadomość;повідомлення;f;daily_life
+e-mail;електронна пошта;m;daily_life
+kserokopiarka;ксерокс;f;daily_life
+niszczarka;шредер;f;daily_life
+tablica;дошка;f;daily_life
+marker;маркер;m;daily_life
+kalkulator;калькулятор;m;daily_life
+wizytówka;візитівка;f;daily_life
+pinezka;кнопка;f;daily_life
+koperta;конверт;f;daily_life
+taśma klejąca;скотч;f;daily_life
+praca;робота;f;daily_life
+stanowisko;посада;n;daily_life
+wynagrodzenie;заробітна плата;n;daily_life
+umowa o pracę;трудовий договір;f;daily_life
+pracodawca;роботодавець;m;daily_life
+pracownik;працівник;m;daily_life
+kandydat;кандидат;m;daily_life
+rekrutacja;рекрутинг;f;daily_life
+ogłoszenie o pracę;оголошення про роботу;n;daily_life
+CV;CV;n;daily_life
+list motywacyjny;мотиваційний лист;m;daily_life
+rozmowa kwalifikacyjna;співбесіда;f;daily_life
+doświadczenie zawodowe;досвід роботи;n;daily_life
+kwalifikacje;кваліфікації;pl;daily_life
+umiejętności;навички;pl;daily_life
+języki obce;іноземні мови;pl;daily_life
+referencje;рекомендації;pl;daily_life
+staż;стажування;m;daily_life
+praktyka;практика;f;daily_life
+etat;повна зайнятість;m;daily_life
+wynagrodzenie netto;зарплата нетто;n;daily_life
+wynagrodzenie brutto;зарплата брутто;n;daily_life
+widełki płacowe;зарплатна вилка;pl;daily_life
+podanie o pracę;заява на роботу;n;daily_life
+formularz zgłoszeniowy;анкета;m;daily_life
+list intencyjny;лист про наміри;m;daily_life
+negocjować;вести переговори;;daily_life
+zatrudnić;працевлаштувати;;daily_life
+zwolnić;звільнити;;daily_life
+wypowiedzenie;повідомлення про звільнення;n;daily_life
+okres wypowiedzenia;термін повідомлення;m;daily_life
+bezrobocie;безробіття;n;daily_life
+bezrobotny;безробітний;m;daily_life
+urząd pracy;центр зайнятості;m;daily_life
+agencja pracy;агентство з працевлаштування;f;daily_life
+rekruter;рекрутер;m;daily_life
+premia;премія;f;daily_life
+benefity;бенефіти;pl;daily_life
+ubezpieczenie;страхування;n;daily_life
+urlop;відпустка;m;daily_life
+dzień wolny;вихідний день;m;daily_life
+godziny nadliczbowe;надурочні години;pl;daily_life
+kodeks pracy;кодекс законів про працю;m;daily_life
+szkolenie;навчання;n;daily_life
+awans;підвищення;m;daily_life
+rezygnacja;звільнення за власним бажанням;f;daily_life
+rozwój zawodowy;професійний розвиток;m;daily_life
+dodatek;надбавка;m;daily_life
+zebranie;нарада;n;daily_life
+wynagrodzenie minimalne;мінімальна зарплата;n;daily_life
+spotkanie;зустріч;n;daily_life
+konferencja;конференція;f;daily_life
+prezentacja;презентація;f;daily_life
+raport;звіт;m;daily_life
+e-mail;імейл;m;daily_life
+telefon;дзвінок;m;daily_life
+wiadomość;повідомлення;f;daily_life
+informować;інформувати;;daily_life
+pytać;запитувати;;daily_life
+odpowiadać;відповідати;;daily_life
+dyskutować;обговорювати;;daily_life
+negocjować;вести переговори;;daily_life
+kolega;колега;m;daily_life
+szef;шеф;m;daily_life
+pracownik;працівник;m;daily_life
+zespół;команда;m;daily_life
+biuro;офіс;n;daily_life
+biurko;робочий стіл;n;daily_life
+komputer;комп'ютер;m;daily_life
+dokument;документ;m;daily_life
+plik;файл;m;daily_life
+projekt;проєкт;m;daily_life
+zadanie;завдання;n;daily_life
+termin;дедлайн;m;daily_life
+sala konferencyjna;конференц-зал;f;daily_life
+harmonogram;графік;m;daily_life
+wizyta;візит;f;daily_life
+klient;клієнт;m;daily_life
+kontrahent;контрагент;m;daily_life
+partner;партнер;m;daily_life
+dostawca;постачальник;m;daily_life
+faktura;рахунок;f;daily_life
+umowa;договір;f;daily_life
+podpis;підпис;m;daily_life
+podpisywać;підписувати;;daily_life
+zatwierdzać;затверджувати;;daily_life
+odrzucać;відхиляти;;daily_life
+informacja zwrotna;зворотний зв'язок;f;daily_life
+sugestia;пропозиція;f;daily_life
+pomysł;ідея;m;daily_life
+problem;проблема;m;daily_life
+rozwiązanie;рішення;n;daily_life
+decyzja;рішення;f;daily_life
+postęp;прогрес;m;daily_life
+opóźnienie;затримка;n;daily_life
+pilny;терміновий;;daily_life
+ważny;важливий;;daily_life
+organizować;організовувати;;daily_life
+koordynować;координувати;;daily_life
+przypomnienie;нагадування;n;daily_life

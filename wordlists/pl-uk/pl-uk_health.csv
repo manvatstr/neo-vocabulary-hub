@@ -1,55 +1,199 @@
-zdrowie;здоров'я;с.р.;health
-choroba;хвороба;ж.р.;health
-lekarz;лікар;м.р.;health
-lekarka;лікарка;ж.р.;health
-szpital;лікарня;м.р.;health
-apteka;аптека;ж.р.;health
-lekarstwo;ліки;с.р.;health
-tabletka;таблетка;ж.р.;health
-syrop;сироп;м.р.;health
-zastrzyk;укол;м.р.;health
-bandaż;бинт;м.р.;health
-gips;гіпс;м.р.;health
-termometr;термометр;м.р.;health
-ciśnienie;тиск;с.р.;health
-gorączka;гарячка;ж.р.;health
-ból;біль;м.р.;health
-kaszel;кашель;м.р.;health
-katar;нежить;м.р.;health
-grypa;грип;ж.р.;health
-infekcja;інфекція;ж.р.;health
-wirus;вірус;м.р.;health
-bakteria;бактерія;ж.р.;health
-odporność;імунітет;ж.р.;health
-szczepionka;вакцина;ж.р.;health
-dieta;дієта;ж.р.;health
-witamina;вітамін;ж.р.;health
-minerał;мінерал;м.р.;health
-białko;білок;с.р.;health
-tłuszcz;жир;м.р.;health
-węglowodan;вуглевод;м.р.;health
-ćwiczenie;вправа;с.р.;health
-sen;сон;м.р.;health
-stres;стрес;м.р.;health
-masaż;масаж;м.р.;health
-rehabilitacja;реабілітація;ж.р.;health
-badanie;обстеження;с.р.;health
-rentgen;рентген;м.р.;health
-ultrasonografia;УЗД;ж.р.;health
-operacja;операція;ж.р.;health
-narkoza;наркоз;ж.р.;health
-rana;рана;ж.р.;health
-oparzenie;опік;с.р.;health
-złamanie;перелом;с.р.;health
-krwawienie;кровотеча;с.р.;health
-alergia;алергія;ж.р.;health
-cukrzyca;діабет;ж.р.;health
-nadciśnienie;гіпертонія;с.р.;health
-astma;астма;ж.р.;health
-migrena;мігрень;ж.р.;health
-depresja;депресія;ж.р.;health
-uzależnienie;залежність;с.р.;health
-profilaktyka;профілактика;ж.р.;health
-higiena;гігієна;ж.р.;health
-woda;вода;ж.р.;health
-odpoczynek;відпочинок;м.р.;health
+głowa;голова;f;health
+włos;волос;m;health
+twarz;обличчя;f;health
+czoło;лоб;n;health
+oko;око;n;health
+nos;ніс;m;health
+usta;рот;pl;health
+ząb;зуб;m;health
+język;язик;m;health
+broda;підборіддя;f;health
+szyja;шия;f;health
+ramię;плече;n;health
+ręka;рука;f;health
+dłoń;долоня;f;health
+palec;палець;m;health
+kciuk;великий палець;m;health
+paznokieć;ніготь;m;health
+nadgarstek;зап'ястя;m;health
+łokieć;лікоть;m;health
+pierś;груди;f;health
+serce;серце;n;health
+żebro;ребро;n;health
+brzuch;живіт;m;health
+plecy;спина;pl;health
+kręgosłup;хребет;m;health
+talia;талія;f;health
+biodro;стегно;n;health
+pośladek;сідниця;m;health
+noga;нога;f;health
+udo;стегно;n;health
+kolano;коліно;n;health
+łydka;литка;f;health
+kostka;щиколотка;f;health
+stopa;стопа;f;health
+pięta;п'ята;f;health
+palec stopy;палець ноги;m;health
+skóra;шкіра;f;health
+mięsień;м'яз;m;health
+kość;кістка;f;health
+staw;суглоб;m;health
+żyła;жила;f;health
+tętnica;артерія;f;health
+mózg;мозок;m;health
+płuco;легеня;n;health
+żołądek;шлунок;m;health
+wątroba;печінка;f;health
+nerka;нирка;f;health
+gardło;горло;n;health
+krtań;гортань;f;health
+przeziębienie;застуда;n;health
+grypa;грип;f;health
+angina;ангіна;f;health
+zapalenie oskrzeli;бронхіт;n;health
+zapalenie płuc;пневмонія;n;health
+astma;астма;f;health
+alergia;алергія;f;health
+katar;нежить;m;health
+kaszel;кашель;m;health
+kichanie;чхання;n;health
+gorączka;гарячка;f;health
+dreszcze;озноб;pl;health
+osłabienie;слабкість;n;health
+ból głowy;головний біль;m;health
+ból brzucha;біль у животі;m;health
+ból gardła;біль у горлі;m;health
+ból zęba;зубний біль;m;health
+ból ucha;біль у вусі;m;health
+nudności;нудота;pl;health
+wymioty;блювота;pl;health
+biegunka;діарея;f;health
+zaparcie;запор;n;health
+zgaga;печія;f;health
+niestrawność;нетравлення;f;health
+wzdęcie;здуття;n;health
+kolka;коліка;f;health
+migrena;мігрень;f;health
+zawrót głowy;запаморочення;m;health
+omdlenie;непритомність;n;health
+wysypka;висип;f;health
+swędzenie;свербіж;n;health
+obrzęk;набряк;m;health
+siniak;синець;m;health
+rana;рана;f;health
+złamanie;перелом;n;health
+zwichnięcie;вивих;n;health
+skręcenie;розтягнення;n;health
+stłuczenie;забій;n;health
+skaleczenie;поріз;n;health
+krwawienie;кровотеча;n;health
+oparzenie;опік;n;health
+zatrucie;отруєння;n;health
+zakażenie;інфекція;n;health
+infekcja;інфекція;f;health
+wirus;вірус;m;health
+bakteria;бактерія;f;health
+katar sienny;сінна лихоманка;m;health
+chrypka;хрипота;f;health
+bezsenność;безсоння;f;health
+zmęczenie;втома;n;health
+lekarz;лікар;m;health
+apteka;аптека;f;health
+recepta;рецепт;f;health
+tabletka;таблетка;f;health
+syrop;сироп;m;health
+antybiotyk;антибіотик;m;health
+ból;біль;m;health
+gorączka;температура;f;health
+katar;нежить;m;health
+kaszel;кашель;m;health
+grypa;грип;f;health
+przeziębienie;застуда;n;health
+ból głowy;головний біль;m;health
+ból zęba;зубний біль;m;health
+ból brzucha;біль у животі;m;health
+temperatura;температура;f;health
+termometr;термометр;m;health
+ciśnienie;тиск;n;health
+krew;кров;f;health
+badanie;обстеження;n;health
+lekarz rodzinny;сімейний лікар;m;health
+przychodnia;поліклініка;f;health
+szpital;лікарня;m;health
+pogotowie;швидка допомога;n;health
+aptekarz;фармацевт;m;health
+pielęgniarka;медсестра;f;health
+zastrzyk;укол;m;health
+bandaż;бинт;m;health
+plaster;пластир;m;health
+maść;мазь;f;health
+krople;краплі;pl;health
+witamina;вітамін;f;health
+suplement;добавка;m;health
+opatrunek;пов'язка;m;health
+strzykawka;шприц;f;health
+igła;голка;f;health
+wizyta;візит;f;health
+skierowanie;направлення;n;health
+wynik;результат;m;health
+choroba;хвороба;f;health
+zdrowie;здоров'я;n;health
+objaw;симптом;m;health
+leczenie;лікування;n;health
+profilaktyka;профілактика;f;health
+szczepionka;вакцина;f;health
+wirus;вірус;m;health
+bakteria;бактерія;f;health
+alergia;алергія;f;health
+oparzenie;опік;n;health
+rana;рана;f;health
+zdrowie;здоров'я;;health
+styl życia;спосіб життя;style życia;health
+dieta;дієта;diety;health
+ćwiczenie;вправа;ćwiczenia;health
+aktywność fizyczna;фізична активність;aktywności fizyczne;health
+sen;сон;sny;health
+odpoczynek;відпочинок;odpoczynki;health
+relaks;релакс;relaksy;health
+stres;стрес;stresy;health
+witamina;вітамін;witaminy;health
+minerał;мінерал;minerały;health
+warzywo;овоч;warzywa;health
+owoc;фрукт;owoce;health
+woda;вода;wody;health
+błonnik;клітковина;;health
+białko;білок;białka;health
+tłuszcz;жир;tłuszcze;health
+cukier;цукор;cukry;health
+sól;сіль;sole;health
+alkohol;алкоголь;alkohole;health
+palenie;куріння;;health
+bieganie;біг;;health
+spacer;прогулянка;spacery;health
+pływanie;плавання;;health
+siłownia;тренажерний зал;siłownie;health
+joga;йога;jogi;health
+medytacja;медитація;medytacje;health
+odporność;імунітет;odporności;health
+energia;енергія;energie;health
+nawyk;звичка;nawyki;health
+cel;ціль;cele;health
+ruch;рух;ruchy;health
+rozciąganie;розтяжка;;health
+masaż;масаж;masaże;health
+sauna;сауна;sauny;health
+suplement;добавка;suplementy;health
+probiotyk;пробіотик;probiotyki;health
+posiłek;прийом їжі;posiłki;health
+nawodnienie;гідратація;;health
+nabiał;молочні продукти;;health
+przekąska;перекус;przekąski;health
+zdrowe odżywianie;здорове харчування;;health
+unikanie stresu;уникнення стресу;;health
+aktywny wypoczynek;активний відпочинок;aktywne wypoczynki;health
+jogurt;йогурт;jogurty;health
+orzech;горіх;orzechy;health
+nasiono;насінина;nasiona;health
+ćwiczyć;займатися спортом;;health
+biegać;бігати;;health
+pić wodę;пити воду;;health

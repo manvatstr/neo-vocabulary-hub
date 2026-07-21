@@ -1,0 +1,200 @@
+rzeczownik;іменник;m;language
+czasownik;дієслово;m;language
+przymiotnik;прикметник;m;language
+przysłówek;прислівник;m;language
+zaimek;займенник;m;language
+liczebnik;числівник;m;language
+przyimek;прийменник;m;language
+spójnik;сполучник;m;language
+partykuła;частка;f;language
+wykrzyknik;вигук;m;language
+rodzajnik;артикль;m;language
+bezokolicznik;інфінітив;m;language
+tryb;спосіб;m;language
+strona;стан;f;language
+przypadek;відмінок;m;language
+mianownik;називний відмінок;m;language
+dopełniacz;родовий відмінок;m;language
+celownik;давальний відмінок;m;language
+biernik;знахідний відмінок;m;language
+narzędnik;орудний відмінок;m;language
+miejscownik;місцевий відмінок;m;language
+wołacz;кличний відмінок;m;language
+liczba pojedyncza;однина;f;language
+liczba mnoga;множина;f;language
+rodzaj męski;чоловічий рід;m;language
+rodzaj żeński;жіночий рід;m;language
+rodzaj nijaki;середній рід;m;language
+czas teraźniejszy;теперішній час;m;language
+czas przeszły;минулий час;m;language
+czas przyszły;майбутній час;m;language
+osoba;особа;f;language
+pierwsza osoba;перша особа;f;language
+druga osoba;друга особа;f;language
+trzecia osoba;третя особа;f;language
+tryb przypuszczający;умовний спосіб;m;language
+tryb rozkazujący;наказовий спосіб;m;language
+imiesłów;дієприкметник;m;language
+zdanie;речення;n;language
+zdanie pojedyncze;просте речення;n;language
+zdanie złożone;складне речення;n;language
+podmiot;підмет;m;language
+orzeczenie;присудок;n;language
+dopełnienie;додаток;n;language
+okolicznik;обставина;m;language
+przydawka;означення;f;language
+samogłoska;голосна;f;language
+spółgłoska;приголосна;f;language
+sylaba;склад;f;language
+akcent;наголос;m;language
+wymowa;вимова;f;language
+bariera;бар'єр;f;language
+nieporozumienie;непорозуміння;n;language
+przeszkoda;перешкода;f;language
+niezrozumienie;нерозуміння;n;language
+szum;шум;m;language
+hałas;галас;m;language
+cisza;тиша;f;language
+milczenie;мовчання;n;language
+przekaz;повідомлення;m;language
+komunikat;повідомлення;m;language
+wiadomość;повідомлення;f;language
+nadawca;відправник;m;language
+odbiorca;отримувач;m;language
+kanał;канал;m;language
+kod;код;m;language
+szyfrowanie;шифрування;n;language
+deszyfrowanie;дешифрування;n;language
+sprzężenie zwrotne;зворотний зв'язок;n;language
+zakłócenie;перешкода;n;language
+błąd;помилка;m;language
+pomyłka;помилка;f;language
+niejasność;неясність;f;language
+dwuznaczność;двозначність;f;language
+zrozumienie;розуміння;n;language
+interpretacja;інтерпретація;f;language
+tłumaczenie;переклад;n;language
+tłumacz;перекладач;m;language
+akcent;акцент;m;language
+dialekt;діалект;m;language
+slang;сленг;m;language
+żargon;жаргон;m;language
+wymowa;вимова;f;language
+pisownia;орфографія;f;language
+gramatyka;граматика;f;language
+słownictwo;лексика;n;language
+znaczenie;значення;n;language
+kontekst;контекст;m;language
+kultura;культура;f;language
+różnica;різниця;f;language
+stereotyp;стереотип;m;language
+uprzedzenie;упередження;n;language
+szacunek;повага;m;language
+niegrzeczność;неввічливість;f;language
+uprzejmość;ввічливість;f;language
+rozumieć;розуміти;;language
+tłumaczyć;перекладати;;language
+wyjaśniać;пояснювати;;language
+słuchać;слухати;;language
+mówić;говорити;;language
+powtarzać;повторювати;;language
+opinia;думка;f;language
+zdanie;думка;n;language
+pogląd;погляд;m;language
+sąd;судження;m;language
+punkt widzenia;точка зору;m;language
+argument;аргумент;m;language
+kontrargument;контраргумент;m;language
+przekonanie;переконання;n;language
+wątpliwość;сумнів;f;language
+zgoda;згода;f;language
+sprzeciw;заперечення;m;language
+dyskusja;дискусія;f;language
+debata;дебати;f;language
+rozmowa;розмова;f;language
+wypowiedź;висловлювання;f;language
+stwierdzenie;твердження;n;language
+twierdzenie;твердження;n;language
+uzasadnienie;обґрунтування;n;language
+wniosek;висновок;m;language
+propozycja;пропозиція;f;language
+sugestia;пропозиція;f;language
+myśl;думка;f;language
+pomysł;ідея;m;language
+idea;ідея;f;language
+koncepcja;концепція;f;language
+stanowisko;позиція;n;language
+głos;голос;m;language
+głosowanie;голосування;n;language
+ankieta;анкета;f;language
+sondaż;опитування;m;language
+komentarz;коментар;m;language
+recenzja;рецензія;f;language
+krytyka;критика;f;language
+pochwała;похвала;f;language
+zarzut;закид;m;language
+obiekcja;заперечення;f;language
+wątpić;сумніватися;;language
+uważać;вважати;;language
+sądzić;вважати;;language
+myśleć;думати;;language
+wierzyć;вірити;;language
+zgadzać się;погоджуватися;;language
+nie zgadzać się;не погоджуватися;;language
+twierdzić;стверджувати;;language
+przyznawać;визнавати;;language
+podkreślać;підкреслювати;;language
+argumentować;аргументувати;;language
+dyskutować;дискутувати;;language
+przekonywać;переконувати;;language
+debatować;дебатувати;;language
+owijać w bawełnę;ходити околяса;;language
+mówić prosto z mostu;говорити прямо;;language
+pleść trzy po trzy;плести нісенітниці;;language
+gadać jak najęty;базікати без угаву;;language
+mieć długi język;мати довгий язик;;language
+trzymać język za zębami;тримати язик за зубами;;language
+puścić farbę;проговоритися;;language
+wziąć na języki;взяти на язики;;language
+mówić od rzeczy;говорити не до речі;;language
+mówić bez ładu i składu;говорити без ладу і складу;;language
+przekręcać słowa;перекручувати слова;;language
+rzucać słowa na wiatr;кидати слова на вітер;;language
+dobierać słowa;добирати слова;;language
+klepać formułki;завчено повторювати;;language
+wiercić dziurę w brzuchu;надокучати балачками;;language
+nawijać makaron na uszy;вішати локшину на вуха;;language
+przynudzać;нудити розмовами;;language
+bajerować;заговорювати зуби;;language
+wciskać kit;заливати;;language
+ściemniać;темнити;;language
+lać wodę;лити воду;;language
+nabijać w butelkę;надувати;;language
+wziąć na słowo;взяти на слово;;language
+słowo honoru;слово честі;n;language
+złote myśli;золоті думки;pl;language
+oklepany frazes;заяложена фраза;m;language
+wytarty slogan;затерте гасло;m;language
+słuchy;чутки;pl;language
+plotkować;пліткувати;;language
+gadać głupoty;казати дурниці;;language
+mówić zagadkami;говорити загадками;;language
+rzecz w tym;річ у тім;;language
+jak to mówią;як то кажуть;;language
+innymi słowy;іншими словами;;language
+nie ma o czym mówić;нема про що говорити;;language
+mówić jak katarynka;говорити як шарманка;;language
+androny;нісенітниці;pl;language
+bzdura;дурниця;f;language
+bajki opowiadać;розповідати казки;;language
+mówić jak z nut;говорити як по нотах;;language
+idiom;ідіома;m;language
+slang;сленг;m;language
+powiedzenie;приказка;n;language
+przysłowie;прислів'я;n;language
+frazeologizm;фразеологізм;m;language
+kolokwializm;розмовний вираз;m;language
+metafora;метафора;f;language
+porównanie;порівняння;n;language
+epitet;епітет;m;language
+eufemizm;евфемізм;m;language

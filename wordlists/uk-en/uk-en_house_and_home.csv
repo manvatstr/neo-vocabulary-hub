@@ -1,0 +1,200 @@
+living room;вітальня;f;house_and_home
+bedroom;спальня;f;house_and_home
+kitchen;кухня;f;house_and_home
+bathroom;ванна кімната;f;house_and_home
+toilet;туалет;m;house_and_home
+hallway;передпокій;m;house_and_home
+corridor;коридор;m;house_and_home
+balcony;балкон;m;house_and_home
+study;кабінет;m;house_and_home
+dining room;їдальня;f;house_and_home
+attic;горище;n;house_and_home
+basement;підвал;m;house_and_home
+cellar;льох;m;house_and_home
+garage;гараж;m;house_and_home
+guest room;гостьова;f;house_and_home
+children's room;дитяча;f;house_and_home
+utility room;підсобка;f;house_and_home
+pantry;комора;f;house_and_home
+stairs;сходи;pl;house_and_home
+floor;поверх;m;house_and_home
+ceiling;стеля;f;house_and_home
+wall;стіна;f;house_and_home
+door;двері;pl;house_and_home
+window;вікно;n;house_and_home
+floor;підлога;f;house_and_home
+furniture;меблі;pl;house_and_home
+sofa;диван;m;house_and_home
+armchair;крісло;n;house_and_home
+chair;стілець;m;house_and_home
+table;стіл;m;house_and_home
+desk;письмовий стіл;m;house_and_home
+bed;ліжко;n;house_and_home
+wardrobe;шафа;f;house_and_home
+closet;гардеробна;f;house_and_home
+bookshelf;книжкова полиця;f;house_and_home
+shelf;полиця;f;house_and_home
+dresser;комод;m;house_and_home
+chest;скриня;f;house_and_home
+nightstand;тумбочка;f;house_and_home
+mirror;дзеркало;n;house_and_home
+lamp;лампа;f;house_and_home
+curtain;штора;f;house_and_home
+carpet;килим;m;house_and_home
+rug;килимок;m;house_and_home
+picture;картина;f;house_and_home
+clock;годинник;m;house_and_home
+vase;ваза;f;house_and_home
+houseplant;кімнатна рослина;f;house_and_home
+TV set;телевізор;m;house_and_home
+microwave;мікрохвильовка;f;house_and_home
+chore;хатня робота;f;house_and_home
+clean;прибирати;;house_and_home
+wash dishes;мити посуд;;house_and_home
+vacuum;пилососити;;house_and_home
+sweep;підмітати;;house_and_home
+mop;мити шваброю;;house_and_home
+dust;витирати пил;;house_and_home
+laundry;прання;n;house_and_home
+iron;прасувати;;house_and_home
+fold;складати;;house_and_home
+tidy up;прибирати;;house_and_home
+put away;прибирати речі;;house_and_home
+scrub;терти;;house_and_home
+polish;полірувати;;house_and_home
+repair;ремонтувати;;house_and_home
+fix;лагодити;;house_and_home
+paint;фарбувати;;house_and_home
+change a light bulb;міняти лампочку;;house_and_home
+unclog a drain;прочищати злив;;house_and_home
+mow the lawn;косити газон;;house_and_home
+weed;прополювати;;house_and_home
+rake leaves;згрібати листя;;house_and_home
+trim hedge;підстригати живопліт;;house_and_home
+shovel snow;прибирати сніг лопатою;;house_and_home
+wash windows;мити вікна;;house_and_home
+take out the trash;виносити сміття;;house_and_home
+recycle;сортувати сміття;;house_and_home
+clear the table;прибирати зі столу;;house_and_home
+load the dishwasher;завантажувати посудомийну машину;;house_and_home
+unload the dishwasher;розвантажувати посудомийну машину;;house_and_home
+hang clothes;вішати одяг;;house_and_home
+make the bed;застеляти ліжко;;house_and_home
+change sheets;міняти постіль;;house_and_home
+water plants;поливати рослини;;house_and_home
+prune;обрізати;;house_and_home
+sweep stairs;підмітати сходи;;house_and_home
+wipe counters;витирати стільниці;;house_and_home
+vacuum cleaner;пилосос;m;house_and_home
+broom;віник;m;house_and_home
+mop;швабра;f;house_and_home
+bucket;відро;n;house_and_home
+dustpan;совок;m;house_and_home
+duster;ганчірка;f;house_and_home
+trash bag;сміттєвий пакет;m;house_and_home
+laundry basket;кошик для білизни;m;house_and_home
+laundry detergent;пральний порошок;m;house_and_home
+ironing board;прасувальна дошка;f;house_and_home
+sponge;губка;f;house_and_home
+dish soap;засіб для миття посуду;m;house_and_home
+rubber gloves;гумові рукавички;pl;house_and_home
+apartment;квартира;f;house_and_home
+house;будинок;m;house_and_home
+room;кімната;f;house_and_home
+landlord;орендодавець;m;house_and_home
+tenant;орендар;m;house_and_home
+rent;оренда;f;house_and_home
+mortgage;іпотека;f;house_and_home
+down payment;перший внесок;m;house_and_home
+lease;договір оренди;m;house_and_home
+contract;контракт;m;house_and_home
+real estate agent;агент з нерухомості;m;house_and_home
+property;нерухомість;f;house_and_home
+deposit;завдаток;m;house_and_home
+utilities;комунальні послуги;pl;house_and_home
+bills;рахунки;pl;house_and_home
+to rent;орендувати;;house_and_home
+to buy;купувати;;house_and_home
+to sell;продавати;;house_and_home
+to sign;підписувати;;house_and_home
+to move;переїжджати;;house_and_home
+tenant's right;право орендаря;n;house_and_home
+landlord's insurance;страхування орендодавця;n;house_and_home
+broker;брокер;m;house_and_home
+agency;агентство;n;house_and_home
+neighborhood;район;m;house_and_home
+area;місцевість;f;house_and_home
+view;вид;m;house_and_home
+floor;поверх;m;house_and_home
+elevator;ліфт;m;house_and_home
+parking;парковка;f;house_and_home
+balcony;балкон;m;house_and_home
+garden;сад;m;house_and_home
+yard;двір;m;house_and_home
+basement;підвал;m;house_and_home
+attic;горище;n;house_and_home
+repair;ремонт;m;house_and_home
+renovation;реновація;f;house_and_home
+inspection;огляд;m;house_and_home
+key;ключ;m;house_and_home
+lock;замок;m;house_and_home
+agreement;угода;f;house_and_home
+condition;стан;m;house_and_home
+rent increase;підвищення орендної плати;n;house_and_home
+security deposit;гарантійний депозит;m;house_and_home
+to pay;платити;;house_and_home
+to negotiate;обговорювати;;house_and_home
+tenant screening;перевірка орендаря;f;house_and_home
+credit check;перевірка кредитної історії;f;house_and_home
+eviction;виселення;n;house_and_home
+furnished;мебльований;m;house_and_home
+street;вулиця;f;house_and_home
+avenue;проспект;m;house_and_home
+sidewalk;тротуар;m;house_and_home
+crosswalk;пішохідний перехід;m;house_and_home
+traffic light;світлофор;m;house_and_home
+intersection;перехрестя;n;house_and_home
+corner;ріг;m;house_and_home
+block;квартал;m;house_and_home
+house;будинок;m;house_and_home
+apartment building;багатоквартирний будинок;m;house_and_home
+yard;двір;m;house_and_home
+fence;паркан;m;house_and_home
+gate;ворота;pl;house_and_home
+mailbox;поштова скринька;f;house_and_home
+lamppost;ліхтар;m;house_and_home
+bench;лавка;f;house_and_home
+park;парк;m;house_and_home
+playground;дитячий майданчик;m;house_and_home
+school;школа;f;house_and_home
+library;бібліотека;f;house_and_home
+grocery store;продуктовий магазин;m;house_and_home
+supermarket;супермаркет;m;house_and_home
+pharmacy;аптека;f;house_and_home
+hospital;лікарня;f;house_and_home
+police station;поліцейська дільниця;f;house_and_home
+fire station;пожежна частина;f;house_and_home
+post office;пошта;f;house_and_home
+bank;банк;m;house_and_home
+restaurant;ресторан;m;house_and_home
+cafe;кафе;n;house_and_home
+bar;бар;m;house_and_home
+shop;крамниця;f;house_and_home
+bus stop;автобусна зупинка;f;house_and_home
+subway station;станція метро;f;house_and_home
+train station;вокзал;m;house_and_home
+bridge;міст;m;house_and_home
+tunnel;тунель;m;house_and_home
+highway;шосе;n;house_and_home
+alley;провулок;m;house_and_home
+parking lot;парковка;f;house_and_home
+garage;гараж;m;house_and_home
+driveway;під'їзна доріжка;f;house_and_home
+neighbor;сусід;m;house_and_home
+neighborhood;мікрорайон;m;house_and_home
+community;громада;f;house_and_home
+district;район;m;house_and_home
+suburb;передмістя;n;house_and_home
+downtown;центр;m;house_and_home
+pedestrian;пішохід;m;house_and_home
+bicycle lane;велосипедна доріжка;f;house_and_home

@@ -1,53 +1,200 @@
-escuela;школа;escuelas;education
-maestro;вчитель;maestros;education
-profesor;викладач;profesores;education
-alumno;учень;alumnos;education
-estudiante;студент;estudiantes;education
-clase;урок;clases;education
-aula;аудиторія;aulas;education
-libro;книга;libros;education
-cuaderno;зошит;cuadernos;education
-lápiz;олівець;lápices;education
-bolígrafo;ручка;bolígrafos;education
-pizarra;дошка;pizarras;education
-tiza;крейда;tizas;education
+matemáticas;математика;matemáticas;education
+lengua;мова;lenguas;education
+literatura;література;literaturas;education
+historia;історія;historias;education
+geografía;географія;geografías;education
+ciencias;науки;ciencias;education
+física;фізика;físicas;education
+química;хімія;químicas;education
+biología;біологія;biologías;education
+educación física;фізичне виховання;educaciones físicas;education
+arte;мистецтво;artes;education
+música;музика;músicas;education
+tecnología;технологія;tecnologías;education
+informática;інформатика;informáticas;education
+religión;релігія;religiones;education
+filosofía;філософія;filosofías;education
+economía;економіка;economías;education
+latín;латина;;education
+inglés;англійська мова;;education
+francés;французька мова;;education
+alemán;німецька мова;;education
+español;іспанська мова;;education
+italiano;італійська мова;;education
+ruso;російська мова;;education
+chino;китайська мова;;education
+árabe;арабська мова;;education
+griego;грецька мова;;education
+historia del arte;історія мистецтва;historias del arte;education
+dibujo;малювання;dibujos;education
+teatro;театр;teatros;education
+danza;танець;danzas;education
+literatura universal;всесвітня література;literaturas universales;education
+ciencias sociales;соціальні науки;ciencias sociales;education
+psicología;психологія;psicologías;education
+sociología;соціологія;sociologías;education
+política;політика;políticas;education
+derecho;право;;education
+contabilidad;бухгалтерський облік;contabilidades;education
+administración;адміністрування;administraciones;education
+comercio;комерція;;education
+turismo;туризм;;education
+mecánica;механіка;mecánicas;education
+electricidad;електрика;electricidades;education
+electrónica;електроніка;electrónicas;education
+robótica;робототехніка;robóticas;education
+astronomía;астрономія;astronomías;education
+geología;геологія;geologías;education
+ética;етика;éticas;education
+religiones comparadas;порівняльне релігієзнавство;religiones comparadas;education
+ciudadanía;громадянознавство;ciudadanías;education
+la universidad;університет;las universidades;education
+la facultad;факультет;las facultades;education
+la carrera;спеціальність;las carreras;education
+la clase;заняття;las clases;education
+el aula;аудиторія;las aulas;education
+la biblioteca;бібліотека;las bibliotecas;education
+el laboratorio;лабораторія;los laboratorios;education
+el examen;іспит;los exámenes;education
+la nota;оцінка;las notas;education
+aprobar;складати (іспит);;education
+suspender;провалити (іспит);;education
+matricularse;зареєструватися; ;education
+la beca;стипендія;las becas;education
+el profesor;викладач;los profesores;education
+la profesora;викладачка;las profesoras;education
+el estudiante;студент;los estudiantes;education
+la estudiante;студентка;las estudiantes;education
+el compañero de clase;одногрупник;los compañeros de clase;education
+el título;диплом;los títulos;education
+el máster;магістратура;los másteres;education
+el doctorado;докторантура;los doctorados;education
+la conferencia;лекція;las conferencias;education
+el seminario;семінар;los seminarios;education
+el tutor;куратор;los tutores;education
+la investigación;дослідження;las investigaciones;education
+la tesis;дисертація;las tesis;education
+la práctica;практика;las prácticas;education
+el trabajo en grupo;групова робота;los trabajos en grupo;education
+el horario;розклад;los horarios;education
+la asignatura;предмет;las asignaturas;education
+el crédito;кредит;los créditos;education
+el campus;кампус;los campus;education
+el despacho;кабінет;los despachos;education
+el rector;ректор;los rectores;education
+el decano;декан;los decanos;education
+la secretaría;секретаріат;las secretarías;education
+el conserje;вахтер;los conserjes;education
+el becario;стипендіат;los becarios;education
+el ponente;доповідач;los ponentes;education
+el congreso;конгрес;los congresos;education
+la residencia universitaria;гуртожиток;las residencias universitarias;education
+la lección;урок;las lecciones;education
+el apunte;конспект;los apuntes;education
+la tarea;завдання;las tareas;education
+la lectura;читання;las lecturas;education
+la bibliografía;бібліографія;las bibliografías;education
+la ponencia;доповідь;las ponencias;education
+la evaluación;оцінювання;las evaluaciones;education
+la matrícula;реєстрація (на курс);las matrículas;education
+el título de grado;ступінь бакалавра;los títulos de grado;education
 examen;іспит;exámenes;education
-prueba;контрольна робота;pruebas;education
-tarea;домашнє завдання;tareas;education
-deberes;домашні завдання;;education
-lección;лекція;lecciones;education
-asignatura;предмет;asignaturas;education
-matemáticas;математика;;education
-ciencia;наука;ciencias;education
-historia;історія;;education
-geografía;географія;;education
-lengua;мова;;education
-literatura;література;;education
-idioma;іноземна мова;idiomas;education
-universidad;університет;universidades;education
-colegio;коледж;colegios;education
-instituto;інститут;institutos;education
-biblioteca;бібліотека;bibliotecas;education
-grado;клас;grados;education
-curso;курс;cursos;education
 nota;оцінка;notas;education
-aprobado;залік;;education
-suspenso;незалік;;education
-beca;стипендія;becas;education
-educación;освіта;;education
-pedagogía;педагогіка;;education
-didáctica;дидактика;;education
+aprobar;скласти;;education
+suspender;провалити;;education
+calificación;оцінка;calificaciones;education
+resultado;результат;resultados;education
+certificado;сертифікат;certificados;education
+título;диплом;títulos;education
+asignatura;предмет;asignaturas;education
+prueba;тест;pruebas;education
+test;тест;tests;education
 evaluación;оцінювання;evaluaciones;education
-aprendizaje;навчання;;education
-enseñanza;викладання;;education
-conocimiento;знання;;education
-investigación;дослідження;investigaciones;education
-tesis;дисертація;tesis;education
-doctorado;докторантура;;education
-máster;магістратура;;education
-licenciatura;бакалаврат;;education
-diploma;диплом;diplomas;education
-título;ступінь;títulos;education
-academia;академія;academias;education
-formación;підготовка;;education
-práctica;практика;prácticas;education
+corrección;виправлення;correcciones;education
+error;помилка;errores;education
+acierto;правильна відповідь;aciertos;education
+pregunta;запитання;preguntas;education
+respuesta;відповідь;respuestas;education
+hoja;аркуш;hojas;education
+ejercicio;вправа;ejercicios;education
+tarea;завдання;tareas;education
+estudio;навчання;estudios;education
+repaso;повторення;repasos;education
+resumen;конспект;resúmenes;education
+esquema;схема;esquemas;education
+apuntes;нотатки;apuntes;education
+cuaderno;зошит;cuadernos;education
+manual;підручник;manuales;education
+diccionario;словник;diccionarios;education
+bolígrafo;ручка;bolígrafos;education
+lápiz;олівець;lápices;education
+goma;гумка;gomas;education
+regla;лінійка;reglas;education
+calculadora;калькулятор;calculadoras;education
+convocatoria;сесія;convocatorias;education
+matrícula;реєстрація;matrículas;education
+boletín;табель;boletines;education
+trampa;списування;trampas;education
+chuleta;шпаргалка;chuletas;education
+profesor;викладач;profesores;education
+estudiante;студент;estudiantes;education
+examinador;екзаменатор;examinadores;education
+tribunal;екзаменаційна комісія;tribunales;education
+aula;аудиторія;aulas;education
+pizarra;дошка;pizarras;education
+media;середній бал;medias;education
+suspenso;незадовільно;suspensos;education
+aprobado;задовільно;aprobados;education
+notable;добре;notables;education
+sobresaliente;відмінно;sobresalientes;education
+suficiente;достатньо;suficientes;education
+aprender;вчити;;education
+estudiar;вивчати;;education
+practicar;практикувати;;education
+hablar;говорити;;education
+leer;читати;;education
+escribir;писати;;education
+escuchar;слухати;;education
+pronunciar;вимовляти;;education
+traducir;перекладати;;education
+entender;розуміти;;education
+memorizar;запам'ятовувати;;education
+repasar;повторювати;;education
+el estudiante;студент;los estudiantes;education
+el profesor;вчитель;los profesores;education
+la lección;урок;las lecciones;education
+el ejercicio;вправа;los ejercicios;education
+la tarea;домашнє завдання;las tareas;education
+el diccionario;словник;los diccionarios;education
+la gramática;граматика;las gramáticas;education
+el vocabulario;лексика;los vocabularios;education
+la pronunciación;вимова;las pronunciaciones;education
+la conversación;розмова;las conversaciones;education
+el examen;іспит;los exámenes;education
+la nota;оцінка;las notas;education
+el idioma;мова;los idiomas;education
+la traducción;переклад;las traducciones;education
+el cuaderno;зошит;los cuadernos;education
+el bolígrafo;ручка;los bolígrafos;education
+la pizarra;дошка;las pizarras;education
+la goma de borrar;гумка;las gomas de borrar;education
+el aula;клас;las aulas;education
+la escuela;школа;las escuelas;education
+la universidad;університет;las universidades;education
+el curso;курс;los cursos;education
+la pregunta;запитання;las preguntas;education
+la respuesta;відповідь;las respuestas;education
+el ejemplo;приклад;los ejemplos;education
+la oración;речення;las oraciones;education
+el verbo;дієслово;los verbos;education
+el sustantivo;іменник;los sustantivos;education
+el adjetivo;прикметник;los adjetivos;education
+el adverbio;прислівник;los adverbios;education
+la conjugación;відмінювання;las conjugaciones;education
+la comprensión auditiva;аудіювання;las comprensiones auditivas;education
+el compañero;однокласник;los compañeros;education
+el libro de texto;підручник;los libros de texto;education
+el error;помилка;los errores;education
+el acento;акцент;los acentos;education
+el nivel;рівень;los niveles;education
+el certificado;сертифікат;los certificados;education

@@ -1,0 +1,199 @@
+el banco;банк;los bancos;services
+la cuenta;рахунок;las cuentas;services
+el cajero automático;банкомат;los cajeros automáticos;services
+la tarjeta de crédito;кредитна картка;las tarjetas de crédito;services
+la tarjeta de débito;дебетова картка;las tarjetas de débito;services
+el efectivo;готівка;;services
+la hipoteca;іпотека;las hipotecas;services
+el préstamo;позика;los préstamos;services
+la tasa de interés;відсоткова ставка;las tasas de interés;services
+la sucursal;відділення;las sucursales;services
+el extracto bancario;банківська виписка;los extractos bancarios;services
+la transferencia;переказ;las transferencias;services
+el depósito;депозит;los depósitos;services
+la retirada;зняття;las retiradas;services
+el cheque;чек;los cheques;services
+la libreta de ahorros;ощадна книжка;las libretas de ahorros;services
+la moneda;монета;las monedas;services
+el billete;банкнота;los billetes;services
+la caja fuerte;сейф;las cajas fuertes;services
+la oficina de cambio;пункт обміну валюти;las oficinas de cambio;services
+la comisión;комісія;las comisiones;services
+el número de cuenta;номер рахунку;los números de cuenta;services
+la contraseña;пароль;las contraseñas;services
+el formulario;бланк;los formularios;services
+la firma;підпис;las firmas;services
+la transacción;транзакція;las transacciones;services
+la cuenta corriente;поточний рахунок;las cuentas corrientes;services
+la cuenta de ahorro;ощадний рахунок;las cuentas de ahorro;services
+el cajero;касир;los cajeros;services
+la ventanilla;віконце;las ventanillas;services
+la oficina de correos;поштове відділення;las oficinas de correos;services
+el cartero;листоноша;los carteros;services
+la carta;лист;las cartas;services
+el sobre;конверт;los sobres;services
+el sello;марка;los sellos;services
+el paquete;посилка;los paquetes;services
+la postal;листівка;las postales;services
+el buzón;поштова скринька;los buzones;services
+la dirección;адреса;las direcciones;services
+el código postal;поштовий індекс;los códigos postales;services
+el remitente;відправник;los remitentes;services
+el destinatario;одержувач;los destinatarios;services
+el envío;відправлення;los envíos;services
+el apartado de correos;абонентська скринька;los apartados de correos;services
+el giro postal;поштовий переказ;los giros postales;services
+la cola;черга;las colas;services
+el mostrador;прилавок;los mostradores;services
+la balanza;ваги;las balanzas;services
+pagar;платити;;services
+retirar;знімати;;services
+peluquero;перукар;peluqueros;services
+peluquera;перукарка;peluqueras;services
+peluquería;перукарня;peluquerías;services
+tijeras;ножиці;tijeras;services
+peine;гребінець;peines;services
+cepillo;щітка;cepillos;services
+secador;фен;secadores;services
+champú;шампунь;champús;services
+acondicionador;кондиціонер;acondicionadores;services
+tinte;фарба;tintes;services
+mechas;мелірування;mechas;services
+corte;стрижка;cortes;services
+peinado;зачіска;peinados;services
+permanente;перманент;permanentes;services
+alisado;випрямлення;alisados;services
+rizado;завивка;rizados;services
+plancha;праска;planchas;services
+rulos;бігуді;rulos;services
+gomina;гель;gominas;services
+laca;лак;lacas;services
+espuma;пінка;espumas;services
+cera;віск;ceras;services
+champú en seco;сухий шампунь;champús en seco;services
+acondicionador sin enjuague;незмивний кондиціонер;acondicionadores sin enjuague;services
+mascarilla;маска;mascarillas;services
+toalla;рушник;toallas;services
+capa;накидка;capas;services
+bata;халат;batas;services
+espejo;дзеркало;espejos;services
+silla;крісло;sillas;services
+lavacabezas;мийка;lavacabezas;services
+navaja;бритва;navajas;services
+crema de afeitar;крем для гоління;cremas de afeitar;services
+loción;лосьйон;lociones;services
+brocha;помазок;brochas;services
+barbería;барбершоп;barberías;services
+barbero;барбер;barberos;services
+afeitado;гоління;afeitados;services
+masaje capilar;масаж голови;masajes capilares;services
+corte de barba;стрижка бороди;cortes de barba;services
+diseño de cejas;оформлення брів;diseños de cejas;services
+tinte de cejas;фарбування брів;tintes de cejas;services
+depilación con hilo;епіляція ниткою;depilaciones con hilo;services
+pinzas;пінцет;pinzas;services
+rizador;плойка;rizadores;services
+secador de mano;ручний фен;secadores de mano;services
+difusor;дифузор;difusores;services
+protector térmico;термозахист;protectores térmicos;services
+gel fijador;фіксуючий гель;geles fijadores;services
+cita;запис;citas;services
+el coche;автомобіль;los coches;services
+el taller;майстерня;los talleres;services
+el mecánico;механік;los mecánicos;services
+la reparación;ремонт;las reparaciones;services
+el motor;двигун;los motores;services
+el aceite;моторна олія;los aceites;services
+el filtro;фільтр;los filtros;services
+la bujía;свічка запалювання;las bujías;services
+la batería;акумулятор;las baterías;services
+el neumático;шина;los neumáticos;services
+la llanta;диск колеса;las llantas;services
+el freno;гальмо;los frenos;services
+el embrague;зчеплення;los embragues;services
+la caja de cambios;коробка передач;las cajas de cambios;services
+el parabrisas;лобове скло;los parabrisas;services
+el limpiaparabrisas;склоочисник;los limpiaparabrisas;services
+el faro;фара;los faros;services
+el intermitente;поворотник;los intermitentes;services
+el escape;вихлопна труба;los escapes;services
+el silenciador;глушник;los silenciadores;services
+el radiador;радіатор;los radiadores;services
+el anticongelante;антифриз;;services
+el líquido de frenos;гальмівна рідина;los líquidos de frenos;services
+la correa;пасок;las correas;services
+la cadena;ланцюг;las cadenas;services
+la suspensión;підвіска;las suspensiones;services
+el amortiguador;амортизатор;los amortiguadores;services
+la dirección;рульове управління;las direcciones;services
+el volante;кермо;los volantes;services
+el airbag;подушка безпеки;los airbags;services
+el cinturón de seguridad;ремінь безпеки;los cinturones de seguridad;services
+la chapa;кузовна деталь;las chapas;services
+la pintura;фарба;las pinturas;services
+el taller de chapa y pintura;кузовний цех;los talleres de chapa y pintura;services
+la grúa;евакуатор;las grúas;services
+el remolque;буксирування;los remolques;services
+el seguro;страховка;los seguros;services
+la avería;поломка;las averías;services
+la revisión;техогляд;las revisiones;services
+el cambio de aceite;заміна масла;los cambios de aceite;services
+la puesta a punto;регулювання;las puestas a punto;services
+el diagnóstico;діагностика;los diagnósticos;services
+la ITV;техогляд;las ITV;services
+el repuesto;запчастина;los repuestos;services
+la pieza;деталь;las piezas;services
+el tornillo;болт;los tornillos;services
+la tuerca;гайка;las tuercas;services
+la llave inglesa;ріжковий ключ;las llaves inglesas;services
+el gato;домкрат;los gatos;services
+el compresor;компресор;los compresores;services
+la policía;поліція;las policías;services
+el policía;поліцейський;los policías;services
+la emergencia;надзвичайна ситуація;las emergencias;services
+la ambulancia;швидка допомога;las ambulancias;services
+el bombero;пожежник;los bomberos;services
+el incendio;пожежа;los incendios;services
+el robo;крадіжка;los robos;services
+el ladrón;злодій;los ladrones;services
+la víctima;жертва;las víctimas;services
+el accidente;аварія;los accidentes;services
+el herido;поранений;los heridos;services
+la herida;рана;las heridas;services
+llamar;телефонувати;;services
+ayudar;допомагати;;services
+el teléfono;телефон;los teléfonos;services
+el número de emergencia;номер екстреної служби;los números de emergencia;services
+el crimen;злочин;los crímenes;services
+el delito;правопорушення;los delitos;services
+el sospechoso;підозрюваний;los sospechosos;services
+la cárcel;в'язниця;las cárceles;services
+el juicio;суд;los juicios;services
+el abogado;адвокат;los abogados;services
+el testigo;свідок;los testigos;services
+la denuncia;заява;las denuncias;services
+denunciar;подавати заяву;;services
+el arresto;арешт;los arrestos;services
+arrestar;заарештовувати;;services
+el detective;детектив;los detectives;services
+la investigación;розслідування;las investigaciones;services
+el peligro;небезпека;los peligros;services
+el rescate;порятунок;los rescates;services
+rescatar;рятувати;;services
+la sirena;сирена;las sirenas;services
+la alarma;тривога;las alarmas;services
+el robo a mano armada;збройне пограбування;los robos a mano armada;services
+el atraco;пограбування;los atracos;services
+el asesinato;вбивство;los asesinatos;services
+el asesino;вбивця;los asesinos;services
+la violencia;насильство;las violencias;services
+el atraco callejero;вуличне пограбування;los atracos callejeros;services
+la patrulla;патруль;las patrullas;services
+el oficial de policía;офіцер поліції;los oficiales de policía;services
+la comisaría;поліцейський відділок;las comisarías;services
+el accidente de tráfico;дорожньо-транспортна пригода;los accidentes de tráfico;services
+el testigo presencial;очевидець;los testigos presenciales;services
+el secuestro;викрадення;los secuestros;services
+la huida;втеча;las huidas;services
+el disparo;постріл;los disparos;services
+la pistola;пістолет;las pistolas;services

@@ -1,0 +1,200 @@
+camisa;сорочка;camisas;shopping
+pantalón;штани;pantalones;shopping
+vestido;сукня;vestidos;shopping
+falda;спідниця;faldas;shopping
+chaqueta;куртка;chaquetas;shopping
+abrigo;пальто;abrigos;shopping
+zapato;туфля;zapatos;shopping
+zapatilla;кросівка;zapatillas;shopping
+sandalia;сандалія;sandalias;shopping
+calcetín;шкарпетка;calcetines;shopping
+ropa interior;нижня білизна;;shopping
+sujetador;бюстгальтер;sujetadores;shopping
+camiseta;футболка;camisetas;shopping
+jersey;светр;jerséis;shopping
+sudadera;худі;sudaderas;shopping
+vaquero;джинси;vaqueros;shopping
+pantalón corto;шорти;pantalones cortos;shopping
+bañador;купальник;bañadores;shopping
+bufanda;шарф;bufandas;shopping
+guante;рукавичка;guantes;shopping
+sombrero;капелюх;sombreros;shopping
+gorra;кепка;gorras;shopping
+cinturón;ремінь;cinturones;shopping
+corbata;краватка;corbatas;shopping
+pijama;піжама;pijamas;shopping
+talla;розмір;tallas;shopping
+tamaño;розмір;tamaños;shopping
+pequeño;малий;pequeños;shopping
+mediano;середній;medianos;shopping
+grande;великий;grandes;shopping
+probar;міряти;;shopping
+devolver;повертати;;shopping
+cambiar;обмінювати;;shopping
+pagar;платити;;shopping
+comprar;купувати;;shopping
+vender;продавати;;shopping
+probador;примірочна;probadores;shopping
+ticket;чек;tickets;shopping
+rebaja;знижка;rebajas;shopping
+descuento;знижка;descuentos;shopping
+tienda;магазин;tiendas;shopping
+cliente;клієнт;clientes;shopping
+dependiente;продавець;dependientes;shopping
+precio;ціна;precios;shopping
+barato;дешевий;baratos;shopping
+caro;дорогий;caros;shopping
+quedar;сидіти (про одяг);;shopping
+manga;рукав;mangas;shopping
+cuello;комір;cuellos;shopping
+bolsillo;кишеня;bolsillos;shopping
+el supermercado;супермаркет;los supermercados;shopping
+el carrito;візок;los carritos;shopping
+la cesta;кошик;las cestas;shopping
+el producto;продукт;los productos;shopping
+el pasillo;ряд;los pasillos;shopping
+la estantería;полиця;las estanterías;shopping
+la caja;каса;las cajas;shopping
+el cajero;касир;los cajeros;shopping
+la cajera;касирка;las cajeras;shopping
+el ticket;чек;los tickets;shopping
+la bolsa;пакет;las bolsas;shopping
+el carro;візок;los carros;shopping
+la oferta;акція;las ofertas;shopping
+el descuento;знижка;los descuentos;shopping
+el precio;ціна;los precios;shopping
+la marca;марка;las marcas;shopping
+el cliente;клієнт;los clientes;shopping
+la clienta;клієнтка;las clientas;shopping
+la compra;покупка;las compras;shopping
+la lista de la compra;список покупок;las listas de la compra;shopping
+el producto lácteo;молочний продукт;los productos lácteos;shopping
+la leche;молоко;;shopping
+el pan;хліб;los panes;shopping
+la fruta;фрукти;las frutas;shopping
+la verdura;овочі;las verduras;shopping
+la carne;м'ясо;las carnes;shopping
+el pescado;риба;los pescados;shopping
+el huevo;яйце;los huevos;shopping
+el queso;сир;los quesos;shopping
+el yogur;йогурт;los yogures;shopping
+la mantequilla;масло;;shopping
+el aceite;олія;los aceites;shopping
+el azúcar;цукор;los azúcares;shopping
+la sal;сіль;las sales;shopping
+la harina;борошно;las harinas;shopping
+el arroz;рис;los arroces;shopping
+la pasta;макарони;las pastas;shopping
+la salsa;соус;las salsas;shopping
+la bebida;напій;las bebidas;shopping
+el refresco;газований напій;los refrescos;shopping
+el zumo;сік;los zumos;shopping
+el agua;вода;las aguas;shopping
+la cerveza;пиво;las cervezas;shopping
+el vino;вино;los vinos;shopping
+el detergente;миючий засіб;los detergentes;shopping
+el champú;шампунь;los champús;shopping
+el gel de ducha;гель для душу;los geles de ducha;shopping
+el papel higiénico;туалетний папір;los papeles higiénicos;shopping
+la tarjeta de crédito;кредитна картка;las tarjetas de crédito;shopping
+el dinero;гроші;los dineros;shopping
+efectivo;готівка;;shopping
+moneda;монета;monedas;shopping
+billete;купюра;billetes;shopping
+cambio;здача;;shopping
+cartera;гаманець;carteras;shopping
+monedero;гаманець для монет;monederos;shopping
+tarjeta de crédito;кредитна картка;tarjetas de crédito;shopping
+tarjeta de débito;дебетова картка;tarjetas de débito;shopping
+tarjeta bancaria;банківська картка;tarjetas bancarias;shopping
+pago;платіж;pagos;shopping
+transferencia;переказ;transferencias;shopping
+cuenta bancaria;банківський рахунок;cuentas bancarias;shopping
+recibo;квитанція;recibos;shopping
+factura;рахунок-фактура;facturas;shopping
+comprobante;чек;comprobantes;shopping
+cajero automático;банкомат;cajeros automáticos;shopping
+número PIN;PIN-код;;shopping
+código de seguridad;код безпеки;códigos de seguridad;shopping
+pago móvil;мобільний платіж;pagos móviles;shopping
+pago sin contacto;безконтактний платіж;pagos sin contacto;shopping
+moneda extranjera;іноземна валюта;monedas extranjeras;shopping
+divisa;валюта;divisas;shopping
+tipo de cambio;обмінний курс;tipos de cambio;shopping
+dólar;долар;dólares;shopping
+euro;євро;euros;shopping
+libra;фунт;libras;shopping
+saldo;баланс;saldos;shopping
+deuda;борг;deudas;shopping
+préstamo;кредит;préstamos;shopping
+crédito;кредит;créditos;shopping
+débito;дебет;;shopping
+cuenta corriente;поточний рахунок;cuentas corrientes;shopping
+cuenta de ahorros;ощадний рахунок;cuentas de ahorros;shopping
+interés;відсоток;intereses;shopping
+comisión;комісія;comisiones;shopping
+gasto;витрати;gastos;shopping
+impuesto;податок;impuestos;shopping
+IVA;ПДВ;;shopping
+reembolso;відшкодування;reembolsos;shopping
+devolución;повернення;devoluciones;shopping
+garantía;гарантія;garantías;shopping
+vale;ваучер;vales;shopping
+cupón;купон;cupones;shopping
+descuento;знижка;descuentos;shopping
+oferta;пропозиція;ofertas;shopping
+rebaja;знижка;rebajas;shopping
+monedero electrónico;електронний гаманець;monederos electrónicos;shopping
+tarjeta regalo;подарункова картка;tarjetas regalo;shopping
+tarjeta prepago;передплачена картка;tarjetas prepago;shopping
+pago a plazos;оплата частинами;pagos a plazos;shopping
+el producto;продукт;los productos;shopping
+la compra;покупка;las compras;shopping
+la queja;скарга;las quejas;shopping
+la devolución;повернення;las devoluciones;shopping
+el reembolso;відшкодування;los reembolsos;shopping
+el cambio;обмін;los cambios;shopping
+el ticket;чек;los tickets;shopping
+la factura;рахунок;las facturas;shopping
+el recibo;квитанція;los recibos;shopping
+la garantía;гарантія;las garantías;shopping
+el defecto;дефект;los defectos;shopping
+el fallo;несправність;los fallos;shopping
+la tara;вада;las taras;shopping
+la avería;поломка;las averías;shopping
+el daño;пошкодження;los daños;shopping
+la rotura;розрив;las roturas;shopping
+el arañazo;подряпина;los arañazos;shopping
+el golpe;вм'ятина;los golpes;shopping
+la reclamación;рекламація;las reclamaciones;shopping
+el cliente;клієнт;los clientes;shopping
+el dependiente;продавець;los dependientes;shopping
+el encargado;менеджер;los encargados;shopping
+la política de devoluciones;політика повернення;las políticas de devoluciones;shopping
+el plazo;термін;los plazos;shopping
+la fecha límite;кінцевий термін;las fechas límite;shopping
+el embalaje;упаковка;los embalajes;shopping
+el paquete;пакет;los paquetes;shopping
+la caja;коробка;las cajas;shopping
+la etiqueta;етикетка;las etiquetas;shopping
+el precio;ціна;los precios;shopping
+la oferta;акція;las ofertas;shopping
+el descuento;знижка;los descuentos;shopping
+defectuoso;дефектний;defectuosos;shopping
+el error;помилка;los errores;shopping
+la equivocación;помилка;las equivocaciones;shopping
+el malentendido;непорозуміння;los malentendidos;shopping
+el problema;проблема;los problemas;shopping
+la solución;рішення;las soluciones;shopping
+el importe;сума;los importes;shopping
+la cantidad;кількість;las cantidades;shopping
+la talla;розмір;las tallas;shopping
+el color;колір;los colores;shopping
+el modelo;модель;los modelos;shopping
+la referencia;артикул;las referencias;shopping
+el número de serie;серійний номер;los números de serie;shopping
+el comprobante;товарний чек;los comprobantes;shopping
+el vale;ваучер;los vales;shopping
+la incidencia;інцидент;las incidencias;shopping
+devolver;повертати;;shopping
+reclamar;скаржитися;;shopping

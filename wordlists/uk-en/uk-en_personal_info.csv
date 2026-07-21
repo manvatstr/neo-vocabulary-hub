@@ -1,0 +1,200 @@
+mother;мати;f;personal_info
+father;батько;m;personal_info
+brother;брат;m;personal_info
+sister;сестра;f;personal_info
+son;син;m;personal_info
+daughter;дочка;f;personal_info
+grandmother;бабуся;f;personal_info
+grandfather;дідусь;m;personal_info
+aunt;тітка;f;personal_info
+uncle;дядько;m;personal_info
+cousin (male);двоюрідний брат;m;personal_info
+cousin (female);двоюрідна сестра;f;personal_info
+nephew;племінник;m;personal_info
+niece;племінниця;f;personal_info
+husband;чоловік;m;personal_info
+wife;дружина;f;personal_info
+parents;батьки;pl;personal_info
+child;дитина;f;personal_info
+children;діти;pl;personal_info
+stepfather;вітчим;m;personal_info
+stepmother;мачуха;f;personal_info
+stepbrother;зведений брат;m;personal_info
+stepsister;зведена сестра;f;personal_info
+half-brother;єдинокровний брат;m;personal_info
+half-sister;єдинокровна сестра;f;personal_info
+mother-in-law;свекруха;f;personal_info
+mother-in-law;теща;f;personal_info
+father-in-law;свекор;m;personal_info
+father-in-law;тесть;m;personal_info
+brother-in-law;шурин;m;personal_info
+sister-in-law;зовиця;f;personal_info
+son-in-law;зять;m;personal_info
+daughter-in-law;невістка;f;personal_info
+godfather;хрещений батько;m;personal_info
+godmother;хрещена мати;f;personal_info
+godson;хрещеник;m;personal_info
+goddaughter;хрещениця;f;personal_info
+fiancé;наречений;m;personal_info
+fiancée;наречена;f;personal_info
+boyfriend;хлопець;m;personal_info
+girlfriend;дівчина;f;personal_info
+partner;партнер;m;personal_info
+relative;родич;m;personal_info
+ancestor;предок;m;personal_info
+descendant;нащадок;m;personal_info
+twin;близнюк;m;personal_info
+only child;єдина дитина;f;personal_info
+orphan;сирота;f;personal_info
+widow;вдова;f;personal_info
+widower;вдівець;m;personal_info
+tall;високий;m;personal_info
+short;низький;m;personal_info
+slim;стрункий;m;personal_info
+fat;товстий;m;personal_info
+beautiful;гарний;m;personal_info
+ugly;негарний;m;personal_info
+young;молодий;m;personal_info
+old;старий;m;personal_info
+strong;сильний;m;personal_info
+weak;слабкий;m;personal_info
+hair;волосся;n;personal_info
+blond;блондинистий;m;personal_info
+dark-haired;темноволосий;m;personal_info
+red-haired;рудий;m;personal_info
+grey-haired;сивий;m;personal_info
+bald;лисий;m;personal_info
+eyes;очі;pl;personal_info
+blue-eyed;блакитноокий;m;personal_info
+brown-eyed;кароокий;m;personal_info
+green-eyed;зеленоокий;m;personal_info
+face;обличчя;n;personal_info
+nose;ніс;m;personal_info
+mouth;рот;m;personal_info
+lips;губи;pl;personal_info
+ear;вухо;n;personal_info
+neck;шия;f;personal_info
+shoulder;плече;n;personal_info
+back;спина;f;personal_info
+leg;нога;f;personal_info
+foot;ступня;f;personal_info
+arm;рука;f;personal_info
+hand;кисть;f;personal_info
+finger;палець;m;personal_info
+body;тіло;n;personal_info
+skin;шкіра;f;personal_info
+beard;борода;f;personal_info
+moustache;вуса;pl;personal_info
+glasses;окуляри;pl;personal_info
+freckles;веснянки;pl;personal_info
+wrinkles;зморшки;pl;personal_info
+dimples;ямочки;pl;personal_info
+height;зріст;m;personal_info
+weight;вага;f;personal_info
+figure;фігура;f;personal_info
+appearance;зовнішність;f;personal_info
+look;виглядати;;personal_info
+wear;носити;;personal_info
+smile;усмішка;f;personal_info
+curly-haired;кучерявий;m;personal_info
+straight-haired;прямоволосий;m;personal_info
+kindness;доброта;f;personal_info
+honesty;чесність;f;personal_info
+bravery;хоробрість;f;personal_info
+laziness;лінь;f;personal_info
+patience;терплячість;f;personal_info
+impatience;нетерплячість;f;personal_info
+generosity;щедрість;f;personal_info
+selfishness;егоїзм;m;personal_info
+optimism;оптимізм;m;personal_info
+pessimism;песимізм;m;personal_info
+politeness;ввічливість;f;personal_info
+rudeness;грубість;f;personal_info
+shyness;сором’язливість;f;personal_info
+confidence;впевненість;f;personal_info
+creativity;творчість;f;personal_info
+wisdom;мудрість;f;personal_info
+curiosity;допитливість;f;personal_info
+friendliness;дружелюбність;f;personal_info
+talkativeness;балакучість;f;personal_info
+sensitivity;чутливість;f;personal_info
+stubbornness;впертість;f;personal_info
+strictness;строгість;f;personal_info
+responsibility;відповідальність;f;personal_info
+tolerance;толерантність;f;personal_info
+vanity;марнославство;n;personal_info
+thoughtfulness;замисленість;f;personal_info
+sociability;товариськість;f;personal_info
+calmness;спокій;m;personal_info
+cheerfulness;життєрадісність;f;personal_info
+nervousness;нервовість;f;personal_info
+moodiness;примхливість;f;personal_info
+cleverness;розум;m;personal_info
+cruelty;жорстокість;f;personal_info
+industriousness;працьовитість;f;personal_info
+ambition;амбітність;f;personal_info
+arrogance;зарозумілість;f;personal_info
+modesty;скромність;f;personal_info
+sympathy;співчутливість;f;personal_info
+envy;заздрість;f;personal_info
+jealousy;ревнощі;pl;personal_info
+greed;жадібність;f;personal_info
+loyalty;вірність;f;personal_info
+dishonesty;нечесність;f;personal_info
+cautiousness;обережність;f;personal_info
+carelessness;безтурботність;f;personal_info
+persistence;наполегливість;f;personal_info
+open-mindedness;відкритість;f;personal_info
+cynicism;цинізм;m;personal_info
+determination;рішучість;f;personal_info
+flexibility;гнучкість;f;personal_info
+to wake up;прокидатися;;personal_info
+alarm clock;будильник;m;personal_info
+to get up;вставати;;personal_info
+to stretch;потягуватися;;personal_info
+to make the bed;застеляти ліжко;;personal_info
+to wash up;вмиватися;;personal_info
+face;обличчя;n;personal_info
+soap;мило;n;personal_info
+to brush teeth;чистити зуби;;personal_info
+toothbrush;зубна щітка;f;personal_info
+toothpaste;зубна паста;f;personal_info
+to shave;голитися;;personal_info
+razor;бритва;f;personal_info
+to take a shower;приймати душ;;personal_info
+shampoo;шампунь;m;personal_info
+towel;рушник;m;personal_info
+to dry oneself;витиратися;;personal_info
+to comb hair;розчісувати волосся;;personal_info
+comb;гребінець;m;personal_info
+mirror;дзеркало;n;personal_info
+to get dressed;одягатися;;personal_info
+clothes;одяг;m;personal_info
+shirt;сорочка;f;personal_info
+trousers;штани;pl;personal_info
+shoes;взуття;n;personal_info
+to have breakfast;снідати;;personal_info
+breakfast;сніданок;m;personal_info
+coffee;кава;f;personal_info
+tea;чай;m;personal_info
+bread;хліб;m;personal_info
+butter;масло;n;personal_info
+milk;молоко;n;personal_info
+cup;чашка;f;personal_info
+to leave the house;виходити з дому;;personal_info
+keys;ключі;pl;personal_info
+wallet;гаманець;m;personal_info
+smartphone;смартфон;m;personal_info
+to go to work;йти на роботу;;personal_info
+work;робота;f;personal_info
+office;офіс;m;personal_info
+to start work;починати роботу;;personal_info
+lunch break;обідня перерва;f;personal_info
+lunch;обід;m;personal_info
+to have lunch;обідати;;personal_info
+to finish work;закінчувати роботу;;personal_info
+to come home;повертатися додому;;personal_info
+to have dinner;вечеряти;;personal_info
+dinner;вечеря;f;personal_info
+to watch TV;дивитися телевізор;;personal_info
+to go to bed;лягати спати;;personal_info

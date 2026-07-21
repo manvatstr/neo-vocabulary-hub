@@ -1,0 +1,199 @@
+matka;мати;f;personal_info
+ojciec;батько;m;personal_info
+syn;син;m;personal_info
+córka;дочка;f;personal_info
+brat;брат;m;personal_info
+siostra;сестра;f;personal_info
+babcia;бабуся;f;personal_info
+dziadek;дідусь;m;personal_info
+wnuk;внук;m;personal_info
+wnuczka;внучка;f;personal_info
+wujek;дядько;m;personal_info
+ciocia;тітка;f;personal_info
+kuzyn;двоюрідний брат;m;personal_info
+kuzynka;двоюрідна сестра;f;personal_info
+mąż;чоловік;m;personal_info
+żona;дружина;f;personal_info
+partner;партнер;m;personal_info
+partnerka;партнерка;f;personal_info
+narzeczony;наречений;m;personal_info
+narzeczona;наречена;f;personal_info
+teściowa;теща;f;personal_info
+teść;тесть;m;personal_info
+szwagier;шурин;m;personal_info
+szwagierka;своячка;f;personal_info
+przyjaciel;приятель;m;personal_info
+przyjaciółka;приятелька;f;personal_info
+znajomy;знайомий;m;personal_info
+znajoma;знайома;f;personal_info
+dziecko;дитина;n;personal_info
+rodzice;батьки;pl;personal_info
+rodzina;родина;f;personal_info
+małżeństwo;подружжя;n;personal_info
+ślub;шлюб;m;personal_info
+wesele;весілля;n;personal_info
+rozwód;розлучення;m;personal_info
+wdowa;вдова;f;personal_info
+wdowiec;вдівець;m;personal_info
+sierota;сирота;f;personal_info
+bliźniak;близнюк;m;personal_info
+bliźniaczka;близнючка;f;personal_info
+ojczym;вітчим;m;personal_info
+macocha;мачуха;f;personal_info
+pasierb;пасинок;m;personal_info
+pasierbica;падчерка;f;personal_info
+teściowie;батьки чоловіка/дружини;pl;personal_info
+miłość;любов;f;personal_info
+przyjaźń;дружба;f;personal_info
+zakochać się;закохатися;;personal_info
+kochać;кохати;;personal_info
+żonaty;одружений;m;personal_info
+wygląd;зовнішність;m;personal_info
+twarz;обличчя;f;personal_info
+oko;око;n;personal_info
+nos;ніс;m;personal_info
+usta;рот;pl;personal_info
+zęby;зуби;pl;personal_info
+włosy;волосся;pl;personal_info
+cera;колір обличчя;f;personal_info
+sylwetka;фігура;f;personal_info
+figura;фігура;f;personal_info
+wzrost;зріст;m;personal_info
+waga;вага;f;personal_info
+broda;борода;f;personal_info
+wąsy;вуса;pl;personal_info
+piegi;веснянки;pl;personal_info
+zmarszczki;зморшки;pl;personal_info
+blizna;шрам;f;personal_info
+tatuaż;татуювання;m;personal_info
+pieprzyk;родимка;m;personal_info
+dołek;ямка;m;personal_info
+okulary;окуляри;pl;personal_info
+kolczyk;сережка;m;personal_info
+makijaż;макіяж;m;personal_info
+zarost;щетина;m;personal_info
+łysina;лисина;f;personal_info
+wysoki;високий;m;personal_info
+niski;низький;m;personal_info
+szczupły;худорлявий;m;personal_info
+gruby;товстий;m;personal_info
+chudy;худий;m;personal_info
+piękny;красивий;m;personal_info
+brzydki;бридкий;m;personal_info
+młody;молодий;m;personal_info
+stary;старий;m;personal_info
+łysy;лисий;m;personal_info
+siwy;сивий;m;personal_info
+rudy;рудий;m;personal_info
+blondyn;блондин;m;personal_info
+blondynka;блондинка;f;personal_info
+brunet;брюнет;m;personal_info
+brunetka;брюнетка;f;personal_info
+szatyn;шатен;m;personal_info
+szatynka;шатенка;f;personal_info
+piegowaty;веснянкуватий;m;personal_info
+opalony;засмаглий;m;personal_info
+blady;блідий;m;personal_info
+atrakcyjny;привабливий;m;personal_info
+przystojny;вродливий;m;personal_info
+umięśniony;мускулистий;m;personal_info
+smukły;стрункий;m;personal_info
+ambicja;амбіція;f;personal_info
+cierpliwość;терпіння;f;personal_info
+odwaga;відвага;f;personal_info
+lenistwo;лінощі;n;personal_info
+pracowitość;працьовитість;f;personal_info
+uczciwość;чесність;f;personal_info
+szczerość;щирість;f;personal_info
+uprzejmość;ввічливість;f;personal_info
+skromność;скромність;f;personal_info
+pewność siebie;самовпевненість;f;personal_info
+nieśmiałość;сором'язливість;f;personal_info
+wrażliwość;чутливість;f;personal_info
+odpowiedzialność;відповідальність;f;personal_info
+beztroska;безтурботність;f;personal_info
+upór;впертість;m;personal_info
+wytrwałość;витривалість;f;personal_info
+dokładność;докладність;f;personal_info
+sumienność;сумлінність;f;personal_info
+rzetelność;добросовісність;f;personal_info
+lojalność;лояльність;f;personal_info
+wierność;вірність;f;personal_info
+śmiałość;сміливість;f;personal_info
+empatia;емпатія;f;personal_info
+życzliwość;доброзичливість;f;personal_info
+hojność;щедрість;f;personal_info
+gościnność;гостинність;f;personal_info
+serdeczność;сердечність;f;personal_info
+otwartość;відкритість;f;personal_info
+tolerancja;толерантність;f;personal_info
+spokój;спокій;m;personal_info
+energiczność;енергійність;f;personal_info
+dynamizm;динамізм;m;personal_info
+aktywność;активність;f;personal_info
+samodyscyplina;самодисципліна;f;personal_info
+punktualność;пунктуальність;f;personal_info
+systematyczność;систематичність;f;personal_info
+kreatywność;креативність;f;personal_info
+pomysłowość;винахідливість;f;personal_info
+inteligencja;інтелект;f;personal_info
+mądrość;мудрість;f;personal_info
+roztropność;розсудливість;f;personal_info
+rozwaga;обачність;f;personal_info
+optymizm;оптимізм;m;personal_info
+pesymizm;песимізм;m;personal_info
+realizm;реалізм;m;personal_info
+altruizm;альтруїзм;m;personal_info
+egoizm;егоїзм;m;personal_info
+próżność;марнославство;f;personal_info
+zarozumiałość;зарозумілість;f;personal_info
+arogancja;пихатість;f;personal_info
+budzik;будильник;m;personal_info
+wstawać;вставати;;personal_info
+poranna toaleta;ранковий туалет;f;personal_info
+myć zęby;чистити зуби;;personal_info
+szczoteczka do zębów;зубна щітка;f;personal_info
+pasta do zębów;зубна паста;f;personal_info
+prysznic;душ;m;personal_info
+brać prysznic;приймати душ;;personal_info
+kąpiel;ванна;f;personal_info
+myć się;митися;;personal_info
+ręcznik;рушник;m;personal_info
+ubierać się;одягатися;;personal_info
+śniadanie;сніданок;n;personal_info
+jeść śniadanie;снідати;;personal_info
+herbata;чай;f;personal_info
+kawa;кава;f;personal_info
+chleb;хліб;m;personal_info
+masło;масло;n;personal_info
+dżem;джем;m;personal_info
+wyjść z domu;вийти з дому;;personal_info
+iść do pracy;йти на роботу;;personal_info
+praca;робота;f;personal_info
+biuro;офіс;n;personal_info
+komputer;комп'ютер;m;personal_info
+spotkanie;зустріч;n;personal_info
+lunch;ланч;m;personal_info
+obiad;обід;m;personal_info
+jeść obiad;обідати;;personal_info
+po południu;після обіду;;personal_info
+wracać do domu;повертатися додому;;personal_info
+dom;дім;m;personal_info
+kolacja;вечеря;f;personal_info
+jeść kolację;вечеряти;;personal_info
+oglądać telewizję;дивитися телевізор;;personal_info
+telewizor;телевізор;m;personal_info
+książka;книга;f;personal_info
+czytać;читати;;personal_info
+gazeta;газета;f;personal_info
+telefon;телефон;m;personal_info
+dzwonić;дзвонити;;personal_info
+spać;спати;;personal_info
+łóżko;ліжко;n;personal_info
+poduszka;подушка;f;personal_info
+kołdra;ковдра;f;personal_info
+zasypiać;засинати;;personal_info
+budzić się;прокидатися;;personal_info
+wieczorem;ввечері;;personal_info
+rano;вранці;;personal_info
+każdy dzień;кожен день;m;personal_info

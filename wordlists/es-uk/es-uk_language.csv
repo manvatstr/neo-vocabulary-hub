@@ -1,0 +1,200 @@
+sustantivo;іменник;sustantivos;language
+verbo;дієслово;verbos;language
+adjetivo;прикметник;adjetivos;language
+adverbio;прислівник;adverbios;language
+preposición;прийменник;preposiciones;language
+conjunción;сполучник;conjunciones;language
+artículo;артикль;artículos;language
+pronombre;займенник;pronombres;language
+tiempo verbal;граматичний час;tiempos verbales;language
+presente;теперішній час;presentes;language
+pretérito;минулий час;pretéritos;language
+futuro;майбутній час;futuros;language
+condicional;умовний спосіб;condicionales;language
+subjuntivo;кон'юнктив;subjuntivos;language
+indicativo;дійсний спосіб;indicativos;language
+imperativo;наказовий спосіб;imperativos;language
+género;рід;géneros;language
+número;число;números;language
+singular;однина;singulares;language
+plural;множина;plurales;language
+masculino;чоловічий рід;masculinos;language
+femenino;жіночий рід;femeninos;language
+artículo definido;означений артикль;artículos definidos;language
+artículo indefinido;неозначений артикль;artículos indefinidos;language
+sujeto;підмет;sujetos;language
+predicado;присудок;predicados;language
+objeto directo;прямий додаток;objetos directos;language
+objeto indirecto;непрямий додаток;objetos indirectos;language
+verbo reflexivo;зворотне дієслово;verbos reflexivos;language
+verbo auxiliar;допоміжне дієслово;verbos auxiliares;language
+participio;дієприкметник;participios;language
+gerundio;дієприслівник;gerundios;language
+infinitivo;інфінітив;infinitivos;language
+conjugación;дієвідміна;conjugaciones;language
+regular;правильний;;language
+irregular;неправильний;;language
+comparativo;вищий ступінь порівняння;comparativos;language
+superlativo;найвищий ступінь порівняння;superlativos;language
+oración;речення;oraciones;language
+cláusula;підрядне речення;cláusulas;language
+pregunta;питання;preguntas;language
+negación;заперечення;negaciones;language
+afirmación;ствердження;afirmaciones;language
+acento;наголос;acentos;language
+ortografía;правопис;ortografías;language
+vocal;голосна;vocales;language
+consonante;приголосна;consonantes;language
+modo;спосіб;modos;language
+persona;особа;personas;language
+complemento;додаток;complementos;language
+barrera;бар'єр;barreras;language
+malentendido;непорозуміння;malentendidos;language
+confusión;плутанина;confusiones;language
+ambigüedad;двозначність;ambigüedades;language
+ruido;шум;ruidos;language
+interrupción;переривання;interrupciones;language
+silencio;тиша;silencios;language
+acento;акцент;acentos;language
+dialecto;діалект;dialectos;language
+jerga;жаргон;jergas;language
+modismo;ідіома;modismos;language
+pronunciación;вимова;pronunciaciones;language
+fluidez;вільне володіння;fluideces;language
+vocabulario;словниковий запас;vocabularios;language
+gramática;граматика;gramáticas;language
+ortografía;правопис;ortografías;language
+expresión;вираз;expresiones;language
+gesto;жест;gestos;language
+mirada;погляд;miradas;language
+tono;тон;tonos;language
+volumen;гучність;volúmenes;language
+pausa;пауза;pausas;language
+tartamudez;заїкання;tartamudeces;language
+sordera;глухота;sorderas;language
+ceguera;сліпота;cegueras;language
+analfabetismo;неписьменність;analfabetismos;language
+idioma;мова;idiomas;language
+lengua;мова;lenguas;language
+hablante;мовець;hablantes;language
+oyente;слухач;oyentes;language
+intérprete;тлумач;intérpretes;language
+traductor;перекладач;traductores;language
+diccionario;словник;diccionarios;language
+bilingüe;двомовний;bilingües;language
+mensaje;повідомлення;mensajes;language
+receptor;отримувач;receptores;language
+emisor;відправник;emisores;language
+código;код;códigos;language
+canal;канал;canales;language
+retroalimentación;зворотний зв'язок;retroalimentaciones;language
+comprensión;розуміння;comprensiones;language
+interpretación;інтерпретація;interpretaciones;language
+distorsión;викривлення;distorsiones;language
+obstáculo;перешкода;obstáculos;language
+malinterpretar;неправильно тлумачити;;language
+entender;розуміти;;language
+expresar;висловлювати;;language
+comunicar;спілкуватися;;language
+traducir;перекладати;;language
+escuchar;слухати;;language
+opinión;думка;opiniones;language
+argumento;аргумент;argumentos;language
+punto de vista;точка зору;puntos de vista;language
+creencia;переконання;creencias;language
+idea;ідея;ideas;language
+pensamiento;думка;pensamientos;language
+conclusión;висновок;conclusiones;language
+razón;причина;razones;language
+debate;дебати;debates;language
+discusión;дискусія;discusiones;language
+acuerdo;згода;acuerdos;language
+desacuerdo;незгода;desacuerdos;language
+crítica;критика;críticas;language
+sugerencia;пропозиція;sugerencias;language
+propuesta;пропозиція;propuestas;language
+preferencia;перевага;preferencias;language
+impresión;враження;impresiones;language
+juicio;судження;juicios;language
+perspectiva;перспектива;perspectivas;language
+postura;позиція;posturas;language
+valoración;оцінка;valoraciones;language
+declaración;заява;declaraciones;language
+comentario;коментар;comentarios;language
+afirmación;твердження;afirmaciones;language
+negación;заперечення;negaciones;language
+duda;сумнів;dudas;language
+certeza;впевненість;certezas;language
+convicción;переконання;convicciones;language
+parecer;думка;pareceres;language
+posición;позиція;posiciones;language
+parecer;здаватися;;language
+creer;вважати;;language
+pensar;думати;;language
+opinar;висловлювати думку;;language
+considerar;вважати;;language
+suponer;припускати;;language
+imaginar;уявляти;;language
+juzgar;судити;;language
+debatir;обговорювати;;language
+discutir;сперечатися;;language
+argumentar;аргументувати;;language
+afirmar;стверджувати;;language
+negar;заперечувати;;language
+dudar;сумніватися;;language
+estar de acuerdo;погоджуватися;;language
+en mi opinión;на мою думку;;language
+desde mi punto de vista;з моєї точки зору;;language
+me parece que;мені здається, що;;language
+claro;зрозумілий;claros;language
+importante;важливий;importantes;language
+la jerga;жаргон;las jergas;language
+el argot;сленг;los argots;language
+el modismo;ідіома;los modismos;language
+la expresión idiomática;ідіоматичний вираз;las expresiones idiomáticas;language
+el dicho;приказка;los dichos;language
+el refrán;прислів'я;los refranes;language
+la frase hecha;усталений вислів;las frases hechas;language
+la expresión coloquial;розмовний вираз;las expresiones coloquiales;language
+el coloquialismo;розмовний вираз;los coloquialismos;language
+la jerga juvenil;молодіжний сленг;las jergas juveniles;language
+la jerga profesional;професійний жаргон;las jergas profesionales;language
+el lunfardo;лунфардо;los lunfardos;language
+el caló;кало;los calós;language
+el spanglish;спенгліш;;language
+el pochismo;похізм;los pochismos;language
+el extranjerismo;іншомовне слово;los extranjerismos;language
+el barbarismo;варваризм;los barbarismos;language
+el vulgarismo;вульгаризм;los vulgarismos;language
+el regionalismo;регіоналізм;los regionalismos;language
+el neologismo;неологізм;los neologismos;language
+el arcaísmo;архаїзм;los arcaísmos;language
+la metáfora;метафора;las metáforas;language
+el eufemismo;евфемізм;los eufemismos;language
+el doble sentido;подвійний сенс;los dobles sentidos;language
+el juego de palabras;гра слів;los juegos de palabras;language
+la ironía;іронія;las ironías;language
+el sarcasmo;сарказм;los sarcasmos;language
+la hipérbole;гіпербола;las hipérboles;language
+la onomatopeya;ономатопея;las onomatopeyas;language
+la ambigüedad;неоднозначність;las ambigüedades;language
+la connotación;конотація;las connotaciones;language
+la denotación;денотація;las denotaciones;language
+el lenguaje figurado;образна мова;los lenguajes figurados;language
+la literalidad;буквальність;las literalidades;language
+el modismo verbal;дієслівна ідіома;los modismos verbales;language
+la frase proverbial;приказка;las frases proverbiales;language
+el cliché;кліше;los clichés;language
+el lugar común;загальне місце;los lugares comunes;language
+la muletilla;слова-паразити;las muletillas;language
+el taco;лайка;los tacos;language
+la palabrota;лайливе слово;las palabrotas;language
+el insulto;образа;los insultos;language
+la grosería;грубість;las groserías;language
+la maldición;прокляття;las maldiciones;language
+el juramento;клятва;los juramentos;language
+la interjección;вигук;las interjecciones;language
+la exclamación;вигук;las exclamaciones;language
+la germanía;злодійський жаргон;las germanías;language
+el código secreto;секретний код;los códigos secretos;language
+la contraseña;пароль;las contraseñas;language

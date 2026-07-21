@@ -1,0 +1,200 @@
+noun;іменник;m;language
+verb;дієслово;n;language
+adjective;прикметник;m;language
+adverb;прислівник;m;language
+pronoun;займенник;m;language
+preposition;прийменник;m;language
+conjunction;сполучник;m;language
+interjection;вигук;m;language
+subject;підмет;m;language
+predicate;присудок;m;language
+object;додаток;m;language
+sentence;речення;n;language
+phrase;словосполучення;n;language
+clause;підрядне речення;n;language
+paragraph;абзац;m;language
+comma;кома;f;language
+period;крапка;f;language
+question mark;знак питання;m;language
+exclamation mark;знак оклику;m;language
+colon;двокрапка;f;language
+semicolon;крапка з комою;f;language
+dash;тире;n;language
+hyphen;дефіс;m;language
+parentheses;дужки;pl;language
+brackets;квадратні дужки;pl;language
+apostrophe;апостроф;m;language
+quotation marks;лапки;pl;language
+direct speech;пряма мова;f;language
+indirect speech;непряма мова;f;language
+singular;однина;f;language
+plural;множина;f;language
+gender;рід;m;language
+case;відмінок;m;language
+tense;час;m;language
+present tense;теперішній час;m;language
+past tense;минулий час;m;language
+future tense;майбутній час;m;language
+aspect;вид;m;language
+mood;спосіб;m;language
+voice;стан;m;language
+active voice;активний стан;m;language
+passive voice;пасивний стан;m;language
+participle;дієприкметник;m;language
+gerund;дієприслівник;m;language
+infinitive;інфінітив;m;language
+prefix;префікс;m;language
+suffix;суфікс;m;language
+root;корінь;m;language
+ending;закінчення;n;language
+grammar;граматика;f;language
+language barrier;мовний бар'єр;m;language
+barrier;бар'єр;m;language
+misunderstanding;непорозуміння;n;language
+miscommunication;неправильна комунікація;f;language
+communication breakdown;комунікативний збій;m;language
+noise;шум;m;language
+interference;перешкода;f;language
+distortion;спотворення;n;language
+ambiguity;двозначність;f;language
+confusion;плутанина;f;language
+misinterpretation;неправильне тлумачення;n;language
+accent;акцент;m;language
+dialect;діалект;m;language
+jargon;жаргон;m;language
+slang;сленг;m;language
+pronunciation;вимова;f;language
+enunciation;артикуляція;f;language
+clarity;чіткість;f;language
+mumbling;бурмотіння;n;language
+stuttering;заїкання;n;language
+stammer;заїкання;n;language
+whisper;шепіт;m;language
+mutism;німота;f;language
+deafness;глухота;f;language
+hearing loss;втрата слуху;f;language
+sign language;мова жестів;f;language
+braille;шрифт Брайля;m;language
+gesture;жест;m;language
+facial expression;міміка;f;language
+body language;мова тіла;f;language
+nonverbal communication;невербальне спілкування;n;language
+feedback;зворотний зв'язок;m;language
+active listening;активне слухання;n;language
+empathy;емпатія;f;language
+patience;терпіння;n;language
+frustration;роздратування;n;language
+misinterpret;неправильно витлумачити;;language
+misunderstand;неправильно зрозуміти;;language
+clarify;роз’яснити;;language
+rephrase;перефразувати;;language
+articulate;чітко висловлювати;;language
+paraphrase;перефразовувати;;language
+translate;перекладати;;language
+interpret;тлумачити;;language
+speech impediment;дефект мовлення;m;language
+speech disorder;розлад мовлення;m;language
+aphasia;афазія;f;language
+communication barrier;комунікаційний бар'єр;m;language
+double meaning;подвійний зміст;m;language
+cross-cultural misunderstanding;міжкультурне непорозуміння;n;language
+opinion;думка;f;language
+view;погляд;m;language
+idea;ідея;f;language
+argument;аргумент;m;language
+suggestion;пропозиція;f;language
+recommendation;рекомендація;f;language
+conclusion;висновок;m;language
+judgment;судження;n;language
+evidence;доказ;m;language
+reason;причина;f;language
+explanation;пояснення;n;language
+assumption;припущення;n;language
+belief;переконання;n;language
+standpoint;точка зору;f;language
+perspective;перспектива;f;language
+feedback;відгук;m;language
+assessment;оцінка;f;language
+evaluation;оцінювання;n;language
+summary;підсумок;m;language
+agreement;згода;f;language
+disagreement;незгода;f;language
+approval;схвалення;n;language
+disapproval;несхвалення;n;language
+support;підтримка;f;language
+opposition;опозиція;f;language
+agree;погоджуватися;;language
+disagree;не погоджуватися;;language
+think;думати;;language
+believe;вірити;;language
+suppose;припускати;;language
+guess;здогадуватися;;language
+doubt;сумніватися;;language
+suggest;пропонувати;;language
+recommend;рекомендувати;;language
+argue;сперечатися;;language
+claim;стверджувати;;language
+insist;наполягати;;language
+consider;вважати;;language
+feel;відчувати;;language
+admit;визнавати;;language
+deny;заперечувати;;language
+approve;схвалювати;;language
+criticize;критикувати;;language
+justify;обґрунтовувати;;language
+discuss;обговорювати;;language
+certain;певний;m;language
+positive;позитивний;m;language
+doubtful;сумнівний;m;language
+convinced;переконаний;m;language
+important;важливий;m;language
+idiom;ідіома;f;language
+expression;вираз;m;language
+phrase;фраза;f;language
+saying;приказка;f;language
+proverb;прислів'я;n;language
+slang;сленг;m;language
+colloquialism;колоквіалізм;m;language
+jargon;жаргон;m;language
+lingo;арго;n;language
+vernacular;просторіччя;n;language
+metaphor;метафора;f;language
+simile;порівняння;n;language
+figure of speech;мовний зворот;m;language
+catchphrase;крилата фраза;f;language
+buzzword;модне слово;n;language
+cliché;кліше;n;language
+euphemism;евфемізм;m;language
+hyperbole;гіпербола;f;language
+irony;іронія;f;language
+sarcasm;сарказм;m;language
+pun;каламбур;m;language
+wordplay;гра слів;f;language
+double entendre;подвійний сенс;m;language
+phraseologism;фразеологізм;m;language
+set phrase;сталий вираз;m;language
+coined word;вигадане слово;n;language
+neologism;неологізм;m;language
+archaism;архаїзм;m;language
+barbarism;варваризм;m;language
+dialect;діалект;m;language
+accent;акцент;m;language
+regionalism;регіоналізм;m;language
+colloquial speech;розмовна мова;f;language
+informal language;неформальна мова;f;language
+formal language;формальна мова;f;language
+slang term;сленгове слово;n;language
+jargon term;жаргонне слово;n;language
+argotism;арготизм;m;language
+vulgarism;вульгаризм;m;language
+taboo word;табуйоване слово;n;language
+swear word;лайливе слово;n;language
+curse word;матюк;m;language
+expletive;лайка;f;language
+profanity;ненормативна лексика;f;language
+offensive language;образлива мова;f;language
+dirty word;брудне слово;n;language
+buzz phrase;модний вираз;m;language
+trendy expression;трендовий вираз;m;language
+hackneyed phrase;заяложена фраза;f;language
+overused expression;заїжджений вираз;m;language

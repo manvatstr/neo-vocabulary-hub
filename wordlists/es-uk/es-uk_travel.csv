@@ -1,0 +1,198 @@
+el autobús;автобус;los autobuses;travel
+el metro;метро;los metros;travel
+el tren;поїзд;los trenes;travel
+el tranvía;трамвай;los tranvías;travel
+la estación;станція;las estaciones;travel
+la parada;зупинка;las paradas;travel
+el billete;квиток;los billetes;travel
+el viaje;подорож;los viajes;travel
+el horario;розклад;los horarios;travel
+la tarjeta de transporte;транспортна картка;las tarjetas de transporte;travel
+el conductor;водій;los conductores;travel
+el pasajero;пасажир;los pasajeros;travel
+el andén;платформа;los andenes;travel
+la línea;лінія;las líneas;travel
+el transbordo;пересадка;los transbordos;travel
+el tren de cercanías;електричка;los trenes de cercanías;travel
+el asiento;сидіння;los asientos;travel
+la ventanilla;вікно;las ventanillas;travel
+la puerta;двері;las puertas;travel
+el vagón;вагон;los vagones;travel
+la máquina expendedora;квитковий автомат;las máquinas expendedoras;travel
+la tarifa;тариф;las tarifas;travel
+el abono;проїзний;los abonos;travel
+la validación;валідація;las validaciones;travel
+subir;сідати;;travel
+bajar;виходити;;travel
+transbordar;робити пересадку;;travel
+viajar;подорожувати;;travel
+esperar;чекати;;travel
+tomar (el autobús);сідати на автобус;;travel
+llegar;прибувати;;travel
+salir;відправлятися;;travel
+el retraso;затримка;los retrasos;travel
+la frecuencia;частота;las frecuencias;travel
+la ruta;маршрут;las rutas;travel
+el mapa;карта;los mapas;travel
+el plano;схема;los planos;travel
+la escalera mecánica;ескалатор;las escaleras mecánicas;travel
+el ascensor;ліфт;los ascensores;travel
+la salida;вихід;las salidas;travel
+la entrada;вхід;las entradas;travel
+el billete sencillo;квиток в один бік;los billetes sencillos;travel
+el billete de ida y vuelta;квиток туди й назад;los billetes de ida y vuelta;travel
+el revisor;контролер;los revisores;travel
+la consigna;камера схову;las consignas;travel
+el equipaje;багаж;;travel
+el mostrador de información;інформаційна стійка;los mostradores de información;travel
+la sala de espera;зал очікування;las salas de espera;travel
+vuelo;рейс;vuelos;travel
+reserva;бронювання;reservas;travel
+billete;квиток;billetes;travel
+pasaporte;паспорт;pasaportes;travel
+tarjeta de embarque;посадковий талон;tarjetas de embarque;travel
+salida;виліт;salidas;travel
+llegada;прибуття;llegadas;travel
+maleta;валіза;maletas;travel
+mochila;рюкзак;mochilas;travel
+hotel;готель;hoteles;travel
+habitación;номер;habitaciones;travel
+check-in;реєстрація;check-ins;travel
+check-out;виселення;check-outs;travel
+cancelación;скасування;cancelaciones;travel
+precio;ціна;precios;travel
+descuento;знижка;descuentos;travel
+confirmación;підтвердження;confirmaciones;travel
+fecha;дата;fechas;travel
+destino;пункт призначення;destinos;travel
+pasajero;пасажир;pasajeros;travel
+asiento;місце;asientos;travel
+asiento de pasillo;місце біля проходу;asientos de pasillo;travel
+asiento de ventanilla;місце біля вікна;asientos de ventanilla;travel
+billete de ida;квиток в один бік;billetes de ida;travel
+billete de ida y vuelta;квиток туди й назад;billetes de ida y vuelta;travel
+escala;пересадка;escalas;travel
+conexión;стикування;conexiones;travel
+aeropuerto;аеропорт;aeropuertos;travel
+puerta de embarque;вихід на посадку;puertas de embarque;travel
+mostrador de facturación;стійка реєстрації;mostradores de facturación;travel
+seguro de viaje;страховка для подорожей;seguros de viaje;travel
+equipaje facturado;зареєстрований багаж;equipajes facturados;travel
+equipaje de mano;ручна поклажа;equipajes de mano;travel
+tarifa;тариф;tarifas;travel
+clase turista;економ-клас;clases turista;travel
+clase business;бізнес-клас;clases business;travel
+alojamiento;проживання;alojamientos;travel
+llave;ключ;llaves;travel
+tarjeta de crédito;кредитна картка;tarjetas de crédito;travel
+reserva online;онлайн-бронювання;reservas online;travel
+agencia de viajes;туристичне агентство;agencias de viajes;travel
+itinerario;маршрут;itinerarios;travel
+reembolso;відшкодування;reembolsos;travel
+retraso;затримка;retrasos;travel
+queja;скарга;quejas;travel
+reserva de grupo;групове бронювання;reservas de grupo;travel
+mostrador;стійка;mostradores;travel
+billete electrónico;електронний квиток;billetes electrónicos;travel
+código de reserva;код бронювання;códigos de reserva;travel
+facturación;реєстрація;facturaciones;travel
+turista;турист;turistas;travel
+guía;гід;guías;travel
+mapa;карта;mapas;travel
+folleto;брошура;folletos;travel
+entrada;квиток;entradas;travel
+billete;квиток;billetes;travel
+reserva;бронювання;reservas;travel
+museo;музей;museos;travel
+exposición;виставка;exposiciones;travel
+galería de arte;художня галерея;galerías de arte;travel
+monumento;пам'ятник;monumentos;travel
+estatua;статуя;estatuas;travel
+catedral;собор;catedrales;travel
+iglesia;церква;iglesias;travel
+templo;храм;templos;travel
+mezquita;мечеть;mezquitas;travel
+sinagoga;синагога;sinagogas;travel
+castillo;замок;castillos;travel
+palacio;палац;palacios;travel
+fortaleza;фортеця;fortalezas;travel
+plaza;площа;plazas;travel
+fuente;фонтан;fuentes;travel
+puente;міст;puentes;travel
+mirador;оглядовий майданчик;miradores;travel
+vista;вид;vistas;travel
+paisaje;пейзаж;paisajes;travel
+ruta;маршрут;rutas;travel
+excursión;екскурсія;excursiones;travel
+recorrido;обхід;recorridos;travel
+visita;візит;visitas;travel
+audioguía;аудіогід;audioguías;travel
+plano;план;planos;travel
+oficina de turismo;туристичне бюро;oficinas de turismo;travel
+horario;розклад;horarios;travel
+tarifa;тариф;tarifas;travel
+precio;ціна;precios;travel
+foto;фото;fotos;travel
+cámara;камера;cámaras;travel
+recuerdo;сувенір;recuerdos;travel
+postal;листівка;postales;travel
+autobús turístico;туристичний автобус;autobuses turísticos;travel
+tranvía;трамвай;tranvías;travel
+metro;метро;metros;travel
+parada;зупинка;paradas;travel
+andén;платформа;andenes;travel
+estación;вокзал;estaciones;travel
+taquilla;каса;taquillas;travel
+información;інформація;;travel
+guía de viaje;путівник;guías de viaje;travel
+sacar fotos;фотографувати;;travel
+la maleta;валіза;las maletas;travel
+el equipaje;багаж;los equipajes;travel
+la mochila;рюкзак;las mochilas;travel
+el bolso;сумка;los bolsos;travel
+la bolsa de viaje;дорожня сумка;las bolsas de viaje;travel
+el neceser;несесер;los neceseres;travel
+el candado;замок;los candados;travel
+la etiqueta;бирка;las etiquetas;travel
+la báscula;ваги;las básculas;travel
+la cremallera;застібка-блискавка;las cremalleras;travel
+el asa;ручка;las asas;travel
+la rueda;колесо;las ruedas;travel
+el carrito;візок;los carritos;travel
+el equipaje de mano;ручна поклажа;los equipajes de mano;travel
+la maleta rígida;жорстка валіза;las maletas rígidas;travel
+la maleta blanda;м'яка валіза;las maletas blandas;travel
+el organizador de equipaje;органайзер для багажу;los organizadores de equipaje;travel
+la ropa;одяг;;travel
+el zapato;черевик;los zapatos;travel
+la chaqueta;куртка;las chaquetas;travel
+el pantalón;штани;los pantalones;travel
+la camisa;сорочка;las camisas;travel
+la camiseta;футболка;las camisetas;travel
+la ropa interior;спідня білизна;;travel
+el calcetín;шкарпетка;los calcetines;travel
+el pijama;піжама;los pijamas;travel
+el bañador;купальник;los bañadores;travel
+la chancla;шльопанці;las chanclas;travel
+el paraguas;парасолька;los paraguas;travel
+el adaptador de corriente;адаптер живлення;los adaptadores de corriente;travel
+el cargador;зарядний пристрій;los cargadores;travel
+la batería portátil;павербанк;las baterías portátiles;travel
+la botella de agua;пляшка для води;las botellas de agua;travel
+la bolsa de plástico;поліетиленовий пакет;las bolsas de plástico;travel
+la toalla;рушник;las toallas;travel
+el champú;шампунь;los champús;travel
+el gel de ducha;гель для душу;los geles de ducha;travel
+el cepillo de dientes;зубна щітка;los cepillos de dientes;travel
+la pasta de dientes;зубна паста;las pastas de dientes;travel
+el desodorante;дезодорант;los desodorantes;travel
+el protector solar;сонцезахисний крем;los protectores solares;travel
+las gafas de sol;сонцезахисні окуляри;;travel
+el sombrero;капелюх;los sombreros;travel
+la gorra;кепка;las gorras;travel
+el cinturón;ремінь;los cinturones;travel
+la bufanda;шарф;las bufandas;travel
+el guante;рукавичка;los guantes;travel
+el impermeable;дощовик;los impermeables;travel
+la maleta de cabina;валіза для ручної поклажі;las maletas de cabina;travel
+el equipaje facturado;зареєстрований багаж;los equipajes facturados;travel

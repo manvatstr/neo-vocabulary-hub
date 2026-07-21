@@ -1,59 +1,200 @@
-nauczyciel;вчитель;m;education
-nauczycielka;вчителька;f;education
-uczeń;учень;m;education
-uczennica;учениця;f;education
-szkoła;школа;f;education
-uniwersytet;університет;m;education
-kurs;курс;m;education
-lekcja;урок;f;education
-zadanie;завдання;n;education
-egzamin;іспит;m;education
-test;тест;m;education
-podręcznik;підручник;m;education
-zeszyt;зошит;m;education
-długopis;ручка;m;education
-ołówek;олівець;m;education
-tablica;дошка;f;education
-kreda;крейда;f;education
-klasa;клас;f;education
-sala;аудиторія;f;education
-biblioteka;бібліотека;f;education
-książka;книга;f;education
-ćwiczenie;вправа;n;education
-wykład;лекція;m;education
-seminarium;семінар;n;education
-dyplom;диплом;m;education
-stopień;ступінь;m;education
-magister;магістр;m;education
-licencjat;бакалавр;m;education
-doktorat;докторат;m;education
-profesor;професор;m;education
-wiedza;знання;n;education
-nauka;наука;f;education
-przedmiot;предмет;m;education
 matematyka;математика;f;education
 fizyka;фізика;f;education
 chemia;хімія;f;education
 biologia;біологія;f;education
-historia;історія;f;education
 geografia;географія;f;education
-język;мова;m;education
-gramatyka;граматика;f;education
-słownictwo;словниковий запас;n;education
-wymowa;вимова;f;education
-czytanie;читання;n;education
-pisanie;письмо;n;education
-słuchanie;аудіювання;n;education
-mówienie;говоріння;n;education
-ocena;оцінка;f;education
-zaliczenie;залік;n;education
-stypendium;стипендія;n;education
-edukacja;освіта;f;education
-pedagogika;педагогіка;f;education
-psychologia;психологія;f;education
-filozofia;філософія;f;education
-socjologia;соціологія;f;education
+historia;історія;f;education
+język polski;польська мова;m;education
+język angielski;англійська мова;m;education
+język niemiecki;німецька мова;m;education
+język francuski;французька мова;m;education
+język hiszpański;іспанська мова;m;education
+język rosyjski;російська мова;m;education
+język włoski;італійська мова;m;education
+język łaciński;латинська мова;m;education
+informatyka;інформатика;f;education
+wychowanie fizyczne;фізичне виховання;n;education
+muzyka;музика;f;education
+plastyka;образотворче мистецтво;f;education
+technika;технології;f;education
+etyka;етика;f;education
+religia;релігія;f;education
+edukacja dla bezpieczeństwa;основи безпеки життєдіяльності;f;education
+wiedza o społeczeństwie;суспільствознавство;f;education
+podstawy przedsiębiorczości;основи підприємництва;pl;education
+przyroda;природознавство;f;education
+historia sztuki;історія мистецтва;f;education
+wiedza o kulturze;культурологія;f;education
+podstawy filozofii;основи філософії;pl;education
+logika;логіка;f;education
+geografia regionalna;регіональна географія;f;education
+astronomia;астрономія;f;education
+ekologia;екологія;f;education
+ochrona środowiska;охорона навколишнього середовища;f;education
 ekonomia;економіка;f;education
 prawo;право;n;education
-informatyka;інформатика;f;education
-technologia;технологія;f;education
+przedsiębiorczość;підприємництво;f;education
+języki obce;іноземні мови;pl;education
+zajęcia praktyczne;практичні заняття;pl;education
+wychowanie do życia w rodzinie;основи сімейного виховання;n;education
+doradztwo zawodowe;професійне консультування;n;education
+obrona cywilna;цивільна оборона;f;education
+pierwsza pomoc;перша допомога;f;education
+zajęcia wyrównawcze;додаткові заняття;pl;education
+kółko przedmiotowe;предметний гурток;n;education
+warsztaty;майстер-класи;pl;education
+fakultet;факультатив;m;education
+język migowy;жестова мова;m;education
+kultura języka;культура мови;f;education
+stylistyka;стилістика;f;education
+translatoryka;перекладознавство;f;education
+uniwersytet;університет;m;education
+student;студент;m;education
+studentka;студентка;f;education
+profesor;професор;m;education
+wykładowca;викладач;m;education
+doktorant;аспірант;m;education
+dziekan;декан;m;education
+rektor;ректор;m;education
+wydział;факультет;m;education
+kierunek;спеціальність;m;education
+studia;навчання;pl;education
+ćwiczenia;практичні заняття;pl;education
+wykład;лекція;m;education
+seminarium;семінар;n;education
+laboratorium;лабораторія;n;education
+biblioteka;бібліотека;f;education
+czytelnia;читальня;f;education
+akademik;гуртожиток;m;education
+stypendium;стипендія;n;education
+egzamin;іспит;m;education
+kolokwium;колоквіум;n;education
+zaliczenie;залік;n;education
+ocena;оцінка;f;education
+stopień;ступінь;m;education
+dyplom;диплом;m;education
+indeks;залікова книжка;m;education
+legitymacja;студентський квиток;f;education
+sesja;сесія;f;education
+semestr;семестр;m;education
+wakacje;канікули;pl;education
+urlop;відпустка;m;education
+dziekanat;деканат;m;education
+rektorat;ректорат;m;education
+kampus;кампус;m;education
+stołówka;їдальня;f;education
+ksero;ксерокс;n;education
+podanie;заява;n;education
+wpis;запис;m;education
+przerwa;перерва;f;education
+staż;стажування;m;education
+praktyki;практика;pl;education
+wymiana;обмін;f;education
+magister;магістр;m;education
+licencjat;бакалавр;m;education
+obrona;захист;f;education
+rekrutacja;вступ;f;education
+sylabus;силабус;m;education
+referat;реферат;m;education
+magisterka;магістерська робота;f;education
+absolwent;випускник;m;education
+egzamin;екзамен;m;education
+test;тест;m;education
+sprawdzian;контрольна;m;education
+klasówka;класна;f;education
+kartkówka;коротка контрольна;f;education
+ocena;оцінка;f;education
+stopień;ступінь;m;education
+wynik;результат;m;education
+punkt;бал;m;education
+poprawka;перездача;f;education
+sesja;сесія;f;education
+semestr;семестр;m;education
+rok szkolny;навчальний рік;m;education
+przedmiot;предмет;m;education
+świadectwo;табель;n;education
+dyplom;диплом;m;education
+indeks;залікова книжка;m;education
+legitymacja;студентський квиток;f;education
+stypendium;стипендія;n;education
+matura;матура;f;education
+jedynka;одиниця;f;education
+dwójka;двійка;f;education
+trójka;трійка;f;education
+czwórka;четвірка;f;education
+piątka;п'ятірка;f;education
+szóstka;шістка;f;education
+zdawać;здавати;;education
+zdać;здати;;education
+oblać;завалити;;education
+poprawiać;перездавати;;education
+uczyć się;вчитися;;education
+powtarzać;повторювати;;education
+przygotowywać się;готуватися;;education
+sprawdzać;перевіряти;;education
+oceniać;оцінювати;;education
+zaliczać;зараховувати;;education
+trudny;важкий;m;education
+łatwy;легкий;m;education
+obowiązkowy;обов'язковий;m;education
+fakultatywny;факультативний;m;education
+pisemny;письмовий;m;education
+ustny;усний;m;education
+końcowy;кінцевий;m;education
+roczny;річний;m;education
+ściąga;шпаргалка;f;education
+ściąganie;списування;n;education
+egzaminator;екзаменатор;m;education
+komisja;комісія;f;education
+arkusz;екзаменаційний білет;m;education
+pytanie;питання;n;education
+język;мова;m;education
+gramatyka;граматика;f;education
+słownictwo;лексика;n;education
+wymowa;вимова;f;education
+pisownia;орфографія;f;education
+czasownik;дієслово;m;education
+rzeczownik;іменник;m;education
+przymiotnik;прикметник;m;education
+przysłówek;прислівник;m;education
+zaimek;займенник;m;education
+przyimek;прийменник;m;education
+spójnik;сполучник;m;education
+zdanie;речення;n;education
+akcent;наголос;m;education
+lekcja;лекція;f;education
+podręcznik;підручник;m;education
+słownik;словник;m;education
+zeszyt;зошит;m;education
+tablica;дошка;f;education
+nauczyciel;вчитель;m;education
+uczeń;учень;m;education
+student;студент;m;education
+egzamin;іспит;m;education
+sprawdzian;тест;m;education
+poziom;рівень;m;education
+biegłość;вправність;f;education
+tłumaczenie;переклад;n;education
+dialog;діалог;m;education
+ćwiczenie;вправа;n;education
+zadanie;завдання;n;education
+czytanie;читання;n;education
+pisanie;письмо;n;education
+mówienie;говоріння;n;education
+słuchanie;слухання;n;education
+rozumienie;розуміння;n;education
+powtarzanie;повторення;n;education
+uczyć się;вчитися;;education
+nauczać;викладати;;education
+mówić;говорити;;education
+czytać;читати;;education
+pisać;писати;;education
+słuchać;слухати;;education
+rozumieć;розуміти;;education
+tłumaczyć;перекладати;;education
+powtarzać;повторювати;;education
+ćwiczyć;практикувати;;education
+zapamiętywać;запам'ятовувати;;education
+zapominać;забувати;;education
+pamiętać;пам'ятати;;education
+wymawiać;вимовляти;;education

@@ -1,57 +1,199 @@
-pan;хліб;panes;food
-leche;молоко;;food
-agua;вода;;food
-huevo;яйце;huevos;food
-queso;сир;;food
-carne;м'ясо;;food
-pollo;курка;pollos;food
-pescado;риба;pescados;food
-arroz;рис;;food
-pasta;макарони;;food
-sopa;суп;;food
-ensalada;салат;;food
-fruta;фрукт;frutas;food
-manzana;яблуко;manzanas;food
-plátano;банан;plátanos;food
-naranja;апельсин;naranjas;food
-limón;лимон;limones;food
-fresa;полуниця;fresas;food
-uva;виноград;uvas;food
-tomate;помідор;tomates;food
-cebolla;цибуля;cebollas;food
-ajo;часник;ajos;food
-zanahoria;морква;zanahorias;food
-patata;картопля;patatas;food
-lechuga;салат-латук;lechugas;food
-pimiento;перець;pimientos;food
-maíz;кукурудза;;food
+restaurante;ресторан;los restaurantes;food
+menú;меню;los menús;food
+carta;меню;las cartas;food
+plato;страва;los platos;food
+cuenta;рахунок;las cuentas;food
+camarero;офіціант;los camareros;food
+cliente;клієнт;los clientes;food
+mesa;стіл;las mesas;food
+silla;стілець;las sillas;food
+tenedor;виделка;los tenedores;food
+cuchillo;ніж;los cuchillos;food
+cuchara;ложка;las cucharas;food
+vaso;склянка;los vasos;food
+taza;чашка;las tazas;food
+plato hondo;глибока тарілка;los platos hondos;food
+plato llano;мілка тарілка;los platos llanos;food
+servilleta;серветка;las servilletas;food
+mantel;скатертина;los manteles;food
+salero;сільничка;los saleros;food
+pimentero;перечниця;los pimenteros;food
+jarra;глечик;las jarras;food
+copa;келих;las copas;food
 aceite;олія;;food
 vinagre;оцет;;food
 sal;сіль;;food
-azúcar;цукор;;food
-miel;мед;;food
-mantequilla;масло;;food
-yogur;йогурт;;food
-helado;морозиво;;food
-tarta;торт;tartas;food
-pastel;пиріг;pasteles;food
-galleta;печиво;galletas;food
-chocolate;шоколад;;food
-café;кава;;food
-té;чай;;food
-jugo;сік;;food
-cerveza;пиво;;food
-vino;вино;;food
-queso;сир;quesos;food
-jamón;шинка;;food
-salchicha;ковбаса;salchichas;food
-hamburguesa;гамбургер;hamburguesas;food
-pizza;піца;;food
-sándwich;сендвіч;sándwiches;food
-tostada;тост;tostadas;food
-mermelada;варення;;food
-salsa;соус;;food
-especia;спеція;especias;food
 pimienta;перець;;food
-canela;кориця;;food
-arándano;журавлина;arándanos;food
+pan;хліб;;food
+mantequilla;масло;;food
+entrante;закуска;los entrantes;food
+primer plato;перша страва;los primeros platos;food
+segundo plato;друга страва;los segundos platos;food
+postre;десерт;los postres;food
+bebida;напій;las bebidas;food
+agua;вода;las aguas;food
+vino tinto;червоне вино;los vinos tintos;food
+vino blanco;біле вино;los vinos blancos;food
+cerveza;пиво;las cervezas;food
+refresco;безалкогольний напій;los refrescos;food
+café;кава;los cafés;food
+té;чай;los tés;food
+zumo;сік;los zumos;food
+sopa;суп;las sopas;food
+ensalada;салат;las ensaladas;food
+carne;м'ясо;;food
+pescado;риба;los pescados;food
+pizza;піца;las pizzas;food
+hamburguesa;гамбургер;las hamburguesas;food
+bocadillo;бутерброд;los bocadillos;food
+tapa;тапас;las tapas;food
+cocinar;готувати;;food
+hervir;кип'ятити;;food
+freír;смажити;;food
+asar;запікати;;food
+hornear;випікати;;food
+cocer;варити;;food
+guisar;тушкувати;;food
+saltear;обсмажувати;;food
+cocer al vapor;готувати на парі;;food
+estofar;тушкувати;;food
+asar a la parrilla;готувати на грилі;;food
+dorar;підрум'янювати;;food
+rehogar;злегка обсмажувати;;food
+sofreír;підсмажувати;;food
+escalfar;варити без шкаралупи;;food
+cocer a fuego lento;варити на слабкому вогні;;food
+emulsionar;емульгувати;;food
+batir;збивати;;food
+mezclar;змішувати;;food
+amasar;замішувати;;food
+verter;наливати;;food
+espolvorear;посипати;;food
+picar;дрібно нарізати;;food
+trocear;нарізати шматками;;food
+cortar;різати;;food
+rebanar;нарізати скибками;;food
+rallar;терти;;food
+triturar;подрібнювати;;food
+machacar;товкти;;food
+pelar;чистити;;food
+descorazonar;видаляти серцевину;;food
+deshuesar;видаляти кістки;;food
+limpiar;очищати;;food
+filetear;нарізати філе;;food
+marinar;маринувати;;food
+adobar;маринувати зі спеціями;;food
+salpimentar;солити і перчити;;food
+sazonar;приправляти;;food
+condimentar;додавати приправи;;food
+decorar;прикрашати;;food
+glasear;глазурувати;;food
+flambear;фламбувати;;food
+reducir;уварювати;;food
+espesar;загущувати;;food
+infusionar;настоювати;;food
+escaldar;ошпарювати;;food
+blanquear;бланшувати;;food
+confitar;готувати у жирі;;food
+macerar;вимочувати;;food
+derretir;розтоплювати;;food
+harina;борошно;harinas;food
+azúcar;цукор;azúcares;food
+sal;сіль;sales;food
+pimienta;перець;pimientas;food
+aceite;олія;aceites;food
+vinagre;оцет;vinagres;food
+huevo;яйце;huevos;food
+leche;молоко;leches;food
+mantequilla;вершкове масло;mantequillas;food
+queso;сир;quesos;food
+pan;хліб;panes;food
+arroz;рис;arroces;food
+pasta;макарони;pastas;food
+carne;м'ясо;carnes;food
+pescado;риба;pescados;food
+pollo;курка;pollos;food
+cerdo;свинина;cerdos;food
+ternera;яловичина;terneras;food
+tomate;помідор;tomates;food
+cebolla;цибуля;cebollas;food
+ajo;часник;ajos;food
+pimiento;солодкий перець;pimientos;food
+zanahoria;морква;zanahorias;food
+patata;картопля;patatas;food
+lechuga;салат;lechugas;food
+espinaca;шпинат;espinacas;food
+calabacín;цукіні;calabacines;food
+berenjena;баклажан;berenjenas;food
+pepino;огірок;pepinos;food
+maíz;кукурудза;maíces;food
+judía;квасоля;judías;food
+lenteja;сочевиця;lentejas;food
+garbanzo;нут;garbanzos;food
+salsa;соус;salsas;food
+mayonesa;майонез;mayonesas;food
+mostaza;гірчиця;mostazas;food
+kétchup;кетчуп;kétchups;food
+mermelada;варення;mermeladas;food
+miel;мед;mieles;food
+canela;кориця;canelas;food
+vainilla;ваніль;vainillas;food
+chocolate;шоколад;chocolates;food
+café;кава;cafés;food
+té;чай;tés;food
+limón;лимон;limones;food
+naranja;апельсин;naranjas;food
+manzana;яблуко;manzanas;food
+plátano;банан;plátanos;food
+fresa;полуниця;fresas;food
+uva;виноград;uvas;food
+la dieta;дієта;las dietas;food
+la nutrición;харчування;las nutriciones;food
+el alimento;продукт харчування;los alimentos;food
+la comida;їжа;las comidas;food
+el plato;страва;los platos;food
+la verdura;овочі;las verduras;food
+la fruta;фрукти;las frutas;food
+la carne;м'ясо;las carnes;food
+el pescado;риба;los pescados;food
+el huevo;яйце;los huevos;food
+el lácteo;молочний продукт;los lácteos;food
+la leche;молоко;;food
+el queso;сир;los quesos;food
+el yogur;йогурт;los yogures;food
+la mantequilla;вершкове масло;las mantequillas;food
+el aceite;олія;los aceites;food
+el pan;хліб;los panes;food
+el cereal;злак;los cereales;food
+la pasta;макарони;las pastas;food
+el arroz;рис;los arroces;food
+la legumbre;бобові;las legumbres;food
+la proteína;білок;las proteínas;food
+el carbohidrato;вуглевод;los carbohidratos;food
+la grasa;жир;las grasas;food
+la vitamina;вітамін;las vitaminas;food
+el mineral;мінерал;los minerales;food
+la fibra;клітковина;las fibras;food
+la caloría;калорія;las calorías;food
+el azúcar;цукор;los azúcares;food
+la sal;сіль;las sales;food
+el colesterol;холестерин;;food
+la dieta equilibrada;збалансоване харчування;las dietas equilibradas;food
+vegetariano;вегетаріанський;vegetarianos;food
+vegano;веганський;veganos;food
+orgánico;органічний;orgánicos;food
+sin gluten;безглютеновий;;food
+la intolerancia;непереносимість;las intolerancias;food
+la alergia;алергія;las alergias;food
+la etiqueta;етикетка;las etiquetas;food
+la ración;порція;las raciones;food
+la porción;порція;las porciones;food
+el ingrediente;інгредієнт;los ingredientes;food
+cocinar;готувати;;food
+hervir;варити;;food
+freír;смажити;;food
+asar;запікати;;food
+el sobrepeso;надмірна вага;los sobrepesos;food
+la obesidad;ожиріння;las obesidades;food
+ayunar;голодувати;;food
+el suplemento;добавка;los suplementos;food

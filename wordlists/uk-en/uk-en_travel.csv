@@ -1,0 +1,201 @@
+bus;автобус;m;travel
+train;поїзд;m;travel
+tram;трамвай;m;travel
+metro;метро;n;travel
+trolleybus;тролейбус;m;travel
+ticket;квиток;m;travel
+single ticket;разовий квиток;m;travel
+return ticket;зворотний квиток;m;travel
+travel card;проїзний;m;travel
+fare;тариф;m;travel
+platform;платформа;f;travel
+track;колія;f;travel
+railway station;вокзал;m;travel
+station;станція;f;travel
+bus stop;зупинка;f;travel
+route;маршрут;m;travel
+line;лінія;f;travel
+direction;напрямок;m;travel
+transfer;пересадка;f;travel
+passenger;пасажир;m;travel
+driver;водій;m;travel
+conductor;кондуктор;m;travel
+ticket machine;квитковий автомат;m;travel
+ticket office;каса;f;travel
+timetable;розклад;m;travel
+delay;затримка;f;travel
+departure;відправлення;n;travel
+arrival;прибуття;n;travel
+seat;місце;n;travel
+reservation;бронювання;n;travel
+luggage;багаж;m;travel
+suitcase;валіза;f;travel
+backpack;рюкзак;m;travel
+ticket inspector;контролер;m;travel
+fine;штраф;m;travel
+validation;компостування;n;travel
+monthly pass;місячний проїзний;m;travel
+map;схема;f;travel
+exit;вихід;m;travel
+entrance;вхід;m;travel
+lift;ліфт;m;travel
+escalator;ескалатор;m;travel
+stairs;сходи;pl;travel
+waiting room;зал очікування;m;travel
+information desk;довідка;f;travel
+lost property;бюро знахідок;n;travel
+public transport;громадський транспорт;m;travel
+taxi;таксі;n;travel
+journey;поїздка;f;travel
+rush hour;година пік;f;travel
+flight;рейс;m;travel
+ticket;квиток;m;travel
+reservation;бронювання;n;travel
+hotel;готель;m;travel
+room;номер;m;travel
+check-in;реєстрація;f;travel
+boarding pass;посадковий талон;m;travel
+luggage;багаж;m;travel
+suitcase;валіза;f;travel
+passport;паспорт;m;travel
+visa;віза;f;travel
+departure;відправлення;n;travel
+arrival;прибуття;n;travel
+airport;аеропорт;m;travel
+terminal;термінал;m;travel
+gate;вихід;m;travel
+seat;місце;n;travel
+aisle;прохід;m;travel
+window;вікно;n;travel
+price;ціна;f;travel
+discount;знижка;f;travel
+order;замовлення;n;travel
+confirmation;підтвердження;n;travel
+cancellation;скасування;n;travel
+refund;повернення;n;travel
+payment;оплата;f;travel
+credit card;кредитна картка;f;travel
+luggage allowance;норма багажу;f;travel
+excess baggage;надлишковий багаж;m;travel
+airline;авіакомпанія;f;travel
+schedule;розклад;m;travel
+delay;затримка;f;travel
+check-out;виселення;n;travel
+reception;рецепція;f;travel
+lobby;хол;m;travel
+elevator;ліфт;m;travel
+floor;поверх;m;travel
+single room;одномісний номер;m;travel
+double room;двомісний номер;m;travel
+breakfast;сніданок;m;travel
+extra bed;додаткове ліжко;n;travel
+reservation number;номер бронювання;m;travel
+boarding;посадка;f;travel
+departure time;час відправлення;m;travel
+arrival time;час прибуття;m;travel
+itinerary;маршрут;m;travel
+to book;бронювати;;travel
+to cancel;скасувати;;travel
+to pay;платити;;travel
+to check in;зареєструватися;;travel
+sightseeing;огляд пам'яток;m;travel
+monument;пам'ятник;m;travel
+museum;музей;m;travel
+cathedral;собор;m;travel
+ticket;квиток;m;travel
+guide;гід;m;travel
+map;карта;f;travel
+camera;фотоапарат;m;travel
+view;вид;m;travel
+square;площа;f;travel
+statue;статуя;f;travel
+fountain;фонтан;m;travel
+palace;палац;m;travel
+art gallery;галерея;f;travel
+exhibition;виставка;f;travel
+audio guide;аудіогід;m;travel
+entrance;вхід;m;travel
+ticket office;каса;f;travel
+guided tour;екскурсія;f;travel
+reservation;бронювання;n;travel
+queue;черга;f;travel
+brochure;брошура;f;travel
+itinerary;маршрут;m;travel
+landmark;визначна пам'ятка;f;travel
+attraction;туристична атракція;f;travel
+castle;замок;m;travel
+bridge;міст;m;travel
+park;парк;m;travel
+garden;сад;m;travel
+history;історія;f;travel
+architecture;архітектура;f;travel
+skyscraper;хмарочос;m;travel
+viewpoint;оглядовий майданчик;m;travel
+sightseeing bus;екскурсійний автобус;m;travel
+river cruise;річковий круїз;m;travel
+city tour;огляд міста;m;travel
+tourist;турист;m;travel
+souvenir;сувенір;m;travel
+postcard;листівка;f;travel
+travel guide;путівник;m;travel
+panoramic view;панорама;f;travel
+ruins;руїни;pl;travel
+archaeological site;археологічна пам'ятка;f;travel
+open-air museum;скансен;m;travel
+to visit;відвідувати;;travel
+to explore;досліджувати;;travel
+to discover;відкривати;;travel
+to take photos;фотографувати;;travel
+to climb;підніматися;;travel
+to admire;милуватися;;travel
+to book;забронювати;;travel
+suitcase;валіза;f;travel
+backpack;рюкзак;m;travel
+carry-on bag;ручна поклажа;f;travel
+luggage;багаж;m;travel
+bag;сумка;f;travel
+duffel bag;спортивна сумка;f;travel
+toiletry bag;косметичка;f;travel
+packing cube;органайзер для валізи;m;travel
+packing list;список речей;m;travel
+luggage tag;багажна бирка;f;travel
+luggage lock;багажний замок;m;travel
+padlock;замок;m;travel
+strap;ремінь;m;travel
+baggage claim;видача багажу;f;travel
+suitcase handle;ручка валізи;f;travel
+wheel;колесо;n;travel
+zipper;застібка-блискавка;f;travel
+compartment;відділення;n;travel
+front pocket;передня кишеня;f;travel
+passport;паспорт;m;travel
+ticket;квиток;m;travel
+boarding pass;посадковий талон;m;travel
+travel documents;проїзні документи;pl;travel
+currency;валюта;f;travel
+wallet;гаманець;m;travel
+phone charger;зарядний пристрій;m;travel
+travel adapter;адаптер;m;travel
+travel pillow;дорожня подушка;f;travel
+earplugs;беруші;pl;travel
+eye mask;маска для сну;f;travel
+guidebook;путівник;m;travel
+map;карта;f;travel
+phrasebook;розмовник;m;travel
+umbrella;парасолька;f;travel
+sunglasses;сонцезахисні окуляри;pl;travel
+sunscreen;сонцезахисний крем;m;travel
+insect repellent;репелент;m;travel
+first-aid kit;аптечка;f;travel
+medication;ліки;pl;travel
+laundry bag;мішок для брудної білизни;m;travel
+vacuum bag;вакуумний пакет;m;travel
+compression sack;компресійний мішок;m;travel
+shoe bag;мішок для взуття;m;travel
+travel towel;дорожній рушник;m;travel
+foldable bag;складна сумка;f;travel
+to pack;пакувати;;travel
+to unpack;розпаковувати;;travel
+to fold;складати;;travel
+to roll;скручувати;;travel
+to weigh;зважувати;;travel

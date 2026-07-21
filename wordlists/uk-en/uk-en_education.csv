@@ -1,54 +1,199 @@
-school;школа;ж.р.;education
-teacher;вчитель;ч.р.;education
-student;учень;ч.р.;education
-lesson;урок;ч.р.;education
-homework;домашнє завдання;с.р.;education
-exam;іспит;ч.р.;education
-test;тест;ч.р.;education
-grade;оцінка;ж.р.;education
-classroom;класна кімната;ж.р.;education
-book;книга;ж.р.;education
-notebook;зошит;ч.р.;education
-pen;ручка;ж.р.;education
-pencil;олівець;ч.р.;education
-desk;парта;ж.р.;education
-blackboard;дошка;ж.р.;education
-chalk;крейда;ж.р.;education
-subject;предмет;ч.р.;education
-mathematics;математика;ж.р.;education
-science;наука;ж.р.;education
-history;історія;ж.р.;education
-geography;географія;ж.р.;education
-language;мова;ж.р.;education
-literature;література;ж.р.;education
-art;мистецтво;с.р.;education
-music;музика;ж.р.;education
-physical education;фізкультура;ж.р.;education
-university;університет;ч.р.;education
-college;коледж;ч.р.;education
-lecture;лекція;ж.р.;education
-professor;професор;ч.р.;education
-semester;семестр;ч.р.;education
-course;курс;ч.р.;education
-degree;ступінь;ч.р.;education
-diploma;диплом;ч.р.;education
-scholarship;стипендія;ж.р.;education
-library;бібліотека;ж.р.;education
-research;дослідження;с.р.;education
-essay;есе;с.р.;education
-presentation;презентація;ж.р.;education
-project;проєкт;ч.р.;education
-group;група;ж.р.;education
-class;клас;ч.р.;education
-schedule;розклад;ч.р.;education
-break;перерва;ж.р.;education
-attendance;відвідуваність;ж.р.;education
-knowledge;знання;с.р.;education
-skill;навичка;ж.р.;education
-learning;навчання;с.р.;education
-education;освіта;ж.р.;education
-curriculum;навчальний план;ч.р.;education
-assignment;завдання;с.р.;education
-exercise;вправа;ж.р.;education
-tutor;репетитор;ч.р.;education
-graduation;випуск;ч.р.;education
+mathematics;математика;f;education
+algebra;алгебра;f;education
+geometry;геометрія;f;education
+physics;фізика;f;education
+chemistry;хімія;f;education
+biology;біологія;f;education
+geography;географія;f;education
+history;історія;f;education
+literature;література;f;education
+Ukrainian;українська мова;f;education
+English;англійська мова;f;education
+German;німецька мова;f;education
+French;французька мова;f;education
+Spanish;іспанська мова;f;education
+physical education;фізкультура;f;education
+music;музика;f;education
+art;мистецтво;n;education
+computer science;інформатика;f;education
+technology;технологія;f;education
+labour training;трудове навчання;n;education
+ethics;етика;f;education
+social studies;суспільствознавство;n;education
+law;право;n;education
+economics;економіка;f;education
+astronomy;астрономія;f;education
+drawing;малювання;n;education
+native language;рідна мова;f;education
+reading;читання;n;education
+writing;письмо;n;education
+science;природознавство;n;education
+civic education;громадянська освіта;f;education
+world history;всесвітня історія;f;education
+Ukrainian literature;українська література;f;education
+foreign literature;зарубіжна література;f;education
+career guidance;профорієнтація;f;education
+psychology;психологія;f;education
+sociology;соціологія;f;education
+logic;логіка;f;education
+philosophy;філософія;f;education
+ecology;екологія;f;education
+physical geography;фізична географія;f;education
+economic geography;економічна географія;f;education
+design;дизайн;m;education
+programming;програмування;n;education
+Latin;латинська мова;f;education
+basics of health;основи здоров'я;pl;education
+religious education;релігієзнавство;n;education
+defence of Ukraine;захист України;m;education
+labour safety;охорона праці;f;education
+information technology;інформаційні технології;pl;education
+university;університет;m;education
+student;студент;m;education
+lecture;лекція;f;education
+seminar;семінар;m;education
+exam;іспит;m;education
+library;бібліотека;f;education
+book;книга;f;education
+textbook;підручник;m;education
+notebook;зошит;m;education
+pen;ручка;f;education
+pencil;олівець;m;education
+backpack;рюкзак;m;education
+dormitory;гуртожиток;m;education
+scholarship;стипендія;f;education
+degree;ступінь;m;education
+diploma;диплом;m;education
+bachelor's degree;бакалаврат;m;education
+master's degree;магістратура;f;education
+PhD;аспірантура;f;education
+lecture hall;аудиторія;f;education
+campus;кампус;m;education
+subject;предмет;m;education
+course;курс;m;education
+semester;семестр;m;education
+academic year;навчальний рік;m;education
+lecture notes;конспект;m;education
+assignment;завдання;n;education
+homework;домашнє завдання;n;education
+grade;оцінка;f;education
+exam period;сесія;f;education
+to study;навчатися;;education
+to enroll;вступати;;education
+to graduate;закінчити;;education
+freshman;першокурсник;m;education
+sophomore;другокурсник;m;education
+professor;професор;m;education
+lecturer;викладач;m;education
+assistant;асистент;m;education
+dean;декан;m;education
+rector;ректор;m;education
+faculty;факультет;m;education
+department;кафедра;f;education
+research;дослідження;n;education
+thesis;дипломна робота;f;education
+dissertation;дисертація;f;education
+graduation;випуск;m;education
+student ID;студентський квиток;m;education
+library card;читацький квиток;m;education
+lecture slides;слайди;pl;education
+classmate;одногрупник;m;education
+exam;екзамен;m;education
+test;тест;m;education
+quiz;опитування;n;education
+grade;оцінка;f;education
+mark;бал;m;education
+credit;залік;m;education
+result;результат;m;education
+pass;здати;;education
+fail;провалити;;education
+excellent;відмінно;;education
+good;добре;;education
+satisfactory;задовільно;;education
+unsatisfactory;незадовільно;;education
+assessment;оцінювання;n;education
+evaluation;оцінка;f;education
+revision;повторення;n;education
+preparation;підготовка;f;education
+study;навчання;n;education
+homework;домашнє завдання;n;education
+assignment;завдання;n;education
+project;проект;m;education
+presentation;презентація;f;education
+essay;есе;n;education
+resit;перескладання;n;education
+cheating;списування;n;education
+to cheat;списувати;;education
+plagiarism;плагіат;m;education
+attendance;відвідуваність;f;education
+register;журнал;m;education
+timetable;розклад;m;education
+semester;семестр;m;education
+report card;табель;m;education
+transcript;транскрипт;m;education
+certificate;сертифікат;m;education
+diploma;диплом;m;education
+degree;ступінь;m;education
+scholarship;стипендія;f;education
+fee;плата;f;education
+enrollment;зарахування;n;education
+dropout;відрахування;n;education
+graduate;випускник;m;education
+graduation;випуск;m;education
+examiner;екзаменатор;m;education
+candidate;кандидат;m;education
+question;питання;n;education
+answer;відповідь;f;education
+deadline;дедлайн;m;education
+submission;подання;n;education
+feedback;відгук;m;education
+language;мова;f;education
+grammar;граматика;f;education
+vocabulary;словниковий запас;m;education
+dictionary;словник;m;education
+pronunciation;вимова;f;education
+verb;дієслово;n;education
+noun;іменник;m;education
+adjective;прикметник;m;education
+adverb;прислівник;m;education
+preposition;прийменник;m;education
+phrase;фраза;f;education
+sentence;речення;n;education
+word;слово;n;education
+letter;буква;f;education
+sound;звук;m;education
+accent;акцент;m;education
+dialogue;діалог;m;education
+conversation;розмова;f;education
+listening;аудіювання;n;education
+speaking;говоріння;n;education
+reading;читання;n;education
+writing;письмо;n;education
+skill;навичка;f;education
+level;рівень;m;education
+beginner;початківець;m;education
+intermediate;середній рівень;m;education
+advanced;просунутий рівень;m;education
+native speaker;носій мови;m;education
+fluency;вільне володіння;n;education
+lesson;урок;m;education
+exercise;вправа;f;education
+homework;домашнє завдання;n;education
+textbook;підручник;m;education
+notebook;зошит;m;education
+pen;ручка;f;education
+pencil;олівець;m;education
+blackboard;дошка;f;education
+teacher;вчитель;m;education
+student;студент;m;education
+classroom;клас;m;education
+exam;іспит;m;education
+certificate;сертифікат;m;education
+mistake;помилка;f;education
+correction;виправлення;n;education
+translation;переклад;m;education
+meaning;значення;n;education
+synonym;синонім;m;education
+antonym;антонім;m;education
+example;приклад;m;education
+practice;практика;f;education

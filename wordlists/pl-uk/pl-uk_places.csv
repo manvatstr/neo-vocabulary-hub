@@ -1,0 +1,200 @@
+lotnisko;аеропорт;n;places
+bank;банк;m;places
+bar;бар;m;places
+biblioteka;бібліотека;f;places
+centrum handlowe;торговий центр;n;places
+cmentarz;цвинтар;m;places
+dworzec autobusowy;автовокзал;m;places
+dworzec kolejowy;залізничний вокзал;m;places
+fontanna;фонтан;f;places
+galeria sztuki;художня галерея;f;places
+hotel;готель;m;places
+katedra;кафедральний собор;f;places
+kino;кінотеатр;n;places
+klinika;клініка;f;places
+kościół;костел;m;places
+kawiarnia;кав'ярня;f;places
+komisariat policji;поліцейський відділок;m;places
+konsulat;консульство;n;places
+księgarnia;книгарня;f;places
+lotnisko;летовище;n;places
+muzeum;музей;n;places
+most;міст;m;places
+osiedle;житловий масив;n;places
+park;парк;m;places
+poczta;пошта;f;places
+przystanek autobusowy;автобусна зупинка;m;places
+przystań;пристань;f;places
+restauracja;ресторан;f;places
+ratusz;ратуша;m;places
+rynek;ринок;m;places
+rzeka;річка;f;places
+sąd;суд;m;places
+sklep;крамниця;m;places
+skrzyżowanie;перехрестя;n;places
+stadion;стадіон;m;places
+szkoła;школа;f;places
+szpital;лікарня;f;places
+teatr;театр;m;places
+uniwersytet;університет;m;places
+urząd pocztowy;поштове відділення;n;places
+zoo;зоопарк;n;places
+ulica;вулиця;f;places
+plac;площа;m;places
+centrum;центр;n;places
+apteka;аптека;f;places
+ambasada;посольство;f;places
+wieżowiec;хмарочос;m;places
+fabryka;фабрика;f;places
+remiza strażacka;пожежна частина;f;places
+targ;базар;m;places
+wieś;село;f;places
+pole;поле;n;places
+las;ліс;m;places
+łąka;лука;f;places
+rzeka;річка;f;places
+jezioro;озеро;n;places
+góra;гора;f;places
+pagórek;пагорб;m;places
+droga;дорога;f;places
+ścieżka;стежка;f;places
+farma;ферма;f;places
+gospodarstwo;господарство;n;places
+stodoła;клуня;f;places
+chata;хата;f;places
+staw;став;m;places
+strumyk;струмок;m;places
+ogród;город;m;places
+sad;сад;m;places
+pastwisko;пасовище;n;places
+brzeg;берег;m;places
+zarośla;чагарники;pl;places
+krzak;кущ;m;places
+drzewo;дерево;n;places
+krzew;кущ;m;places
+dolina;долина;f;places
+wąwóz;яр;m;places
+skała;скеля;f;places
+kamień;камінь;m;places
+potok;потік;m;places
+źródło;джерело;n;places
+most;міст;m;places
+młyn;млин;m;places
+wieża;вежа;f;places
+kościół;костел;m;places
+cmentarz;цвинтар;m;places
+rynek;ринок;m;places
+obora;корівник;f;places
+chlew;свинарник;m;places
+kurnik;курник;m;places
+stajnia;стайня;f;places
+spichlerz;комора;m;places
+winnica;виноградник;f;places
+plantacja;плантація;f;places
+rów;рів;m;places
+kanał;канал;m;places
+bagno;болото;n;places
+torfowisko;торфовище;n;places
+skarpa;схил;f;places
+kaplica;каплиця;f;places
+zagroda;садиба;f;places
+góra;гора;góry;places
+rzeka;річка;rzeki;places
+jezioro;озеро;jeziora;places
+morze;море;morza;places
+ocean;океан;oceany;places
+wyspa;острів;wyspy;places
+półwysep;півострів;półwyspy;places
+wybrzeże;узбережжя;wybrzeża;places
+dolina;долина;doliny;places
+wzgórze;пагорб;wzgórza;places
+las;ліс;lasy;places
+pustynia;пустеля;pustynie;places
+łąka;лука;łąki;places
+pole;поле;pola;places
+wieś;село;wsie;places
+miasto;місто;miasta;places
+stolica;столиця;stolice;places
+region;регіон;regiony;places
+kraj;країна;kraje;places
+kontynent;континент;kontynenty;places
+granica;кордон;granice;places
+mapa;карта;mapy;places
+lodowiec;льодовик;lodowce;places
+zatoka;затока;zatoki;places
+cieśnina;протока;cieśniny;places
+kanał;канал;kanały;places
+port;порт;porty;places
+latarnia morska;маяк;latarnie morskie;places
+jaskinia;печера;jaskinie;places
+wodospad;водоспад;wodospady;places
+potok;струмок;potoki;places
+staw;ставок;stawy;places
+bagno;болото;bagna;places
+skała;скеля;skały;places
+klif;кліф;klify;places
+plaża;пляж;plaże;places
+wydma;дюна;wydmy;places
+łańcuch górski;гірський хребет;łańcuchy górskie;places
+wyżyna;височина;wyżyny;places
+nizina;низина;niziny;places
+równina;рівнина;równiny;places
+step;степ;stepy;places
+tundra;тундра;tundry;places
+sawanna;савана;sawanny;places
+dżungla;джунглі;dżungle;places
+las deszczowy;тропічний ліс;lasy deszczowe;places
+geografia;географія;;places
+globus;глобус;globusy;places
+Ziemia;Земля;;places
+wulkan;вулкан;wulkany;places
+ulica;вулиця;f;places
+droga;дорога;f;places
+aleja;алея;f;places
+plac;площа;m;places
+rynek;ринок;m;places
+rondo;кругове перехрестя;n;places
+skrzyżowanie;перехрестя;n;places
+przejście;перехід;n;places
+sygnalizacja świetlna;світлофор;f;places
+światła;світлофор;pl;places
+chodnik;тротуар;m;places
+krawężnik;бордюр;m;places
+przystanek;зупинка;m;places
+dworzec;вокзал;m;places
+stacja;станція;f;places
+lotnisko;аеропорт;n;places
+port;порт;m;places
+bank;банк;m;places
+poczta;пошта;f;places
+urząd;установа;m;places
+szpital;лікарня;m;places
+apteka;аптека;f;places
+sklep;магазин;m;places
+supermarket;супермаркет;m;places
+restauracja;ресторан;f;places
+kawiarnia;кав'ярня;f;places
+hotel;готель;m;places
+park;парк;m;places
+ogród;сад;m;places
+kościół;костел;m;places
+cerkiew;церква;f;places
+meczet;мечеть;m;places
+synagoga;синагога;f;places
+most;міст;m;places
+rzeka;річка;f;places
+jezioro;озеро;n;places
+góra;гора;f;places
+wzgórze;пагорб;n;places
+dolina;долина;f;places
+las;ліс;m;places
+centrum;центр;n;places
+dzielnica;район;f;places
+osiedle;житловий масив;n;places
+blok;багатоквартирний будинок;m;places
+winda;ліфт;f;places
+schody;сходи;pl;places
+przejście podziemne;підземний перехід;n;places
+kładka;пішохідний місток;f;places
+parking;парковка;m;places
+stacja benzynowa;автозаправна станція;f;places

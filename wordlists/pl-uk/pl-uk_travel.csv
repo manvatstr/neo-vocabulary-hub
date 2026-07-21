@@ -1,0 +1,200 @@
+autobus;автобус;m;travel
+tramwaj;трамвай;m;travel
+pociąg;поїзд;m;travel
+metro;метро;n;travel
+bilet;квиток;m;travel
+przystanek;зупинка;m;travel
+dworzec;вокзал;m;travel
+peron;перон;m;travel
+kasa;каса;f;travel
+rozkład jazdy;розклад руху;m;travel
+stacja;станція;f;travel
+wagon;вагон;m;travel
+miejsce;місце;n;travel
+pasażer;пасажир;m;travel
+pasażerka;пасажирка;f;travel
+kierowca;водій;m;travel
+motorniczy;вагоновод;m;travel
+kontrola biletów;контроль квитків;f;travel
+bilet miesięczny;місячний квиток;m;travel
+bilet ulgowy;пільговий квиток;m;travel
+bilet normalny;звичайний квиток;m;travel
+linia;лінія;f;travel
+komunikacja miejska;міський транспорт;f;travel
+przesiadka;пересадка;f;travel
+opóźnienie;затримка;n;travel
+odjazd;відправлення;m;travel
+przyjazd;прибуття;m;travel
+podróż;подорож;f;travel
+bagaż;багаж;m;travel
+walizka;валіза;f;travel
+plecak;рюкзак;m;travel
+torba;сумка;f;travel
+mapa;мапа;f;travel
+plan miasta;план міста;m;travel
+informacja;інформація;f;travel
+poczekalnia;чекальня;f;travel
+kiosk;кіоск;m;travel
+automat biletowy;квитковий автомат;m;travel
+przejście podziemne;підземний перехід;n;travel
+schody ruchome;рухомі сходи;pl;travel
+winda;ліфт;f;travel
+barierka;бар'єр;f;travel
+tor;колія;m;travel
+zwrotnica;стрілка;f;travel
+semafor;семафор;m;travel
+zawiadowca;начальник станції;m;travel
+konduktor;кондуктор;m;travel
+maszynista;машиніст;m;travel
+podróżny;подорожній;m;travel
+bagażowy;носій;m;travel
+lot;рейс;m;travel
+samolot;літак;m;travel
+bilet;квиток;m;travel
+rezerwacja;бронювання;f;travel
+lotnisko;аеропорт;n;travel
+terminal;термінал;m;travel
+odprawa;реєстрація;f;travel
+bagaż;багаж;m;travel
+walizka;валіза;f;travel
+paszport;паспорт;m;travel
+wiza;віза;f;travel
+bilet elektroniczny;електронний квиток;m;travel
+karta pokładowa;посадковий талон;f;travel
+miejsce;місце;n;travel
+klasa ekonomiczna;економ-клас;f;travel
+klasa biznes;бізнес-клас;f;travel
+lot bezpośredni;прямий рейс;m;travel
+przesiadka;пересадка;f;travel
+opóźnienie;затримка;n;travel
+odwołanie;скасування;n;travel
+hotel;готель;m;travel
+pokój;номер;m;travel
+rezerwować;бронювати;;travel
+zameldowanie;реєстрація;n;travel
+wymeldowanie;виселення;n;travel
+recepcja;рецепція;f;travel
+klucz;ключ;m;travel
+karta hotelowa;картка готелю;f;travel
+śniadanie;сніданок;n;travel
+wyżywienie;харчування;n;travel
+basen;басейн;m;travel
+parking;парковка;m;travel
+Wi-Fi;вай-фай;n;travel
+klimatyzacja;кондиціонер;f;travel
+łazienka;ванна;f;travel
+ręcznik;рушник;m;travel
+mydło;мило;n;travel
+szampon;шампунь;m;travel
+suszarka do włosów;фен;f;travel
+sejf;сейф;m;travel
+bagaż podręczny;ручна поклажа;m;travel
+limit bagażu;норма багажу;m;travel
+nadbagaż;надлишковий багаж;m;travel
+opłata;оплата;f;travel
+ubezpieczenie podróżne;страхування подорожей;n;travel
+biuro podróży;туристичне агентство;n;travel
+przewodnik;гід;m;travel
+wycieczka;екскурсія;f;travel
+zwiedzanie;огляд;n;travel
+cena;ціна;f;travel
+zabytek;пам'ятка;m;travel
+muzeum;музей;n;travel
+kościół;костел;m;travel
+katedra;катедра;f;travel
+zamek;замок;m;travel
+pałac;палац;m;travel
+rynek;ринок;m;travel
+starówka;старе місто;f;travel
+punkt widokowy;оглядовий майданчик;m;travel
+pomnik;пам'ятник;m;travel
+plac;площа;m;travel
+ulica;вулиця;f;travel
+aleja;алея;f;travel
+park;парк;m;travel
+ogród;сад;m;travel
+fontanna;фонтан;f;travel
+most;міст;m;travel
+wieża;вежа;f;travel
+brama;ворота;f;travel
+mur;мур;m;travel
+ruiny;руїни;pl;travel
+przewodnik;гід;m;travel
+wycieczka;екскурсія;f;travel
+bilet;квиток;m;travel
+kasa;каса;f;travel
+rozkład;розклад;m;travel
+mapa;мапа;f;travel
+informacja turystyczna;туристична інформація;f;travel
+zwiedzanie;огляд пам'яток;n;travel
+trasa;маршрут;f;travel
+szlak;шлях;m;travel
+panorama;панорама;f;travel
+widok;вид;m;travel
+wystawa;виставка;f;travel
+kolekcja;колекція;f;travel
+dzieło sztuki;витвір мистецтва;n;travel
+obraz;картина;m;travel
+rzeźba;скульптура;f;travel
+architektura;архітектура;f;travel
+styl;стиль;m;travel
+fasada;фасад;f;travel
+kopuła;купол;f;travel
+witraż;вітраж;m;travel
+dziedziniec;внутрішній двір;m;travel
+krużganek;клуатр;m;travel
+krypta;крипта;f;travel
+wieża widokowa;оглядова вежа;f;travel
+taras widokowy;оглядовий майданчик;m;travel
+kolejka linowa;канатна дорога;f;travel
+autokar;автобус;m;travel
+bagaż;багаж;m;travel
+walizka;валіза;f;travel
+plecak;рюкзак;m;travel
+torba;сумка;f;travel
+torba podróżna;дорожня сумка;f;travel
+saszetka;поясна сумка;f;travel
+aktówka;портфель;f;travel
+pokrowiec;чохол;m;travel
+paszport;паспорт;m;travel
+bilet;квиток;m;travel
+karta pokładowa;посадковий талон;f;travel
+wiza;віза;f;travel
+ubezpieczenie podróżne;туристичне страхування;n;travel
+mapa;карта;f;travel
+przewodnik;путівник;m;travel
+ładowarka;зарядний пристрій;f;travel
+adapter;адаптер;m;travel
+aparat fotograficzny;фотоапарат;m;travel
+telefon komórkowy;мобільний телефон;m;travel
+słuchawki;навушники;pl;travel
+okulary przeciwsłoneczne;сонцезахисні окуляри;pl;travel
+parasol;парасолька;m;travel
+apteczka;аптечка;f;travel
+lek;ліки;m;travel
+pieniądze;гроші;pl;travel
+karta kredytowa;кредитна картка;f;travel
+kłódka;замок;f;travel
+kosmetyczka;косметичка;f;travel
+szczoteczka do zębów;зубна щітка;f;travel
+pasta do zębów;зубна паста;f;travel
+szampon;шампунь;m;travel
+mydło;мило;n;travel
+maszynka do golenia;бритва;f;travel
+ręcznik;рушник;m;travel
+strój kąpielowy;купальний костюм;m;travel
+klapki;шльопанці;pl;travel
+sandał;сандалі;m;travel
+but;черевик;m;travel
+skarpetka;шкарпетка;f;travel
+koszula;сорочка;f;travel
+spodnie;штани;pl;travel
+sukienka;сукня;f;travel
+kurtka;куртка;f;travel
+sweter;светр;m;travel
+bielizna;білизна;f;travel
+piżama;піжама;f;travel
+szorty;шорти;pl;travel
+czapka;шапка;f;travel
+szalik;шарф;m;travel
+rękawiczka;рукавичка;f;travel

@@ -1,0 +1,199 @@
+centre;центр;m;places
+square;площа;f;places
+street;вулиця;f;places
+avenue;проспект;m;places
+boulevard;бульвар;m;places
+alley;провулок;m;places
+bridge;міст;m;places
+embankment;набережна;f;places
+park;парк;m;places
+garden;сад;m;places
+public garden;сквер;m;places
+market;ринок;m;places
+supermarket;супермаркет;m;places
+shop;магазин;m;places
+shopping centre;торговий центр;m;places
+restaurant;ресторан;m;places
+cafe;кафе;n;places
+bar;бар;m;places
+pub;паб;m;places
+nightclub;нічний клуб;m;places
+cinema;кінотеатр;m;places
+theatre;театр;m;places
+museum;музей;m;places
+gallery;галерея;f;places
+library;бібліотека;f;places
+hospital;лікарня;f;places
+pharmacy;аптека;f;places
+police station;поліцейський відділок;m;places
+fire station;пожежна частина;f;places
+post office;пошта;f;places
+bank;банк;m;places
+hotel;готель;m;places
+hostel;хостел;m;places
+train station;вокзал;m;places
+bus station;автовокзал;m;places
+bus stop;автобусна зупинка;f;places
+tram stop;трамвайна зупинка;f;places
+metro;метро;n;places
+airport;аеропорт;m;places
+port;порт;m;places
+church;церква;f;places
+cathedral;собор;m;places
+mosque;мечеть;f;places
+synagogue;синагога;f;places
+temple;храм;m;places
+school;школа;f;places
+university;університет;m;places
+college;коледж;m;places
+office;офіс;m;places
+stadium;стадіон;m;places
+countryside;сільська місцевість;f;places
+farm;ферма;f;places
+field;поле;n;places
+meadow;луг;m;places
+forest;ліс;m;places
+wood;гай;m;places
+hill;пагорб;m;places
+mountain;гора;f;places
+valley;долина;f;places
+river;річка;f;places
+lake;озеро;n;places
+pond;ставок;m;places
+stream;струмок;m;places
+waterfall;водоспад;m;places
+cliff;скеля;f;places
+cave;печера;f;places
+path;доріжка;f;places
+trail;стежка;f;places
+lane;провулок;m;places
+village;село;n;places
+hamlet;хутір;m;places
+farmhouse;садиба;f;places
+barn;сарай;m;places
+stable;стайня;f;places
+shed;навіс;m;places
+pasture;пасовище;n;places
+orchard;фруктовий сад;m;places
+vineyard;виноградник;m;places
+garden;сад;m;places
+greenhouse;теплиця;f;places
+paddock;загін;m;places
+pen;загорода;f;places
+heath;пустище;n;places
+moor;торфовище;n;places
+marsh;болото;n;places
+swamp;трясовина;f;places
+bog;драговина;f;places
+grassland;лука;f;places
+prairie;прерія;f;places
+thicket;хаща;f;places
+clearing;галявина;f;places
+edge of forest;узлісся;n;places
+lookout;оглядовий майданчик;m;places
+campsite;кемпінг;m;places
+farmyard;подвір'я;n;places
+watermill;водяний млин;m;places
+windmill;вітряк;m;places
+bridge;міст;m;places
+gate;ворота;pl;places
+stile;перелаз;m;places
+mountain;гора;f;places
+river;річка;f;places
+lake;озеро;n;places
+sea;море;n;places
+ocean;океан;m;places
+desert;пустеля;f;places
+forest;ліс;m;places
+valley;долина;f;places
+hill;пагорб;m;places
+island;острів;m;places
+peninsula;півострів;m;places
+continent;континент;m;places
+country;країна;f;places
+city;місто;n;places
+village;село;n;places
+capital;столиця;f;places
+coast;узбережжя;n;places
+beach;пляж;m;places
+cliff;скеля;f;places
+cave;печера;f;places
+waterfall;водоспад;m;places
+volcano;вулкан;m;places
+glacier;льодовик;m;places
+jungle;джунглі;pl;places
+swamp;болото;n;places
+plain;рівнина;f;places
+plateau;плато;n;places
+canyon;каньйон;m;places
+bay;затока;f;places
+strait;протока;f;places
+archipelago;архіпелаг;m;places
+reef;риф;m;places
+atoll;атол;m;places
+stream;струмок;m;places
+field;поле;n;places
+meadow;лука;f;places
+farm;ферма;f;places
+landscape;ландшафт;m;places
+terrain;місцевість;f;places
+region;область;f;places
+border;кордон;m;places
+boundary;межа;f;places
+map;карта;f;places
+globe;глобус;m;places
+hemisphere;півкуля;f;places
+equator;екватор;m;places
+pole;полюс;m;places
+latitude;широта;f;places
+longitude;довгота;f;places
+street;вулиця;f;places
+road;дорога;f;places
+avenue;проспект;m;places
+square;площа;f;places
+corner;кут;m;places
+intersection;перехрестя;n;places
+traffic light;світлофор;m;places
+roundabout;кільце;n;places
+bridge;міст;m;places
+tunnel;тунель;m;places
+underpass;підземний перехід;m;places
+pedestrian crossing;пішохідний перехід;m;places
+pavement;тротуар;m;places
+bus stop;автобусна зупинка;f;places
+taxi rank;стоянка таксі;f;places
+railway station;вокзал;m;places
+metro station;станція метро;f;places
+airport;аеропорт;m;places
+port;порт;m;places
+harbour;гавань;f;places
+city centre;центр міста;m;places
+district;район;m;places
+neighbourhood;мікрорайон;m;places
+block;квартал;m;places
+park;парк;m;places
+market;ринок;m;places
+supermarket;супермаркет;m;places
+pharmacy;аптека;f;places
+hospital;лікарня;f;places
+police station;поліцейський відділок;m;places
+post office;пошта;f;places
+bank;банк;m;places
+hotel;готель;m;places
+restaurant;ресторан;m;places
+café;кафе;n;places
+cinema;кінотеатр;m;places
+theatre;театр;m;places
+museum;музей;m;places
+church;церква;f;places
+cathedral;собор;m;places
+castle;замок;m;places
+monument;пам'ятник;m;places
+fountain;фонтан;m;places
+car park;автостоянка;f;places
+petrol station;заправка;f;places
+direction;напрямок;m;places
+map;карта;f;places
+road sign;дорожній знак;m;places
+embankment;набережна;f;places
+tourist information centre;туристичний центр;m;places

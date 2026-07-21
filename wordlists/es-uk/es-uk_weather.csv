@@ -1,50 +1,200 @@
-el tiempo;погода;;weather
-el clima;клімат;;weather
-el sol;сонце;;weather
-la lluvia;дощ;;weather
-la nieve;сніг;;weather
-el viento;вітер;;weather
+la primavera;весна;las primaveras;weather
+el verano;літо;los veranos;weather
+el otoño;осінь;los otoños;weather
+el invierno;зима;los inviernos;weather
+la estación;пора року;las estaciones;weather
+la estación seca;сухий сезон;las estaciones secas;weather
+la estación lluviosa;сезон дощів;las estaciones lluviosas;weather
+el clima;клімат;los climas;weather
+el tiempo;погода;los tiempos;weather
+la temperatura;температура;las temperaturas;weather
+el grado;градус;los grados;weather
+el calor;спека;los calores;weather
+el frío;холод;los fríos;weather
+el viento;вітер;los vientos;weather
+la brisa;бриз;las brisas;weather
+la nube;хмара;las nubes;weather
 la tormenta;буря;las tormentas;weather
+la lluvia;дощ;las lluvias;weather
+la nieve;сніг;las nieves;weather
+el granizo;град;los granizos;weather
+la aguanieve;мокрий сніг;las aguanieves;weather
+el aguacero;злива;los aguaceros;weather
+la nevada;снігопад;las nevadas;weather
 el huracán;ураган;los huracanes;weather
 el tornado;торнадо;los tornados;weather
-la niebla;туман;;weather
-el granizo;град;;weather
-el arcoíris;веселка;los arcoíris;weather
-la nube;хмара;las nubes;weather
-el cielo;небо;;weather
-la temperatura;температура;;weather
-el calor;спека;;weather
-el frío;холод;;weather
-la humedad;вологість;;weather
-la presión;тиск;;weather
-el pronóstico;прогноз;los pronósticos;weather
-el termómetro;термометр;los termómetros;weather
-el barómetro;барометр;los barómetros;weather
-el anemómetro;анемометр;los anemómetros;weather
-el relámpago;блискавка;los relámpagos;weather
-el trueno;грім;los truenos;weather
 la inundación;повінь;las inundaciones;weather
 la sequía;посуха;las sequías;weather
-el hielo;лід;;weather
-la escarcha;іній;;weather
-la brisa;бриз;las brisas;weather
-el chaparrón;злива;los chaparrones;weather
-el rocío;роса;;weather
-el amanecer;світанок;los amaneceres;weather
-el atardecer;захід сонця;los atardeceres;weather
-la neblina;імла;;weather
-el smog;смог;;weather
-la ola de calor;спекотна хвиля;las olas de calor;weather
-la ola de frío;холодна хвиля;las olas de frío;weather
-el monzón;мусон;los monzones;weather
-el frente;фронт;los frentes;weather
-la precipitación;опади;;weather
+la ola de calor;хвиля спеки;las olas de calor;weather
+la ola de frío;хвиля холоду;las olas de frío;weather
+el cambio climático;зміна клімату;los cambios climáticos;weather
+el calentamiento global;глобальне потепління;los calentamientos globales;weather
+el pronóstico del tiempo;прогноз погоди;los pronósticos del tiempo;weather
+el boletín meteorológico;метеорологічний бюлетень;los boletines meteorológicos;weather
+soleado;сонячний;;weather
+nublado;хмарний;;weather
+lluvioso;дощовий;;weather
+ventoso;вітряний;;weather
+tormentoso;буремний;;weather
+húmedo;вологий;;weather
+seco;сухий;;weather
+cálido;теплий;;weather
+fresco;прохолодний;;weather
+frío;холодний;;weather
+caluroso;спекотний;;weather
+apacible;м'який;;weather
+despejado;ясний;;weather
+cubierto;похмурий;;weather
+nevar;сніжити;;weather
+llover;дощити;;weather
+hielo;лід;los hielos;weather
+el pronóstico;прогноз;los pronósticos;weather
+la previsión;прогноз;las previsiones;weather
+el tiempo;погода;;weather
+la temperatura;температура;las temperaturas;weather
+el grado;градус;los grados;weather
+el viento;вітер;los vientos;weather
+la lluvia;дощ;las lluvias;weather
+la nieve;сніг;las nieves;weather
+el granizo;град;los granizos;weather
+la tormenta;буря;las tormentas;weather
+el trueno;грім;los truenos;weather
+el relámpago;блискавка;los relámpagos;weather
+el rayo;блискавка;los rayos;weather
+la niebla;туман;las nieblas;weather
+la neblina;імла;las neblinas;weather
 el chubasco;злива;los chubascos;weather
-el ventarrón;сильний вітер;los ventarrones;weather
-la helada;заморозок;las heladas;weather
-el bochorno;духота;;weather
-la canícula;спека;las canículas;weather
-el anticiclón;антициклон;los anticiclones;weather
+la precipitación;опади;las precipitaciones;weather
+la humedad;вологість;las humedades;weather
+la presión;тиск;las presiones;weather
+la probabilidad;ймовірність;las probabilidades;weather
+el aviso;попередження;los avisos;weather
+la alerta;тривога;las alertas;weather
+el frente;фронт;los frentes;weather
 la borrasca;циклон;las borrascas;weather
-el meteoro;метеор;;weather
-la aurora;аврора;las auroras;weather
+el anticiclón;антициклон;los anticiclones;weather
+la brisa;бриз;las brisas;weather
+el huracán;ураган;los huracanes;weather
+el tornado;торнадо;los tornados;weather
+la helada;мороз;las heladas;weather
+el deshielo;відлига;;weather
+el termómetro;термометр;los termómetros;weather
+el barómetro;барометр;los barómetros;weather
+el meteorólogo;метеоролог;los meteorólogos;weather
+la predicción;прогноз;las predicciones;weather
+el pronosticador;синоптик;los pronosticadores;weather
+la máxima;максимальна температура;las máximas;weather
+la mínima;мінімальна температура;las mínimas;weather
+la sensación térmica;відчутна температура;las sensaciones térmicas;weather
+la racha;порив;las rachas;weather
+la ráfaga;порив;las ráfagas;weather
+el aguacero;злива;los aguaceros;weather
+la tormenta eléctrica;гроза;las tormentas eléctricas;weather
+la ola de calor;хвиля спеки;las olas de calor;weather
+la ola de frío;хвиля холоду;las olas de frío;weather
+el fenómeno meteorológico;метеорологічне явище;los fenómenos meteorológicos;weather
+el parte meteorológico;метеозведення;los partes meteorológicos;weather
+cubierto;похмурий;cubiertos;weather
+nublado;хмарний;nublados;weather
+despejado;ясний;despejados;weather
+lluvioso;дощовий;lluviosos;weather
+la tormenta;буря;las tormentas;weather
+el huracán;ураган;los huracanes;weather
+la inundación;повінь;las inundaciones;weather
+el terremoto;землетрус;los terremotos;weather
+la sequía;посуха;las sequías;weather
+el tornado;торнадо;los tornados;weather
+la avalancha;лавина;las avalanchas;weather
+el deslizamiento de tierra;зсув ґрунту;los deslizamientos de tierra;weather
+el tsunami;цунамі;los tsunamis;weather
+el volcán;вулкан;los volcanes;weather
+la erupción volcánica;виверження вулкана;las erupciones volcánicas;weather
+el incendio forestal;лісова пожежа;los incendios forestales;weather
+la tormenta de arena;піщана буря;las tormentas de arena;weather
+el granizo;град;los granizos;weather
+la granizada;град;las granizadas;weather
+la nieve;сніг;;weather
+el viento;вітер;los vientos;weather
+la lluvia;дощ;las lluvias;weather
+el relámpago;блискавка;los relámpagos;weather
+el trueno;грім;los truenos;weather
+el rayo;блискавка;los rayos;weather
+la tormenta eléctrica;гроза;las tormentas eléctricas;weather
+el ciclón;циклон;los ciclones;weather
+la tempestad;буря;las tempestades;weather
+el tifón;тайфун;los tifones;weather
+la tromba marina;водяний смерч;las trombas marinas;weather
+el vendaval;штормовий вітер;los vendavales;weather
+la tormenta de nieve;снігова буря;las tormentas de nieve;weather
+el alud;лавина;los aludes;weather
+la ola de calor;теплова хвиля;las olas de calor;weather
+la ola de frío;холодна хвиля;las olas de frío;weather
+la nevasca;завірюха;las nevascas;weather
+el desbordamiento;розлив;los desbordamientos;weather
+la riada;паводок;las riadas;weather
+la tormenta tropical;тропічний шторм;las tormentas tropicales;weather
+el monzón;мусон;los monzones;weather
+la helada;заморозок;las heladas;weather
+el aluvión;злива;los aluviones;weather
+la ventisca;хуртовина;las ventiscas;weather
+la llovizna;мряка;las lloviznas;weather
+la niebla;туман;las nieblas;weather
+el aguacero;злива;los aguaceros;weather
+el chubasco;зливовий дощ;los chubascos;weather
+la tormenta de polvo;пилова буря;las tormentas de polvo;weather
+el maremoto;морський землетрус;los maremotos;weather
+la inundación repentina;раптова повінь;las inundaciones repentinas;weather
+la erupción;виверження;las erupciones;weather
+la lava;лава;;weather
+la ceniza volcánica;вулканічний попіл;las cenizas volcánicas;weather
+el flujo de lodo;селевий потік;los flujos de lodo;weather
+temperatura;температура;temperaturas;weather
+grado;градус;grados;weather
+termómetro;термометр;termómetros;weather
+calor;спека;calores;weather
+frío;холод;fríos;weather
+ola de calor;теплова хвиля;olas de calor;weather
+helada;заморозки;heladas;weather
+hielo;лід;hielos;weather
+deshielo;відлига;deshielos;weather
+bochorno;задуха;bochornos;weather
+humedad;вологість;humedades;weather
+sequía;посуха;sequías;weather
+lluvia;дощ;lluvias;weather
+llovizna;мряка;lloviznas;weather
+chubasco;злива;chubascos;weather
+tormenta;буря;tormentas;weather
+relámpago;блискавка;relámpagos;weather
+trueno;грім;truenos;weather
+rayo;блискавка;rayos;weather
+granizo;град;granizos;weather
+aguanieve;мокрий сніг;aguanieves;weather
+nieve;сніг;nieves;weather
+ventisca;завірюха;ventiscas;weather
+viento;вітер;vientos;weather
+brisa;бриз;brisas;weather
+vendaval;штормовий вітер;vendavales;weather
+huracán;ураган;huracanes;weather
+tornado;торнадо;tornados;weather
+ciclón;циклон;ciclones;weather
+inundación;повінь;inundaciones;weather
+nube;хмара;nubes;weather
+niebla;туман;nieblas;weather
+neblina;імла;neblinas;weather
+sol;сонце;soles;weather
+cielo;небо;cielos;weather
+arcoíris;веселка;arcoíris;weather
+clima;клімат;climas;weather
+tiempo;погода;tiempos;weather
+pronóstico;прогноз;pronósticos;weather
+sensación térmica;відчуття температури;sensaciones térmicas;weather
+soleado;сонячний;;weather
+nublado;хмарний;;weather
+lluvioso;дощовий;;weather
+nevado;сніжний;;weather
+ventoso;вітряний;;weather
+tormentoso;бурхливий;;weather
+húmedo;вологий;;weather
+seco;сухий;;weather
+caluroso;спекотний;;weather
+fresco;прохолодний;;weather

@@ -1,66 +1,199 @@
+la cabeza;голова;las cabezas;health
+la cara;обличчя;las caras;health
+la frente;лоб;las frentes;health
+la ceja;брова;las cejas;health
+el párpado;повіка;los párpados;health
+la pestaña;вія;las pestañas;health
+el ojo;око;los ojos;health
+la nariz;ніс;las narices;health
+la mejilla;щока;las mejillas;health
+la boca;рот;las bocas;health
+el labio;губа;los labios;health
+el diente;зуб;los dientes;health
+la lengua;язик;las lenguas;health
+la barbilla;підборіддя;las barbillas;health
+la oreja;вухо;las orejas;health
+la sien;скроня;las sienes;health
+la nuca;потилиця;las nucas;health
+el cuello;шия;los cuellos;health
+el hombro;плече;los hombros;health
+el brazo;рука;los brazos;health
+el codo;лікоть;los codos;health
+la muñeca;зап'ястя;las muñecas;health
+la mano;рука;las manos;health
+el dedo;палець;los dedos;health
+el pulgar;великий палець;los pulgares;health
+la uña;ніготь;las uñas;health
+la axila;пахва;las axilas;health
+el pecho;груди;los pechos;health
+la espalda;спина;las espaldas;health
+el estómago;живіт;los estómagos;health
+la cintura;талія;las cinturas;health
+la cadera;стегно;las caderas;health
+el ombligo;пупок;los ombligos;health
+el trasero;сідниці;los traseros;health
+la pierna;нога;las piernas;health
+el muslo;стегно;los muslos;health
+la rodilla;коліно;las rodillas;health
+la pantorrilla;литка;las pantorrillas;health
+el gemelo;литка;los gemelos;health
+la espinilla;гомілка;las espinillas;health
+el tobillo;щиколотка;los tobillos;health
+el pie;стопа;los pies;health
+la planta del pie;підошва;las plantas de los pies;health
+el dedo del pie;палець ноги;los dedos del pie;health
+el talón;п'ята;los talones;health
+la piel;шкіра;las pieles;health
+el hueso;кістка;los huesos;health
+el músculo;м'яз;los músculos;health
+el corazón;серце;los corazones;health
+el cerebro;мозок;los cerebros;health
+la gripe;грип;las gripes;health
+el resfriado;застуда;los resfriados;health
+la tos;кашель;las toses;health
+la fiebre;лихоманка;las fiebres;health
+el dolor de cabeza;головний біль;los dolores de cabeza;health
+el dolor de estómago;біль у животі;los dolores de estómago;health
+la náusea;нудота;las náuseas;health
+el vómito;блювота;los vómitos;health
+la diarrea;діарея;las diarreas;health
+la alergia;алергія;las alergias;health
+la infección;інфекція;las infecciones;health
+la herida;рана;las heridas;health
+la fractura;перелом;las fracturas;health
+el mareo;запаморочення;los mareos;health
+el cansancio;втома;;health
+el estornudo;чхання;los estornudos;health
+la picazón;свербіж;las picazones;health
+la erupción;висип;las erupciones;health
+la inflamación;запалення;las inflamaciones;health
+la hinchazón;набряк;las hinchazones;health
+la ampolla;пухир;las ampollas;health
+la quemadura;опік;las quemaduras;health
+la insolación;сонячний удар;las insolaciones;health
+la intoxicación;отруєння;las intoxicaciones;health
+la indigestión;нетравлення;las indigestiones;health
+la acidez;печія;;health
+el estreñimiento;запор;;health
+la migraña;мігрень;las migrañas;health
+la conjuntivitis;кон'юнктивіт;las conjuntivitis;health
+la otitis;отит;las otitis;health
+la bronquitis;бронхіт;las bronquitis;health
+la neumonía;пневмонія;las neumonías;health
+la apendicitis;апендицит;las apendicitis;health
+la hepatitis;гепатит;las hepatitis;health
+la diabetes;діабет;las diabetes;health
+la hipertensión;гіпертонія;las hipertensiones;health
+la anemia;анемія;las anemias;health
+la varicela;вітрянка;;health
+el sarampión;кір;;health
+las paperas;свинка;las paperas;health
+la rubéola;краснуха;las rubéolas;health
+el tétanos;правець;los tétanos;health
+la tuberculosis;туберкульоз;las tuberculosis;health
+la malaria;малярія;las malarias;health
+el cáncer;рак;los cánceres;health
+la depresión;депресія;las depresiones;health
+la ansiedad;тривожність;las ansiedades;health
+el estrés;стрес;los estreses;health
+toser;кашляти;;health
+estornudar;чхати;;health
+el médico;лікар;los médicos;health
+el paciente;пацієнт;los pacientes;health
+la paciente;пацієнтка;las pacientes;health
+la consulta;консультація;las consultas;health
+el hospital;лікарня;los hospitales;health
+la farmacia;аптека;las farmacias;health
+el farmacéutico;фармацевт;los farmacéuticos;health
+la receta;рецепт;las recetas;health
+el medicamento;ліки;los medicamentos;health
+la pastilla;таблетка;las pastillas;health
+el jarabe;сироп;los jarabes;health
+la inyección;ін'єкція;las inyecciones;health
+la vacuna;вакцина;las vacunas;health
+el antibiótico;антибіотик;los antibióticos;health
+el analgésico;знеболювальне;los analgésicos;health
+el termómetro;термометр;los termómetros;health
+la tirita;пластир;las tiritas;health
+la venda;бинт;las vendas;health
+la cita;запис на прийом;las citas;health
+el síntoma;симптом;los síntomas;health
+el dolor;біль;los dolores;health
+la fiebre;гарячка;;health
+la tos;кашель;;health
+el resfriado;застуда;los resfriados;health
+la gripe;грип;;health
+la alergia;алергія;las alergias;health
+la diarrea;діарея;;health
+el vómito;блювання;los vómitos;health
+la herida;рана;las heridas;health
+la fractura;перелом;las fracturas;health
+el esguince;розтягнення;los esguinces;health
+el mareo;запаморочення;los mareos;health
+la náusea;нудота;las náuseas;health
+la ambulancia;швидка допомога;las ambulancias;health
+el seguro médico;медичне страхування;los seguros médicos;health
+el enfermero;медбрат;los enfermeros;health
+la enfermera;медсестра;las enfermeras;health
+el quirófano;операційна;los quirófanos;health
+la radiografía;рентген;las radiografías;health
+el análisis de sangre;аналіз крові;los análisis de sangre;health
+la tensión arterial;артеріальний тиск;las tensiones arteriales;health
+el tratamiento;лікування;los tratamientos;health
+el pronóstico;прогноз;los pronósticos;health
+la muestra;зразок;las muestras;health
+recetar;виписувати;;health
+examinar;оглядати;;health
+curar;лікувати;;health
+doler;боліти;;health
+vendar;бинтувати;;health
 salud;здоров'я;;health
-enfermedad;хвороба;enfermedades;health
-médico;лікар;médicos;health
-doctor;доктор;doctores;health
-hospital;лікарня;hospitales;health
-clínica;клініка;clínicas;health
-farmacia;аптека;farmacias;health
-medicina;ліки;medicinas;health
-pastilla;таблетка;pastillas;health
-jarabe;сироп;jarabes;health
-inyección;ін'єкція;inyecciones;health
-vacuna;вакцина;vacunas;health
-sangre;кров;;health
-corazón;серце;corazones;health
-pulmón;легеня;pulmones;health
-hígado;печінка;hígados;health
-estómago;шлунок;estómagos;health
-dolor;біль;dolores;health
-fiebre;гарячка;;health
-tos;кашель;;health
-gripe;грип;;health
-resfriado;застуда;resfriados;health
-infección;інфекція;infecciones;health
-herida;рана;heridas;health
-quemadura;опік;quemaduras;health
-fractura;перелом;fracturas;health
-cirugía;хірургія;cirugías;health
-operación;операція;operaciones;health
-diagnóstico;діагноз;diagnósticos;health
-síntoma;симптом;síntomas;health
-tratamiento;лікування;tratamientos;health
-terapia;терапія;terapias;health
-nutrición;харчування;;health
-dieta;дієта;dietas;health
+bienestar;благополуччя;;health
 ejercicio;вправа;ejercicios;health
-deporte;спорт;;health
-descanso;відпочинок;;health
-sueño;сон;;health
-estrés;стрес;;health
-ansiedad;тривога;;health
-depresión;депресія;;health
-obesidad;ожиріння;;health
-diabetes;діабет;;health
-hipertensión;гіпертонія;;health
-colesterol;холестерин;;health
-presión;тиск;;health
-pulso;пульс;;health
-respiración;дихання;;health
-oxígeno;кисень;;health
-hidratación;зволоження;;health
-agua;вода;;health
+deporte;спорт;deportes;health
+gimnasio;спортзал;gimnasios;health
+entrenamiento;тренування;entrenamientos;health
+caminar;ходити пішки;;health
+correr;бігати;;health
+nadar;плавати;;health
+bicicleta;велосипед;bicicletas;health
+yoga;йога;;health
+meditación;медитація;meditaciones;health
+alimentación;харчування;;health
+dieta;дієта;dietas;health
+nutrición;живлення;;health
+fruta;фрукт;frutas;health
+verdura;овоч;verduras;health
+ensalada;салат;ensaladas;health
+agua;вода;aguas;health
+hidratación;гідратація;;health
+proteína;білок;proteínas;health
+carbohidrato;вуглевод;carbohidratos;health
+grasa;жир;grasas;health
+azúcar;цукор;azúcares;health
+fibra;клітковина;fibras;health
 vitamina;вітамін;vitaminas;health
 mineral;мінерал;minerales;health
-proteína;білок;proteínas;health
-grasa;жир;grasas;health
-carbohidrato;вуглевод;carbohidratos;health
-alergia;алергія;alergias;health
-asma;астма;;health
-cáncer;рак;;health
-virus;вірус;virus;health
-bacteria;бактерія;bacterias;health
-higiene;гігієна;;health
-limpieza;чистота;;health
-sanidad;санітарія;;health
-prevención;профілактика;;health
-urgencia;термінова допомога;urgencias;health
+comida;їжа;comidas;health
+desayuno;сніданок;desayunos;health
+almuerzo;обід;almuerzos;health
+cena;вечеря;cenas;health
+merienda;перекус;meriendas;health
+hábito;звичка;hábitos;health
+sueño;сон;;health
+descanso;відпочинок;descansos;health
+estrés;стрес;;health
+relajación;релаксація;;health
+respiración;дихання;;health
+peso;вага;pesos;health
+altura;зріст;alturas;health
+músculo;м'яз;músculos;health
+hueso;кістка;huesos;health
+corazón;серце;corazones;health
+pulmón;легеня;pulmones;health
+piel;шкіра;;health
+saludable;здоровий;saludables;health
+sano;здоровий;sanos;health
+fuerte;сильний;fuertes;health
+activo;активний;activos;health
+beber;пити;;health

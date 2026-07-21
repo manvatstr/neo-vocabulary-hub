@@ -1,0 +1,200 @@
+pokój;кімната;m;house_and_home
+kuchnia;кухня;f;house_and_home
+łazienka;ванна кімната;f;house_and_home
+sypialnia;спальня;f;house_and_home
+salon;вітальня;m;house_and_home
+przedpokój;передпокій;m;house_and_home
+jadalnia;їдальня;f;house_and_home
+piwnica;підвал;f;house_and_home
+strych;горище;m;house_and_home
+schody;сходи;pl;house_and_home
+korytarz;коридор;m;house_and_home
+garderoba;гардеробна;f;house_and_home
+balkon;балкон;m;house_and_home
+taras;тераса;m;house_and_home
+okno;вікно;n;house_and_home
+drzwi;двері;pl;house_and_home
+stół;стіл;m;house_and_home
+krzesło;стілець;n;house_and_home
+szafa;шафа;f;house_and_home
+łóżko;ліжко;n;house_and_home
+kanapa;канапа;f;house_and_home
+fotel;крісло;m;house_and_home
+półka;полиця;f;house_and_home
+szafka;шафка;f;house_and_home
+biurko;письмовий стіл;n;house_and_home
+komoda;комод;f;house_and_home
+lustro;дзеркало;n;house_and_home
+dywan;килим;m;house_and_home
+lampa;лампа;f;house_and_home
+zasłona;штора;f;house_and_home
+obraz;картина;m;house_and_home
+regał;стелаж;m;house_and_home
+stolik;столик;m;house_and_home
+toaletka;туалетний столик;f;house_and_home
+materac;матрац;m;house_and_home
+poduszka;подушка;f;house_and_home
+kołdra;ковдра;f;house_and_home
+prześcieradło;простирадло;n;house_and_home
+koc;плед;m;house_and_home
+umywalka;умивальник;f;house_and_home
+wanna;ванна;f;house_and_home
+prysznic;душ;m;house_and_home
+toaleta;туалет;f;house_and_home
+sedes;унітаз;m;house_and_home
+kran;кран;m;house_and_home
+zlew;раковина;m;house_and_home
+kuchenka;плита;f;house_and_home
+piekarnik;духовка;m;house_and_home
+lodówka;холодильник;f;house_and_home
+pralka;пральна машина;f;house_and_home
+sprzątać;прибирати;;house_and_home
+odkurzać;пилососити;;house_and_home
+zamiatać;підмітати;;house_and_home
+myć;мити;;house_and_home
+prać;прати;;house_and_home
+prasować;прасувати;;house_and_home
+ścierać kurz;витирати пил;;house_and_home
+polerować;полірувати;;house_and_home
+szorować;відтирати;;house_and_home
+czyścić;чистити;;house_and_home
+naprawiać;ремонтувати;;house_and_home
+malować;фарбувати;;house_and_home
+wieszać pranie;вішати білизну;;house_and_home
+składać ubrania;складати одяг;;house_and_home
+wyrzucać śmieci;викидати сміття;;house_and_home
+segregować śmieci;сортувати сміття;;house_and_home
+podlewać kwiaty;поливати квіти;;house_and_home
+kosić trawnik;косити траву;;house_and_home
+odśnieżać;розчищати сніг;;house_and_home
+trzepać dywan;вибивати килим;;house_and_home
+pastować podłogę;натирати підлогу;;house_and_home
+wymieniać żarówkę;міняти лампочку;;house_and_home
+odetkać zlew;прочищати раковину;;house_and_home
+wymieniać baterie;міняти батарейки;;house_and_home
+naprawiać kran;ремонтувати кран;;house_and_home
+smarować zawiasy;змащувати петлі;;house_and_home
+konserwować;обслуговувати;;house_and_home
+wycierać;витирати;;house_and_home
+płukać;полоскати;;house_and_home
+suszyć;сушити;;house_and_home
+odkurzacz;пилосос;m;house_and_home
+mop;швабра;m;house_and_home
+wiadro;відро;n;house_and_home
+ścierka;ганчірка;f;house_and_home
+gąbka;губка;f;house_and_home
+detergent;мийний засіб;m;house_and_home
+proszek do prania;пральний порошок;m;house_and_home
+płyn do mycia naczyń;рідина для миття посуду;m;house_and_home
+płyn do podłóg;рідина для підлоги;m;house_and_home
+wybielacz;відбілювач;m;house_and_home
+rękawica gumowa;гумова рукавичка;f;house_and_home
+zmiotka;совок;f;house_and_home
+szczotka;щітка;f;house_and_home
+worek na śmieci;сміттєвий пакет;m;house_and_home
+odplamiacz;засіб для виведення плям;m;house_and_home
+zmywarka;посудомийна машина;f;house_and_home
+pralka;пральна машина;f;house_and_home
+suszarka;сушарка;f;house_and_home
+żelazko;праска;n;house_and_home
+deska do prasowania;прасувальна дошка;f;house_and_home
+mieszkanie;квартира;mieszkania;house_and_home
+dom;будинок;domy;house_and_home
+wynajem;оренда;;house_and_home
+zakup;купівля;zakupy;house_and_home
+sprzedaż;продаж;;house_and_home
+cena;ціна;ceny;house_and_home
+czynsz;квартплата;czynsze;house_and_home
+kaucja;застава;kaucje;house_and_home
+umowa;договір;umowy;house_and_home
+najemca;орендар;najemcy;house_and_home
+wynajmujący;орендодавець;wynajmujący;house_and_home
+właściciel;власник;właściciele;house_and_home
+klucz;ключ;klucze;house_and_home
+pokój;кімната;pokoje;house_and_home
+kuchnia;кухня;kuchnie;house_and_home
+łazienka;ванна кімната;łazienki;house_and_home
+sypialnia;спальня;sypialnie;house_and_home
+salon;вітальня;salony;house_and_home
+balkon;балкон;balkony;house_and_home
+ogród;сад;ogrody;house_and_home
+piwnica;підвал;piwnice;house_and_home
+strych;горище;strychy;house_and_home
+garaż;гараж;garaże;house_and_home
+miejsce parkingowe;паркомісце;miejsca parkingowe;house_and_home
+ogrzewanie;опалення;;house_and_home
+media;комунальні послуги;pl;house_and_home
+prąd;електрика;;house_and_home
+gaz;газ;;house_and_home
+woda;вода;;house_and_home
+agent nieruchomości;агент з нерухомості;agenci nieruchomości;house_and_home
+pośrednik;посередник;pośrednicy;house_and_home
+ogłoszenie;оголошення;ogłoszenia;house_and_home
+oglądać;оглядати;;house_and_home
+wynajmować;орендувати;;house_and_home
+kupować;купувати;;house_and_home
+sprzedawać;продавати;;house_and_home
+podpisywać;підписувати;;house_and_home
+opłata;плата;opłaty;house_and_home
+zaliczka;аванс;zaliczki;house_and_home
+zadatek;завдаток;zadatki;house_and_home
+hipoteka;іпотека;hipoteki;house_and_home
+kredyt hipoteczny;іпотечний кредит;kredyty hipoteczne;house_and_home
+rata;внесок;raty;house_and_home
+odsetki;відсотки;pl;house_and_home
+ubezpieczenie;страхування;ubezpieczenia;house_and_home
+remont;ремонт;remonty;house_and_home
+przeprowadzka;переїзд;przeprowadzki;house_and_home
+meble;меблі;pl;house_and_home
+wyposażenie;обладнання;;house_and_home
+opłata wspólnotowa;комунальний платіж;opłaty wspólnotowe;house_and_home
+ulica;вулиця;f;house_and_home
+dom;будинок;m;house_and_home
+mieszkanie;квартира;n;house_and_home
+osiedle;житловий масив;n;house_and_home
+dzielnica;район;f;house_and_home
+sąsiad;сусід;m;house_and_home
+sąsiadka;сусідка;f;house_and_home
+sklep;магазин;m;house_and_home
+supermarket;супермаркет;m;house_and_home
+apteka;аптека;f;house_and_home
+przychodnia;поліклініка;f;house_and_home
+szpital;лікарня;m;house_and_home
+kościół;костел;m;house_and_home
+szkoła;школа;f;house_and_home
+przedszkole;дитячий садок;n;house_and_home
+plac zabaw;дитячий майданчик;m;house_and_home
+park;парк;m;house_and_home
+ogród;сад;m;house_and_home
+skwer;сквер;m;house_and_home
+ławka;лавка;f;house_and_home
+fontanna;фонтан;f;house_and_home
+pomnik;пам'ятник;m;house_and_home
+przystanek;зупинка;m;house_and_home
+stacja benzynowa;автозаправка;f;house_and_home
+przystań;пристань;f;house_and_home
+most;міст;m;house_and_home
+rondo;кільце;n;house_and_home
+sygnalizacja świetlna;світлофор;f;house_and_home
+latarnia;ліхтар;f;house_and_home
+chodnik;тротуар;m;house_and_home
+ścieżka rowerowa;велодоріжка;f;house_and_home
+parking;парковка;m;house_and_home
+garaż;гараж;m;house_and_home
+plac;площа;m;house_and_home
+rynek;ринок;m;house_and_home
+urząd pocztowy;пошта;m;house_and_home
+bank;банк;m;house_and_home
+restauracja;ресторан;f;house_and_home
+kawiarnia;кав'ярня;f;house_and_home
+bar;бар;m;house_and_home
+fryzjer;перукарня;m;house_and_home
+piekarnia;пекарня;f;house_and_home
+sklep spożywczy;продуктовий магазин;m;house_and_home
+kiosk;кіоск;m;house_and_home
+kino;кінотеатр;n;house_and_home
+teatr;театр;m;house_and_home
+muzeum;музей;n;house_and_home
+biblioteka;бібліотека;f;house_and_home
+boisko;спортивний майданчик;n;house_and_home
+basen;басейн;m;house_and_home

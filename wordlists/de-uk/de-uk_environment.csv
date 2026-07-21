@@ -1,0 +1,199 @@
+die Umweltverschmutzung;забруднення довкілля;;environment
+die Luftverschmutzung;забруднення повітря;;environment
+der Müll;сміття;;environment
+der Abfall;відходи;die Abfälle;environment
+die Mülltonne;сміттєвий бак;die Mülltonnen;environment
+das Recycling;переробка;;environment
+der Plastikmüll;пластикове сміття;;environment
+die Plastiktüte;пластиковий пакет;die Plastiktüten;environment
+die Glasflasche;скляна пляшка;die Glasflaschen;environment
+die Aludose;алюмінієва банка;die Aludosen;environment
+das Pfand;застава;die Pfänder;environment
+der Müllberg;сміттєва гора;die Müllberge;environment
+die Deponie;звалище;die Deponien;environment
+der Sondermüll;небезпечні відходи;;environment
+die Verbrennungsanlage;сміттєспалювальний завод;die Verbrennungsanlagen;environment
+der Rauch;дим;;environment
+die Emission;викид;die Emissionen;environment
+das Abgas;вихлопний газ;die Abgase;environment
+der Treibhauseffekt;парниковий ефект;die Treibhauseffekte;environment
+die Ozonschicht;озоновий шар;;environment
+das Ozonloch;озонова діра;die Ozonlöcher;environment
+die Ressource;ресурс;die Ressourcen;environment
+der Rohstoff;сировина;die Rohstoffe;environment
+die Energieverschwendung;марнотратство енергії;;environment
+der Schadstoff;шкідлива речовина;die Schadstoffe;environment
+die Wiederverwertung;переробка;;environment
+die Verschmutzung;забруднення;die Verschmutzungen;environment
+die Reinigung;очищення;die Reinigungen;environment
+recyceln;переробляти;;environment
+trennen;сортувати;;environment
+vermeiden;уникати;;environment
+verschmutzen;забруднювати;;environment
+entsorgen;утилізувати;;environment
+kompostieren;компостувати;;environment
+einsparen;економити;;environment
+reduzieren;зменшувати;;environment
+wiederverwenden;повторно використовувати;;environment
+umweltfreundlich;екологічний;;environment
+schädlich;шкідливий;;environment
+giftig;отруйний;;environment
+biologisch abbaubar;біорозкладний;;environment
+nachhaltig;сталий;;environment
+wiederverwertbar;придатний для переробки;;environment
+energiesparend;енергоощадний;;environment
+umweltschädlich;шкідливий для довкілля;;environment
+der Müllsack;сміттєвий пакет;die Müllsäcke;environment
+die Wertstofftonne;контейнер для вторинної сировини;die Wertstofftonnen;environment
+der Kompost;компост;;environment
+die Mülltrennung;сортування сміття;die Mülltrennungen;environment
+der Pfandautomat;автомат для прийому тари;die Pfandautomaten;environment
+der Hund;собака;die Hunde;environment
+die Katze;кішка;die Katzen;environment
+der Fisch;риба;die Fische;environment
+der Vogel;птах;die Vögel;environment
+der Hamster;хом'як;die Hamster;environment
+das Meerschweinchen;морська свинка;die Meerschweinchen;environment
+das Kaninchen;кролик;die Kaninchen;environment
+das Pferd;кінь;die Pferde;environment
+die Kuh;корова;die Kühe;environment
+das Schaf;вівця;die Schafe;environment
+die Ziege;коза;die Ziegen;environment
+das Schwein;свиня;die Schweine;environment
+das Huhn;курка;die Hühner;environment
+die Ente;качка;die Enten;environment
+die Gans;гуска;die Gänse;environment
+der Truthahn;індик;die Truthähne;environment
+die Taube;голуб;die Tauben;environment
+der Papagei;папуга;die Papageien;environment
+der Wellensittich;хвилястий папуга;die Wellensittiche;environment
+die Maus;миша;die Mäuse;environment
+die Ratte;щур;die Ratten;environment
+das Frettchen;тхір;die Frettchen;environment
+die Eidechse;ящірка;die Eidechsen;environment
+die Schlange;змія;die Schlangen;environment
+die Schildkröte;черепаха;die Schildkröten;environment
+der Igel;їжак;die Igel;environment
+das Eichhörnchen;білка;die Eichhörnchen;environment
+der Fuchs;лисиця;die Füchse;environment
+der Wolf;вовк;die Wölfe;environment
+der Bär;ведмідь;die Bären;environment
+der Tiger;тигр;die Tiger;environment
+der Löwe;лев;die Löwen;environment
+der Elefant;слон;die Elefanten;environment
+die Giraffe;жираф;die Giraffen;environment
+der Affe;мавпа;die Affen;environment
+der Pinguin;пінгвін;die Pinguine;environment
+der Delfin;дельфін;die Delfine;environment
+der Wal;кит;die Wale;environment
+der Hai;акула;die Haie;environment
+die Robbe;тюлень;die Robben;environment
+das Krokodil;крокодил;die Krokodile;environment
+der Adler;орел;die Adler;environment
+der Falke;сокіл;die Falken;environment
+die Eule;сова;die Eulen;environment
+die Spinne;павук;die Spinnen;environment
+die Biene;бджола;die Bienen;environment
+die Ameise;мураха;die Ameisen;environment
+der Schmetterling;метелик;die Schmetterlinge;environment
+der Marienkäfer;сонечко;die Marienkäfer;environment
+die Möwe;чайка;die Möwen;environment
+der Baum;дерево;die Bäume;environment
+die Blume;квітка;die Blumen;environment
+die Pflanze;рослина;die Pflanzen;environment
+das Blatt;листок;die Blätter;environment
+die Wurzel;корінь;die Wurzeln;environment
+der Ast;гілка;die Äste;environment
+der Zweig;гілочка;die Zweige;environment
+der Stamm;стовбур;die Stämme;environment
+die Rinde;кора;die Rinden;environment
+die Knospe;брунька;die Knospen;environment
+die Blüte;цвіт;die Blüten;environment
+die Frucht;плід;die Früchte;environment
+der Samen;насіння;die Samen;environment
+der Keimling;паросток;die Keimlinge;environment
+der Sämling;саджанець;die Sämlinge;environment
+das Gras;трава;die Gräser;environment
+das Moos;мох;die Moose;environment
+der Farn;папороть;die Farne;environment
+der Pilz;гриб;die Pilze;environment
+die Tanne;ялиця;die Tannen;environment
+die Fichte;ялина;die Fichten;environment
+die Kiefer;сосна;die Kiefern;environment
+die Birke;береза;die Birken;environment
+die Eiche;дуб;die Eichen;environment
+die Buche;бук;die Buchen;environment
+die Linde;липа;die Linden;environment
+die Weide;верба;die Weiden;environment
+der Ahorn;клен;die Ahorne;environment
+die Palme;пальма;die Palmen;environment
+der Kaktus;кактус;die Kakteen;environment
+der Strauch;кущ;die Sträucher;environment
+die Hecke;живопліт;die Hecken;environment
+die Blütenpflanze;квіткова рослина;die Blütenpflanzen;environment
+das Kraut;трава;die Kräuter;environment
+die Staude;багаторічна рослина;die Stauden;environment
+die Kletterpflanze;витка рослина;die Kletterpflanzen;environment
+die Zierpflanze;декоративна рослина;die Zierpflanzen;environment
+die Zimmerpflanze;кімнатна рослина;die Zimmerpflanzen;environment
+der Busch;кущ;die Büsche;environment
+das Gehölz;деревна рослина;die Gehölze;environment
+das Laub;листя;;environment
+die Nadel;голка;die Nadeln;environment
+der Zapfen;шишка;die Zapfen;environment
+die Kastanie;каштан;die Kastanien;environment
+die Hasel;ліщина;die Haseln;environment
+der Holunder;бузина;die Holunder;environment
+der Flieder;бузок;die Flieder;environment
+die Rose;троянда;die Rosen;environment
+die Tulpe;тюльпан;die Tulpen;environment
+der Klimawandel;зміна клімату;;environment
+die globale Erwärmung;глобальне потепління;;environment
+der Treibhauseffekt;парниковий ефект;die Treibhauseffekte;environment
+das Treibhausgas;парниковий газ;die Treibhausgase;environment
+die CO2-Emission;викиди CO2;die CO2-Emissionen;environment
+das Kohlenstoffdioxid;вуглекислий газ;;environment
+die Umweltverschmutzung;забруднення довкілля;;environment
+die Luftverschmutzung;забруднення повітря;;environment
+die Wasserverschmutzung;забруднення води;;environment
+der Smog;смог;;environment
+das Ozonloch;озонова діра;die Ozonlöcher;environment
+die Ozonschicht;озоновий шар;;environment
+die Abholzung;вирубка лісів;;environment
+die Wüstenbildung;опустелювання;;environment
+die Dürre;посуха;die Dürren;environment
+die Überschwemmung;повінь;die Überschwemmungen;environment
+der Meeresspiegelanstieg;підвищення рівня моря;;environment
+der Gletscher;льодовик;die Gletscher;environment
+das Polareis;полярний лід;;environment
+die Polkappe;полярна шапка;die Polkappen;environment
+die Temperatur;температура;die Temperaturen;environment
+das Wetter;погода;;environment
+das Klima;клімат;die Klimata;environment
+die Klimazone;кліматичний пояс;die Klimazonen;environment
+der Wetterbericht;прогноз погоди;die Wetterberichte;environment
+die Vorhersage;прогноз;die Vorhersagen;environment
+die Naturkatastrophe;стихійне лихо;die Naturkatastrophen;environment
+der Hurrikan;ураган;die Hurrikane;environment
+der Tornado;торнадо;die Tornados;environment
+der Wirbelsturm;циклон;die Wirbelstürme;environment
+die Hitzewelle;спека;die Hitzewellen;environment
+der Waldbrand;лісова пожежа;die Waldbrände;environment
+der Artenschutz;захист видів;;environment
+die Biodiversität;біорізноманіття;;environment
+das Ökosystem;екосистема;die Ökosysteme;environment
+die erneuerbare Energie;відновлювана енергія;die erneuerbaren Energien;environment
+die Solarenergie;сонячна енергія;;environment
+die Windenergie;вітрова енергія;;environment
+die Wasserkraft;гідроенергія;;environment
+die Biomasse;біомаса;;environment
+die Energieeffizienz;енергоефективність;;environment
+die Nachhaltigkeit;сталий розвиток;;environment
+das Recycling;переробка;;environment
+die Mülltrennung;сортування сміття;;environment
+der Müll;сміття;;environment
+die Plastikverschmutzung;забруднення пластиком;;environment
+das Abgas;вихлопний газ;die Abgase;environment
+der Feinstaub;дрібнодисперсний пил;;environment
+das Elektroauto;електромобіль;die Elektroautos;environment
+der ökologische Fußabdruck;екологічний слід;die ökologischen Fußabdrücke;environment

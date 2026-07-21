@@ -1,0 +1,200 @@
+friendship;дружба;f;relationships
+friend (male);друг;m;relationships
+friend (female);подруга;f;relationships
+buddy;приятель;m;relationships
+pal;товариш;m;relationships
+acquaintance;знайомий;m;relationships
+classmate;однокласник;m;relationships
+colleague;колега;m;relationships
+partner;партнер;m;relationships
+companion;супутник;m;relationships
+trust;довіра;f;relationships
+loyalty;вірність;f;relationships
+support;підтримка;f;relationships
+understanding;розуміння;n;relationships
+respect;повага;f;relationships
+honesty;чесність;f;relationships
+kindness;доброта;f;relationships
+forgiveness;прощення;n;relationships
+advice;порада;f;relationships
+secret;таємниця;f;relationships
+promise;обіцянка;f;relationships
+argument;суперечка;f;relationships
+quarrel;сварка;f;relationships
+reconciliation;примирення;n;relationships
+apology;вибачення;n;relationships
+sympathy;співчуття;n;relationships
+empathy;емпатія;f;relationships
+bond;зв'язок;m;relationships
+relations;стосунки;pl;relationships
+gathering;зустріч;f;relationships
+party;вечірка;f;relationships
+celebration;святкування;n;relationships
+gift;подарунок;m;relationships
+memory;спогад;m;relationships
+loneliness;самотність;f;relationships
+jealousy;ревнощі;pl;relationships
+betrayal;зрада;f;relationships
+enemy;ворог;m;relationships
+rivalry;суперництво;n;relationships
+compromise;компроміс;m;relationships
+to trust;довіряти;;relationships
+to support;підтримувати;;relationships
+to forgive;прощати;;relationships
+to share;ділитися;;relationships
+to argue;сперечатися;;relationships
+to apologize;вибачатися;;relationships
+to care;піклуватися;;relationships
+loyal;вірний;m;relationships
+honest;чесний;m;relationships
+close;близький;m;relationships
+party;вечірка;f;relationships
+guest;гість;m;relationships
+host;господар;m;relationships
+invitation;запрошення;n;relationships
+celebrate;святкувати;;relationships
+dance;танець;m;relationships
+music;музика;f;relationships
+drink;напій;m;relationships
+toast;тост;m;relationships
+speech;промова;f;relationships
+gift;подарунок;m;relationships
+birthday;день народження;m;relationships
+anniversary;річниця;f;relationships
+wedding;весілля;n;relationships
+gathering;зустріч;f;relationships
+barbecue;барбекю;n;relationships
+picnic;пікнік;m;relationships
+cocktail;коктейль;m;relationships
+snack;закуска;f;relationships
+buffet;шведський стіл;m;relationships
+dress;сукня;f;relationships
+suit;костюм;m;relationships
+casual;повсякденний;;relationships
+formal;офіційний;;relationships
+fun;веселощі;pl;relationships
+enjoy;насолоджуватися;;relationships
+laugh;сміятися;;relationships
+talk;розмовляти;;relationships
+chat;балакати;;relationships
+mingle;спілкуватися;;relationships
+meet;зустрічати;;relationships
+greet;вітати;;relationships
+introduce;представляти;;relationships
+friendship;дружба;f;relationships
+relationship;стосунки;pl;relationships
+couple;пара;f;relationships
+date;побачення;n;relationships
+flirt;фліртувати;;relationships
+compliment;комплімент;m;relationships
+joke;жарт;m;relationships
+memory;спогад;m;relationships
+photo;фото;n;relationships
+camera;камера;f;relationships
+decoration;прикраса;f;relationships
+balloon;повітряна кулька;f;relationships
+confetti;конфеті;n;relationships
+streamers;серпантин;m;relationships
+cake;торт;m;relationships
+champagne;шампанське;n;relationships
+surprise;сюрприз;m;relationships
+argument;суперечка;f;relationships
+fight;бійка;f;relationships
+argue;сперечатися;;relationships
+conflict;конфлікт;m;relationships
+misunderstanding;непорозуміння;n;relationships
+complaint;скарга;f;relationships
+accusation;звинувачення;n;relationships
+blame;вина;f;relationships
+criticism;критика;f;relationships
+insult;образа;f;relationships
+anger;гнів;m;relationships
+yell;крик;m;relationships
+silence;мовчання;n;relationships
+ignorance;ігнорування;n;relationships
+confrontation;протистояння;n;relationships
+dispute;спір;m;relationships
+tension;напруга;f;relationships
+stress;стрес;m;relationships
+pressure;тиск;m;relationships
+problem;проблема;f;relationships
+issue;питання;n;relationships
+resolution;вирішення;n;relationships
+solution;рішення;n;relationships
+compromise;компроміс;m;relationships
+negotiations;переговори;pl;relationships
+mediator;посередник;m;relationships
+apology;вибачення;n;relationships
+forgiveness;прощення;n;relationships
+regret;жаль;m;relationships
+admission;визнання;n;relationships
+confession;зізнання;n;relationships
+fault;провина;f;relationships
+mistake;помилка;f;relationships
+reconciliation;примирення;n;relationships
+peace;мир;m;relationships
+quarrel;сварка;f;relationships
+complain;скаржитися;;relationships
+accuse;звинувачувати;;relationships
+blame;винити;;relationships
+criticize;критикувати;;relationships
+insult;ображати;;relationships
+yell;кричати;;relationships
+ignore;ігнорувати;;relationships
+avoid;уникати;;relationships
+confront;протистояти;;relationships
+negotiate;домовлятися;;relationships
+mediate;посередничати;;relationships
+apologize;вибачатися;;relationships
+forgive;прощати;;relationships
+make up;миритися;;relationships
+love;любов;f;relationships
+kiss;поцілунок;m;relationships
+date;побачення;n;relationships
+partner;партнер;m;relationships
+marriage;шлюб;m;relationships
+wedding;весілля;n;relationships
+divorce;розлучення;n;relationships
+break up;розрив;m;relationships
+relationship;стосунки;pl;relationships
+couple;пара;f;relationships
+flirt;флірт;m;relationships
+romance;романтика;f;relationships
+affection;ніжність;f;relationships
+attraction;потяг;m;relationships
+heart;серце;n;relationships
+commitment;зобов'язання;n;relationships
+trust;довіра;f;relationships
+jealousy;ревнощі;pl;relationships
+cheating;зрада;f;relationships
+engagement;заручини;pl;relationships
+fiancé;наречений;m;relationships
+fiancée;наречена;f;relationships
+honeymoon;медовий місяць;m;relationships
+valentine;валентинка;f;relationships
+to love;кохати;;relationships
+to date;зустрічатися;;relationships
+to flirt;фліртувати;;relationships
+to kiss;цілувати;;relationships
+to marry;одружитися;;relationships
+to break up;розлучатися;;relationships
+to fall in love;закохатися;;relationships
+romantic;романтичний;m;relationships
+affectionate;ніжний;m;relationships
+faithful;вірний;m;relationships
+jealous;ревнивий;m;relationships
+single;самотній;m;relationships
+married;одружений;m;relationships
+divorced;розлучений;m;relationships
+separation;розлука;f;relationships
+engaged;заручений;m;relationships
+lover;коханець;m;relationships
+mistress;коханка;f;relationships
+ex-boyfriend;екс-хлопець;m;relationships
+ex-girlfriend;екс-дівчина;f;relationships
+romance novel;роман;m;relationships
+love letter;любовний лист;m;relationships
+passion;пристрасть;f;relationships
+crush;симпатія;f;relationships
+quarrel;сварка;f;relationships
+compromise;компроміс;m;relationships

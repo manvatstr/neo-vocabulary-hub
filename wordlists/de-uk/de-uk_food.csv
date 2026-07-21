@@ -1,51 +1,200 @@
-der Apfel;яблуко;die Äpfel;food
-die Banane;банан;die Bananen;food
-die Kartoffel;картопля;die Kartoffeln;food
-das Brot;хліб;die Brote;food
-der Käse;сир;die Käse;food
-die Milch;молоко;;food
-das Wasser;вода;;food
+das Restaurant;ресторан;die Restaurants;food
+das Menü;меню;die Menüs;food
+die Speisekarte;меню страв;die Speisekarten;food
+der Kellner;офіціант;die Kellner;food
+die Kellnerin;офіціантка;die Kellnerinnen;food
+der Gast;гість;die Gäste;food
+die Rechnung;рахунок;die Rechnungen;food
+das Trinkgeld;чайові;die Trinkgelder;food
+die Vorspeise;закуска;die Vorspeisen;food
+die Suppe;суп;die Suppen;food
+der Salat;салат;die Salate;food
+das Hauptgericht;основна страва;die Hauptgerichte;food
+das Fleischgericht;м'ясна страва;die Fleischgerichte;food
+das Fischgericht;рибна страва;die Fischgerichte;food
+die Beilage;гарнір;die Beilagen;food
+die Soße;соус;die Soßen;food
+der Nachtisch;десерт;die Nachtische;food
+das Dessert;десерт;die Desserts;food
+das Getränk;напій;die Getränke;food
+das Wasser;вода;die Wasser;food
+der Wein;вино;die Weine;food
+das Bier;пиво;die Biere;food
+der Kaffee;кава;die Kaffees;food
+der Tee;чай;die Tees;food
 der Saft;сік;die Säfte;food
+das Brot;хліб;die Brote;food
+die Butter;вершкове масло;;food
+das Messer;ніж;die Messer;food
+die Gabel;виделка;die Gabeln;food
+der Löffel;ложка;die Löffel;food
+der Teller;тарілка;die Teller;food
+das Glas;склянка;die Gläser;food
+die Tasse;чашка;die Tassen;food
+die Serviette;серветка;die Servietten;food
+die Reservierung;бронювання;die Reservierungen;food
+der Tisch;стіл;die Tische;food
+der Stuhl;стілець;die Stühle;food
+die Terrasse;тераса;die Terrassen;food
+die Bedienung;обслуговування;die Bedienungen;food
+die Bestellung;замовлення;die Bestellungen;food
+das Besteck;столові прибори;die Bestecke;food
+die Flasche;пляшка;die Flaschen;food
+das Gericht;страва;die Gerichte;food
+die Speise;страва;die Speisen;food
+der Appetit;апетит;;food
+vegetarisch;вегетаріанський;;food
+bestellen;замовляти;;food
+reservieren;бронювати;;food
+bezahlen;платити;;food
+der Imbiss;закусочна;die Imbisse;food
+kochen;варити;;food
+backen;пекти;;food
+braten;смажити;;food
+schneiden;різати;;food
+rühren;мішати;;food
+mixen;змішувати;;food
+würzen;приправляти;;food
+abschmecken;пробувати на смак;;food
+garen;готувати;;food
+dünsten;тушкувати;;food
+schmoren;тушкувати;;food
+grillen;грилювати;;food
+frittieren;смажити у фритюрі;;food
+dämpfen;готувати на пару;;food
+pürieren;пюрувати;;food
+zerkleinern;подрібнювати;;food
+raspeln;терти;;food
+schälen;чистити;;food
+ausrollen;розкачувати;;food
+kneten;місити;;food
+aufschlagen;збивати;;food
+unterheben;вмішувати обережно;;food
+absieben;проціджувати;;food
+abseihen;проціджувати;;food
+marinieren;маринувати;;food
+panieren;панірувати;;food
+überbacken;запікати;;food
+köcheln;томити;;food
+aufkochen;доводити до кипіння;;food
+abkühlen;охолоджувати;;food
+erhitzen;нагрівати;;food
+servieren;подавати;;food
+anrichten;сервірувати;;food
+zubereiten;готувати;;food
+hacken;рубати;;food
+wiegen;зважувати;;food
+messen;вимірювати;;food
+einrühren;вмішувати;;food
+verrühren;перемішувати;;food
+ausstechen;вирізати формою;;food
+garnieren;гарнірувати;;food
+bestreichen;змащувати;;food
+einfetten;змащувати;;food
+mehlen;посипати борошном;;food
+anbraten;обсмажувати;;food
+blanchieren;бланшувати;;food
+pochieren;припускати;;food
+flambieren;фламбувати;;food
+abschrecken;обдавати холодною водою;;food
+ziehen lassen;настоювати;;food
+der Reis;рис;die Reise;food
+das Salz;сіль;die Salze;food
+der Pfeffer;перець;die Pfeffer;food
+der Zucker;цукор;die Zucker;food
+das Mehl;борошно;die Mehle;food
+das Öl;олія;die Öle;food
+die Butter;масло;die Butter;food
+das Ei;яйце;die Eier;food
+die Milch;молоко;;food
+die Sahne;вершки;;food
+der Käse;сир;die Käse;food
+der Honig;мед;die Honige;food
+der Essig;оцет;die Essige;food
+der Senf;гірчиця;die Senfe;food
+der Knoblauch;часник;die Knoblauche;food
+die Zwiebel;цибуля;die Zwiebeln;food
+die Karotte;морква;die Karotten;food
 die Tomate;помідор;die Tomaten;food
 die Gurke;огірок;die Gurken;food
-die Zwiebel;цибуля;die Zwiebeln;food
-der Knoblauch;часник;;food
-die Karotte;морква;die Karotten;food
-der Reis;рис;;food
-die Nudel;макаронина;die Nudeln;food
-das Ei;яйце;die Eier;food
-die Butter;масло;;food
-der Zucker;цукор;;food
-das Salz;сіль;;food
-der Pfeffer;перець;;food
-die Suppe;суп;die Suppen;food
-das Fleisch;м'ясо;;food
-der Fisch;риба;die Fische;food
-das Hähnchen;курка;;food
-die Wurst;ковбаса;die Würste;food
-der Schinken;шинка;die Schinken;food
-der Joghurt;йогурт;die Joghurts;food
-die Sahne;вершки;;food
-das Mehl;борошно;;food
-der Honig;мед;;food
-die Marmelade;варення;die Marmeladen;food
-die Schokolade;шоколад;die Schokoladen;food
-der Kuchen;пиріг;die Kuchen;food
-die Torte;торт;die Torten;food
-das Eis;морозиво;die Eis;food
-der Keks;печиво;die Kekse;food
-die Nuss;горіх;die Nüsse;food
-die Mandel;мигдаль;die Mandeln;food
+der Salat;салат;die Salate;food
+der Spinat;шпинат;die Spinate;food
+der Brokkoli;броколі;die Brokkolis;food
+die Bohne;квасоля;die Bohnen;food
+die Linse;сочевиця;die Linsen;food
+der Pilz;гриб;die Pilze;food
+der Apfel;яблуко;die Äpfel;food
+die Birne;груша;die Birnen;food
+die Banane;банан;die Bananen;food
+die Zitrone;лимон;die Zitronen;food
+die Orange;апельсин;die Orangen;food
 die Erdbeere;полуниця;die Erdbeeren;food
-die Himbeere;малина;die Himbeeren;food
 die Kirsche;вишня;die Kirschen;food
 die Traube;виноград;die Trauben;food
-die Orange;апельсин;die Orangen;food
-die Zitrone;лимон;die Zitronen;food
-der Kaffee;кава;;food
-der Tee;чай;;food
-das Bier;пиво;die Biere;food
-der Wein;вино;die Weine;food
-der Sekt;ігристе вино;die Sekte;food
-die Pizza;піца;die Pizzen;food
-der Burger;бургер;die Burger;food
+der Pfirsich;персик;die Pfirsiche;food
+die Schokolade;шоколад;die Schokoladen;food
+die Vanille;ваніль;die Vanillen;food
+der Zimt;кориця;die Zimte;food
+der Ingwer;імбир;die Ingwer;food
+die Muskatnuss;мускатний горіх;die Muskatnüsse;food
+der Paprika;паприка;die Paprikas;food
+der Kümmel;кмин;die Kümmel;food
+der Koriander;коріандр;die Koriander;food
+das Basilikum;базилік;die Basilikums;food
+die Petersilie;петрушка;die Petersilien;food
+der Dill;кріп;die Dille;food
+die Minze;м'ята;die Minzen;food
+der Thymian;чебрець;die Thymiane;food
+der Rosmarin;розмарин;die Rosmarine;food
+der Oregano;орегано;die Oreganos;food
+die Nuss;горіх;die Nüsse;food
+die Ernährung;харчування;;food
+die Diät;дієта;die Diäten;food
+das Obst;фрукти;;food
+das Gemüse;овочі;;food
+der Apfel;яблуко;die Äpfel;food
+die Banane;банан;die Bananen;food
+die Karotte;морква;die Karotten;food
+die Tomate;помідор;die Tomaten;food
+der Salat;салат;die Salate;food
+das Brot;хліб;die Brote;food
+das Brötchen;булочка;die Brötchen;food
+die Nudel;локшина;die Nudeln;food
+der Reis;рис;;food
+die Kartoffel;картопля;die Kartoffeln;food
+das Fleisch;м'ясо;;food
+der Fisch;риба;die Fische;food
+das Hähnchen;курка;die Hähnchen;food
+das Ei;яйце;die Eier;food
+die Milch;молоко;;food
+der Käse;сир;;food
+der Joghurt;йогурт;die Joghurts;food
+die Butter;масло;;food
+das Öl;олія;die Öle;food
+der Zucker;цукор;;food
+das Salz;сіль;;food
+das Mehl;борошно;;food
+die Schokolade;шоколад;die Schokoladen;food
+die Suppe;суп;die Suppen;food
+die Soße;соус;die Soßen;food
+das Getränk;напій;die Getränke;food
+das Wasser;вода;;food
+der Saft;сік;die Säfte;food
+der Tee;чай;die Tees;food
+der Kaffee;кава;die Kaffees;food
+das Vitamin;вітамін;die Vitamine;food
+das Mineral;мінерал;die Minerale;food
+das Eiweiß;білок;;food
+das Fett;жир;die Fette;food
+das Kohlenhydrat;вуглевод;die Kohlenhydrate;food
+der Ballaststoff;клітковина;die Ballaststoffe;food
+die Kalorie;калорія;die Kalorien;food
+die Mahlzeit;прийом їжі;die Mahlzeiten;food
+das Frühstück;сніданок;die Frühstücke;food
+das Mittagessen;обід;die Mittagessen;food
+das Abendessen;вечеря;die Abendessen;food
+der Snack;перекус;die Snacks;food
+der Hunger;голод;;food
+der Durst;спрага;;food
+kochen;готувати;;food
+essen;їсти;;food

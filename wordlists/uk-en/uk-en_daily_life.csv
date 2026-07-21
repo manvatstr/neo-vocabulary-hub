@@ -1,0 +1,200 @@
+profession;професія;f;daily_life
+work;робота;f;daily_life
+employee;працівник;m;daily_life
+employer;роботодавець;m;daily_life
+colleague;колега;m;daily_life
+doctor;лікар;m;daily_life
+nurse;медсестра;f;daily_life
+teacher;вчитель;m;daily_life
+engineer;інженер;m;daily_life
+manager;менеджер;m;daily_life
+secretary;секретар;m;daily_life
+boss;начальник;m;daily_life
+director;директор;m;daily_life
+worker;робітник;m;daily_life
+farmer;фермер;m;daily_life
+driver;водій;m;daily_life
+cook;кухар;m;daily_life
+waiter;офіціант;m;daily_life
+waitress;офіціантка;f;daily_life
+salesperson;продавець;m;daily_life
+cashier;касир;m;daily_life
+accountant;бухгалтер;m;daily_life
+lawyer;юрист;m;daily_life
+judge;суддя;m;daily_life
+police officer;поліцейський;m;daily_life
+firefighter;пожежник;m;daily_life
+soldier;солдат;m;daily_life
+artist;художник;m;daily_life
+musician;музикант;m;daily_life
+singer;співак;m;daily_life
+actor;актор;m;daily_life
+actress;актриса;f;daily_life
+writer;письменник;m;daily_life
+journalist;журналіст;m;daily_life
+photographer;фотограф;m;daily_life
+scientist;вчений;m;daily_life
+researcher;дослідник;m;daily_life
+architect;архітектор;m;daily_life
+pilot;пілот;m;daily_life
+flight attendant;стюард;m;daily_life
+mechanic;механік;m;daily_life
+electrician;електрик;m;daily_life
+plumber;сантехнік;m;daily_life
+cleaner;прибиральник;m;daily_life
+hairdresser;перукар;m;daily_life
+receptionist;адміністратор;m;daily_life
+dentist;стоматолог;m;daily_life
+vet;ветеринар;m;daily_life
+programmer;програміст;m;daily_life
+designer;дизайнер;m;daily_life
+desk;стіл;m;daily_life
+chair;стілець;m;daily_life
+computer;комп'ютер;m;daily_life
+printer;принтер;m;daily_life
+telephone;телефон;m;daily_life
+meeting;зустріч;f;daily_life
+document;документ;m;daily_life
+file;файл;m;daily_life
+folder;папка;f;daily_life
+pen;ручка;f;daily_life
+pencil;олівець;m;daily_life
+paper;папір;m;daily_life
+notepad;блокнот;m;daily_life
+calendar;календар;m;daily_life
+schedule;розклад;m;daily_life
+appointment;призначення;n;daily_life
+email;електронна пошта;f;daily_life
+message;повідомлення;n;daily_life
+colleague;співробітник;m;daily_life
+boss;начальник;m;daily_life
+manager;менеджер;m;daily_life
+employee;працівник;m;daily_life
+office;офіс;m;daily_life
+cubicle;кабінка;f;daily_life
+stapler;степлер;m;daily_life
+scissors;ножиці;pl;daily_life
+tape;скотч;m;daily_life
+envelope;конверт;m;daily_life
+stamp;печатка;f;daily_life
+photocopier;ксерокс;m;daily_life
+scanner;сканер;m;daily_life
+keyboard;клавіатура;f;daily_life
+mouse;миша;f;daily_life
+monitor;монітор;m;daily_life
+screen;екран;m;daily_life
+desk lamp;настільна лампа;f;daily_life
+drawer;шухляда;f;daily_life
+cabinet;шафа;f;daily_life
+water cooler;кулер для води;m;daily_life
+coffee machine;кавоварка;f;daily_life
+break room;кімната відпочинку;f;daily_life
+conference room;конференц-зал;m;daily_life
+whiteboard;маркерна дошка;f;daily_life
+marker;маркер;m;daily_life
+projector;проектор;m;daily_life
+presentation;презентація;f;daily_life
+report;звіт;m;daily_life
+invoice;рахунок;m;daily_life
+receipt;квитанція;f;daily_life
+business card;візитна картка;f;daily_life
+job;робота;f;daily_life
+vacancy;вакансія;f;daily_life
+employer;роботодавець;m;daily_life
+employee;працівник;m;daily_life
+interview;співбесіда;f;daily_life
+resume;резюме;n;daily_life
+application;заява;f;daily_life
+cover letter;супровідний лист;m;daily_life
+qualification;кваліфікація;f;daily_life
+experience;досвід;m;daily_life
+skill;навичка;f;daily_life
+education;освіта;f;daily_life
+degree;ступінь;m;daily_life
+certificate;сертифікат;m;daily_life
+reference;рекомендація;f;daily_life
+salary;зарплата;f;daily_life
+wage;заробіток;m;daily_life
+job offer;пропозиція роботи;f;daily_life
+promotion;підвищення;n;daily_life
+training;навчання;n;daily_life
+contract;контракт;m;daily_life
+application form;анкета;f;daily_life
+job search;пошук роботи;m;daily_life
+unemployment;безробіття;n;daily_life
+job seeker;шукач роботи;m;daily_life
+recruiter;рекрутер;m;daily_life
+headhunter;хедхантер;m;daily_life
+networking;нетворкінг;m;daily_life
+job fair;ярмарок вакансій;m;daily_life
+internship;стажування;n;daily_life
+freelance;фриланс;m;daily_life
+profession;професія;f;daily_life
+career;кар'єра;f;daily_life
+occupation;заняття;n;daily_life
+job description;опис роботи;m;daily_life
+requirement;вимога;f;daily_life
+candidate;кандидат;m;daily_life
+probation period;випробувальний термін;m;daily_life
+dismissal;звільнення;n;daily_life
+resignation;відставка;f;daily_life
+notice period;строк попередження;m;daily_life
+part-time job;підробіток;m;daily_life
+full-time job;повна зайнятість;f;daily_life
+shift;зміна;f;daily_life
+overtime;понаднормова робота;f;daily_life
+benefits;пільги;pl;daily_life
+bonus;премія;f;daily_life
+payroll;платіжна відомість;f;daily_life
+job market;ринок праці;m;daily_life
+employment;зайнятість;f;daily_life
+meeting;нарада;f;daily_life
+colleague;колега;m/f;daily_life
+boss;начальник;m;daily_life
+email;електронний лист;m;daily_life
+report;звіт;m;daily_life
+deadline;кінцевий термін;m;daily_life
+presentation;презентація;f;daily_life
+project;проект;m;daily_life
+conference call;конференц-дзвінок;m;daily_life
+agenda;порядок денний;m;daily_life
+minutes;протокол;m;daily_life
+feedback;зворотний зв'язок;m;daily_life
+task;завдання;n;daily_life
+schedule;розклад;m;daily_life
+appointment;зустріч;f;daily_life
+office;офіс;m;daily_life
+desk;робочий стіл;m;daily_life
+computer;комп'ютер;m;daily_life
+printer;принтер;m;daily_life
+file;файл;m;daily_life
+document;документ;m;daily_life
+note;нотатка;f;daily_life
+memo;службова записка;f;daily_life
+to-do list;список справ;m;daily_life
+team;команда;f;daily_life
+department;відділ;m;daily_life
+manager;менеджер;m;daily_life
+client;клієнт;m;daily_life
+customer;замовник;m;daily_life
+invoice;рахунок;m;daily_life
+contract;договір;m;daily_life
+proposal;пропозиція;f;daily_life
+negotiation;переговори;pl;daily_life
+interview;співбесіда;f;daily_life
+hiring;найм;m;daily_life
+resignation;звільнення;n;daily_life
+promotion;підвищення;n;daily_life
+workload;робоче навантаження;n;daily_life
+overtime;понаднормова робота;f;daily_life
+break;перерва;f;daily_life
+lunch;обід;m;daily_life
+coffee;кава;f;daily_life
+commute;дорога на роботу;f;daily_life
+elevator;ліфт;m;daily_life
+floor;поверх;m;daily_life
+building;будівля;f;daily_life
+reception;ресепшн;m;daily_life
+badge;бейдж;m;daily_life
+security;охорона;f;daily_life
+scanner;сканер;m;daily_life
