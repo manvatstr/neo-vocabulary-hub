@@ -1,158 +1,153 @@
-friend;друг;friends (masculine);relationships;friend;друг;noun;/frend/
-friendship;дружба;friendship (uncountable);relationships;friendship;дружба;noun;/ˈfrendʃɪp/
-acquaintance;знайомий;acquaintances (masculine);relationships;acquaintance;знайомий;noun;/əˈkweɪntəns/
-companion;товариш;companions (masculine);relationships;companion;товариш;noun;/kəmˈpænjən/
-buddy;приятель;buddies (masculine);relationships;buddy;приятель;noun;/ˈbʌdi/
-pal;друзяка;pals (masculine);relationships;pal;друзяка;noun;/pæl/
-classmate;однокласник;classmates (masculine);relationships;classmate;однокласник;noun;/ˈklæsmeɪt/
-partner;партнер;partners (masculine);relationships;partner;партнер;noun;/ˈpɑːrtnər/
-trust;довіра;trust (uncountable);relationships;trust;довіра;noun;/trʌst/
-loyalty;вірність;loyalty (uncountable);relationships;loyalty;вірність;noun;/ˈlɔɪəlti/
-support;підтримка;support (uncountable);relationships;support;підтримка;noun;/səˈpɔːrt/
-honesty;чесність;honesty (uncountable);relationships;honesty;чесність;noun;/ˈɑːnɪsti/
-respect;повага;respect (uncountable);relationships;respect;повага;noun;/rɪˈspekt/
-secret;секрет;secrets (masculine);relationships;secret;секрет;noun;/ˈsiːkrɪt/
-promise;обіцянка;promises (feminine);relationships;promise;обіцянка;noun;/ˈprɑːmɪs/
-advice;порада;advice (uncountable);relationships;advice;порада;noun;/ədˈvaɪs/
-conversation;розмова;conversations (feminine);relationships;conversation;розмова;noun;/ˌkɑːnvərˈseɪʃən/
-chat;балачка;chats (feminine);relationships;chat;балачка;noun;/tʃæt/
-invitation;запрошення;invitations (neuter);relationships;invitation;запрошення;noun;/ˌɪnvɪˈteɪʃən/
-gift;подарунок;gifts (masculine);relationships;gift;подарунок;noun;/ɡɪft/
-celebration;святкування;celebrations (neuter);relationships;celebration;святкування;noun;/ˌselɪˈbreɪʃən/
-party;вечірка;parties (feminine);relationships;party;вечірка;noun;/ˈpɑːrti/
-memory;спогад;memories (masculine);relationships;memory;спогад;noun;/ˈmeməri/
-joy;радість;joy (uncountable);relationships;joy;радість;noun;/dʒɔɪ/
-sorrow;сум;sorrows (masculine);relationships;sorrow;сум;noun;/ˈsɑːroʊ/
-argument;суперечка;arguments (feminine);relationships;argument;суперечка;noun;/ˈɑːrɡjumənt/
-conflict;конфлікт;conflicts (masculine);relationships;conflict;конфлікт;noun;/ˈkɑːnflɪkt/
-forgiveness;прощення;forgiveness (uncountable);relationships;forgiveness;прощення;noun;/fərˈɡɪvnəs/
-reconciliation;примирення;reconciliation (uncountable);relationships;reconciliation;примирення;noun;/ˌrekənsɪliˈeɪʃən/
-care;турбота;care (uncountable);relationships;care;турбота;noun;/ker/
-help;допомога;help (uncountable);relationships;help;допомога;noun;/help/
-share;ділитися;;relationships;share;ділитися (imperfective);verb;/ʃer/
-understand;розуміти;;relationships;understand;розуміти (imperfective);verb;/ˌʌndərˈstænd/
-forgive;прощати;;relationships;forgive;прощати (imperfective);verb;/fərˈɡɪv/
-reconcile;миритися;;relationships;reconcile;миритися (imperfective);verb;/ˈrekənsaɪl/
-invite;запрошувати;;relationships;invite;запрошувати (imperfective);verb;/ɪnˈvaɪt/
-visit;відвідувати;;relationships;visit;відвідувати (imperfective);verb;/ˈvɪzɪt/
-celebrate;святкувати;;relationships;celebrate;святкувати (imperfective);verb;/ˈselɪbreɪt/
-communicate;спілкуватися;;relationships;communicate;спілкуватися (imperfective);verb;/kəˈmjuːnɪkeɪt/
-hug;обіймати;;relationships;hug;обіймати (imperfective);verb;/hʌɡ/
-joke;жартувати;;relationships;joke;жартувати (imperfective);verb;/dʒoʊk/
-laugh;сміятися;;relationships;laugh;сміятися (imperfective);verb;/læf/
-cry;плакати;;relationships;cry;плакати (imperfective);verb;/kraɪ/
-host;господар;hosts (masculine);relationships;host;господар;noun;/hoʊst/
-introduce;знайомити;;relationships;introduce;знайомити (imperfective);verb;/ˌɪntrəˈduːs/
-socialize;спілкуватися;;relationships;socialize;спілкуватися (imperfective);verb;/ˈsoʊʃəlaɪz/
-gathering;зібрання;gatherings (neuter);relationships;gathering;зібрання;noun;/ˈɡæðərɪŋ/
-event;подія;events (feminine);relationships;event;подія;noun;/ɪˈvɛnt/
-toast;тост;toasts (masculine);relationships;toast;тост;noun;/toʊst/
-cheers;будьмо;;relationships;cheers;будьмо;interj;/tʃɪərz/
-small talk;легка розмова;small talk (uncountable);relationships;small talk;легка розмова;noun;/ˈsmɔːl tɔːk/
-smile;посмішка;smiles (feminine);relationships;smile;посмішка;noun;/smaɪl/
-greet;вітати;;relationships;greet;вітати (imperfective);verb;/ɡriːt/
-farewell;прощання;farewells (neuter);relationships;farewell;прощання;noun;/ˌfɛrˈwɛl/
-kiss;поцілунок;kisses (masculine);relationships;kiss;поцілунок;noun;/kɪs/
-refuse;відмовляти;;relationships;refuse;відмовляти (imperfective);verb;/rɪˈfjuːz/
-response;відповідь;responses (feminine);relationships;response;відповідь;noun;/rɪˈspɑːns/
-polite;ввічливий;;relationships;polite;ввічливий;adj;/pəˈlaɪt/
-rude;грубий;;relationships;rude;грубий;adj;/ruːd/
-friendly;дружній;;relationships;friendly;дружній;adj;/ˈfrɛndli/
-hostess;господиня;hostesses (feminine);relationships;hostess;господиня;noun;/ˈhoʊstɪs/
-guest list;список гостей;guest lists (masculine);relationships;guest list;список гостей;noun;/ˈɡɛst lɪst/
-buffet;фуршет;buffets (masculine);relationships;buffet;фуршет;noun;/bəˈfeɪ/
-refreshments;частування;refreshments (plural, neuter);relationships;refreshment;частування;noun;/rɪˈfrɛʃmənts/
-dance floor;танцмайданчик;dance floors (masculine);relationships;dance floor;танцмайданчик;noun;/ˈdæns flɔːr/
-DJ;діджей;DJs (masculine);relationships;DJ;діджей;noun;/ˈdiːdʒeɪ/
-karaoke;караоке;karaoke (uncountable);relationships;karaoke;караоке;noun;/ˌkæriˈoʊki/
-confetti;конфеті;confetti (uncountable);relationships;confetti;конфеті;noun;/kənˈfɛti/
-balloon;повітряна кулька;balloons (feminine);relationships;balloon;повітряна кулька;noun;/bəˈluːn/
-streamer;серпантин;streamers (masculine);relationships;streamer;серпантин;noun;/ˈstriːmər/
-party hat;святковий капелюх;party hats (masculine);relationships;party hat;святковий капелюх;noun;/ˈpɑːrti hæt/
-cake;торт;cakes (masculine);relationships;cake;торт;noun;/keɪk/
-present;подарунок;presents (masculine);relationships;present;подарунок;noun;/ˈprɛzənt/
-wrap;загортати;;relationships;wrap;загортати (imperfective);verb;/ræp/
-unwrap;розгортати;;relationships;unwrap;розгортати (imperfective);verb;/ʌnˈræp/
-thank;дякувати;;relationships;thank;дякувати (imperfective);verb;/θæŋk/
-apologize;вибачатися;;relationships;apologize;вибачатися (imperfective);verb;/əˈpɑːlədʒaɪz/
-compliment;комплімент;compliments (masculine);relationships;compliment;комплімент;noun;/ˈkɑːmplɪmənt/
-apology;вибачення;apologies (neuter);relationships;apology;вибачення;noun;/əˈpɒlədʒi/
-compromise;компроміс;compromises (masculine);relationships;compromise;компроміс;noun;/ˈkɒmprəmaɪz/
-peace;мир;peace (uncountable);relationships;peace;мир;noun;/piːs/
-anger;гнів;anger (uncountable);relationships;anger;гнів;noun;/ˈæŋɡər/
-blame;вина;blame (uncountable);relationships;blame;вина;noun;/bleɪm/
-guilt;провина;guilt (uncountable);relationships;guilt;провина;noun;/ɡɪlt/
-resentment;образа;resentment (uncountable);relationships;resentment;образа;noun;/rɪˈzentmənt/
-tension;напруженість;tensions (feminine);relationships;tension;напруженість;noun;/ˈtenʃən/
-regret;жаль;regrets (masculine);relationships;regret;жаль;noun;/rɪˈɡret/
-silence;мовчання;silences (neuter);relationships;silence;мовчання;noun;/ˈsaɪləns/
-complaint;скарга;complaints (feminine);relationships;complaint;скарга;noun;/kəmˈpleɪnt/
-criticism;критика;criticisms (feminine);relationships;criticism;критика;noun;/ˈkrɪtɪsɪzəm/
-threat;загроза;threats (feminine);relationships;threat;загроза;noun;/θret/
-hurt;біль;hurts (masculine);relationships;hurt;біль;noun;/hɜːrt/
-grudge;злоба;grudges (feminine);relationships;grudge;злоба;noun;/ɡrʌdʒ/
-quarrel;сварка;quarrels (feminine);relationships;quarrel;сварка;noun;/ˈkwɒrəl/
-fight;бійка;fights (feminine);relationships;fight;бійка;noun;/faɪt/
-dispute;спір;disputes (masculine);relationships;dispute;спір;noun;/dɪˈspjuːt/
-misunderstanding;непорозуміння;misunderstandings (neuter);relationships;misunderstanding;непорозуміння;noun;/ˌmɪsʌndəˈstændɪŋ/
-accusation;звинувачення;accusations (neuter);relationships;accusation;звинувачення;noun;/ˌækjuˈzeɪʃən/
-insult;образа;insults (feminine);relationships;insult;образа;noun;/ˈɪnsʌlt/
-offence;образа;offences (feminine);relationships;offence;образа;noun;/əˈfens/
-argue;сперечатися;;relationships;argue;сперечатися (imperfective);verb;/ˈɑːɡjuː/
-accuse;звинувачувати;;relationships;accuse;звинувачувати (imperfective);verb;/əˈkjuːz/
-offend;ображати;;relationships;offend;ображати (imperfective);verb;/əˈfend/
-complain;скаржитися;;relationships;complain;скаржитися (imperfective);verb;/kəmˈpleɪn/
-criticize;критикувати;;relationships;criticize;критикувати (imperfective);verb;/ˈkrɪtɪsaɪz/
-shout;кричати;;relationships;shout;кричати (imperfective);verb;/ʃaʊt/
-resolve;вирішувати;;relationships;resolve;вирішувати (imperfective);verb;/rɪˈzɒlv/
-threaten;загрожувати;;relationships;threaten;загрожувати (imperfective);verb;/ˈθretən/
-angry;сердитий;;relationships;angry;сердитий;adj;/ˈæŋɡri/
-offended;ображений;;relationships;offended;ображений;adj;/əˈfendɪd/
-guilty;винний;;relationships;guilty;винний;adj;/ˈɡɪlti/
-wrong;неправий;;relationships;wrong;неправий;adj;/rɒŋ/
-sorry;вибачте;;relationships;sorry;вибачте;interj;/ˈsɒri/
-calm;спокійний;;relationships;calm;спокійний;adj;/kɑːm/
-tense;напружений;;relationships;tense;напружений;adj;/tens/
-date;побачення;dates (neuter);relationships;date;побачення;noun;/deɪt/
-love;любов;love (uncountable, feminine);relationships;love;любов;noun;/lʌv/
-relationship;стосунки;relationships (masculine, plural only);relationships;relationship;стосунки;noun;/rɪˈleɪʃənʃɪp/
-boyfriend;хлопець;boyfriends (masculine);relationships;boyfriend;хлопець;noun;/ˈbɔɪfrend/
-girlfriend;дівчина;girlfriends (feminine);relationships;girlfriend;дівчина;noun;/ˈɡɜːrlfrend/
-marry;одружитися;;relationships;marry;одружитися (perfective);verb;/ˈmæri/
-divorce;розлучитися;;relationships;divorce;розлучитися (perfective);verb;/dɪˈvɔːrs/
-engagement;заручини;engagements (neuter, plural only);relationships;engagement;заручини;noun;/ɪnˈɡeɪdʒmənt/
-wedding;весілля;weddings (neuter);relationships;wedding;весілля;noun;/ˈwɛdɪŋ/
-romantic;романтичний;;relationships;romantic;романтичний;adj;/roʊˈmæntɪk/
-affectionate;ніжний;;relationships;affectionate;ніжний;adj;/əˈfɛkʃənɪt/
-flirt;фліртувати;;relationships;flirt;фліртувати (imperfective);verb;/flɜːrt/
-breakup;розрив;breakups (masculine);relationships;breakup;розрив;noun;/ˈbreɪkʌp/
-couple;пара;couples (feminine);relationships;couple;пара;noun;/ˈkʌpəl/
-single;неодружений;;relationships;single;неодружений;adj;/ˈsɪŋɡəl/
-heart;серце;hearts (neuter);relationships;heart;серце;noun;/hɑːrt/
-sweetheart;коханий;sweethearts (masculine);relationships;sweetheart;коханий;noun;/ˈswiːthɑːrt/
-darling;любий;darlings (masculine);relationships;darling;любий;noun;/ˈdɑːrlɪŋ/
-love letter;любовний лист;love letters (masculine);relationships;love letter;любовний лист;noun;/ˈlʌv ˌlɛtər/
-proposal;пропозиція;proposals (feminine);relationships;proposal;пропозиція;noun;/prəˈpoʊzəl/
-honeymoon;медовий місяць;honeymoons (masculine);relationships;honeymoon;медовий місяць;noun;/ˈhʌnimuːn/
-anniversary;річниця;anniversaries (feminine);relationships;anniversary;річниця;noun;/ˌænɪˈvɜːrsəri/
-jealousy;ревнощі;jealousy (uncountable, plural only);relationships;jealousy;ревнощі;noun;/ˈdʒɛləsi/
-cheat;зраджувати;;relationships;cheat;зраджувати (imperfective);verb;/tʃiːt/
-attraction;привабливість;attractions (feminine);relationships;attraction;привабливість;noun;/əˈtrækʃən/
-chemistry;хімія;chemistry (uncountable, feminine);relationships;chemistry;хімія;noun;/ˈkɛmɪstri/
-soulmate;споріднена душа;soulmates (feminine);relationships;soulmate;споріднена душа;noun;/ˈsoʊlmeɪt/
-blind date;побачення наосліп;blind dates (neuter);relationships;blind date;побачення наосліп;noun;/ˈblaɪnd ˌdeɪt/
-online dating;знайомства онлайн;online dating (uncountable, plural only);relationships;online dating;знайомства онлайн;noun;/ˈɒnlaɪn ˈdeɪtɪŋ/
-relationship status;сімейний стан;relationship statuses (masculine);relationships;relationship status;сімейний стан;noun;/rɪˈleɪʃənʃɪp ˈsteɪtəs/
-ex;колишній;exes (masculine);relationships;ex;колишній;noun;/ɛks/
-crush;захоплення;crushes (neuter);relationships;crush;захоплення;noun;/krʌʃ/
-infatuation;закоханість;infatuations (feminine);relationships;infatuation;закоханість;noun;/ɪnˌfætʃuˈeɪʃən/
-commitment;зобов'язання;commitments (neuter);relationships;commitment;зобов'язання;noun;/kəˈmɪtmənt/
-faithful;вірний;;relationships;faithful;вірний;adj;/ˈfeɪθfəl/
-unfaithful;невірний;;relationships;unfaithful;невірний;adj;/ʌnˈfeɪθfəl/
-get back together;помиритися;;relationships;get back together;помиритися (perfective);verb;/ɡɛt bæk təˈɡɛðər/
-adore;обожнювати;;relationships;adore;обожнювати (imperfective);verb;/əˈdɔːr/
-passionate;пристрасний;;relationships;passionate;пристрасний;adj;/ˈpæʃənɪt/
-tender;лагідний;;relationships;tender;лагідний;adj;/ˈtɛndər/
-cuddle;обіймати;;relationships;cuddle;обіймати (imperfective);verb;/ˈkʌdəl/
-hold hands;триматися за руки;;relationships;hold hands;триматися за руки (imperfective);verb;/hoʊld hændz/
-propose;освідчитися;;relationships;propose;освідчитися (perfective);verb;/prəˈpoʊz/
+friend;друг;friends (masculine);relationships;friend;друг;noun;френд
+friendship;дружба;friendships (feminine);relationships;friendship;дружба;noun;френдшип
+buddy;приятель;buddies (masculine);relationships;buddy;приятель;noun;баді
+companion;товариш;companions (masculine);relationships;companion;товариш;noun;компаньйон
+acquaintance;знайомий;acquaintances (masculine);relationships;acquaintance;знайомий;noun;еквейнтенс
+best friend;найкращий друг;best friends (masculine);relationships;best friend;найкращий друг;noun;бест френд
+close friend;близький друг;close friends (masculine);relationships;close friend;близький друг;noun;клоус френд
+childhood friend;друг дитинства;childhood friends (masculine);relationships;childhood friend;друг дитинства;noun;чайлдхуд френд
+mutual friend;спільний друг;mutual friends (masculine);relationships;mutual friend;спільний друг;noun;м'ючуал френд
+classmate;однокласник;classmates (masculine);relationships;classmate;однокласник;noun;класмейт
+trust;довіра;trust (uncountable, feminine);relationships;trust;довіра;noun;траст
+loyalty;вірність;loyalty (uncountable, feminine);relationships;loyalty;вірність;noun;лоялті
+support;підтримка;support (uncountable, feminine);relationships;support;підтримка;noun;сапорт
+honesty;чесність;honesty (uncountable, feminine);relationships;honesty;чесність;noun;онесті
+kindness;доброта;kindness (uncountable, feminine);relationships;kindness;доброта;noun;кайнднес
+generosity;щедрість;generosity (uncountable, feminine);relationships;generosity;щедрість;noun;дженеросіті
+respect;повага;respect (uncountable, feminine);relationships;respect;повага;noun;ріспект
+empathy;співчуття;empathy (uncountable, neuter);relationships;empathy;співчуття;noun;емпаті
+understanding;розуміння;understanding (uncountable, neuter);relationships;understanding;розуміння;noun;андерстендін
+forgiveness;прощення;forgiveness (uncountable, neuter);relationships;forgiveness;прощення;noun;форґівнес
+argument;суперечка;arguments (feminine);relationships;argument;суперечка;noun;арг'юмент
+quarrel;сварка;quarrels (feminine);relationships;quarrel;сварка;noun;кворрел
+reconciliation;примирення;reconciliations (neuter);relationships;reconciliation;примирення;noun;реконсіліейшн
+betrayal;зрада;betrayals (feminine);relationships;betrayal;зрада;noun;бітрейал
+envy;заздрість;envy (uncountable, feminine);relationships;envy;заздрість;noun;енві
+gossip;плітка;gossips (feminine);relationships;gossip;плітка;noun;госіп
+secret;секрет;secrets (masculine);relationships;secret;секрет;noun;сікрет
+promise;обіцянка;promises (feminine);relationships;promise;обіцянка;noun;проміс
+gift;подарунок;gifts (masculine);relationships;gift;подарунок;noun;гіфт
+celebration;свято;celebrations (neuter);relationships;celebration;свято;noun;селібрейшн
+party;вечірка;parties (feminine);relationships;party;вечірка;noun;парті
+invitation;запрошення;invitations (neuter);relationships;invitation;запрошення;noun;інвітейшн
+loneliness;самотність;loneliness (uncountable, feminine);relationships;loneliness;самотність;noun;лоунлінс
+togetherness;єдність;togetherness (uncountable, feminine);relationships;togetherness;єдність;noun;тугезернес
+bond;зв'язок;bonds (masculine);relationships;bond;зв'язок;noun;бонд
+circle of friends;коло друзів;circles of friends (neuter);relationships;circle of friends;коло друзів;noun;серкл оф френдс
+social network;соціальна мережа;social networks (feminine);relationships;social network;соціальна мережа;noun;соушл нетворк
+hang out;проводити час разом;;relationships;hang out;проводити час разом (imperfective);verb;хен аут
+chat;спілкуватися;;relationships;chat;спілкуватися (imperfective);verb;чат
+confide;довірятися;;relationships;confide;довірятися (imperfective);verb;конфайд
+forgive;прощати;;relationships;forgive;прощати (imperfective);verb;форґів
+argue;сперечатися;;relationships;argue;сперечатися (imperfective);verb;арг'ю
+reconcile;миритися;;relationships;reconcile;миритися (imperfective);verb;реконсайл
+encourage;підбадьорювати;;relationships;encourage;підбадьорювати (imperfective);verb;інкередж
+share;ділитися;;relationships;share;ділитися (imperfective);verb;шер
+care;турбуватися;;relationships;care;турбуватися (imperfective);verb;кер
+get along;ладити;;relationships;get along;ладити (imperfective);verb;гет елон
+rely on;покладатися;;relationships;rely on;покладатися (imperfective);verb;рілай он
+guest;гість;guests (masculine);relationships;guest;гість;noun;гест
+host;господар;hosts (masculine);relationships;host;господар;noun;хоуст
+celebrate;святкувати;;relationships;celebrate;святкувати (imperfective);verb;селебрейт
+drink;напій;drinks (masculine);relationships;drink;напій;noun;дрінк
+food;їжа;food (uncountable);relationships;food;їжа;noun;фуд
+cake;торт;cakes (masculine);relationships;cake;торт;noun;кейк
+toast;тост;toasts (masculine);relationships;toast;тост;noun;тоуст
+conversation;розмова;conversations (feminine);relationships;conversation;розмова;noun;конверсейшн
+joke;жарт;jokes (masculine);relationships;joke;жарт;noun;джоук
+laugh;сміх;laugh (uncountable);relationships;laugh;сміх;noun;лаф
+fun;розвага;fun (uncountable);relationships;fun;розвага;noun;фан
+socializing;спілкування;socializing (uncountable);relationships;socializing;спілкування;noun;соушілайзін
+gathering;зібрання;gatherings (neuter);relationships;gathering;зібрання;noun;ґезерін
+crowd;натовп;crowds (masculine);relationships;crowd;натовп;noun;крауд
+introduce;знайомити;;relationships;introduce;знайомити (imperfective);verb;інтродюс
+greet;вітати;;relationships;greet;вітати (imperfective);verb;гріт
+farewell;прощання;farewells (neuter);relationships;farewell;прощання;noun;фервел
+hug;обійма;hugs (feminine);relationships;hug;обійма;noun;хаг
+kiss;поцілунок;kisses (masculine);relationships;kiss;поцілунок;noun;кіс
+handshake;рукостискання;handshakes (neuter);relationships;handshake;рукостискання;noun;хендшейк
+champagne;шампанське;champagne (uncountable);relationships;champagne;шампанське;noun;шампейн
+balloon;кулька;balloons (feminine);relationships;balloon;кулька;noun;балун
+decoration;прикраса;decorations (feminine);relationships;decoration;прикраса;noun;декорейшн
+dance floor;танцмайданчик;dance floors (masculine);relationships;dance floor;танцмайданчик;noun;денс флор
+disco;дискотека;discos (feminine);relationships;disco;дискотека;noun;діскоу
+karaoke;караоке;karaoke (uncountable);relationships;karaoke;караоке;noun;караокі
+weekend;вихідні;weekends (plural only, masculine);relationships;weekend;вихідні;noun;вікенд
+dress code;дрес-код;dress codes (masculine);relationships;dress code;дрес-код;noun;дрес код
+casual;повсякденний;;relationships;casual;повсякденний;adj;кежуал
+formal;офіційний;;relationships;formal;офіційний;adj;формал
+loud;гучний;;relationships;loud;гучний;adj;лауд
+together;разом;;relationships;together;разом;adv;тугезер
+alone;самотній;;relationships;alone;самотній;adj;елон
+conflict;конфлікт;conflicts (masculine);relationships;conflict;конфлікт;noun;конфлікт
+misunderstanding;непорозуміння;misunderstandings (neuter);relationships;misunderstanding;непорозуміння;noun;місандерстендінґ
+dispute;суперечка;disputes (feminine);relationships;dispute;суперечка;noun;дисп'ют
+fight;бійка;fights (feminine);relationships;fight;бійка;noun;файт
+disagreement;незгода;disagreements (feminine);relationships;disagreement;незгода;noun;дісаґрімент
+apology;вибачення;apologies (neuter);relationships;apology;вибачення;noun;аполоджі
+blame;звинувачення;blame (uncountable);relationships;blame;звинувачення;noun;блейм
+accusation;обвинувачення;accusations (neuter);relationships;accusation;обвинувачення;noun;ек'юзейшн
+insult;образа;insults (feminine);relationships;insult;образа;noun;інсалт
+offense;образа;offenses (feminine);relationships;offense;образа;noun;офенс
+resentment;обурення;resentment (uncountable);relationships;resentment;обурення;noun;різентмент
+grudge;злопам'ятство;grudge (uncountable);relationships;grudge;злопам'ятство;noun;ґрадж
+frustration;розчарування;frustration (uncountable);relationships;frustration;розчарування;noun;фрастрейшн
+anger;гнів;anger (uncountable);relationships;anger;гнів;noun;енґер
+rage;лють;rage (uncountable);relationships;rage;лють;noun;рейдж
+outburst;спалах;outbursts (masculine);relationships;outburst;спалах;noun;аутберст
+complaint;скарга;complaints (feminine);relationships;complaint;скарга;noun;комплейнт
+criticism;критика;criticism (uncountable);relationships;criticism;критика;noun;критисізм
+reproach;докір;reproaches (masculine);relationships;reproach;докір;noun;ріпроуч
+tension;напруга;tension (uncountable);relationships;tension;напруга;noun;теншн
+apologize;вибачатися;;relationships;apologize;вибачатися (imperfective);verb;аполоджайз
+accuse;обвинувачувати;;relationships;accuse;обвинувачувати (imperfective);verb;ек'юз
+offend;ображати;;relationships;offend;ображати (imperfective);verb;офенд
+resent;обурюватися;;relationships;resent;обурюватися (imperfective);verb;різент
+yell;кричати;;relationships;yell;кричати (imperfective);verb;йел
+scream;верещати;;relationships;scream;верещати (imperfective);verb;скрім
+shout;кричати;;relationships;shout;кричати (imperfective);verb;шаут
+complain;скаржитися;;relationships;complain;скаржитися (imperfective);verb;комплейн
+criticize;критикувати;;relationships;criticize;критикувати (imperfective);verb;критисайз
+defend;захищати;;relationships;defend;захищати (imperfective);verb;діфенд
+deny;заперечувати;;relationships;deny;заперечувати (imperfective);verb;дінай
+admit;визнавати;;relationships;admit;визнавати (imperfective);verb;адміт
+compromise;іти на компроміс;;relationships;compromise;іти на компроміс (imperfective);verb;компромайз
+negotiate;вести переговори;;relationships;negotiate;вести переговори (imperfective);verb;ніґоушіейт
+forget;забувати;;relationships;forget;забувати (imperfective);verb;форґет
+angry;сердитий;;relationships;angry;сердитий;adj;енґрі
+upset;засмучений;;relationships;upset;засмучений;adj;апсет
+sorry;винуватий;;relationships;sorry;винуватий;adj;сорі
+love;кохання;love (uncountable);relationships;love;кохання;noun;лав
+romance;романтика;romance (uncountable);relationships;romance;романтика;noun;романс
+date;побачення;dates (neuter);relationships;date;побачення;noun;дейт
+boyfriend;хлопець;boyfriends (masculine);relationships;boyfriend;хлопець;noun;бойфренд
+girlfriend;дівчина;girlfriends (feminine);relationships;girlfriend;дівчина;noun;ґьорлфренд
+partner;партнер;partners (masculine);relationships;partner;партнер;noun;партнер
+couple;пара;couples (feminine);relationships;couple;пара;noun;капл
+marriage;шлюб;marriages (masculine);relationships;marriage;шлюб;noun;мерідж
+wedding;весілля;weddings (neuter);relationships;wedding;весілля;noun;ведінґ
+divorce;розлучення;divorces (neuter);relationships;divorce;розлучення;noun;діворс
+flirt;флірт;flirts (masculine);relationships;flirt;флірт;noun;фльорт
+compliment;комплімент;compliments (masculine);relationships;compliment;комплімент;noun;комплімент
+affection;ніжність;affection (uncountable);relationships;affection;ніжність;noun;афекшн
+attraction;привабливість;attraction (uncountable);relationships;attraction;привабливість;noun;атракшн
+crush;симпатія;crushes (feminine);relationships;crush;симпатія;noun;краш
+valentine;валентинка;valentines (feminine);relationships;valentine;валентинка;noun;валентайн
+romantic;романтичний;;relationships;romantic;романтичний;adj;романтік
+passionate;пристрасний;;relationships;passionate;пристрасний;adj;пашініт
+intimate;інтимний;;relationships;intimate;інтимний;adj;інтиміт
+affectionate;ніжний;;relationships;affectionate;ніжний;adj;афекшініт
+compatibility;сумісність;compatibility (uncountable);relationships;compatibility;сумісність;noun;компатібіліті
+soulmate;половинка;soulmates (feminine);relationships;soulmate;половинка;noun;соулмейт
+break up;розлучатися;;relationships;break up;розлучатися (imperfective);verb;брейк ап
+make up;миритися;;relationships;make up;миритися (imperfective);verb;мейк ап
+propose;освідчитися;;relationships;propose;освідчитися (perfective);verb;пропоуз
+engagement;заручини;engagements (plural only);relationships;engagement;заручини;noun;інґейджмент
+honeymoon;медовий місяць;honeymoons (masculine);relationships;honeymoon;медовий місяць;noun;ганімун
+anniversary;річниця;anniversaries (feminine);relationships;anniversary;річниця;noun;еніверсері
+flower;квітка;flowers (feminine);relationships;flower;квітка;noun;флавер
+chocolate;шоколад;chocolate (uncountable);relationships;chocolate;шоколад;noun;чоколіт
+candle;свічка;candles (feminine);relationships;candle;свічка;noun;кендл
+heart;серце;hearts (neuter);relationships;heart;серце;noun;гарт
+sweetheart;коханий;sweethearts (masculine);relationships;sweetheart;коханий;noun;світгарт
+lonely;самотній;;relationships;lonely;самотній;adj;лоунлі

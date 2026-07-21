@@ -1,181 +1,170 @@
-bus;автобус;buses (masculine);travel;bus;автобус;noun;/bʌs/
-tram;трамвай;trams (masculine);travel;tram;трамвай;noun;/træm/
-metro;метро;metros (neuter);travel;metro;метро;noun;/ˈmɛtrəʊ/
-station;станція;stations (feminine);travel;station;станція;noun;/ˈsteɪʃən/
-platform;платформа;platforms (feminine);travel;platform;платформа;noun;/ˈplætfɔːm/
-route;маршрут;routes (masculine);travel;route;маршрут;noun;/ruːt/
-stop;зупинка;stops (feminine);travel;stop;зупинка;noun;/stɒp/
-terminal;термінал;terminals (masculine);travel;terminal;термінал;noun;/ˈtɜːmɪnəl/
-passenger;пасажир;passengers (masculine);travel;passenger;пасажир;noun;/ˈpæsɪndʒə/
-driver;водій;drivers (masculine);travel;driver;водій;noun;/ˈdraɪvə/
-conductor;кондуктор;conductors (masculine);travel;conductor;кондуктор;noun;/kənˈdʌktə/
-ticket machine;білетний автомат;ticket machines (masculine);travel;ticket machine;білетний автомат;noun;/ˈtɪkɪt məˈʃiːn/
-ticket office;каса;ticket offices (feminine);travel;ticket office;каса;noun;/ˈtɪkɪt ˌɒfɪs/
-luggage;багаж;luggage (uncountable, masculine);travel;luggage;багаж;noun;/ˈlʌɡɪdʒ/
-suitcase;валіза;suitcases (feminine);travel;suitcase;валіза;noun;/ˈsuːtkeɪs/
-backpack;рюкзак;backpacks (masculine);travel;backpack;рюкзак;noun;/ˈbækpæk/
-valid;дійсний;;travel;valid;дійсний;adj;/ˈvælɪd/
-depart;відправлятися;;travel;depart;відправлятися (imperfective);verb;/dɪˈpɑːt/
-arrive;прибувати;;travel;arrive;прибувати (imperfective);verb;/əˈraɪv/
-transfer;пересадка;transfers (feminine);travel;transfer;пересадка;noun;/ˈtrænsfɜː/
-connection;пересадка;connections (feminine);travel;connection;пересадка;noun;/kəˈnɛkʃən/
-line;лінія;lines (feminine);travel;line;лінія;noun;/laɪn/
-map;карта;maps (feminine);travel;map;карта;noun;/mæp/
-escalator;ескалатор;escalators (masculine);travel;escalator;ескалатор;noun;/ˈɛskəleɪtə/
-turnstile;турнікет;turnstiles (masculine);travel;turnstile;турнікет;noun;/ˈtɜːnstaɪl/
-token;жетон;tokens (masculine);travel;token;жетон;noun;/ˈtəʊkən/
-rush hour;година пік;rush hour (uncountable, feminine);travel;rush hour;година пік;noun;/rʌʃ aʊə/
-traffic;рух;traffic (uncountable, masculine);travel;traffic;рух;noun;/ˈtræfɪk/
-traffic jam;затор;traffic jams (masculine);travel;traffic jam;затор;noun;/ˈtræfɪk dʒæm/
-lane;смуга;lanes (feminine);travel;lane;смуга;noun;/leɪn/
-timetable;розклад;timetables (masculine);travel;timetable;розклад;noun;/ˈtaɪmteɪbəl/
-delay;затримка;delays (feminine);travel;delay;затримка;noun;/dɪˈleɪ/
-announcement;оголошення;announcements (neuter);travel;announcement;оголошення;noun;/əˈnaʊnsmənt/
-emergency exit;аварійний вихід;emergency exits (masculine);travel;emergency exit;аварійний вихід;noun;/ɪˈmɜːdʒənsi ˈɛksɪt/
-information desk;інформаційна стійка;information desks (feminine);travel;information desk;інформаційна стійка;noun;/ˌɪnfəˈmeɪʃən dɛsk/
-inspector;контролер;inspectors (masculine);travel;inspector;контролер;noun;/ɪnˈspɛktə/
-fine;штраф;fines (masculine);travel;fine;штраф;noun;/faɪn/
-zone;зона;zones (feminine);travel;zone;зона;noun;/zəʊn/
-board;сідати;;travel;board;сідати (imperfective);verb;/bɔːd/
-get off;виходити;;travel;get off;виходити (imperfective);verb;/ɡɛt ɒf/
-booking;бронювання;booking (uncountable);travel;booking;бронювання (neuter);noun;/ˈbʊkɪŋ/
-flight;рейс;flights (masculine);travel;flight;рейс;noun;/flaɪt/
-room;номер;rooms (masculine);travel;room;номер;noun;/ruːm/
-reservation;бронювання;reservations (neuter);travel;reservation;бронювання;noun;/ˌrɛzərˈveɪʃən/
-check-in;реєстрація;check-ins (feminine);travel;check-in;реєстрація;noun;/ˈtʃɛkˌɪn/
-check-out;виселення;check-outs (neuter);travel;check-out;виселення;noun;/ˈtʃɛkˌaʊt/
-boarding pass;посадковий талон;boarding passes (masculine);travel;boarding pass;посадковий талон;noun;/ˈbɔːrdɪŋ pæs/
-passport;паспорт;passports (masculine);travel;passport;паспорт;noun;/ˈpæspɔːrt/
-visa;віза;visas (feminine);travel;visa;віза;noun;/ˈviːzə/
-departure;виліт;departures (masculine);travel;departure;виліт;noun;/dɪˈpɑːrtʃər/
-arrival;прибуття;arrivals (neuter);travel;arrival;прибуття;noun;/əˈraɪvəl/
-airline;авіакомпанія;airlines (feminine);travel;airline;авіакомпанія;noun;/ˈɛərlaɪn/
-fare;вартість квитка;fares (feminine);travel;fare;вартість;noun;/fɛər/
-one-way ticket;квиток в один бік;one-way tickets (masculine);travel;one-way ticket;квиток в один бік;noun;/ˌwʌnˌweɪ ˈtɪkɪt/
-round-trip ticket;квиток туди й назад;round-trip tickets (masculine);travel;round-trip ticket;квиток туди й назад;noun;/ˌraʊndˌtrɪp ˈtɪkɪt/
-layover;пересадка;layovers (feminine);travel;layover;пересадка;noun;/ˈleɪˌoʊvər/
-direct flight;прямий рейс;direct flights (masculine);travel;direct flight;прямий рейс;noun;/dɪˈrɛkt flaɪt/
-aisle seat;місце біля проходу;aisle seats (neuter);travel;aisle seat;місце біля проходу;noun;/ˈaɪəl siːt/
-window seat;місце біля вікна;window seats (neuter);travel;window seat;місце біля вікна;noun;/ˈwɪndoʊ siːt/
-economy class;економ-клас;economy classes (masculine);travel;economy class;економ-клас;noun;/iˈkɑːnəmi klæs/
-business class;бізнес-клас;business classes (masculine);travel;business class;бізнес-клас;noun;/ˈbɪznɪs klæs/
-confirmation;підтвердження;confirmations (neuter);travel;confirmation;підтвердження;noun;/ˌkɑːnfərˈmeɪʃən/
-cancellation;скасування;cancellations (neuter);travel;cancellation;скасування;noun;/ˌkænsəˈleɪʃən/
-payment;оплата;payments (feminine);travel;payment;оплата;noun;/ˈpeɪmənt/
-credit card;кредитна картка;credit cards (feminine);travel;credit card;кредитна картка;noun;/ˈkrɛdɪt kɑːrd/
-debit card;дебетова картка;debit cards (feminine);travel;debit card;дебетова картка;noun;/ˈdɛbɪt kɑːrd/
-itinerary;маршрут;itineraries (masculine);travel;itinerary;маршрут;noun;/aɪˈtɪnəˌrɛri/
-travel insurance;страхування подорожей;travel insurance (uncountable);travel;travel insurance;страхування подорожей;noun;/ˈtrævəl ɪnˈʃʊrəns/
-single room;одномісний номер;single rooms (masculine);travel;single room;одномісний номер;noun;/ˈsɪŋɡəl ruːm/
-double room;двомісний номер;double rooms (masculine);travel;double room;двомісний номер;noun;/ˈdʌbəl ruːm/
-suite;люкс;suites (masculine);travel;suite;люкс;noun;/swiːt/
-amenity;зручність;amenities (feminine);travel;amenity;зручність;noun;/əˈmiːnəti/
-breakfast included;сніданок включено;;travel;breakfast included;сніданок включено;adj;/ˈbrɛkfəst ɪnˈkluːdɪd/
-shuttle;трансфер;shuttles (masculine);travel;shuttle;трансфер;noun;/ˈʃʌtəl/
-taxi;таксі;taxis (neuter);travel;taxi;таксі;noun;/ˈtæksi/
-airport transfer;трансфер до аеропорту;airport transfers (masculine);travel;airport transfer;трансфер до аеропорту;noun;/ˈɛərpɔːrt ˈtrænsfər/
-online booking;онлайн-бронювання;online bookings (neuter);travel;online booking;онлайн-бронювання;noun;/ˈɒnlaɪn ˈbʊkɪŋ/
-guest;гість;guests (masculine);travel;guest;гість;noun;/ɡɛst/
-key card;ключ-карта;key cards (feminine);travel;key card;ключ-карта;noun;/ˈkiː ˌkɑːrd/
-receptionist;адміністратор;receptionists (masculine);travel;receptionist;адміністратор;noun;/rɪˈsɛpʃənɪst/
-book;бронювати;;travel;book;бронювати (imperfective);verb;/bʊk/
-cancel;скасовувати;;travel;cancel;скасовувати (imperfective);verb;/ˈkænsəl/
-confirm;підтверджувати;;travel;confirm;підтверджувати (imperfective);verb;/kənˈfɜːrm/
-check in;реєструватися;;travel;check in;реєструватися (imperfective);verb;/ˌtʃɛk ˈɪn/
-check out;виселятися;;travel;check out;виселятися (imperfective);verb;/ˌtʃɛk ˈaʊt/
-екскурсія;excursion;excursions (feminine);travel;екскурсія;excursion;noun;/eksˈkursʲijɐ/
-пам'ятка;sight;sights (feminine);travel;пам'ятка;sight;noun;/ˈpɐmjɐtkɐ/
-музей;museum;museums (masculine);travel;музей;museum;noun;/muˈzɛj/
-галерея;gallery;galleries (feminine);travel;галерея;gallery;noun;/ɦɐlɛˈrɛjɐ/
-собор;cathedral;cathedrals (masculine);travel;собор;cathedral;noun;/sɔˈbɔr/
-церква;church;churches (feminine);travel;церква;church;noun;/ˈtsɛrkwɑ/
-площа;square;squares (feminine);travel;площа;square;noun;/ˈplɔʃtʃɑ/
-вулиця;street;streets (feminine);travel;вулиця;street;noun;/ˈvulɪtsʲɐ/
-міст;bridge;bridges (masculine);travel;міст;bridge;noun;/mist/
-замок;castle;castles (masculine);travel;замок;castle;noun;/ˈzɑmɔk/
-парк;park;parks (masculine);travel;парк;park;noun;/pɑrk/
-експонат;exhibit;exhibits (masculine);travel;експонат;exhibit;noun;/ekspɔˈnɑt/
-гід;guide;guides (masculine);travel;гід;guide;noun;/ɦid/
-квиток;ticket;tickets (masculine);travel;квиток;ticket;noun;/kʋɪˈtɔk/
-вхід;entrance;entrances (masculine);travel;вхід;entrance;noun;/vxid/
-вихід;exit;exits (masculine);travel;вихід;exit;noun;/ˈvɪxʲid/
-карта;map;maps (feminine);travel;карта;map;noun;/ˈkɑrtɑ/
-схема;diagram;diagrams (feminine);travel;схема;diagram;noun;/ˈsxɛmɐ/
-екскурсовод;guide;guides (masculine);travel;екскурсовод;guide;noun;/ekskʊrsɔˈwɔd/
-група;group;groups (feminine);travel;група;group;noun;/ˈɦrupɐ/
-автобус;bus;buses (masculine);travel;автобус;bus;noun;/ɑwˈtɔbus/
-зупинка;stop;stops (feminine);travel;зупинка;stop;noun;/zʊˈpɪnkɐ/
-виставка;exhibition;exhibitions (feminine);travel;виставка;exhibition;noun;/ˈʋɪstɐwkɐ/
-каса;ticket office;ticket offices (feminine);travel;каса;ticket office;noun;/ˈkɑsɐ/
-черга;queue;queues (feminine);travel;черга;queue;noun;/ˈtʃɛrɦɐ/
-тур;tour;tours (masculine);travel;тур;tour;noun;/tur/
-огляд;sightseeing;sightseeing (uncountable);travel;огляд;sightseeing;noun;/ˈɔɦlʲɐd/
-панорама;panorama;panoramas (feminine);travel;панорама;panorama;noun;/pɐnɔˈrɑmɐ/
-вид;view;views (masculine);travel;вид;view;noun;/ʋɪd/
-центр;centre;centres (masculine);travel;центр;centre;noun;/tsɛntr/
-архітектура;architecture;architecture (uncountable);travel;архітектура;architecture;noun;/ɐrxʲitɛkˈturɐ/
-споруда;building;buildings (feminine);travel;споруда;building;noun;/spɔˈrudɐ/
-палац;palace;palaces (masculine);travel;палац;palace;noun;/pɐˈlɑts/
-фортеця;fortress;fortresses (feminine);travel;фортеця;fortress;noun;/fɔrˈtɛtsʲɐ/
-вежа;tower;towers (feminine);travel;вежа;tower;noun;/ˈʋɛʒɐ/
-колона;column;columns (feminine);travel;колона;column;noun;/kɔˈlɔnɐ/
-фонтан;fountain;fountains (masculine);travel;фонтан;fountain;noun;/fɔnˈtɑn/
-статуя;statue;statues (feminine);travel;статуя;statue;noun;/ˈstɑtʊjɐ/
-скульптура;sculpture;sculptures (feminine);travel;скульптура;sculpture;noun;/skʊlʲpˈturɐ/
-живопис;painting;painting (uncountable);travel;живопис;painting;noun;/ʒɪˈwɔpɪs/
-історичний;historical;;travel;історичний;historical;adj;/istɔˈrɪtʃnɪj/
-архітектурний;architectural;;travel;архітектурний;architectural;adj;/ɐrxʲitɛkˈturnɪj/
-старовинний;ancient;;travel;старовинний;ancient;adj;/stɐrɔˈʋɪnːɪj/
-культурний;cultural;;travel;культурний;cultural;adj;/kʊlʲˈturnɪj/
-пішки;on foot;;travel;пішки;on foot;adv;/ˈpʲiʃkɪ/
-біля;near;;travel;біля;near;prep;/ˈbʲilʲɐ/
-відвідувати;to visit;;travel;відвідувати;to visit (imperfective);verb;/ˈʋʲidʋʲidʊʋɑtɪ/
-оглядати;to sightsee;;travel;оглядати;to sightsee (imperfective);verb;/ɔɦlʲɐˈdɑtɪ/
-фотографувати;to photograph;;travel;фотографувати;to photograph (imperfective);verb;/fɔtɔɦrɐfʊˈʋɑtɪ/
-купити;to buy;;travel;купити;to buy (perfective);verb;/kʊˈpɪtɪ/
-bag;сумка;bags (feminine);travel;bag;сумка;noun;/bæɡ/
-duffel bag;сумка-баул;duffel bags (feminine);travel;duffel bag;сумка-баул;noun;/ˈdʌf.əl bæɡ/
-carry-on;ручна поклажа;carry-ons (feminine);travel;carry-on;ручна поклажа;noun;/ˈkær.i.ɒn/
-baggage;багаж;baggage (uncountable);travel;baggage;багаж;noun;/ˈbæɡ.ɪdʒ/
-pack;пакувати;;travel;pack;пакувати (imperfective);verb;/pæk/
-unpack;розпаковувати;;travel;unpack;розпаковувати (imperfective);verb;/ʌnˈpæk/
-fold;складати;;travel;fold;складати (imperfective);verb;/foʊld/
-roll;скручувати;;travel;roll;скручувати (imperfective);verb;/roʊl/
-zip;застібати на блискавку;;travel;zip;застібати на блискавку (imperfective);verb;/zɪp/
-lock;замикати;;travel;lock;замикати (imperfective);verb;/lɒk/
-weigh;зважувати;;travel;weigh;зважувати (imperfective);verb;/weɪ/
-handle;ручка;handles (feminine);travel;handle;ручка;noun;/ˈhæn.dəl/
-wheel;колесо;wheels (neuter);travel;wheel;колесо;noun;/wiːl/
-strap;ремінь;straps (masculine);travel;strap;ремінь;noun;/stræp/
-buckle;пряжка;buckles (feminine);travel;buckle;пряжка;noun;/ˈbʌk.əl/
-pocket;кишеня;pockets (feminine);travel;pocket;кишеня;noun;/ˈpɒk.ɪt/
-compartment;відділення;compartments (neuter);travel;compartment;відділення;noun;/kəmˈpɑːt.mənt/
-divider;роздільник;dividers (masculine);travel;divider;роздільник;noun;/dɪˈvaɪ.dər/
-packing cube;пакувальний куб;packing cubes (masculine);travel;packing cube;пакувальний куб;noun;/ˈpæk.ɪŋ kjuːb/
-laundry bag;мішок для білизни;laundry bags (masculine);travel;laundry bag;мішок для білизни;noun;/ˈlɔːn.dri bæɡ/
-shoe bag;мішок для взуття;shoe bags (masculine);travel;shoe bag;мішок для взуття;noun;/ˈʃuː bæɡ/
-toiletry bag;косметичка;toiletry bags (feminine);travel;toiletry bag;косметичка;noun;/ˈtɔɪ.lə.tri bæɡ/
-scale;ваги;scales (plural, feminine);travel;scale;ваги;noun;/skeɪl/
-luggage tag;бірка для багажу;luggage tags (feminine);travel;luggage tag;бірка для багажу;noun;/ˈlʌɡ.ɪdʒ tæɡ/
-combination lock;кодовий замок;combination locks (masculine);travel;combination lock;кодовий замок;noun;/ˌkɒm.bɪˈneɪ.ʃən lɒk/
-padlock;навісний замок;padlocks (masculine);travel;padlock;навісний замок;noun;/ˈpæd.lɒk/
-TSA lock;замок TSA;TSA locks (masculine);travel;TSA lock;замок TSA;noun;/ˌtiː.esˈeɪ lɒk/
-luggage cover;чохол для багажу;luggage covers (masculine);travel;luggage cover;чохол для багажу;noun;/ˈlʌɡ.ɪdʒ ˌkʌv.ər/
-passport cover;обкладинка для паспорта;passport covers (feminine);travel;passport cover;обкладинка для паспорта;noun;/ˈpɑːs.pɔːt ˌkʌv.ər/
-packing list;список для пакування;packing lists (masculine);travel;packing list;список для пакування;noun;/ˈpæk.ɪŋ lɪst/
-tag;бирка;tags (feminine);travel;tag;бирка;noun;/tæɡ/
-luggage strap;ремінь для багажу;luggage straps (masculine);travel;luggage strap;ремінь для багажу;noun;/ˈlʌɡ.ɪdʒ stræp/
-travel adapter;дорожній адаптер;travel adapters (masculine);travel;travel adapter;дорожній адаптер;noun;/ˈtræv.əl əˈdæp.tər/
-charger;зарядний пристрій;chargers (masculine);travel;charger;зарядний пристрій;noun;/ˈtʃɑːr.dʒər/
-power bank;павербанк;power banks (masculine);travel;power bank;павербанк;noun;/ˈpaʊ.ər bæŋk/
-heavy;важкий;;travel;heavy;важкий;adj;/ˈhɛv.i/
-light;легкий;;travel;light;легкий;adj;/laɪt/
-full;повний;;travel;full;повний;adj;/fʊl/
-empty;порожній;;travel;empty;порожній;adj;/ˈɛmp.ti/
-unlock;відмикати;;travel;unlock;відмикати (imperfective);verb;/ʌnˈlɒk/
-compress;стискати;;travel;compress;стискати (imperfective);verb;/kəmˈprɛs/
-attach;прикріплювати;;travel;attach;прикріплювати (imperfective);verb;/əˈtætʃ/
-detach;від'єднувати;;travel;detach;від'єднувати (imperfective);verb;/dɪˈtætʃ/
-luggage belt;стрічка для багажу;luggage belts (feminine);travel;luggage belt;стрічка для багажу;noun;/ˈlʌɡ.ɪdʒ bɛlt/
-zipper;застібка-блискавка;zippers (feminine);travel;zipper;застібка-блискавка;noun;/ˈzɪp.ər/
-clothes;одяг;clothes (uncountable);travel;clothes;одяг;noun;/kloʊðz/
+tram;трамвай;trams (masculine);travel;tram;трамвай;noun;трам
+trolleybus;тролейбус;trolleybuses (masculine);travel;trolleybus;тролейбус;noun;тролейбас
+metro;метро;metro (uncountable);travel;metro;метро;noun;метро
+station;станція;stations (feminine);travel;station;станція;noun;стейшн
+stop;зупинка;stops (feminine);travel;stop;зупинка;noun;стоп
+platform;платформа;platforms (feminine);travel;platform;платформа;noun;платформ
+timetable;розклад;timetables (masculine);travel;timetable;розклад;noun;таймтейбл
+fare;тариф;fares (masculine);travel;fare;тариф;noun;фер
+ticket;квиток;tickets (masculine);travel;ticket;квиток;noun;тікет
+pass;проїзний;passes (masculine);travel;pass;проїзний;noun;пас
+route;маршрут;routes (masculine);travel;route;маршрут;noun;рут
+line;лінія;lines (feminine);travel;line;лінія;noun;лайн
+conductor;кондуктор;conductors (masculine);travel;conductor;кондуктор;noun;кондактор
+driver;водій;drivers (masculine);travel;driver;водій;noun;драйвер
+passenger;пасажир;passengers (masculine);travel;passenger;пасажир;noun;пасенджер
+carriage;вагон;carriages (masculine);travel;carriage;вагон;noun;карідж
+seat;сидіння;seats (neuter);travel;seat;сидіння;noun;сіт
+ticket machine;автомат;ticket machines (masculine);travel;ticket machine;автомат;noun;тікет машін
+validator;валідатор;validators (masculine);travel;validator;валідатор;noun;валідейтор
+turnstile;турнікет;turnstiles (masculine);travel;turnstile;турнікет;noun;турнстайл
+entrance;вхід;entrances (masculine);travel;entrance;вхід;noun;ентренс
+exit;вихід;exits (masculine);travel;exit;вихід;noun;ексіт
+escalator;ескалатор;escalators (masculine);travel;escalator;ескалатор;noun;ескелейтор
+elevator;ліфт;elevators (masculine);travel;elevator;ліфт;noun;елевейтор
+announcement;оголошення;announcements (neuter);travel;announcement;оголошення;noun;анаунсмент
+departure;відправлення;departures (neuter);travel;departure;відправлення;noun;діпарчур
+arrival;прибуття;arrivals (neuter);travel;arrival;прибуття;noun;ерайвал
+delay;затримка;delays (feminine);travel;delay;затримка;noun;ділей
+rush hour;година пік;rush hours (feminine);travel;rush hour;година пік;noun;раш ауер
+transfer;пересадка;transfers (feminine);travel;transfer;пересадка;noun;трансфер
+one-way ticket;квиток в один бік;one-way tickets (masculine);travel;one-way ticket;квиток в один бік;noun;уан-вей тікет
+return ticket;зворотний квиток;return tickets (masculine);travel;return ticket;зворотний квиток;noun;рітерн тікет
+monthly pass;місячний проїзний;monthly passes (masculine);travel;monthly pass;місячний проїзний;noun;манслі пас
+travel card;проїзна картка;travel cards (feminine);travel;travel card;проїзна картка;noun;тревел кард
+zone;зона;zones (feminine);travel;zone;зона;noun;зоун
+wait;чекати;;travel;wait;чекати (imperfective);verb;вейт
+board;сідати;;travel;board;сідати (imperfective);verb;борд
+get off;виходити;;travel;get off;виходити (imperfective);verb;гет оф
+arrive;прибувати;;travel;arrive;прибувати (imperfective);verb;ерайв
+depart;відправлятися;;travel;depart;відправлятися (imperfective);verb;діпарт
+miss;пропускати;;travel;miss;пропускати (imperfective);verb;міс
+catch;встигати;;travel;catch;встигати (imperfective);verb;кеч
+next;наступний;;travel;next;наступний;adj;некст
+express;швидкий;;travel;express;швидкий;adj;експрес
+direct;прямий;;travel;direct;прямий;adj;дайрект
+flight;рейс;flights (masculine);travel;flight;рейс;noun;флайт
+reservation;бронювання;reservations (neuter);travel;reservation;бронювання;noun;резервейшн
+hotel;готель;hotels (masculine);travel;hotel;готель;noun;гоутел
+check-in;реєстрація;check-ins (feminine);travel;check-in;реєстрація;noun;чек-ін
+check-out;виїзд;check-outs (masculine);travel;check-out;виїзд;noun;чек-аут
+passport;паспорт;passports (masculine);travel;passport;паспорт;noun;паспорт
+visa;віза;visas (feminine);travel;visa;віза;noun;віза
+luggage;багаж;luggage (uncountable);travel;luggage;багаж;noun;лагідж
+suitcase;валіза;suitcases (feminine);travel;suitcase;валіза;noun;сьюткейс
+boarding pass;посадковий талон;boarding passes (masculine);travel;boarding pass;посадковий талон;noun;бордінг пас
+terminal;термінал;terminals (masculine);travel;terminal;термінал;noun;термінал
+gate;вихід;gates (masculine);travel;gate;вихід;noun;гейт
+aisle;прохід;aisles (masculine);travel;aisle;прохід;noun;айл
+discount;знижка;discounts (feminine);travel;discount;знижка;noun;дискаунт
+cancellation;скасування;cancellations (neuter);travel;cancellation;скасування;noun;канселейшн
+confirmation;підтвердження;confirmations (neuter);travel;confirmation;підтвердження;noun;конфірмейшн
+itinerary;маршрут;itineraries (masculine);travel;itinerary;маршрут;noun;айтінерері
+travel agency;туристичне агентство;travel agencies (neuter);travel;travel agency;туристичне агентство;noun;тревел ейджнсі
+destination;пункт призначення;destinations (masculine);travel;destination;пункт призначення;noun;дестінейшн
+airline;авіакомпанія;airlines (feminine);travel;airline;авіакомпанія;noun;ерлайн
+one-way;в один бік;;travel;one-way;в один бік;adj;ван-вей
+round-trip;туди й назад;;travel;round-trip;туди й назад;adj;раунд-трип
+direct flight;прямий рейс;direct flights (masculine);travel;direct flight;прямий рейс;noun;дайрект флайт
+layover;пересадка;layovers (feminine);travel;layover;пересадка;noun;лейовер
+baggage claim;видача багажу;baggage claims (feminine);travel;baggage claim;видача багажу;noun;бегідж клейм
+customs;митниця;customs (uncountable);travel;customs;митниця;noun;кастомз
+security check;перевірка безпеки;security checks (feminine);travel;security check;перевірка безпеки;noun;сек'юріті чек
+booking;бронювання;bookings (neuter);travel;booking;бронювання;noun;букінг
+deposit;завдаток;deposits (masculine);travel;deposit;завдаток;noun;депозит
+receipt;квитанція;receipts (feminine);travel;receipt;квитанція;noun;рісіт
+online check-in;онлайн-реєстрація;online check-ins (feminine);travel;online check-in;онлайн-реєстрація;noun;онлайн чек-ін
+boarding;посадка;boardings (feminine);travel;boarding;посадка;noun;бордінг
+gate number;номер виходу;gate numbers (masculine);travel;gate number;номер виходу;noun;гейт намбер
+travel insurance;страхування подорожей;travel insurance (uncountable);travel;travel insurance;страхування подорожей;noun;тревел іншуранс
+single room;одномісний номер;single rooms (masculine);travel;single room;одномісний номер;noun;сінгл рум
+double room;двомісний номер;double rooms (masculine);travel;double room;двомісний номер;noun;дабл рум
+suite;люкс;suites (masculine);travel;suite;люкс;noun;світ
+view;вид;views (masculine);travel;view;вид;noun;в'ю
+confirmed;підтверджений;;travel;confirmed;підтверджений;adj;конфірмд
+available;доступний;;travel;available;доступний;adj;авейлебл
+sightseeing;екскурсія;sightseeing (uncountable);travel;sightseeing;екскурсія;noun;сайтсіінґ
+monument;пам'ятник;monuments (masculine);travel;monument;пам'ятник;noun;моньюмент
+guide;гід;guides (masculine);travel;guide;гід;noun;ґайд
+map;карта;maps (feminine);travel;map;карта;noun;меп
+souvenir;сувенір;souvenirs (masculine);travel;souvenir;сувенір;noun;сувенір
+queue;черга;queues (feminine);travel;queue;черга;noun;к'ю
+landmark;пам'ятка;landmarks (feminine);travel;landmark;пам'ятка;noun;лендмарк
+cathedral;собор;cathedrals (masculine);travel;cathedral;собор;noun;катедрал
+castle;замок;castles (masculine);travel;castle;замок;noun;касл
+palace;палац;palaces (masculine);travel;palace;палац;noun;пелес
+tour;тур;tours (masculine);travel;tour;тур;noun;тур
+excursion;екскурсія;excursions (feminine);travel;excursion;екскурсія;noun;екскершн
+viewpoint;оглядова точка;viewpoints (feminine);travel;viewpoint;оглядова точка;noun;в'юпойнт
+panorama;панорама;panoramas (feminine);travel;panorama;панорама;noun;панорама
+statue;статуя;statues (feminine);travel;statue;статуя;noun;статю
+ruins;руїни;ruins (plural, feminine);travel;ruin;руїна;noun;руінз
+historic;історичний;;travel;historic;історичний;adj;гісторік
+architecture;архітектура;architecture (uncountable);travel;architecture;архітектура;noun;аркітекче
+beach;пляж;beaches (masculine);travel;beach;пляж;noun;біч
+coast;узбережжя;coasts (neuter);travel;coast;узбережжя;noun;коуст
+island;острів;islands (masculine);travel;island;острів;noun;айленд
+ferry;пором;ferries (masculine);travel;ferry;пором;noun;фері
+cruise;круїз;cruises (masculine);travel;cruise;круїз;noun;круз
+audio guide;аудіогід;audio guides (masculine);travel;audio guide;аудіогід;noun;одіо ґайд
+entrance fee;вхідна плата;entrance fees (feminine);travel;entrance fee;вхідна плата;noun;ентренс фі
+opening hours;години роботи;opening hours (plural, feminine);travel;opening hours;години роботи;noun;оупенін ауерз
+bus tour;автобусний тур;bus tours (masculine);travel;bus tour;автобусний тур;noun;бас тур
+walking tour;пішохідна екскурсія;walking tours (feminine);travel;walking tour;пішохідна екскурсія;noun;вокін тур
+rooftop;дах;rooftops (masculine);travel;rooftop;дах;noun;руфтоп
+observation deck;оглядовий майданчик;observation decks (masculine);travel;observation deck;оглядовий майданчик;noun;обзевейшн дек
+selfie;селфі;selfies (neuter);travel;selfie;селфі;noun;селфі
+postcard;листівка;postcards (feminine);travel;postcard;листівка;noun;посткард
+brochure;брошура;brochures (feminine);travel;brochure;брошура;noun;броуше
+book;бронювати;;travel;book;бронювати (imperfective);verb;бук
+reserve;резервувати;;travel;reserve;резервувати (imperfective);verb;різев
+visit;відвідувати;;travel;visit;відвідувати (imperfective);verb;візіт
+explore;досліджувати;;travel;explore;досліджувати (imperfective);verb;експлор
+валіза;suitcase;suitcases (feminine);travel;валіза;suitcase;noun;сьюткейс
+рюкзак;backpack;backpacks (masculine);travel;рюкзак;backpack;noun;бекпек
+сумка;bag;bags (feminine);travel;сумка;bag;noun;беґ
+багаж;luggage;luggage (uncountable);travel;багаж;luggage;noun;лаґідж
+пакування;packing;packing (uncountable);travel;пакування;packing;noun;пекінґ
+розпаковувати;unpack;;travel;розпаковувати;unpack (imperfective);verb;анпак
+пакувати;pack;;travel;пакувати;pack (imperfective);verb;пек
+ручна поклажа;carry-on luggage;carry-on luggage (uncountable);travel;ручна поклажа;carry-on luggage;noun;кері-он лаґідж
+паспорт;passport;passports (masculine);travel;паспорт;passport;noun;паспорт
+посадковий талон;boarding pass;boarding passes (masculine);travel;посадковий талон;boarding pass;noun;бордінґ пас
+одяг;clothing;clothing (uncountable);travel;одяг;clothing;noun;клоудінґ
+взуття;shoes;shoes (neuter);travel;взуття;shoes;noun;шуз
+туалетне приладдя;toiletries;toiletries (neuter);travel;туалетне приладдя;toiletries;noun;тойлетріз
+косметика;cosmetics;cosmetics (uncountable);travel;косметика;cosmetics;noun;козметикс
+аптечка;first aid kit;first aid kits (feminine);travel;аптечка;first aid kit;noun;фьорст ейд кіт
+документи;documents;documents;travel;документи;documents;noun;докьюментс
+гроші;money;money (uncountable);travel;гроші;money;noun;мані
+ключ;key;keys (masculine);travel;ключ;key;noun;кі
+зарядний пристрій;charger;chargers (masculine);travel;зарядний пристрій;charger;noun;чарджер
+адаптер;adapter;adapters (masculine);travel;адаптер;adapter;noun;адаптер
+навушники;headphones;headphones (plural);travel;навушники;headphones;noun;хедфоунз
+книга;book;books (feminine);travel;книга;book;noun;бук
+журнал;magazine;magazines (masculine);travel;журнал;magazine;noun;меґезін
+пляжний рушник;beach towel;beach towels (masculine);travel;пляжний рушник;beach towel;noun;біч тауел
+сонцезахисний крем;sunscreen;sunscreen (uncountable);travel;сонцезахисний крем;sunscreen;noun;санскрін
+окуляри;glasses;glasses (plural);travel;окуляри;glasses;noun;ґласез
+парасоля;umbrella;umbrellas (feminine);travel;парасоля;umbrella;noun;амбрела
+пляшка;bottle;bottles (feminine);travel;пляшка;bottle;noun;ботл
+вода;water;water (uncountable);travel;вода;water;noun;вота
+перекус;snack;snacks (masculine);travel;перекус;snack;noun;снек
+светр;sweater;sweaters (masculine);travel;светр;sweater;noun;светер
+куртка;jacket;jackets (feminine);travel;куртка;jacket;noun;джекет
+шкарпетки;socks;socks (plural);travel;шкарпетки;socks;noun;сокс
+білизна;underwear;underwear (uncountable);travel;білизна;underwear;noun;андервер
+піжама;pajamas;pajamas (plural);travel;піжама;pajamas;noun;пажамаз
+зубна щітка;toothbrush;toothbrushes (feminine);travel;зубна щітка;toothbrush;noun;тузбраш
+зубна паста;toothpaste;toothpaste (uncountable);travel;зубна паста;toothpaste;noun;тузпейст
+шампунь;shampoo;shampoo (uncountable);travel;шампунь;shampoo;noun;шемпу
+гребінець;comb;combs (masculine);travel;гребінець;comb;noun;коум
+дзеркало;mirror;mirrors (neuter);travel;дзеркало;mirror;noun;мірор
+ножиці;scissors;scissors (plural);travel;ножиці;scissors;noun;сизорз
+блокнот;notebook;notebooks (masculine);travel;блокнот;notebook;noun;ноутбук
+ручка;pen;pens (feminine);travel;ручка;pen;noun;пен
+батарея;battery;batteries (feminine);travel;батарея;battery;noun;батері
+ліхтарик;flashlight;flashlights (masculine);travel;ліхтарик;flashlight;noun;флешлайт
+сувенір;souvenir;souvenirs (masculine);travel;сувенір;souvenir;noun;сувенір
+пакувальний список;packing list;packing lists (masculine);travel;пакувальний список;packing list;noun;пекінґ ліст
+вага;scales;scales (feminine);travel;вага;scales;noun;скейлз

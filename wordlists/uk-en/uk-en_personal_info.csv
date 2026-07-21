@@ -1,200 +1,147 @@
-мама;mother;mothers (feminine);personal_info;мама;mother;noun;/ˈmɑmɐ/
-тато;father;fathers (masculine);personal_info;тато;father;noun;/ˈtɑto/
-брат;brother;brothers (masculine);personal_info;брат;brother;noun;/brɑt/
-сестра;sister;sisters (feminine);personal_info;сестра;sister;noun;/seˈstrɑ/
-син;son;sons (masculine);personal_info;син;son;noun;/sɪn/
-дочка;daughter;daughters (feminine);personal_info;дочка;daughter;noun;/dɔt͡ʃˈkɑ/
-чоловік;husband;husbands (masculine);personal_info;чоловік;husband;noun;/t͡ʃoloˈʋik/
-дружина;wife;wives (feminine);personal_info;дружина;wife;noun;/druˈʒɪnɐ/
-дядько;uncle;uncles (masculine);personal_info;дядько;uncle;noun;/ˈdʲɑdʲko/
-тітка;aunt;aunts (feminine);personal_info;тітка;aunt;noun;/ˈtʲitkɐ/
-двоюрідний брат;cousin (male);cousins (masculine);personal_info;двоюрідний брат;cousin;noun;/dwojuˈrʲidnɪj brɑt/
-двоюрідна сестра;cousin (female);cousins (feminine);personal_info;двоюрідна сестра;cousin;noun;/dwojuˈrʲidnɐ seˈstrɑ/
-племінник;nephew;nephews (masculine);personal_info;племінник;nephew;noun;/pleˈmʲinːɪk/
-племінниця;niece;nieces (feminine);personal_info;племінниця;niece;noun;/pleˈmʲinːɪt͡sʲɐ/
-дід;grandfather;grandfathers (masculine);personal_info;дід;grandfather;noun;/dʲid/
-баба;grandmother;grandmothers (feminine);personal_info;баба;grandmother;noun;/ˈbɑbɐ/
-онук;grandson;grandsons (masculine);personal_info;онук;grandson;noun;/oˈnuk/
-онука;granddaughter;granddaughters (feminine);personal_info;онука;granddaughter;noun;/oˈnukɐ/
-батьки;parents;parents (plural);personal_info;батьки;parents;noun;/bɐtʲˈkɪ/
-діти;children;children (plural);personal_info;діти;children;noun;/ˈdʲitɪ/
-родич;relative;relatives (masculine);personal_info;родич;relative;noun;/ˈrɔdɪt͡ʃ/
-свекор;father-in-law;fathers-in-law (masculine);personal_info;свекор;father-in-law;noun;/ˈsʋɛkor/
-свекруха;mother-in-law;mothers-in-law (feminine);personal_info;свекруха;mother-in-law;noun;/sʋeˈkruxɐ/
-зять;son-in-law;sons-in-law (masculine);personal_info;зять;son-in-law;noun;/zʲɑtʲ/
-невістка;daughter-in-law;daughters-in-law (feminine);personal_info;невістка;daughter-in-law;noun;/neˈʋistkɐ/
-вітчим;stepfather;stepfathers (masculine);personal_info;вітчим;stepfather;noun;/ˈʋit͡ʃɪm/
-мачуха;stepmother;stepmothers (feminine);personal_info;мачуха;stepmother;noun;/mɐˈt͡ʃuxɐ/
-друг;friend (male);friends (masculine);personal_info;друг;friend;noun;/druɦ/
-подруга;friend (female);friends (feminine);personal_info;подруга;friend;noun;/poˈdruɦɐ/
-знайомий;acquaintance (male);acquaintances (masculine);personal_info;знайомий;acquaintance;noun;/znɐˈjɔmɪj/
-сусід;neighbor (male);neighbors (masculine);personal_info;сусід;neighbor;noun;/suˈsʲid/
-колега;colleague;colleagues (common gender);personal_info;колега;colleague;noun;/koˈlɛɦɐ/
-хлопець;boyfriend;boyfriends (masculine);personal_info;хлопець;boyfriend;noun;/ˈxɫɔpet͡sʲ/
-дівчина;girlfriend;girlfriends (feminine);personal_info;дівчина;girlfriend;noun;/ˈdʲiu̯t͡ʃɪnɐ/
-наречений;fiancé;fiancés (masculine);personal_info;наречений;fiancé;noun;/nɐˈrɛt͡ʃenɪj/
-наречена;fiancée;fiancées (feminine);personal_info;наречена;fiancée;noun;/nɐˈrɛt͡ʃenɐ/
-шлюб;marriage;marriages (masculine);personal_info;шлюб;marriage;noun;/ʃlʲub/
-весілля;wedding;weddings (neuter);personal_info;весілля;wedding;noun;/ʋeˈsʲilʲːɐ/
-розлучення;divorce;divorces (neuter);personal_info;розлучення;divorce;noun;/rozˈlut͡ʃenʲːɐ/
-вдова;widow;widows (feminine);personal_info;вдова;widow;noun;/wdoˈʋɑ/
-вдівець;widower;widowers (masculine);personal_info;вдівець;widower;noun;/wdʲiˈʋɛt͡sʲ/
-сирота;orphan;orphans (common gender);personal_info;сирота;orphan;noun;/sɪroˈtɑ/
-близнюк;twin (male);twins (masculine);personal_info;близнюк;twin;noun;/blɪzˈnʲuk/
-кохати;to love;;personal_info;кохати;кохати (imperfective);verb;/koˈxɑtɪ/
-одружитися;to marry;;personal_info;одружитися;одружитися (perfective);verb;/odruˈʒɪtɪsʲɐ/
-розлучатися;to divorce;;personal_info;розлучатися;розлучатися (imperfective);verb;/rozluˈt͡ʃɑtɪsʲɐ/
-народжуватися;to be born;;personal_info;народжуватися;народжуватися (imperfective);verb;/nɐˈrɔd͡ʒuʋɐtɪsʲɐ/
-виховувати;to raise;;personal_info;виховувати;виховувати (imperfective);verb;/ʋɪˈxɔʋuʋɐtɪ/
-усиновлювати;to adopt;;personal_info;усиновлювати;усиновлювати (imperfective);verb;/usɪˈnɔu̯lʲuʋɐtɪ/
-сваритися;to quarrel;;personal_info;сваритися;сваритися (imperfective);verb;/sʋɐˈrɪtɪsʲɐ/
-tall;високий;;personal_info;tall;високий;adj;/tɔːl/
-short;низький;;personal_info;short;низький;adj;/ʃɔːrt/
-medium-height;середнього зросту;;personal_info;medium-height;середнього зросту;adj;/ˈmiːdiəm haɪt/
-slim;стрункий;;personal_info;slim;стрункий;adj;/slɪm/
-thin;худий;;personal_info;thin;худий;adj;/θɪn/
-fat;товстий;;personal_info;fat;товстий;adj;/fæt/
-overweight;із зайвою вагою;;personal_info;overweight;із зайвою вагою;adj;/ˌoʊvərˈweɪt/
-muscular;мускулистий;;personal_info;muscular;мускулистий;adj;/ˈmʌskjʊlər/
-athletic;атлетичний;;personal_info;athletic;атлетичний;adj;/æθˈletɪk/
-well-built;добре складений;;personal_info;well-built;добре складений;adj;/ˌwel ˈbɪlt/
-stocky;кремезний;;personal_info;stocky;кремезний;adj;/ˈstɒki/
-young;молодий;;personal_info;young;молодий;adj;/jʌŋ/
-old;старий;;personal_info;old;старий;adj;/oʊld/
-middle-aged;середнього віку;;personal_info;middle-aged;середнього віку;adj;/ˌmɪdəl ˈeɪdʒd/
-beautiful;гарний;;personal_info;beautiful;гарний;adj;/ˈbjuːtɪfəl/
-handsome;вродливий;;personal_info;handsome;вродливий;adj;/ˈhænsəm/
-pretty;симпатичний;;personal_info;pretty;симпатичний;adj;/ˈprɪti/
-good-looking;привабливий;;personal_info;good-looking;привабливий;adj;/ˌɡʊd ˈlʊkɪŋ/
-ugly;негарний;;personal_info;ugly;негарний;adj;/ˈʌɡli/
-plain;звичайний;;personal_info;plain;звичайний;adj;/pleɪn/
-blond;білявий;;personal_info;blond;білявий;adj;/blɒnd/
-blonde;блондинка;blondes (feminine);personal_info;blonde;блондинка;noun;/blɒnd/
-brunette;брюнетка;brunettes (feminine);personal_info;brunette;брюнетка;noun;/bruːˈnet/
-redhead;руда;redheads (feminine);personal_info;redhead;руда;noun;/ˈredˌhed/
-bald;лисий;;personal_info;bald;лисий;adj;/bɔːld/
-straight hair;пряме волосся;straight hair (uncountable);personal_info;straight hair;пряме волосся;noun;/streɪt hɛr/
-wavy hair;хвилясте волосся;wavy hair (uncountable);personal_info;wavy hair;хвилясте волосся;noun;/ˈweɪvi hɛr/
-curly hair;кучеряве волосся;curly hair (uncountable);personal_info;curly hair;кучеряве волосся;noun;/ˈkɜːrli hɛr/
-beard;борода;beards (feminine);personal_info;beard;борода;noun;/bɪərd/
-moustache;вуса;moustaches (plural, masculine);personal_info;moustache;вуса;noun;/məˈstɑːʃ/
-glasses;окуляри;glasses (plural, no gender);personal_info;glasses;окуляри;noun;/ˈɡlæsɪz/
-freckles;веснянки;freckles (plural, feminine);personal_info;freckles;веснянки;noun;/ˈfrekəlz/
-wrinkle;зморшка;wrinkles (feminine);personal_info;wrinkle;зморшка;noun;/ˈrɪŋkəl/
-dimple;ямочка;dimples (feminine);personal_info;dimple;ямочка;noun;/ˈdɪmpəl/
-scar;шрам;scars (masculine);personal_info;scar;шрам;noun;/skɑːr/
-tattoo;татуювання;tattoos (neuter);personal_info;tattoo;татуювання;noun;/tæˈtuː/
-piercing;пірсинг;piercings (masculine);personal_info;piercing;пірсинг;noun;/ˈpɪrsɪŋ/
-height;зріст;heights (masculine);personal_info;height;зріст;noun;/haɪt/
-weight;вага;weights (feminine);personal_info;weight;вага;noun;/weɪt/
-build;статура;builds (feminine);personal_info;build;статура;noun;/bɪld/
-complexion;колір обличчя;complexions (masculine);personal_info;complexion;колір обличчя;noun;/kəmˈplekʃən/
-fair-skinned;світлошкірий;;personal_info;fair-skinned;світлошкірий;adj;/ˌfɛr ˈskɪnd/
-dark-skinned;темношкірий;;personal_info;dark-skinned;темношкірий;adj;/ˌdɑːrk ˈskɪnd/
-pale;блідий;;personal_info;pale;блідий;adj;/peɪl/
-tanned;засмаглий;;personal_info;tanned;засмаглий;adj;/tænd/
-attractive;привабливий;;personal_info;attractive;привабливий;adj;/əˈtræktɪv/
-unattractive;непривабливий;;personal_info;unattractive;непривабливий;adj;/ˌʌnəˈtræktɪv/
-scruffy;неохайний;;personal_info;scruffy;неохайний;adj;/ˈskrʌfi/
-well-dressed;добре одягнений;;personal_info;well-dressed;добре одягнений;adj;/ˌwel ˈdrest/
-petite;мініатюрний;;personal_info;petite;мініатюрний;adj;/pəˈtiːt/
-добрий;kind;;personal_info;добрий;kind;adj;/ˈdɔbrɪj/
-злий;evil;;personal_info;злий;evil;adj;/zlɪj/
-веселий;cheerful;;personal_info;веселий;cheerful;adj;/vɛˈsɛlɪj/
-сумний;sad;;personal_info;сумний;sad;adj;/sʊmˈnɪj/
-розумний;clever;;personal_info;розумний;clever;adj;/roˈzumnɪj/
-дурний;stupid;;personal_info;дурний;stupid;adj;/dʊrˈnɪj/
-чесний;honest;;personal_info;чесний;honest;adj;/ˈtʃɛsnɪj/
-брехливий;lying;;personal_info;брехливий;lying;adj;/brɛxˈlɪvɪj/
-щедрий;generous;;personal_info;щедрий;generous;adj;/ˈʃtʃɛdrɪj/
-жадібний;greedy;;personal_info;жадібний;greedy;adj;/ʒɑˈdʲibnɪj/
-сміливий;brave;;personal_info;сміливий;brave;adj;/smiˈlɪvɪj/
-боягузливий;cowardly;;personal_info;боягузливий;cowardly;adj;/bɔjɑˈɦuzlɪvɪj/
-працьовитий;hardworking;;personal_info;працьовитий;hardworking;adj;/prɑt͡sʲoˈvɪtɪj/
-лінивий;lazy;;personal_info;лінивий;lazy;adj;/lʲiˈnɪvɪj/
-терплячий;patient;;personal_info;терплячий;patient;adj;/tɛrˈplʲɑt͡ʃɪj/
-нетерплячий;impatient;;personal_info;нетерплячий;impatient;adj;/nɛtɛrˈplʲɑt͡ʃɪj/
-спокійний;calm;;personal_info;спокійний;calm;adj;/spoˈkʲijnɪj/
-нервовий;nervous;;personal_info;нервовий;nervous;adj;/nɛrˈvɔvɪj/
-ввічливий;polite;;personal_info;ввічливий;polite;adj;/ˈvʲʋit͡ʃlɪvɪj/
-грубий;rude;;personal_info;грубий;rude;adj;/ˈɦrubɪj/
-доброзичливий;friendly;;personal_info;доброзичливий;friendly;adj;/dɔbrɔˈzɪt͡ʃlɪvɪj/
-ворожий;hostile;;personal_info;ворожий;hostile;adj;/vɔˈrɔʒɪj/
-чуйний;sensitive;;personal_info;чуйний;sensitive;adj;/ˈt͡ʃujnɪj/
-байдужий;indifferent;;personal_info;байдужий;indifferent;adj;/bɑjˈduʒɪj/
-егоїстичний;selfish;;personal_info;егоїстичний;selfish;adj;/ɛɦɔjisˈtɪt͡ʃnɪj/
-альтруїстичний;altruistic;;personal_info;альтруїстичний;altruistic;adj;/ɑlʲtrujisˈtɪt͡ʃnɪj/
-скромний;modest;;personal_info;скромний;modest;adj;/ˈskrɔmnɪj/
-гордий;proud;;personal_info;гордий;proud;adj;/ˈɦɔrdɪj/
-впевнений;confident;;personal_info;впевнений;confident;adj;/ˈfpɛu̯nɛnɪj/
-сором'язливий;shy;;personal_info;сором'язливий;shy;adj;/sɔrɔmˈjɑzlɪvɪj/
-балакучий;talkative;;personal_info;балакучий;talkative;adj;/bɑlɑˈkut͡ʃɪj/
-мовчазний;silent;;personal_info;мовчазний;silent;adj;/mɔu̯ˈt͡ʃɑznɪj/
-серйозний;serious;;personal_info;серйозний;serious;adj;/sɛrˈjɔznɪj/
-легковажний;frivolous;;personal_info;легковажний;frivolous;adj;/lɛɦkɔˈvɑʒnɪj/
-відповідальний;responsible;;personal_info;відповідальний;responsible;adj;/ʋidpɔviˈdɑlʲnɪj/
-безвідповідальний;irresponsible;;personal_info;безвідповідальний;irresponsible;adj;/bɛzʋidpɔviˈdɑlʲnɪj/
-рішучий;decisive;;personal_info;рішучий;decisive;adj;/rʲiˈʃut͡ʃɪj/
-нерішучий;indecisive;;personal_info;нерішучий;indecisive;adj;/nɛrʲiˈʃut͡ʃɪj/
-оптимістичний;optimistic;;personal_info;оптимістичний;optimistic;adj;/ɔptɪmʲisˈtɪt͡ʃnɪj/
-песимістичний;pessimistic;;personal_info;песимістичний;pessimistic;adj;/pɛsɪmʲisˈtɪt͡ʃnɪj/
-творчий;creative;;personal_info;творчий;creative;adj;/ˈtvɔrt͡ʃɪj/
-практичний;practical;;personal_info;практичний;practical;adj;/prɑkˈtɪt͡ʃnɪj/
-непрактичний;impractical;;personal_info;непрактичний;impractical;adj;/nɛprɑkˈtɪt͡ʃnɪj/
-дипломатичний;diplomatic;;personal_info;дипломатичний;diplomatic;adj;/dɪplɔmɑˈtɪt͡ʃnɪj/
-прямолінійний;straightforward;;personal_info;прямолінійний;straightforward;adj;/prʲɑmoˈlʲinʲijnɪj/
-хитрий;cunning;;personal_info;хитрий;cunning;adj;/ˈxɪtrɪj/
-наївний;naive;;personal_info;наївний;naive;adj;/nɑˈjiu̯nɪj/
-цинічний;cynical;;personal_info;цинічний;cynical;adj;/t͡sɪˈnʲit͡ʃnɪj/
-іронічний;ironic;;personal_info;іронічний;ironic;adj;/irɔˈnʲit͡ʃnɪj/
-саркастичний;sarcastic;;personal_info;саркастичний;sarcastic;adj;/sɑrkɑsˈtɪt͡ʃnɪj/
-будильник;alarm clock;alarm clocks (masculine);personal_info;будильник;alarm clock;noun;/bʊˈdɪlʲnɪk/
-прокидатися;wake up;;personal_info;прокидатися;wake up (imperfective);verb;/prokɪˈdɑtɪsʲɐ/
-вставати;get up;;personal_info;вставати;get up (imperfective);verb;/fstɐˈvɑtɪ/
-вмиватися;wash one's face;;personal_info;вмиватися;wash one's face (imperfective);verb;/vmɪˈvɑtɪsʲɐ/
-зуб;tooth;teeth (masculine);personal_info;зуб;tooth;noun;/zub/
-чистити;brush (teeth);;personal_info;чистити;brush (imperfective);verb;/ˈtʃɪstɪtɪ/
-зубна паста;toothpaste;toothpastes (feminine);personal_info;зубна паста;toothpaste;noun;/zʊbˈnɑ ˈpɑstɐ/
-душ;shower;showers (masculine);personal_info;душ;shower;noun;/duʃ/
-приймати душ;take a shower;;personal_info;приймати душ;take a shower (imperfective);verb;/prɪjˈmɑtɪ duʃ/
-мило;soap;soaps (neuter);personal_info;мило;soap;noun;/ˈmɪlo/
-ванна;bathroom;bathrooms (feminine);personal_info;ванна;bathroom;noun;/ˈvɑnːɐ/
-сніданок;breakfast;breakfasts (masculine);personal_info;сніданок;breakfast;noun;/ˈsʲnʲidɑnok/
-обід;lunch;lunches (masculine);personal_info;обід;lunch;noun;/oˈbʲid/
-вечеря;dinner;dinners (feminine);personal_info;вечеря;dinner;noun;/veˈtʃerʲɐ/
-кава;coffee;coffee (uncountable);personal_info;кава;coffee;noun;/ˈkɑvɐ/
-чай;tea;teas (masculine);personal_info;чай;tea;noun;/tʃɑj/
-молоко;milk;milk (uncountable);personal_info;молоко;milk;noun;/moloˈkɔ/
-йогурт;yogurt;yogurts (masculine);personal_info;йогурт;yogurt;noun;/ˈjɔɦurt/
-хліб;bread;bread (uncountable);personal_info;хліб;bread;noun;/xlʲib/
-масло;butter;butter (uncountable);personal_info;масло;butter;noun;/ˈmɑslo/
-яйце;egg;eggs (neuter);personal_info;яйце;egg;noun;/jɐjˈtse/
-готувати;cook;;personal_info;готувати;cook (imperfective);verb;/ɦoˈtuvɑtɪ/
-їсти;eat;;personal_info;їсти;eat (imperfective);verb;/ˈjistɪ/
-пити;drink;;personal_info;пити;drink (imperfective);verb;/ˈpɪtɪ/
-мити посуд;wash dishes;;personal_info;мити посуд;wash dishes (imperfective);verb;/ˈmɪtɪ ˈposʊd/
-прати;do laundry;;personal_info;прати;do laundry (imperfective);verb;/ˈprɑtɪ/
-пральна машина;washing machine;washing machines (feminine);personal_info;пральна машина;washing machine;noun;/ˈprɑlʲnɐ mɐˈʃɪnɐ/
-одягатися;get dressed;;personal_info;одягатися;get dressed (imperfective);verb;/odʲɐˈɦɑtɪsʲɐ/
-одяг;clothes;clothes (plural);personal_info;одяг;clothes;noun;/ˈɔdʲɐɦ/
-взуття;shoes;shoes (plural);personal_info;взуття;shoes;noun;/vzʊˈtʲːɑ/
-розчісуватися;comb one's hair;;personal_info;розчісуватися;comb one's hair (imperfective);verb;/roʃtʃiˈsuvɑtɪsʲɐ/
-голитися;shave;;personal_info;голитися;shave (imperfective);verb;/ɦoˈlɪtɪsʲɐ/
-фарбуватися;put on makeup;;personal_info;фарбуватися;put on makeup (imperfective);verb;/fɐrbuˈvɑtɪsʲɐ/
-туалет;toilet;toilets (masculine);personal_info;туалет;toilet;noun;/tuɐˈlɛt/
-виходити;go out;;personal_info;виходити;go out (imperfective);verb;/vɪˈxɔdɪtɪ/
-повертатися;come back;;personal_info;повертатися;come back (imperfective);verb;/pɔverˈtɑtɪsʲɐ/
-робота;work;work (uncountable);personal_info;робота;work;noun;/roˈbɔtɐ/
-офіс;office;offices (masculine);personal_info;офіс;office;noun;/ˈɔf⁽ʲ⁾is/
-школа;school;schools (feminine);personal_info;школа;school;noun;/ˈʃkɔlɐ/
-університет;university;universities (masculine);personal_info;університет;university;noun;/ʊnʲiverˈsɪtɛt/
-урок;lesson;lessons (masculine);personal_info;урок;lesson;noun;/uˈrɔk/
-домашнє завдання;homework;homework (uncountable);personal_info;домашнє завдання;homework;noun;/dɔˈmɑʃnʲe zɐˈvdɑnʲːɐ/
-відпочивати;rest;;personal_info;відпочивати;rest (imperfective);verb;/vidpɔtʃɪˈvɑtɪ/
-дивитися телевізор;watch TV;;personal_info;дивитися телевізор;watch TV (imperfective);verb;/dɪˈvɪtɪsʲɐ teleˈvʲizor/
-слухати музику;listen to music;;personal_info;слухати музику;listen to music (imperfective);verb;/ˈsluxɐtɪ ˈmuzɪkʊ/
-читати книгу;read a book;;personal_info;читати книгу;read a book (imperfective);verb;/tʃɪˈtɑtɪ ˈknɪɦʊ/
-лягати спати;go to bed;;personal_info;лягати спати;go to bed (imperfective);verb;/lʲɐˈɦɑtɪ ˈspɑtɪ/
-спати;sleep;;personal_info;спати;sleep (imperfective);verb;/ˈspɑtɪ/
-будити;wake someone up;;personal_info;будити;wake someone up (imperfective);verb;/bʊˈdɪtɪ/
-прогулянка;walk;walks (feminine);personal_info;прогулянка;walk;noun;/proɦuˈlʲɑnkɐ/
+tall;високий;;personal_info;tall;високий;adj;тол
+short;низький;;personal_info;short;низький;adj;шорт
+slim;стрункий;;personal_info;slim;стрункий;adj;слім
+plump;повний;;personal_info;plump;повний;adj;пламп
+athletic;спортивний;;personal_info;athletic;спортивний;adj;атлетік
+muscular;мускулистий;;personal_info;muscular;мускулистий;adj;маскьюлер
+blonde;блондинка;blondes (feminine);personal_info;blonde;блондинка;noun;блонд
+brunette;брюнетка;brunettes (feminine);personal_info;brunette;брюнетка;noun;брюнет
+redhead;рудоволоса;redheads (feminine);personal_info;redhead;рудоволоса;noun;редхед
+bald;лисий;;personal_info;bald;лисий;adj;болд
+beard;борода;beards (feminine);personal_info;beard;борода;noun;бірд
+moustache;вуса;moustaches (neuter);personal_info;moustache;вуса;noun;мусташ
+freckles;веснянки;freckles (plural only);personal_info;freckle;веснянка;noun;фреклз
+wrinkles;зморшки;wrinkles (plural only);personal_info;wrinkle;зморшка;noun;рінклз
+scar;шрам;scars (masculine);personal_info;scar;шрам;noun;скар
+tattoo;татуювання;tattoos (neuter);personal_info;tattoo;татуювання;noun;тату
+pale;блідий;;personal_info;pale;блідий;adj;пейл
+tanned;засмаглий;;personal_info;tanned;засмаглий;adj;тенд
+fair;світлий;;personal_info;fair;світлий;adj;феер
+dark;темний;;personal_info;dark;темний;adj;дарк
+curly;кучерявий;;personal_info;curly;кучерявий;adj;керлі
+straight;прямий;;personal_info;straight;прямий;adj;стрейт
+wavy;хвилястий;;personal_info;wavy;хвилястий;adj;вейві
+long;довгий;;personal_info;long;довгий;adj;лонг
+short-haired;коротко стрижений;;personal_info;short-haired;коротко стрижений;adj;шорт-хеерд
+blue-eyed;синьоокий;;personal_info;blue-eyed;синьоокий;adj;блю-айд
+brown-eyed;кароокий;;personal_info;brown-eyed;кароокий;adj;браун-айд
+green-eyed;зеленоокий;;personal_info;green-eyed;зеленоокий;adj;грін-айд
+beautiful;гарний;;personal_info;beautiful;гарний;adj;бьютіфул
+ugly;потворний;;personal_info;ugly;потворний;adj;аглі
+young;молодий;;personal_info;young;молодий;adj;янг
+old;старий;;personal_info;old;старий;adj;олд
+middle-aged;середнього віку;;personal_info;middle-aged;середнього віку;adj;мідл-ейджд
+height;зріст;heights (masculine);personal_info;height;зріст;noun;хайт
+weight;вага;weights (feminine);personal_info;weight;вага;noun;вейт
+build;статура;builds (feminine);personal_info;build;статура;noun;білд
+face;обличчя;faces (neuter);personal_info;face;обличчя;noun;фейс
+eyes;очі;eyes (plural only);personal_info;eye;око;noun;айз
+nose;ніс;noses (masculine);personal_info;nose;ніс;noun;ноуз
+lips;губи;lips (plural only);personal_info;lip;губа;noun;ліпс
+ears;вуха;ears (plural only);personal_info;ear;вухо;noun;ірз
+hair;волосся;hair (uncountable);personal_info;hair;волосся;noun;хеер
+skin;шкіра;skin (uncountable);personal_info;skin;шкіра;noun;скін
+glasses;окуляри;glasses (plural only);personal_info;glasses;окуляри;noun;ґласіз
+contact lenses;контактні лінзи;contact lenses (plural only);personal_info;contact lens;контактна лінза;noun;контакт лензіз
+smile;усмішка;smiles (feminine);personal_info;smile;усмішка;noun;смайл
+dimples;ямочки;dimples (plural only);personal_info;dimple;ямочка;noun;дімплз
+figure;фігура;figures (feminine);personal_info;figure;фігура;noun;фіґюр
+posture;постава;postures (feminine);personal_info;posture;постава;noun;постчер
+kind;добрий;;personal_info;kind;добрий;adj;кайнд
+brave;хоробрий;;personal_info;brave;хоробрий;adj;брейв
+honest;чесний;;personal_info;honest;чесний;adj;онест
+shy;сором’язливий;;personal_info;shy;сором’язливий;adj;шай
+patient;терплячий;;personal_info;patient;терплячий;adj;пейшент
+lazy;лінивий;;personal_info;lazy;лінивий;adj;лейзі
+clever;розумний;;personal_info;clever;розумний;adj;клевер
+polite;ввічливий;;personal_info;polite;ввічливий;adj;полайт
+rude;грубий;;personal_info;rude;грубий;adj;руд
+generous;щедрий;;personal_info;generous;щедрий;adj;дженерес
+selfish;егоїстичний;;personal_info;selfish;егоїстичний;adj;селфіш
+confident;впевнений;;personal_info;confident;впевнений;adj;конфідент
+nervous;нервовий;;personal_info;nervous;нервовий;adj;нервес
+calm;спокійний;;personal_info;calm;спокійний;adj;кам
+cheerful;веселий;;personal_info;cheerful;веселий;adj;чірфул
+serious;серйозний;;personal_info;serious;серйозний;adj;сіріес
+friendly;дружній;;personal_info;friendly;дружній;adj;френдлі
+stubborn;впертий;;personal_info;stubborn;впертий;adj;стаберн
+curious;допитливий;;personal_info;curious;допитливий;adj;к’юріес
+creative;творчий;;personal_info;creative;творчий;adj;креейтів
+sensitive;чутливий;;personal_info;sensitive;чутливий;adj;сенсітів
+reliable;надійний;;personal_info;reliable;надійний;adj;рілайебл
+ambitious;амбітний;;personal_info;ambitious;амбітний;adj;ембішес
+modest;скромний;;personal_info;modest;скромний;adj;модест
+talkative;балакучий;;personal_info;talkative;балакучий;adj;токетів
+quiet;тихий;;personal_info;quiet;тихий;adj;кваєт
+energetic;енергійний;;personal_info;energetic;енергійний;adj;енерджетік
+optimistic;оптимістичний;;personal_info;optimistic;оптимістичний;adj;оптімістік
+pessimistic;песимістичний;;personal_info;pessimistic;песимістичний;adj;песімістік
+sociable;товариський;;personal_info;sociable;товариський;adj;соушебл
+tidy;охайний;;personal_info;tidy;охайний;adj;тайді
+untidy;неохайний;;personal_info;untidy;неохайний;adj;антайди
+hardworking;працьовитий;;personal_info;hardworking;працьовитий;adj;хардверкін
+loyal;вірний;;personal_info;loyal;вірний;adj;лойел
+jealous;ревнивий;;personal_info;jealous;ревнивий;adj;джелес
+wise;мудрий;;personal_info;wise;мудрий;adj;вайз
+foolish;дурний;;personal_info;foolish;дурний;adj;фуліш
+greedy;жадібний;;personal_info;greedy;жадібний;adj;гріді
+gentle;ніжний;;personal_info;gentle;ніжний;adj;джентл
+bold;сміливий;;personal_info;bold;сміливий;adj;болд
+grumpy;буркотливий;;personal_info;grumpy;буркотливий;adj;грампі
+forgiving;прощаючий;;personal_info;forgiving;прощаючий;adj;форґівін
+caring;турботливий;;personal_info;caring;турботливий;adj;керін
+adventurous;схильний до пригод;;personal_info;adventurous;схильний до пригод;adj;едвенчерес
+arrogant;зарозумілий;;personal_info;arrogant;зарозумілий;adj;ероґант
+humble;скромний;;personal_info;humble;скромний;adj;гамбл
+witty;дотепний;;personal_info;witty;дотепний;adj;віті
+thoughtful;задумливий;;personal_info;thoughtful;задумливий;adj;тотфул
+wake up;прокидатися;;personal_info;wake up;прокидатися (imperfective);verb;вейк ап
+get up;вставати;;personal_info;get up;вставати (imperfective);verb;гет ап
+wash face;умиватися;;personal_info;wash face;умиватися (imperfective);verb;вош фейс
+brush teeth;чистити зуби;;personal_info;brush teeth;чистити зуби (imperfective);verb;браш тіф
+have breakfast;снідати;;personal_info;have breakfast;снідати (imperfective);verb;гев брекфест
+have lunch;обідати;;personal_info;have lunch;обідати (imperfective);verb;гев ланч
+have dinner;вечеряти;;personal_info;have dinner;вечеряти (imperfective);verb;гев дінер
+drink coffee;пити каву;;personal_info;drink coffee;пити каву (imperfective);verb;дрінк кофі
+get dressed;одягатися;;personal_info;get dressed;одягатися (imperfective);verb;гет дрест
+leave home;виходити з дому;;personal_info;leave home;виходити (imperfective);verb;лів хоум
+go to work;йти на роботу;;personal_info;go to work;йти (imperfective);verb;гоу ту ворк
+go to school;йти до школи;;personal_info;go to school;йти (imperfective);verb;гоу ту скул
+work;працювати;;personal_info;work;працювати (imperfective);verb;ворк
+study;вчитися;;personal_info;study;вчитися (imperfective);verb;стаді
+return home;повертатися додому;;personal_info;return home;повертатися (imperfective);verb;рітьорн хоум
+cook;готувати;;personal_info;cook;готувати (imperfective);verb;кук
+watch TV;дивитися телевізор;;personal_info;watch TV;дивитися (imperfective);verb;вотч тіві
+listen to music;слухати музику;;personal_info;listen to music;слухати (imperfective);verb;лісен ту м'юзік
+read a book;читати книгу;;personal_info;read a book;читати (imperfective);verb;рід е бук
+take a shower;приймати душ;;personal_info;take a shower;приймати (imperfective);verb;тейк е шауер
+go to bed;лягати спати;;personal_info;go to bed;лягати (imperfective);verb;гоу ту бед
+sleep;спати;;personal_info;sleep;спати (imperfective);verb;сліп
+alarm clock;будильник;alarm clocks (masculine);personal_info;alarm clock;будильник;noun;аларм клок
+toothbrush;зубна щітка;toothbrushes (feminine);personal_info;toothbrush;зубна щітка;noun;тутбраш
+toothpaste;зубна паста;toothpaste (uncountable);personal_info;toothpaste;зубна паста;noun;тутпейст
+towel;рушник;towels (masculine);personal_info;towel;рушник;noun;тауел
+soap;мило;soap (uncountable, neuter);personal_info;soap;мило;noun;соуп
+shampoo;шампунь;shampoo (uncountable, masculine);personal_info;shampoo;шампунь;noun;шампу
+comb;гребінець;combs (masculine);personal_info;comb;гребінець;noun;коум
+breakfast;сніданок;breakfasts (masculine);personal_info;breakfast;сніданок;noun;брекфест
+lunch;обід;lunches (masculine);personal_info;lunch;обід;noun;ланч
+dinner;вечеря;dinners (feminine);personal_info;dinner;вечеря;noun;дінер
+cup;чашка;cups (feminine);personal_info;cup;чашка;noun;кап
+plate;тарілка;plates (feminine);personal_info;plate;тарілка;noun;плейт
+fork;виделка;forks (feminine);personal_info;fork;виделка;noun;форк
+spoon;ложка;spoons (feminine);personal_info;spoon;ложка;noun;спун
+knife;ніж;knives (masculine);personal_info;knife;ніж;noun;найф
+pot;каструля;pots (feminine);personal_info;pot;каструля;noun;пот
+frying pan;сковорода;frying pans (feminine);personal_info;frying pan;сковорода;noun;фрайін пан
+job;робота;jobs (feminine);personal_info;job;робота;noun;джоб
+school;школа;schools (feminine);personal_info;school;школа;noun;скул
+office;офіс;offices (masculine);personal_info;office;офіс;noun;офіс
+bus;автобус;buses (masculine);personal_info;bus;автобус;noun;бас
+car;машина;cars (feminine);personal_info;car;машина;noun;кар
+bicycle;велосипед;bicycles (masculine);personal_info;bicycle;велосипед;noun;байсікл
+morning;ранковий;;personal_info;morning;ранковий;adj;морнінг
+evening;вечірній;;personal_info;evening;вечірній;adj;івнінг
+daily;щоденний;;personal_info;daily;щоденний;adj;дейлі
+early;рано;;personal_info;early;рано;adv;ерлі
+late;пізно;;personal_info;late;пізно;adv;лейт

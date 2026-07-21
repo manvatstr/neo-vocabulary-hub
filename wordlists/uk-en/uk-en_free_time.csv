@@ -1,169 +1,149 @@
-hobby;хобі;hobbies (neuter);free_time;hobby;хобі;noun;/ˈhɑːbi/
-interest;інтерес;interests (masculine);free_time;interest;інтерес;noun;/ˈɪntərɪst/
-reading;читання;reading (uncountable);free_time;reading;читання;noun;/ˈriːdɪŋ/
-painting;малювання;painting (uncountable);free_time;painting;малювання;noun;/ˈpeɪntɪŋ/
-photography;фотографія;photography (uncountable);free_time;photography;фотографія;noun;/fəˈtɑːɡrəfi/
-cooking;кулінарія;cooking (uncountable);free_time;cooking;кулінарія;noun;/ˈkʊkɪŋ/
-gardening;садівництво;gardening (uncountable);free_time;gardening;садівництво;noun;/ˈɡɑːrdənɪŋ/
-hiking;піший туризм;hiking (uncountable);free_time;hiking;піший туризм;noun;/ˈhaɪkɪŋ/
-dancing;танці;dancing (uncountable);free_time;dancing;танці;noun;/ˈdænsɪŋ/
-swimming;плавання;swimming (uncountable);free_time;swimming;плавання;noun;/ˈswɪmɪŋ/
-jogging;біг підтюпцем;jogging (uncountable);free_time;jogging;біг підтюпцем;noun;/ˈdʒɑːɡɪŋ/
-cycling;велоспорт;cycling (uncountable);free_time;cycling;велоспорт;noun;/ˈsaɪklɪŋ/
-fishing;риболовля;fishing (uncountable);free_time;fishing;риболовля;noun;/ˈfɪʃɪŋ/
-knitting;в'язання;knitting (uncountable);free_time;knitting;в'язання;noun;/ˈnɪtɪŋ/
-sewing;шиття;sewing (uncountable);free_time;sewing;шиття;noun;/ˈsoʊɪŋ/
-collecting;колекціонування;collecting (uncountable);free_time;collecting;колекціонування;noun;/kəˈlɛktɪŋ/
-stamp collecting;філателія;stamp collecting (uncountable);free_time;stamp collecting;філателія;noun;/stæmp kəˈlɛktɪŋ/
-birdwatching;спостереження за птахами;birdwatching (uncountable);free_time;birdwatching;спостереження за птахами;noun;/ˈbɜːrdˌwɑːtʃɪŋ/
-playing an instrument;гра на інструменті;playing an instrument (uncountable);free_time;playing an instrument;гра на інструменті;noun;/ˈpleɪɪŋ ən ˈɪnstrəmənt/
-singing;спів;singing (uncountable);free_time;singing;спів;noun;/ˈsɪŋɪŋ/
-acting;акторство;acting (uncountable);free_time;acting;акторство;noun;/ˈæktɪŋ/
-travelling;подорожі;travelling (uncountable);free_time;travelling;подорожі;noun;/ˈtrævəlɪŋ/
-camping;кемпінг;camping (uncountable);free_time;camping;кемпінг;noun;/ˈkæmpɪŋ/
-yoga;йога;yoga (uncountable);free_time;yoga;йога;noun;/ˈjoʊɡə/
-meditation;медитація;meditation (uncountable);free_time;meditation;медитація;noun;/ˌmɛdɪˈteɪʃən/
-chess;шахи;chess (uncountable);free_time;chess;шахи;noun;/tʃɛs/
-board games;настільні ігри;board games (feminine);free_time;board game;настільна гра;noun;/bɔːrd ɡeɪmz/
-cards;карти;cards (feminine);free_time;card;карта;noun;/kɑːrdz/
-puzzles;пазли;puzzles (masculine);free_time;puzzle;пазл;noun;/ˈpʌzəlz/
-video games;відеоігри;video games (feminine);free_time;video game;відеогра;noun;/ˈvɪdioʊ ɡeɪmz/
-draw;малювати;;free_time;draw;малювати (imperfective);verb;/drɔː/
-sculpt;ліпити;;free_time;sculpt;ліпити (imperfective);verb;/skʌlpt/
-knit;в'язати;;free_time;knit;в'язати (imperfective);verb;/nɪt/
-sew;шити;;free_time;sew;шити (imperfective);verb;/soʊ/
-bake;пекти;;free_time;bake;пекти (imperfective);verb;/beɪk/
-hike;ходити в похід;;free_time;hike;ходити в похід (imperfective);verb;/haɪk/
-fish;рибалити;;free_time;fish;рибалити (imperfective);verb;/fɪʃ/
-dance;танцювати;;free_time;dance;танцювати (imperfective);verb;/dæns/
-sing;співати;;free_time;sing;співати (imperfective);verb;/sɪŋ/
-play;грати;;free_time;play;грати (imperfective);verb;/pleɪ/
-collect;колекціонувати;;free_time;collect;колекціонувати (imperfective);verb;/kəˈlɛkt/
-photograph;фотографувати;;free_time;photograph;фотографувати (imperfective);verb;/ˈfoʊtəɡræf/
-travel;подорожувати;;free_time;travel;подорожувати (imperfective);verb;/ˈtrævəl/
-read;читати;;free_time;read;читати (imperfective);verb;/riːd/
-write;писати;;free_time;write;писати (imperfective);verb;/raɪt/
-creative;творчий;;free_time;creative;творчий;adj;/kriˈeɪtɪv/
-interesting;цікавий;;free_time;interesting;цікавий;adj;/ˈɪntrəstɪŋ/
-relaxing;розслаблюючий;;free_time;relaxing;розслаблюючий;adj;/rɪˈlæksɪŋ/
-movie;фільм;movies (masculine);free_time;movie;фільм;noun;/ˈmuːvi/
-film;фільм;films (masculine);free_time;film;фільм;noun;/fɪlm/
-theater;театр;theaters (masculine);free_time;theater;театр;noun;/ˈθiːətər/
-actor;актор;actors (masculine);free_time;actor;актор;noun;/ˈæktər/
-actress;акторка;actresses (feminine);free_time;actress;акторка;noun;/ˈæktrəs/
-director;режисер;directors (masculine);free_time;director;режисер;noun;/dɪˈrɛktər/
-screenplay;сценарій;screenplays (masculine);free_time;screenplay;сценарій;noun;/ˈskriːnpleɪ/
-script;сценарій;scripts (masculine);free_time;script;сценарій;noun;/skrɪpt/
-dialogue;діалог;dialogues (masculine);free_time;dialogue;діалог;noun;/ˈdaɪəlɒɡ/
-subtitle;субтитр;subtitles (masculine);free_time;subtitle;субтитр;noun;/ˈsʌbtaɪtəl/
-premiere;прем’єра;premieres (feminine);free_time;premiere;прем’єра;noun;/prɪˈmɪr/
-performance;вистава;performances (feminine);free_time;performance;вистава;noun;/pərˈfɔːrməns/
-musical;мюзикл;musicals (masculine);free_time;musical;мюзикл;noun;/ˈmjuːzɪkəl/
-comedy;комедія;comedies (feminine);free_time;comedy;комедія;noun;/ˈkɒmədi/
-drama;драма;dramas (feminine);free_time;drama;драма;noun;/ˈdrɑːmə/
-tragedy;трагедія;tragedies (feminine);free_time;tragedy;трагедія;noun;/ˈtrædʒədi/
-plot;сюжет;plots (masculine);free_time;plot;сюжет;noun;/plɒt/
-scene;сцена;scenes (feminine);free_time;scene;сцена;noun;/siːn/
-stage;сцена;stages (feminine);free_time;stage;сцена;noun;/steɪdʒ/
-seat;місце;seats (neuter);free_time;seat;місце;noun;/siːt/
-row;ряд;rows (masculine);free_time;row;ряд;noun;/roʊ/
-ticket;квиток;tickets (masculine);free_time;ticket;квиток;noun;/ˈtɪkɪt/
-popcorn;попкорн;popcorn (uncountable);free_time;popcorn;попкорн;noun;/ˈpɒpkɔːrn/
-audience;аудиторія;audiences (feminine);free_time;audience;аудиторія;noun;/ˈɔːdiəns/
-applause;оплески;applause (uncountable);free_time;applause;оплески;noun;/əˈplɔːz/
-box office;каса;box offices (feminine);free_time;box office;каса;noun;/ˈbɒks ˌɒfɪs/
-usher;білетер;ushers (masculine);free_time;usher;білетер;noun;/ˈʌʃər/
-aisle;прохід;aisles (masculine);free_time;aisle;прохід;noun;/aɪl/
-orchestra;партер;orchestras (masculine);free_time;orchestra;партер;noun;/ˈɔːrkɪstrə/
-backstage;закулісся;backstage (uncountable);free_time;backstage;закулісся;noun;/ˌbækˈsteɪdʒ/
-prop;реквізит;props (masculine);free_time;prop;реквізит;noun;/prɒp/
-role;роль;roles (feminine);free_time;role;роль;noun;/roʊl/
-casting;кастинг;castings (masculine);free_time;casting;кастинг;noun;/ˈkæstɪŋ/
-review;рецензія;reviews (feminine);free_time;review;рецензія;noun;/rɪˈvjuː/
-trailer;трейлер;trailers (masculine);free_time;trailer;трейлер;noun;/ˈtreɪlər/
-genre;жанр;genres (masculine);free_time;genre;жанр;noun;/ˈʒɒnrə/
-animation;анімація;animations (feminine);free_time;animation;анімація;noun;/ˌænɪˈmeɪʃən/
-documentary;документальний фільм;documentaries (masculine);free_time;documentary;документальний фільм;noun;/ˌdɒkjʊˈmɛntəri/
-costume;костюм;costumes (masculine);free_time;costume;костюм;noun;/ˈkɒstjuːm/
-makeup;грим;makeup (uncountable);free_time;makeup;грим;noun;/ˈmeɪkʌp/
-lighting;освітлення;lighting (uncountable);free_time;lighting;освітлення;noun;/ˈlaɪtɪŋ/
-sound;звук;sounds (masculine);free_time;sound;звук;noun;/saʊnd/
-special effect;спецефект;special effects (masculine);free_time;special effect;спецефект;noun;/ˈspɛʃəl ɪˈfɛkt/
-intermission;антракт;intermissions (masculine);free_time;intermission;антракт;noun;/ˌɪntərˈmɪʃən/
-rehearsal;репетиція;rehearsals (feminine);free_time;rehearsal;репетиція;noun;/rɪˈhɜːrsəl/
-dress rehearsal;генеральна репетиція;dress rehearsals (feminine);free_time;dress rehearsal;генеральна репетиція;noun;/drɛs rɪˈhɜːrsəl/
-ball;м'яч;balls (masculine);free_time;ball;м'яч;noun;/bɔːl/
-goal;гол;goals (masculine);free_time;goal;гол;noun;/ɡoʊl/
-player;гравець;players (masculine);free_time;player;гравець;noun;/ˈpleɪər/
-competition;змагання;competitions (neuter);free_time;competition;змагання;noun;/ˌkɒmpəˈtɪʃən/
-champion;чемпіон;champions (masculine);free_time;champion;чемпіон;noun;/ˈtʃæmpiən/
-athlete;спортсмен;athletes (masculine);free_time;athlete;спортсмен;noun;/ˈæθliːt/
-sport;спорт;sports (masculine);free_time;sport;спорт;noun;/spɔːrt/
-game;гра;games (feminine);free_time;game;гра;noun;/ɡeɪm/
-match;матч;matches (masculine);free_time;match;матч;noun;/mætʃ/
-exercise;вправа;exercises (feminine);free_time;exercise;вправа;noun;/ˈeksərsaɪz/
-coach;тренер;coaches (masculine);free_time;coach;тренер;noun;/koʊtʃ/
-referee;суддя;referees (masculine);free_time;referee;суддя;noun;/ˌrefəˈriː/
-stadium;стадіон;stadiums (masculine);free_time;stadium;стадіон;noun;/ˈsteɪdiəm/
-court;корт;courts (masculine);free_time;court;корт;noun;/kɔːrt/
-pitch;поле;pitches (neuter);free_time;pitch;поле;noun;/pɪtʃ/
-running;біг;running (uncountable);free_time;running;біг;noun;/ˈrʌnɪŋ/
-skiing;лижний спорт;skiing (uncountable);free_time;skiing;лижний спорт;noun;/ˈskiːɪŋ/
-skating;катання на ковзанах;skating (uncountable);free_time;skating;катання на ковзанах;noun;/ˈskeɪtɪŋ/
-racket;ракетка;rackets (feminine);free_time;racket;ракетка;noun;/ˈrækɪt/
-net;сітка;nets (feminine);free_time;net;сітка;noun;/net/
-score;рахунок;scores (masculine);free_time;score;рахунок;noun;/skɔːr/
-victory;перемога;victories (feminine);free_time;victory;перемога;noun;/ˈvɪktəri/
-defeat;поразка;defeats (feminine);free_time;defeat;поразка;noun;/dɪˈfiːt/
-tournament;турнір;tournaments (masculine);free_time;tournament;турнір;noun;/ˈtʊənəmənt/
-championship;чемпіонат;championships (masculine);free_time;championship;чемпіонат;noun;/ˈtʃæmpiənʃɪp/
-warm-up;розминка;warm-ups (feminine);free_time;warm-up;розминка;noun;/ˈwɔːrmʌp/
-train;тренувати;;free_time;train;тренувати (imperfective);verb;/treɪn/
-win;вигравати;;free_time;win;вигравати (imperfective);verb;/wɪn/
-lose;програвати;;free_time;lose;програвати (imperfective);verb;/luːz/
-compete;змагатися;;free_time;compete;змагатися (imperfective);verb;/kəmˈpiːt/
-swim;плавати;;free_time;swim;плавати (imperfective);verb;/swɪm/
-run;бігати;;free_time;run;бігати (imperfective);verb;/rʌn/
-jump;стрибати;;free_time;jump;стрибати (imperfective);verb;/dʒʌmp/
-throw;кидати;;free_time;throw;кидати (imperfective);verb;/θroʊ/
-catch;ловити;;free_time;catch;ловити (imperfective);verb;/kætʃ/
-kick;бити;;free_time;kick;бити (imperfective);verb;/kɪk/
-pass;пасувати;;free_time;pass;пасувати (imperfective);verb;/pæs/
-serve;подавати;;free_time;serve;подавати (imperfective);verb;/sɜːrv/
-hit;вдаряти;;free_time;hit;вдаряти (imperfective);verb;/hɪt/
-defend;захищати;;free_time;defend;захищати (imperfective);verb;/dɪˈfend/
-attack;атакувати;;free_time;attack;атакувати (imperfective);verb;/əˈtæk/
-listen;слухати;;free_time;listen;слухати (imperfective);verb;/ˈlɪsən/
-compose;компонувати;;free_time;compose;компонувати (imperfective);verb;/kəmˈpəʊz/
-perform;виступати;;free_time;perform;виступати (imperfective);verb;/pərˈfɔːrm/
-music;музика;music (uncountable);free_time;music;музика;noun;/ˈmjuːzɪk/
-song;пісня;songs (feminine);free_time;song;пісня;noun;/sɒŋ/
-instrument;інструмент;instruments (masculine);free_time;instrument;інструмент;noun;/ˈɪnstrəmənt/
-guitar;гітара;guitars (feminine);free_time;guitar;гітара;noun;/ɡɪˈtɑːr/
-piano;піаніно;pianos (neuter);free_time;piano;піаніно;noun;/piˈænəʊ/
-violin;скрипка;violins (feminine);free_time;violin;скрипка;noun;/ˌvaɪəˈlɪn/
-drum;барабан;drums (masculine);free_time;drum;барабан;noun;/drʌm/
-flute;флейта;flutes (feminine);free_time;flute;флейта;noun;/fluːt/
-concert;концерт;concerts (masculine);free_time;concert;концерт;noun;/ˈkɒnsət/
-band;гурт;bands (masculine);free_time;band;гурт;noun;/bænd/
-choir;хор;choirs (masculine);free_time;choir;хор;noun;/ˈkwaɪər/
-singer;співак;singers (masculine);free_time;singer;співак;noun;/ˈsɪŋər/
-musician;музикант;musicians (masculine);free_time;musician;музикант;noun;/mjuˈzɪʃən/
-artist;художник;artists (masculine);free_time;artist;художник;noun;/ˈɑːrtɪst/
-drawing;малюнок;drawings (masculine);free_time;drawing;малюнок;noun;/ˈdrɔːɪŋ/
-sculpture;скульптура;sculptures (feminine);free_time;sculpture;скульптура;noun;/ˈskʌlptʃər/
-gallery;галерея;galleries (feminine);free_time;gallery;галерея;noun;/ˈɡæləri/
-exhibition;виставка;exhibitions (feminine);free_time;exhibition;виставка;noun;/ˌeksɪˈbɪʃən/
-theatre;театр;theatres (masculine);free_time;theatre;театр;noun;/ˈθɪətər/
-melody;мелодія;melodies (feminine);free_time;melody;мелодія;noun;/ˈmelədi/
-rhythm;ритм;rhythms (masculine);free_time;rhythm;ритм;noun;/ˈrɪðəm/
-note;нота;notes (feminine);free_time;note;нота;noun;/nəʊt/
-voice;голос;voices (masculine);free_time;voice;голос;noun;/vɔɪs/
-brush;пензлик;brushes (masculine);free_time;brush;пензлик;noun;/brʌʃ/
-canvas;полотно;canvases (neuter);free_time;canvas;полотно;noun;/ˈkænvəs/
-palette;палітра;palettes (feminine);free_time;palette;палітра;noun;/ˈpælɪt/
-art;мистецтво;art (uncountable);free_time;art;мистецтво;noun;/ɑːrt/
-pop;поп;pop (uncountable);free_time;pop;поп;noun;/pɒp/
-rock;рок;rock (uncountable);free_time;rock;рок;noun;/rɒk/
-classical;класика;classical (uncountable);free_time;classical;класика;noun;/ˈklæsɪkəl/
-jazz;джаз;jazz (uncountable);free_time;jazz;джаз;noun;/dʒæz/
+кіно;cinema;cinemas (neuter);free_time;кіно;cinema;noun;сінема
+театр;theater;theaters (masculine);free_time;театр;theater;noun;сіета
+фільм;film;films (masculine);free_time;фільм;film;noun;філм
+вистава;play;plays (feminine);free_time;вистава;play;noun;плей
+актор;actor;actors (masculine);free_time;актор;actor;noun;актор
+актриса;actress;actresses (feminine);free_time;актриса;actress;noun;актріс
+режисер;director;directors (masculine);free_time;режисер;director;noun;діректор
+сцена;stage;stages (feminine);free_time;сцена;stage;noun;стейдж
+глядач;spectator;spectators (masculine);free_time;глядач;spectator;noun;спектейтор
+квиток;ticket;tickets (masculine);free_time;квиток;ticket;noun;тікет
+сеанс;session;sessions (masculine);free_time;сеанс;session;noun;сешн
+екран;screen;screens (masculine);free_time;екран;screen;noun;скрін
+кінотеатр;cinema;cinemas (masculine);free_time;кінотеатр;cinema;noun;сінема
+драма;drama;dramas (feminine);free_time;драма;drama;noun;драма
+комедія;comedy;comedies (feminine);free_time;комедія;comedy;noun;комеді
+трагедія;tragedy;tragedies (feminine);free_time;трагедія;tragedy;noun;траджеді
+мюзикл;musical;musicals (masculine);free_time;мюзикл;musical;noun;мюзікл
+оперета;operetta;operettas (feminine);free_time;оперета;operetta;noun;оперетта
+балет;ballet;ballets (masculine);free_time;балет;ballet;noun;балей
+оперний театр;opera house;opera houses (masculine);free_time;оперний театр;opera house;noun;опера хаус
+завіса;curtain;curtains (feminine);free_time;завіса;curtain;noun;кьотен
+декорація;scenery;scenery (uncountable) (feminine);free_time;декорація;scenery;noun;сінері
+костюм;costume;costumes (masculine);free_time;костюм;costume;noun;костюм
+грим;makeup;makeup (uncountable) (masculine);free_time;грим;makeup;noun;мейкап
+аплодисменти;applause;applause (uncountable);free_time;аплодисменти;applause;noun;аплос
+репетиція;rehearsal;rehearsals (feminine);free_time;репетиція;rehearsal;noun;ріхерсал
+прем'єра;premiere;premieres (feminine);free_time;прем'єра;premiere;noun;прем'єр
+аншлаг;sell-out;sell-outs (masculine);free_time;аншлаг;sell-out;noun;сел-аут
+каса;box office;box offices (feminine);free_time;каса;box office;noun;бокс офіс
+ряд;row;rows (masculine);free_time;ряд;row;noun;роу
+місце;seat;seats (neuter);free_time;місце;seat;noun;сіт
+попкорн;popcorn;popcorn (uncountable) (masculine);free_time;попкорн;popcorn;noun;попкорн
+прокат;release;releases (masculine);free_time;прокат;release;noun;ріліс
+жанр;genre;genres (masculine);free_time;жанр;genre;noun;жанр
+сюжет;plot;plots (masculine);free_time;сюжет;plot;noun;плот
+герой;hero;heroes (masculine);free_time;герой;hero;noun;хіроу
+персонаж;character;characters (masculine);free_time;персонаж;character;noun;керіктер
+глядацький зал;auditorium;auditoriums (masculine);free_time;глядацький зал;auditorium;noun;одіторіум
+касовий збір;box office revenue;box office revenue (uncountable) (masculine);free_time;касовий збір;box office revenue;noun;бокс офіс ревеню
+трейлер;trailer;trailers (masculine);free_time;трейлер;trailer;noun;трейлер
+афіша;poster;posters (feminine);free_time;афіша;poster;noun;постер
+фестиваль;festival;festivals (masculine);free_time;фестиваль;festival;noun;фестивал
+кінозірка;movie star;movie stars (feminine);free_time;кінозірка;movie star;noun;муві стар
+сценарист;screenwriter;screenwriters (masculine);free_time;сценарист;screenwriter;noun;скрінрайтер
+оператор;cameraman;cameramen (masculine);free_time;оператор;cameraman;noun;камерамен
+монтажер;editor;editors (masculine);free_time;монтажер;editor;noun;едітор
+звукорежисер;sound director;sound directors (masculine);free_time;звукорежисер;sound director;noun;саунд діректор
+світлорежисер;lighting designer;lighting designers (masculine);free_time;світлорежисер;lighting designer;noun;лайтінг дізайнер
+реквізит;prop;props (masculine);free_time;реквізит;prop;noun;проп
+програма;program;programs (feminine);free_time;програма;program;noun;програм
+football;футбол;football (uncountable);free_time;football;футбол;noun;футбол
+basketball;баскетбол;basketball (uncountable);free_time;basketball;баскетбол;noun;баскетбол
+tennis;теніс;tennis (uncountable);free_time;tennis;теніс;noun;теніс
+volleyball;волейбол;volleyball (uncountable);free_time;volleyball;волейбол;noun;волейбол
+swimming;плавання;swimming (uncountable);free_time;swimming;плавання;noun;свімінг
+running;біг;running (uncountable);free_time;running;біг;noun;ранінг
+cycling;велоспорт;cycling (uncountable);free_time;cycling;велоспорт;noun;сайклінг
+skiing;лижний спорт;skiing (uncountable);free_time;skiing;лижний спорт;noun;скіїнг
+skating;катання на ковзанах;skating (uncountable);free_time;skating;катання на ковзанах;noun;скейтінг
+hockey;хокей;hockey (uncountable);free_time;hockey;хокей;noun;гокі
+golf;гольф;golf (uncountable);free_time;golf;гольф;noun;гольф
+table tennis;настільний теніс;table tennis (uncountable);free_time;table tennis;настільний теніс;noun;тейбл теніс
+badminton;бадмінтон;badminton (uncountable);free_time;badminton;бадмінтон;noun;бадмінтон
+rugby;регбі;rugby (uncountable);free_time;rugby;регбі;noun;рагбі
+cricket;крикет;cricket (uncountable);free_time;cricket;крикет;noun;крікет
+baseball;бейсбол;baseball (uncountable);free_time;baseball;бейсбол;noun;бейсбол
+handball;гандбол;handball (uncountable);free_time;handball;гандбол;noun;гандбол
+gym;спортзал;gyms (masculine);free_time;gym;спортзал;noun;джим
+coach;тренер;coaches (masculine);free_time;coach;тренер;noun;коуч
+player;гравець;players (masculine);free_time;player;гравець;noun;плеєр
+team;команда;teams (feminine);free_time;team;команда;noun;тім
+match;матч;matches (masculine);free_time;match;матч;noun;меч
+competition;змагання;competitions (neuter);free_time;competition;змагання;noun;компетішн
+tournament;турнір;tournaments (masculine);free_time;tournament;турнір;noun;турнамент
+champion;чемпіон;champions (masculine);free_time;champion;чемпіон;noun;чемпієн
+medal;медаль;medals (feminine);free_time;medal;медаль;noun;медал
+stadium;стадіон;stadiums (masculine);free_time;stadium;стадіон;noun;стейдіум
+court;корт;courts (masculine);free_time;court;корт;noun;корт
+field;поле;fields (neuter);free_time;field;поле;noun;філд
+pool;басейн;pools (masculine);free_time;pool;басейн;noun;пул
+racket;ракетка;rackets (feminine);free_time;racket;ракетка;noun;рекіт
+ball;м'яч;balls (masculine);free_time;ball;м'яч;noun;бол
+net;сітка;nets (feminine);free_time;net;сітка;noun;нет
+goal;гол;goals (masculine);free_time;goal;гол;noun;гоул
+score;рахунок;scores (masculine);free_time;score;рахунок;noun;скор
+race;гонка;races (feminine);free_time;race;гонка;noun;рейс
+game;гра;games (feminine);free_time;game;гра;noun;гейм
+chess;шахи;chess (uncountable);free_time;chess;шахи;noun;чес
+cards;карти;cards (feminine plural);free_time;cards;карти;noun;кардс
+dice;кубики;dice (masculine plural);free_time;dice;кубики;noun;дайс
+puzzle;пазл;puzzles (masculine);free_time;puzzle;пазл;noun;пазл
+hobby;хобі;hobbies (neuter);free_time;hobby;хобі;noun;гобі
+leisure;дозвілля;leisure (uncountable);free_time;leisure;дозвілля;noun;лежер
+exercise;вправа;exercises (feminine);free_time;exercise;вправа;noun;ексерсайз
+fitness;фітнес;fitness (uncountable);free_time;fitness;фітнес;noun;фітнес
+play;грати;;free_time;play;грати (imperfective);verb;плей
+run;бігати;;free_time;run;бігати (imperfective);verb;ран
+swim;плавати;;free_time;swim;плавати (imperfective);verb;свім
+win;вигравати;;free_time;win;вигравати (imperfective);verb;він
+lose;програвати;;free_time;lose;програвати (imperfective);verb;луз
+music;музика;music (uncountable);free_time;music;музика;noun;м'юзік
+song;пісня;songs (feminine);free_time;song;пісня;noun;сонг
+singer;співак;singers (masculine);free_time;singer;співак;noun;сінґер
+band;гурт;bands (masculine);free_time;band;гурт;noun;бенд
+guitar;гітара;guitars (feminine);free_time;guitar;гітара;noun;ґітар
+piano;піаніно;pianos (neuter);free_time;piano;піаніно;noun;піано
+violin;скрипка;violins (feminine);free_time;violin;скрипка;noun;вайолін
+drum;барабан;drums (masculine);free_time;drum;барабан;noun;драм
+flute;флейта;flutes (feminine);free_time;flute;флейта;noun;флют
+concert;концерт;concerts (masculine);free_time;concert;концерт;noun;консерт
+theatre;театр;theatres (masculine);free_time;theatre;театр;noun;тіатер
+museum;музей;museums (masculine);free_time;museum;музей;noun;м'юзіем
+gallery;галерея;galleries (feminine);free_time;gallery;галерея;noun;ґалері
+exhibition;виставка;exhibitions (feminine);free_time;exhibition;виставка;noun;ексібішн
+painting;картина;paintings (feminine);free_time;painting;картина;noun;пейнтінг
+artist;художник;artists (masculine);free_time;artist;художник;noun;артіст
+sculpture;скульптура;sculptures (feminine);free_time;sculpture;скульптура;noun;скалпчер
+photograph;фотографія;photographs (feminine);free_time;photograph;фотографія;noun;фотаграф
+camera;камера;cameras (feminine);free_time;camera;камера;noun;кемера
+draw;малювати;;free_time;draw;малювати (imperfective);verb;дро
+sketch;ескіз;sketches (masculine);free_time;sketch;ескіз;noun;скетч
+colour;колір;colours (masculine);free_time;colour;колір;noun;калер
+brush;пензель;brushes (masculine);free_time;brush;пензель;noun;браш
+canvas;полотно;canvases (neuter);free_time;canvas;полотно;noun;канвас
+palette;палітра;palettes (feminine);free_time;palette;палітра;noun;палет
+easel;мольберт;easels (masculine);free_time;easel;мольберт;noun;ізел
+clay;глина;clay (uncountable);free_time;clay;глина;noun;клей
+pottery;гончарство;pottery (uncountable);free_time;pottery;гончарство;noun;потері
+craft;ремісництво;crafts (neuter);free_time;craft;ремісництво;noun;крафт
+dance;танцювати;;free_time;dance;танцювати (imperfective);verb;данс
+ballet;балет;ballets (masculine);free_time;ballet;балет;noun;балей
+opera;опера;operas (feminine);free_time;opera;опера;noun;апера
+cinema;кіно;cinemas (neuter);free_time;cinema;кіно;noun;сінема
+movie;фільм;movies (masculine);free_time;movie;фільм;noun;муві
+actor;актор;actors (masculine);free_time;actor;актор;noun;актер
+actress;акторка;actresses (feminine);free_time;actress;акторка;noun;актрес
+audience;аудиторія;audiences (feminine);free_time;audience;аудиторія;noun;одіенс
+stage;сцена;stages (feminine);free_time;stage;сцена;noun;стейдж
+microphone;мікрофон;microphones (masculine);free_time;microphone;мікрофон;noun;майкрофон
+speaker;динамік;speakers (masculine);free_time;speaker;динамік;noun;спікер
+note;нота;notes (feminine);free_time;note;нота;noun;ноут
+melody;мелодія;melodies (feminine);free_time;melody;мелодія;noun;мелоді
+rhythm;ритм;rhythms (masculine);free_time;rhythm;ритм;noun;рітм
+album;альбом;albums (masculine);free_time;album;альбом;noun;албум
+track;трек;tracks (masculine);free_time;track;трек;noun;трак
+playlist;плейлист;playlists (masculine);free_time;playlist;плейлист;noun;плейліст
+genre;жанр;genres (masculine);free_time;genre;жанр;noun;жанра
+classical music;класична музика;classical music (uncountable);free_time;classical music;класична музика;noun;класикал м'юзік
+jazz;джаз;jazz (uncountable);free_time;jazz;джаз;noun;джаз

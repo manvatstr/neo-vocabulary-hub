@@ -1,199 +1,197 @@
-der Vater;батько;die Väter;personal_info;Vater;батько;noun;
-die Mutter;мати;die Mütter;personal_info;Mutter;мати;noun;
-das Kind;дитина;die Kinder;personal_info;Kind;дитина;noun;
-der Bruder;брат;die Brüder;personal_info;Bruder;брат;noun;
-die Schwester;сестра;die Schwestern;personal_info;Schwester;сестра;noun;
-die Eltern;батьки;;personal_info;Eltern;батьки;noun;
-die Großeltern;бабуся і дідусь;;personal_info;Groß + Eltern;бабуся і дідусь;noun;
-der Großvater;дідусь;die Großväter;personal_info;Groß + Vater;дідусь;noun;
-die Großmutter;бабуся;die Großmütter;personal_info;Groß + Mutter;бабуся;noun;
-der Onkel;дядько;die Onkel;personal_info;Onkel;дядько;noun;
-die Tante;тітка;die Tanten;personal_info;Tante;тітка;noun;
-der Cousin;двоюрідний брат;die Cousins;personal_info;Cousin;двоюрідний брат;noun;
-die Cousine;двоюрідна сестра;die Cousinen;personal_info;Cousine;двоюрідна сестра;noun;
-der Neffe;племінник;die Neffen;personal_info;Neffe;племінник;noun;
-die Nichte;племінниця;die Nichten;personal_info;Nichte;племінниця;noun;
-der Ehemann;чоловік;die Ehemänner;personal_info;Ehe + Mann;чоловік;noun;
-die Ehefrau;дружина;die Ehefrauen;personal_info;Ehe + Frau;дружина;noun;
-der Partner;партнер;die Partner;personal_info;Partner;партнер;noun;
-die Partnerin;партнерка;die Partnerinnen;personal_info;Partnerin;партнерка;noun;
-der Freund;друг;die Freunde;personal_info;Freund;друг;noun;
-die Freundin;подруга;die Freundinnen;personal_info;Freundin;подруга;noun;
-der Verlobte;наречений;die Verlobten;personal_info;verlobt;заручений;noun;
-der Schwiegervater;тесть;die Schwiegerväter;personal_info;Schwieger + Vater;тесть;noun;
-die Schwiegermutter;теща;die Schwiegermütter;personal_info;Schwieger + Mutter;теща;noun;
-der Schwager;шурин;die Schwäger;personal_info;Schwager;шурин;noun;
-die Schwägerin;зовиця;die Schwägerinnen;personal_info;Schwägerin;зовиця;noun;
-der Stiefvater;вітчим;die Stiefväter;personal_info;Stief + Vater;вітчим;noun;
-die Stiefmutter;мачуха;die Stiefmütter;personal_info;Stief + Mutter;мачуха;noun;
-der Halbbruder;зведений брат;die Halbbrüder;personal_info;halb + Bruder;зведений брат;noun;
-die Halbschwester;зведена сестра;die Halbschwestern;personal_info;halb + Schwester;зведена сестра;noun;
-der Enkel;онук;die Enkel;personal_info;Enkel;онук;noun;
-die Enkelin;онука;die Enkelinnen;personal_info;Enkelin;онука;noun;
-die Verwandten;родичі;;personal_info;verwandt;споріднений;noun;
-die Familie;сім'я;die Familien;personal_info;Familie;сім'я;noun;
-die Beziehung;стосунки;die Beziehungen;personal_info;Beziehung;стосунки;noun;
-die Ehe;шлюб;die Ehen;personal_info;Ehe;шлюб;noun;
-die Hochzeit;весілля;die Hochzeiten;personal_info;Hochzeit;весілля;noun;
-die Scheidung;розлучення;die Scheidungen;personal_info;Scheidung;розлучення;noun;
-die Trauung;вінчання;die Trauungen;personal_info;Trauung;вінчання;noun;
-der Junggeselle;холостяк;die Junggesellen;personal_info;Junggeselle;холостяк;noun;
-heiraten;одружуватися;;personal_info;heiraten;одружуватися;verb (weak);
-lieben;кохати;;personal_info;lieben;кохати;verb (weak);
-verwitwet;овдовілий;;personal_info;verwitwet;овдовілий;adj;
-die Liebe;любов;;personal_info;Liebe;любов;noun;
-die Partnerschaft;партнерство;die Partnerschaften;personal_info;Partner + schaft;партнерство;noun;
-das Paar;пара;die Paare;personal_info;Paar;пара;noun;
-die Eifersucht;ревнощі;;personal_info;Eifer + Sucht;ревнощі;noun;
-die Adoption;усиновлення;die Adoptionen;personal_info;Adoption;усиновлення;noun;
-die Erziehung;виховання;;personal_info;Erziehung;виховання;noun;
-der Kopf;голова;die Köpfe;personal_info;Kopf;голова;noun;
-das Gesicht;обличчя;die Gesichter;personal_info;Gesicht;обличчя;noun;
-die Nase;ніс;die Nasen;personal_info;Nase;ніс;noun;
-das Auge;око;die Augen;personal_info;Auge;око;noun;
-der Mund;рот;die Münder;personal_info;Mund;рот;noun;
-das Ohr;вухо;die Ohren;personal_info;Ohr;вухо;noun;
-das Haar;волосся;die Haare;personal_info;Haar;волосся;noun;
-der Bart;борода;die Bärte;personal_info;Bart;борода;noun;
-die Brille;окуляри;die Brillen;personal_info;Brille;окуляри;noun;
-die Stirn;лоб;die Stirnen;personal_info;Stirn;лоб;noun;
-die Wange;щока;die Wangen;personal_info;Wange;щока;noun;
-das Kinn;підборіддя;die Kinne;personal_info;Kinn;підборіддя;noun;
-der Hals;шия;die Hälse;personal_info;Hals;шия;noun;
-die Schulter;плече;die Schultern;personal_info;Schulter;плече;noun;
-der Arm;рука;die Arme;personal_info;Arm;рука;noun;
-die Hand;кисть;die Hände;personal_info;Hand;кисть;noun;
-der Finger;палець;die Finger;personal_info;Finger;палець;noun;
-der Bauch;живіт;die Bäuche;personal_info;Bauch;живіт;noun;
-der Rücken;спина;die Rücken;personal_info;Rücken;спина;noun;
-das Bein;нога;die Beine;personal_info;Bein;нога;noun;
-der Fuß;стопа;die Füße;personal_info;Fuß;стопа;noun;
-das Knie;коліно;die Knie;personal_info;Knie;коліно;noun;
-der Zeh;палець ноги;die Zehen;personal_info;Zeh;палець ноги;noun;
-die Haut;шкіра;die Häute;personal_info;Haut;шкіра;noun;
-die Figur;фігура;die Figuren;personal_info;Figur;фігура;noun;
-die Größe;зріст;die Größen;personal_info;Größe;зріст;noun;
-das Gewicht;вага;die Gewichte;personal_info;Gewicht;вага;noun;
-die Frisur;зачіска;die Frisuren;personal_info;Frisur;зачіска;noun;
-die Glatze;лисина;die Glatzen;personal_info;Glatze;лисина;noun;
-die Sommersprosse;веснянка;die Sommersprossen;personal_info;Sommer + Sprosse;веснянка;noun;
-groß;високий;;personal_info;groß;високий;adj;
-klein;низький;;personal_info;klein;низький;adj;
-dick;товстий;;personal_info;dick;товстий;adj;
-dünn;худий;;personal_info;dünn;худий;adj;
-schlank;стрункий;;personal_info;schlank;стрункий;adj;
-hübsch;гарний;;personal_info;hübsch;гарний;adj;
-hässlich;некрасивий;;personal_info;hässlich;некрасивий;adj;
-jung;молодий;;personal_info;jung;молодий;adj;
-alt;старий;;personal_info;alt;старий;adj;
-blond;білявий;;personal_info;blond;білявий;adj;
-schwarz;чорний;;personal_info;schwarz;чорний;adj;
-lockig;кучерявий;;personal_info;lockig;кучерявий;adj;
-glatt;гладкий;;personal_info;glatt;гладкий;adj;
-braun;коричневий;;personal_info;braun;коричневий;adj;
-sportlich;спортивний;;personal_info;sportlich;спортивний;adj;
-kräftig;міцний;;personal_info;kräftig;міцний;adj;
-zierlich;тендітний;;personal_info;zierlich;тендітний;adj;
-gepflegt;доглянутий;;personal_info;gepflegt;доглянутий;adj;
-elegant;елегантний;;personal_info;elegant;елегантний;adj;
-aussehen;виглядати;;personal_info;aussehen (zu sehen);виглядати;verb (separable);
-lächeln;усміхатися;;personal_info;lächeln;усміхатися;verb (weak);
-der Charakterzug;риса характеру;die Charakterzüge;personal_info;Charakter + Zug;риса характеру;noun;
-die Eigenschaft;властивість;die Eigenschaften;personal_info;Eigenschaft;властивість;noun;
-freundlich;привітний;;personal_info;freundlich;привітний;adj;
-nett;милий;;personal_info;nett;милий;adj;
-sympathisch;симпатичний;;personal_info;sympathisch;симпатичний;adj;
-ehrlich;чесний;;personal_info;ehrlich;чесний;adj;
-geduldig;терплячий;;personal_info;geduldig;терплячий;adj;
-ungeduldig;нетерплячий;;personal_info;ungeduldig;нетерплячий;adj;
-pünktlich;пунктуальний;;personal_info;pünktlich;пунктуальний;adj;
-zuverlässig;надійний;;personal_info;zuverlässig;надійний;adj;
-fleißig;старанний;;personal_info;fleißig;старанний;adj;
-faul;лінивий;;personal_info;faul;лінивий;adj;
-ordentlich;охайний;;personal_info;ordentlich;охайний;adj;
-chaotisch;хаотичний;;personal_info;chaotisch;хаотичний;adj;
-ruhig;спокійний;;personal_info;ruhig;спокійний;adj;
-nervös;нервовий;;personal_info;nervös;нервовий;adj;
-offen;відкритий;;personal_info;offen;відкритий;adj;
-schüchtern;сором'язливий;;personal_info;schüchtern;сором'язливий;adj;
-selbstbewusst;самовпевнений;;personal_info;selbstbewusst;самовпевнений;adj;
-arrogant;зарозумілий;;personal_info;arrogant;зарозумілий;adj;
-humorvoll;дотепний;;personal_info;humorvoll;дотепний;adj;
-ernst;серйозний;;personal_info;ernst;серйозний;adj;
-traurig;сумний;;personal_info;traurig;сумний;adj;
-glücklich;щасливий;;personal_info;glücklich;щасливий;adj;
-launisch;примхливий;;personal_info;launisch;примхливий;adj;
-tolerant;толерантний;;personal_info;tolerant;толерантний;adj;
-intolerant;нетолерантний;;personal_info;intolerant;нетолерантний;adj;
-großzügig;щедрий;;personal_info;großzügig;щедрий;adj;
-geizig;скупий;;personal_info;geizig;скупий;adj;
-neugierig;допитливий;;personal_info;neugierig;допитливий;adj;
-kreativ;креативний;;personal_info;kreativ;креативний;adj;
-spontan;спонтанний;;personal_info;spontan;спонтанний;adj;
-verantwortungsbewusst;відповідальний;;personal_info;verantwortungsbewusst;відповідальний;adj;
-ängstlich;тривожний;;personal_info;ängstlich;тривожний;adj;
-mutig;сміливий;;personal_info;mutig;сміливий;adj;
-feige;боягузливий;;personal_info;feige;боягузливий;adj;
-eifersüchtig;ревнивий;;personal_info;eifersüchtig;ревнивий;adj;
-liebevoll;люблячий;;personal_info;liebevoll;люблячий;adj;
-streng;суворий;;personal_info;streng;суворий;adj;
-höflich;ввічливий;;personal_info;höflich;ввічливий;adj;
-die Geduld;терпіння;;personal_info;Geduld;терпіння;noun;
-die Ungeduld;нетерпіння;;personal_info;Ungeduld;нетерпіння;noun;
-die Ehrlichkeit;чесність;;personal_info;Ehrlichkeit;чесність;noun;
-die Zuverlässigkeit;надійність;;personal_info;Zuverlässigkeit;надійність;noun;
-die Pünktlichkeit;пунктуальність;;personal_info;Pünktlichkeit;пунктуальність;noun;
-die Offenheit;відкритість;;personal_info;Offenheit;відкритість;noun;
-die Schüchternheit;сором'язливість;;personal_info;Schüchternheit;сором'язливість;noun;
-das Selbstbewusstsein;самовпевненість;;personal_info;selbst + Bewusstsein;самовпевненість;noun;
-der Humor;гумор;;personal_info;Humor;гумор;noun;
-die Arroganz;зарозумілість;;personal_info;Arroganz;зарозумілість;noun;
-der Wecker;будильник;die Wecker;personal_info;Wecker;будильник;noun;
-aufwachen;прокидатися;;personal_info;aufwachen (zu wachen);прокидатися;verb (separable);
-aufstehen;вставати;;personal_info;aufstehen (zu stehen);вставати;verb (separable);
-das Bett;ліжко;die Betten;personal_info;Bett;ліжко;noun;
-die Decke;ковдра;die Decken;personal_info;Decke;ковдра;noun;
-das Kopfkissen;подушка;die Kopfkissen;personal_info;Kopf + Kissen;подушка;noun;
-das Badezimmer;ванна кімната;die Badezimmer;personal_info;Bad + Zimmer;ванна кімната;noun;
-die Zahnbürste;зубна щітка;die Zahnbürsten;personal_info;Zahn + Bürste;зубна щітка;noun;
-die Zahnpasta;зубна паста;die Zahnpasten;personal_info;Zahn + Pasta;зубна паста;noun;
-putzen;чистити;;personal_info;putzen;чистити;verb (weak);
-duschen;приймати душ;;personal_info;duschen;приймати душ;verb (weak);
-das Shampoo;шампунь;die Shampoos;personal_info;Shampoo;шампунь;noun;
-das Handtuch;рушник;die Handtücher;personal_info;Hand + Tuch;рушник;noun;
-der Kamm;гребінець;die Kämme;personal_info;Kamm;гребінець;noun;
-der Spiegel;дзеркало;die Spiegel;personal_info;Spiegel;дзеркало;noun;
-anziehen;одягати;;personal_info;anziehen (zu ziehen);одягати;verb (separable);
-ausziehen;знімати;;personal_info;ausziehen (zu ziehen);знімати;verb (separable);
-die Hose;штани;die Hosen;personal_info;Hose;штани;noun;
-das Hemd;сорочка;die Hemden;personal_info;Hemd;сорочка;noun;
-die Jacke;куртка;die Jacken;personal_info;Jacke;куртка;noun;
-der Mantel;пальто;die Mäntel;personal_info;Mantel;пальто;noun;
-der Schuh;черевик;die Schuhe;personal_info;Schuh;черевик;noun;
-das Frühstück;сніданок;die Frühstücke;personal_info;früh + Stück;сніданок;noun;
-frühstücken;снідати;;personal_info;frühstücken;снідати;verb (weak);
-das Brot;хліб;die Brote;personal_info;Brot;хліб;noun;
-das Brötchen;булочка;die Brötchen;personal_info;Brötchen;булочка;noun;
-die Butter;масло;;personal_info;Butter;масло;noun;
-die Marmelade;варення;die Marmeladen;personal_info;Marmelade;варення;noun;
-der Käse;сир;die Käse;personal_info;Käse;сир;noun;
-die Wurst;ковбаса;die Würste;personal_info;Wurst;ковбаса;noun;
-das Ei;яйце;die Eier;personal_info;Ei;яйце;noun;
-der Kaffee;кава;die Kaffees;personal_info;Kaffee;кава;noun;
-der Tee;чай;die Tees;personal_info;Tee;чай;noun;
-die Milch;молоко;;personal_info;Milch;молоко;noun;
-der Saft;сік;die Säfte;personal_info;Saft;сік;noun;
-das Glas;склянка;die Gläser;personal_info;Glas;склянка;noun;
-die Tasse;чашка;die Tassen;personal_info;Tasse;чашка;noun;
-der Teller;тарілка;die Teller;personal_info;Teller;тарілка;noun;
-die Gabel;виделка;die Gabeln;personal_info;Gabel;виделка;noun;
-das Messer;ніж;die Messer;personal_info;Messer;ніж;noun;
-der Löffel;ложка;die Löffel;personal_info;Löffel;ложка;noun;
-die Zeitung;газета;die Zeitungen;personal_info;Zeitung;газета;noun;
-das Buch;книга;die Bücher;personal_info;Buch;книга;noun;
-der Schlüssel;ключ;die Schlüssel;personal_info;Schlüssel;ключ;noun;
-das Handy;мобільний телефон;die Handys;personal_info;Handy;мобільний телефон;noun;
-müde;втомлений;;personal_info;müde;втомлений;adj;
-hungrig;голодний;;personal_info;hungrig;голодний;adj;
-satt;ситий;;personal_info;satt;ситий;adj;
-morgens;вранці;;personal_info;morgens;вранці;adv;
+der Vater;батько;die Väter;personal_info;Vater;батько;noun;фата
+die Mutter;мати;die Mütter;personal_info;Mutter;мати;noun;муттер
+die Eltern;батьки;die Eltern;personal_info;Eltern;батьки;noun;ельтерн
+der Sohn;син;die Söhne;personal_info;Sohn;син;noun;зон
+die Tochter;дочка;die Töchter;personal_info;Tochter;дочка;noun;тохтер
+das Kind;дитина;die Kinder;personal_info;Kind;дитина;noun;кінт
+die Geschwister;брати і сестри;die Geschwister;personal_info;Geschwister;брати і сестри;noun;ґешвістер
+der Bruder;брат;die Brüder;personal_info;Bruder;брат;noun;бруда
+die Schwester;сестра;die Schwestern;personal_info;Schwester;сестра;noun;швестер
+der Großvater;дідусь;die Großväter;personal_info;Groß + Vater;дідусь;noun;ґросфата
+die Großmutter;бабуся;die Großmütter;personal_info;Groß + Mutter;бабуся;noun;ґросмуттер
+der Onkel;дядько;die Onkel;personal_info;Onkel;дядько;noun;онкель
+die Tante;тітка;die Tanten;personal_info;Tante;тітка;noun;танте
+der Cousin;двоюрідний брат;die Cousins;personal_info;Cousin;двоюрідний брат;noun;кузен
+die Cousine;двоюрідна сестра;die Cousinen;personal_info;Cousine;двоюрідна сестра;noun;кузіне
+der Neffe;племінник;die Neffen;personal_info;Neffe;племінник;noun;неффе
+die Nichte;племінниця;die Nichten;personal_info;Nichte;племінниця;noun;ніхте
+der Schwiegervater;тесть/свекор;die Schwiegerväter;personal_info;Schwieger + Vater;тесть/свекор;noun;швігерфата
+die Schwiegermutter;теща/свекруха;die Schwiegermütter;personal_info;Schwieger + Mutter;теща/свекруха;noun;швігермуттер
+die Schwiegereltern;свекри/тесті;die Schwiegereltern;personal_info;Schwieger + Eltern;свекри/тесті;noun;швігерельтерн
+der Ehemann;чоловік;die Ehemänner;personal_info;Ehe + Mann;чоловік;noun;ееман
+die Ehefrau;дружина;die Ehefrauen;personal_info;Ehe + Frau;дружина;noun;еефрау
+der Partner;партнер;die Partner;personal_info;Partner;партнер;noun;партнер
+die Partnerin;партнерка;die Partnerinnen;personal_info;Partnerin;партнерка;noun;партнерин
+der Freund;друг/хлопець;die Freunde;personal_info;Freund;друг/хлопець;noun;фройнд
+die Freundin;подруга/дівчина;die Freundinnen;personal_info;Freundin;подруга/дівчина;noun;фройндін
+der Verlobte;наречений;die Verlobten;personal_info;Verlobte;наречений;noun;ферлобте
+die Hochzeit;весілля;die Hochzeiten;personal_info;Hoch + Zeit;весілля;noun;хохцайт
+die Ehe;шлюб;die Ehen;personal_info;Ehe;шлюб;noun;ее
+die Scheidung;розлучення;die Scheidungen;personal_info;Scheidung;розлучення;noun;шайдунг
+das Paar;пара;die Paare;personal_info;Paar;пара;noun;паар
+der Verwandte;родич;die Verwandten;personal_info;Verwandte;родич;noun;ферванте
+die Verwandtschaft;родичі/спорідненість;die Verwandtschaften;personal_info;verwandt + schaft;родичі/спорідненість;noun;фервандшафт
+die Beziehung;стосунки;die Beziehungen;personal_info;Beziehung;стосунки;noun;беціунг
+der Kollege;колега;die Kollegen;personal_info;Kollege;колега;noun;колеґе
+die Kollegin;колега;die Kolleginnen;personal_info;Kollegin;колега (жін.);noun;колегін
+der Nachbar;сусід;die Nachbarn;personal_info;Nachbar;сусід;noun;нахбар
+die Verabredung;побачення;die Verabredungen;personal_info;Verabredung;побачення;noun;ферабредунг
+heiraten;одружуватися;;personal_info;heiraten;одружуватися;verb (weak);хайратен
+sich verloben;заручатися;;personal_info;verloben;заручатися;verb (weak);зіх ферлобен
+sich treffen;зустрічатися;;personal_info;treffen;зустрічатися;verb (strong);зіх трефен
+kennenlernen;знайомитися;;personal_info;kennenlernen (zu lernen);знайомитися;verb (separable);кененлернен
+zusammenleben;жити разом;;personal_info;zusammenleben (zu leben);жити разом;verb (separable);цузаменлебен
+streiten;сваритися;;personal_info;streiten;сваритися;verb (strong);штрайтен
+lieben;кохати;;personal_info;lieben;кохати;verb (weak);лібен
+vertrauen;довіряти;;personal_info;vertrauen;довіряти;verb (weak);фертрауен
+aufwachsen;виростати;;personal_info;aufwachsen (zu wachsen);виростати;verb (separable);ауфваксен
+erziehen;виховувати;;personal_info;erziehen;виховувати;verb (strong);ерціен
+der Körper;тіло;die Körper;personal_info;Körper;тіло;noun;керпа
+der Kopf;голова;die Köpfe;personal_info;Kopf;голова;noun;копф
+das Gesicht;обличчя;die Gesichter;personal_info;Gesicht;обличчя;noun;гезіхт
+das Auge;око;die Augen;personal_info;Auge;око;noun;ауге
+die Nase;ніс;die Nasen;personal_info;Nase;ніс;noun;назе
+der Mund;рот;die Münder;personal_info;Mund;рот;noun;мунд
+die Lippe;губа;die Lippen;personal_info;Lippe;губа;noun;ліппе
+das Haar;волосся;die Haare;personal_info;Haar;волосся;noun;гаар
+die Haarfarbe;колір волосся;die Haarfarben;personal_info;Haar + Farbe;колір волосся;noun;гаарфарбе
+die Frisur;зачіска;die Frisuren;personal_info;Frisur;зачіска;noun;фрізур
+die Stirn;чоло;die Stirnen;personal_info;Stirn;чоло;noun;штірн
+die Augenbraue;брова;die Augenbrauen;personal_info;Auge + Braue;брова;noun;аугенбрауе
+die Wimper;вія;die Wimpern;personal_info;Wimper;вія;noun;вімпер
+das Ohr;вухо;die Ohren;personal_info;Ohr;вухо;noun;ор
+die Wange;щока;die Wangen;personal_info;Wange;щока;noun;ванге
+das Kinn;підборіддя;die Kinne;personal_info;Kinn;підборіддя;noun;кінн
+der Hals;шия;die Hälse;personal_info;Hals;шия;noun;галс
+die Schulter;плече;die Schultern;personal_info;Schulter;плече;noun;шультер
+der Arm;рука;die Arme;personal_info;Arm;рука;noun;арм
+die Hand;кисть;die Hände;personal_info;Hand;кисть;noun;ганд
+der Finger;палець;die Finger;personal_info;Finger;палець;noun;фінгер
+der Bauch;живіт;die Bäuche;personal_info;Bauch;живіт;noun;баух
+das Bein;нога;die Beine;personal_info;Bein;нога;noun;байн
+der Fuß;стопа;die Füße;personal_info;Fuß;стопа;noun;фус
+die Haut;шкіра;die Häute;personal_info;Haut;шкіра;noun;гаут
+die Figur;фігура;die Figuren;personal_info;Figur;фігура;noun;фігур
+die Größe;зріст;die Größen;personal_info;Größe;зріст;noun;грьосе
+das Gewicht;вага;die Gewichte;personal_info;Gewicht;вага;noun;гевіхт
+der Bart;борода;die Bärte;personal_info;Bart;борода;noun;барт
+die Brille;окуляри;die Brillen;personal_info;Brille;окуляри;noun;бріле
+groß;великий;;personal_info;groß;великий;adj;грос
+klein;маленький;;personal_info;klein;маленький;adj;кляйн
+dick;товстий;;personal_info;dick;товстий;adj;дік
+dünn;худий;;personal_info;dünn;худий;adj;дюн
+schlank;стрункий;;personal_info;schlank;стрункий;adj;шланк
+hübsch;гарний;;personal_info;hübsch;гарний;adj;гюбш
+schön;красивий;;personal_info;schön;красивий;adj;шьон
+hässlich;потворний;;personal_info;hässlich;потворний;adj;гесліх
+jung;молодий;;personal_info;jung;молодий;adj;юнг
+alt;старий;;personal_info;alt;старий;adj;альт
+blond;білявий;;personal_info;blond;білявий;adj;блонд
+braunhaarig;каштанововолосий;;personal_info;braunhaarig;каштанововолосий;adj;браунгааріг
+lockig;кучерявий;;personal_info;lockig;кучерявий;adj;локіг
+glatt;прямий;;personal_info;glatt;прямий;adj;глатт
+muskulös;мускулистий;;personal_info;muskulös;мускулистий;adj;мускульос
+gepflegt;доглянутий;;personal_info;gepflegt;доглянутий;adj;гепфлегт
+blass;блідий;;personal_info;blass;блідий;adj;блас
+aussehen;виглядати;;personal_info;aussehen (zu sehen);виглядати;verb (separable);аусзеєн
+wiegen;важити;;personal_info;wiegen;важити;verb (strong);віген
+tragen;носити;;personal_info;tragen;носити;verb (strong);траген
+freundlich;дружелюбний;;personal_info;freundlich;дружелюбний;adj;фройндліх
+nett;милий;;personal_info;nett;милий;adj;нет
+ehrlich;чесний;;personal_info;ehrlich;чесний;adj;ерліх
+zuverlässig;надійний;;personal_info;zuverlässig;надійний;adj;цуферлесіг
+fleißig;працьовитий;;personal_info;fleißig;працьовитий;adj;фляйсіг
+faul;лінивий;;personal_info;faul;лінивий;adj;фауль
+intelligent;розумний;;personal_info;intelligent;розумний;adj;інтелігент
+klug;розумний;;personal_info;klug;розумний;adj;клуг
+dumm;дурний;;personal_info;dumm;дурний;adj;дум
+neugierig;допитливий;;personal_info;neugierig;допитливий;adj;нойгіріг
+ruhig;спокійний;;personal_info;ruhig;спокійний;adj;руїг
+geduldig;терплячий;;personal_info;geduldig;терплячий;adj;гедульдіг
+ungeduldig;нетерплячий;;personal_info;ungeduldig;нетерплячий;adj;унгедульдіг
+mutig;сміливий;;personal_info;mutig;сміливий;adj;мутіг
+ängstlich;тривожний;;personal_info;ängstlich;тривожний;adj;енгстліх
+höflich;ввічливий;;personal_info;höflich;ввічливий;adj;гефліх
+unhöflich;неввічливий;;personal_info;unhöflich;неввічливий;adj;унгефліх
+großzügig;щедрий;;personal_info;großzügig;щедрий;adj;гросцюгіг
+geizig;скупий;;personal_info;geizig;скупий;adj;гайціг
+egoistisch;егоїстичний;;personal_info;egoistisch;егоїстичний;adj;егоістіш
+hilfsbereit;готовий допомогти;;personal_info;hilfsbereit;готовий допомогти;adj;гільфсберайт
+tolerant;толерантний;;personal_info;tolerant;толерантний;adj;толерант
+intolerant;нетолерантний;;personal_info;intolerant;нетолерантний;adj;інтолерант
+offen;відкритий;;personal_info;offen;відкритий;adj;офен
+verschlossen;замкнутий;;personal_info;verschlossen;замкнутий;adj;фершлосен
+gesprächig;балакучий;;personal_info;gesprächig;балакучий;adj;гешпрехіг
+schüchtern;сором'язливий;;personal_info;schüchtern;сором'язливий;adj;шюхтерн
+selbstbewusst;впевнений у собі;;personal_info;selbstbewusst;впевнений у собі;adj;зельбстбевуст
+arrogant;зарозумілий;;personal_info;arrogant;зарозумілий;adj;арогант
+bescheiden;скромний;;personal_info;bescheiden;скромний;adj;бешайден
+humorvoll;з почуттям гумору;;personal_info;humorvoll;з почуттям гумору;adj;гуморфоль
+ernst;серйозний;;personal_info;ernst;серйозний;adj;ернст
+lustig;веселий;;personal_info;lustig;веселий;adj;лустіг
+traurig;сумний;;personal_info;traurig;сумний;adj;трауріг
+wütend;сердитий;;personal_info;wütend;сердитий;adj;вютенд
+eifersüchtig;ревнивий;;personal_info;eifersüchtig;ревнивий;adj;айферзюхтіг
+neidisch;заздрісний;;personal_info;neidisch;заздрісний;adj;найдіш
+tapfer;хоробрий;;personal_info;tapfer;хоробрий;adj;тапфер
+feige;боягузливий;;personal_info;feige;боягузливий;adj;файге
+kreativ;творчий;;personal_info;kreativ;творчий;adj;креатів
+die Freundlichkeit;дружелюбність;;personal_info;Freundlichkeit;дружелюбність;noun;фройндліхкайт
+die Ehrlichkeit;чесність;;personal_info;Ehrlichkeit;чесність;noun;ерліхкайт
+die Zuverlässigkeit;надійність;;personal_info;Zuverlässigkeit;надійність;noun;цуферлесігкайт
+die Geduld;терпіння;;personal_info;Geduld;терпіння;noun;гедульд
+die Ungeduld;нетерпіння;;personal_info;Ungeduld;нетерпіння;noun;унгедульд
+der Mut;мужність;;personal_info;Mut;мужність;noun;мут
+die Tapferkeit;хоробрість;;personal_info;Tapferkeit;хоробрість;noun;тапферкайт
+die Faulheit;лінь;;personal_info;Faulheit;лінь;noun;фаульхайт
+die Neugier;допитливість;;personal_info;Neugier;допитливість;noun;нойгір
+die Höflichkeit;ввічливість;;personal_info;Höflichkeit;ввічливість;noun;гефліхкайт
+der Wecker;будильник;die Wecker;personal_info;Wecker;будильник;noun;векка
+der Morgen;ранок;die Morgen;personal_info;Morgen;ранок;noun;морген
+aufwachen;прокидатися;;personal_info;aufwachen (zu wachen);прокидатися;verb (separable);ауфвахен
+das Bett;ліжко;die Betten;personal_info;Bett;ліжко;noun;бет
+aufstehen;вставати;;personal_info;aufstehen (zu stehen);вставати;verb (separable);ауфштеен
+die Dusche;душ;die Duschen;personal_info;Dusche;душ;noun;душе
+duschen;приймати душ;;personal_info;duschen;приймати душ;verb (weak);душен
+das Bad;ванна кімната;die Bäder;personal_info;Bad;ванна;noun;бад
+die Zahnbürste;зубна щітка;die Zahnbürsten;personal_info;Zahn + Bürste;зубна щітка;noun;цанбюрсте
+Zähne putzen;чистити зуби;;personal_info;Zähne putzen;чистити зуби;verb (weak);цене путцен
+das Frühstück;сніданок;;personal_info;Frühstück;сніданок;noun;фрюштюк
+frühstücken;снідати;;personal_info;frühstücken;снідати;verb (weak);фрюштюкен
+der Kaffee;кава;die Kaffees;personal_info;Kaffee;кава;noun;кафе
+trinken;пити;;personal_info;trinken;пити;verb (strong);трінкен
+der Tee;чай;die Tees;personal_info;Tee;чай;noun;тее
+das Brot;хліб;die Brote;personal_info;Brot;хліб;noun;брот
+die Butter;масло;;personal_info;Butter;масло;noun;бутер
+die Marmelade;варення;die Marmeladen;personal_info;Marmelade;варення;noun;мармеладе
+die Arbeit;робота;die Arbeiten;personal_info;Arbeit;робота;noun;арбайт
+der Arbeitsplatz;робоче місце;die Arbeitsplätze;personal_info;Arbeit + Platz;робоче місце;noun;арбайтсплац
+das Büro;офіс;die Büros;personal_info;Büro;офіс;noun;бюро
+zur Arbeit gehen;йти на роботу;;personal_info;zu der Arbeit gehen;йти на роботу;verb (phrase);цур арбайт геен
+der Feierabend;кінець робочого дня;die Feierabende;personal_info;Feierabend;кінець робочого дня;noun;файерабенд
+das Mittagessen;обід;die Mittagessen;personal_info;Mittag + Essen;обід;noun;мітагесен
+kochen;готувати;;personal_info;kochen;готувати;verb (weak);кохен
+der Abend;вечір;die Abende;personal_info;Abend;вечір;noun;абенд
+das Abendessen;вечеря;die Abendessen;personal_info;Abend + Essen;вечеря;noun;абендесен
+fernsehen;дивитися телевізор;;personal_info;fernsehen (zu sehen);дивитися телевізор;verb (separable);фернзеен
+der Fernseher;телевізор;die Fernseher;personal_info;fern + Seher;телевізор;noun;фернзеа
+lesen;читати;;personal_info;lesen;читати;verb (strong);лезен
+das Buch;книга;die Bücher;personal_info;Buch;книга;noun;бух
+die Zeitung;газета;die Zeitungen;personal_info;Zeitung;газета;noun;цайтунг
+spazieren gehen;гуляти;;personal_info;spazieren gehen;гуляти;verb (phrase);шпацірен геен
+der Spaziergang;прогулянка;die Spaziergänge;personal_info;Spazier + Gang;прогулянка;noun;шпацірганг
+einkaufen;робити покупки;;personal_info;einkaufen (zu kaufen);робити покупки;verb (separable);айнкауфен
+der Supermarkt;супермаркет;die Supermärkte;personal_info;Super + Markt;супермаркет;noun;зупермаркт
+die Hausarbeit;домашня робота;die Hausarbeiten;personal_info;Haus + Arbeit;домашня робота;noun;хаусарбайт
+staubsaugen;пилососити;;personal_info;staubsaugen (zu saugen);пилососити;verb (separable);штаубзауген
+der Staubsauger;пилосос;die Staubsauger;personal_info;Staub + Sauger;пилосос;noun;штаубзауга
+die Wäsche waschen;прати білизну;;personal_info;Wäsche waschen;прати білизну;verb (phrase);веше вашен
+bügeln;прасувати;;personal_info;bügeln;прасувати;verb (weak);бюгельн
+der Müll;сміття;;personal_info;Müll;сміття;noun;мюль
+den Müll rausbringen;виносити сміття;;personal_info;Müll rausbringen (zu rausbringen);виносити сміття;verb (separable);ден мюль раусбрінген
+die Kinder abholen;забирати дітей;;personal_info;Kinder abholen (zu abholen);забирати дітей;verb (separable);ді кіндер абхолен
+die Schule;школа;die Schulen;personal_info;Schule;школа;noun;шуле
+ins Bett gehen;лягати спати;;personal_info;in das Bett gehen;лягати спати;verb (phrase);інс бет геен
+schlafen;спати;;personal_info;schlafen;спати;verb (strong);шлафен
+müde;втомлений;;personal_info;müde;втомлений;adj;мюде
+wach;бадьорий;;personal_info;wach;бадьорий;adj;вах

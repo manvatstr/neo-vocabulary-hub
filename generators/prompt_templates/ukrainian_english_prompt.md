@@ -15,7 +15,7 @@ Format: foreign_word;ukrainian_word;english_plural_and_gender;category_tag;lemma
 5. 'lemma': The root dictionary form of the foreign_word. If already a lemma, repeat it.
 6. 'lemma_translation': The translation of the lemma in Ukrainian (for verbs, specify aspect: e.g., 'писати (imperfective)')
 7. 'part_of_speech': The part of speech using standardized terms (see below)
-8. 'transliteration': English IPA pronunciation guide (e.g., /ˈæpəl/ for 'apple')
+8. 'transliteration': Ukrainian transliterative pronunciation guide (e.g., 'епл' for 'apple', 'вота' for 'water')
 
 ## CRITICAL RULES FOR UKRAINIAN:
 - Lemma must be in nominative singular case for nouns
@@ -52,23 +52,23 @@ Format: foreign_word;ukrainian_word;english_plural_and_gender;category_tag;lemma
 
 ## VALIDATION EXAMPLES (must match these patterns exactly):
 # Nouns (with gender specification)
-apple;яблуко;apples (neuter);{category};apple;яблуко;noun;/ˈæpəl/
-water;вода;water (uncountable);{category};water;вода;noun;/ˈwɔːtər/
+apple;яблуко;apples (neuter);{category};apple;яблуко;noun;епл
+water;вода;water (uncountable);{category};water;вода;noun;вота
 
 # Verbs (with aspect)
-write;писати;;{category};write;писати (imperfective);verb;/raɪt/
-read;читати;;{category};read;читати (imperfective);verb;/riːd/
+write;писати;;{category};write;писати (imperfective);verb;райт
+read;читати;;{category};read;читати (imperfective);verb;рід
 
 # Adjectives
-red;червоний;;{category};red;червоний;adj;/red/
+red;червоний;;{category};red;червоний;adj;ред
 
 # Ukrainian case forms
-стіл;table;tables (masculine);{category};стіл;table;noun;/stil/
+стіл;table;tables (masculine);{category};стіл;table;noun;тейбл
 
 ## ERROR PREVENTION:
 - Never use quotation marks around words
 - Do not capitalize English words unless proper nouns
-- Ensure IPA pronunciation is accurate and uses tie bars for diphthongs
+- Ensure transliterative transcription uses Cyrillic characters to approximate English pronunciation
 - Verify Ukrainian diacritics are used correctly
 - Confirm verb aspect is specified in lemma_translation
 - Check that gender specification matches Ukrainian grammar

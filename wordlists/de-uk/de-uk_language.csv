@@ -1,165 +1,92 @@
-der Satz;речення;die Sätze;language;Satz;речення;noun;
-das Subjekt;підмет;die Subjekte;language;Subjekt;підмет;noun;
-das Nomen;іменник;die Nomen;language;Nomen;іменник;noun;
-die Präposition;прийменник;die Präpositionen;language;Präposition;прийменник;noun;
-die Konjunktion;сполучник;die Konjunktionen;language;Konjunktion;сполучник;noun;
-das Adverb;прислівник;die Adverbien;language;Adverb;прислівник;noun;
-das Partizip;дієприкметник;die Partizipien;language;Partizip;дієприкметник;noun;
-der Infinitiv;інфінітив;die Infinitive;language;Infinitiv;інфінітив;noun;
-der Imperativ;наказовий спосіб;die Imperative;language;Imperativ;наказовий спосіб;noun;
-der Indikativ;дійсний спосіб;die Indikative;language;Indikativ;дійсний спосіб;noun;
-der Konjunktiv;умовний спосіб;die Konjunktive;language;Konjunktiv;умовний спосіб;noun;
-das Passiv;пасив;;language;Passiv;пасив;noun;
-das Genus;рід;die Genera;language;Genus;рід;noun;
-der Kasus;відмінок;die Kasus;language;Kasus;відмінок;noun;
-der Nominativ;називний відмінок;die Nominative;language;Nominativ;називний відмінок;noun;
-der Genitiv;родовий відмінок;die Genitive;language;Genitiv;родовий відмінок;noun;
-der Dativ;давальний відмінок;die Dative;language;Dativ;давальний відмінок;noun;
-der Akkusativ;знахідний відмінок;die Akkusative;language;Akkusativ;знахідний відмінок;noun;
-der Plural;множина;die Plurale;language;Plural;множина;noun;
-der Singular;однина;die Singulare;language;Singular;однина;noun;
-die Zeitform;час;die Zeitformen;language;Zeit + Form;час;noun;
-das Präsens;теперішній час;;language;Präsens;теперішній час;noun;
-das Präteritum;претерит;die Präterita;language;Präteritum;претерит;noun;
-das Perfekt;перфект;die Perfekta;language;Perfekt;перфект;noun;
-das Plusquamperfekt;плюсквамперфект;die Plusquamperfekta;language;Plusquamperfekt;плюсквамперфект;noun;
-das Futur;майбутній час;die Future;language;Futur;майбутній час;noun;
-die Wortart;частина мови;die Wortarten;language;Wort + Art;частина мови;noun;
-der Satzbau;будова речення;;language;Satz + Bau;будова речення;noun;
-die Rechtschreibung;правопис;;language;recht + Schreibung;правопис;noun;
-die Silbe;склад;die Silben;language;Silbe;склад;noun;
-der Buchstabe;літера;die Buchstaben;language;Buchstabe;літера;noun;
-das Alphabet;алфавіт;die Alphabete;language;Alphabet;алфавіт;noun;
-der Vokal;голосний;die Vokale;language;Vokal;голосний;noun;
-der Konsonant;приголосний;die Konsonanten;language;Konsonant;приголосний;noun;
-der Umlaut;умлаут;die Umlaute;language;um + Laut;умлаут;noun;
-das Fragezeichen;знак питання;die Fragezeichen;language;Frage + Zeichen;знак питання;noun;
-das Komma;кома;die Kommas;language;Komma;кома;noun;
-der Bindestrich;дефіс;die Bindestriche;language;Binde + Strich;дефіс;noun;
-der Doppelpunkt;двокрапка;die Doppelpunkte;language;Doppel + Punkt;двокрапка;noun;
-das Semikolon;крапка з комою;die Semikolons;language;Semikolon;крапка з комою;noun;
-die Kommunikationsbarriere;комунікаційний бар'єр;die Kommunikationsbarrieren;language;Kommunikation + Barriere;комунікаційний бар'єр;noun;
-die Sprachbarriere;мовний бар'єр;die Sprachbarrieren;language;Sprache + Barriere;мовний бар'єр;noun;
-der Akzent;акцент;die Akzente;language;Akzent;акцент;noun;
-der Dialekt;діалект;die Dialekte;language;Dialekt;діалект;noun;
-das Sprachproblem;мовна проблема;die Sprachprobleme;language;Sprache + Problem;мовна проблема;noun;
-die Verständigungsschwierigkeit;труднощі спілкування;die Verständigungsschwierigkeiten;language;Verständigung + Schwierigkeit;труднощі спілкування;noun;
-die Hörschwierigkeit;труднощі зі слухом;die Hörschwierigkeiten;language;hören + Schwierigkeit;труднощі зі слухом;noun;
-das Hörverstehen;сприйняття на слух;;language;hören + Verstehen;сприйняття на слух;noun;
-das Leseverstehen;розуміння прочитаного;;language;lesen + Verstehen;розуміння прочитаного;noun;
-die Zeichensprache;жестова мова;die Zeichensprachen;language;Zeichen + Sprache;жестова мова;noun;
-die Muttersprache;рідна мова;die Muttersprachen;language;Mutter + Sprache;рідна мова;noun;
-der Dolmetscher;перекладач (усний);die Dolmetscher;language;Dolmetscher;перекладач;noun;
-der Übersetzer;перекладач (письмовий);die Übersetzer;language;Übersetzer;перекладач;noun;
-die Mehrsprachigkeit;багатомовність;;language;mehr + Sprache + -igkeit;багатомовність;noun;
-die Zweisprachigkeit;двомовність;;language;zwei + Sprache + -igkeit;двомовність;noun;
-die Sprachkenntnisse;мовні знання;;language;Sprachkenntnis;мовне знання;noun;
-der Sprachfehler;мовний дефект;die Sprachfehler;language;Sprache + Fehler;мовний дефект;noun;
-das Stottern;заїкання;;language;stottern;заїкання;noun;
-die Stummheit;німота;;language;stumm + -heit;німота;noun;
-die Taubheit;глухота;;language;taub + -heit;глухота;noun;
-die Schwerhörigkeit;туговухість;;language;schwer + hören + -igkeit;туговухість;noun;
-die Kommunikationsstörung;порушення комунікації;die Kommunikationsstörungen;language;Kommunikation + Störung;порушення комунікації;noun;
-der Sprechfehler;мовленнєвий дефект;die Sprechfehler;language;sprechen + Fehler;мовленнєвий дефект;noun;
-die Sprechhemmung;мовленнєве гальмування;die Sprechhemmungen;language;sprechen + Hemmung;мовленнєве гальмування;noun;
-die Ausdrucksweise;спосіб вираження;die Ausdrucksweisen;language;Ausdruck + Weise;спосіб вираження;noun;
-die Satzstellung;порядок слів;die Satzstellungen;language;Satz + Stellung;порядок слів;noun;
-das Wort;слово;die Wörter;language;Wort;слово;noun;
-die Redewendung;ідіома;die Redewendungen;language;Rede + Wendung;ідіома;noun;
-die Betonung;наголос;die Betonungen;language;Betonung;наголос;noun;
-die Intonation;інтонація;die Intonationen;language;Intonation;інтонація;noun;
-die Unterbrechung;переривання;die Unterbrechungen;language;unterbrechen + -ung;переривання;noun;
-das Missverstehen;неправильне розуміння;;language;missverstehen;неправильне розуміння;noun;
-die Fehlinterpretation;неправильне тлумачення;die Fehlinterpretationen;language;fehl- + Interpretation;неправильне тлумачення;noun;
-die Fehlkommunikation;неправильна комунікація;;language;fehl- + Kommunikation;неправильна комунікація;noun;
-der Hörverlust;втрата слуху;die Hörverluste;language;hören + Verlust;втрата слуху;noun;
-der Stimmverlust;втрата голосу;die Stimmverluste;language;Stimme + Verlust;втрата голосу;noun;
-undeutlich;нечіткий;;language;undeutlich;нечіткий;adj;
-stumm;німий;;language;stumm;німий;adj;
-die Meinung;думка;die Meinungen;language;Meinung;думка;noun;
-die Ansicht;погляд;die Ansichten;language;Ansicht;погляд;noun;
-der Standpunkt;точка зору;die Standpunkte;language;Stand + Punkt;точка зору;noun;
-die Überzeugung;переконання;die Überzeugungen;language;Überzeugung;переконання;noun;
-das Argument;аргумент;die Argumente;language;Argument;аргумент;noun;
-das Gegenargument;контраргумент;die Gegenargumente;language;gegen + Argument;контраргумент;noun;
-der Zweifel;сумнів;die Zweifel;language;Zweifel;сумнів;noun;
-die Zustimmung;згода;die Zustimmungen;language;Zustimmung;згода;noun;
-die Behauptung;твердження;die Behauptungen;language;Behauptung;твердження;noun;
-der Widerspruch;суперечність;die Widersprüche;language;Widerspruch;суперечність;noun;
-die Diskussion;дискусія;die Diskussionen;language;Diskussion;дискусія;noun;
-der Vorschlag;пропозиція;die Vorschläge;language;Vorschlag;пропозиція;noun;
-die Entscheidung;рішення;die Entscheidungen;language;Entscheidung;рішення;noun;
-meinen;вважати;;language;meinen;вважати;verb (weak);
-glauben;вірити;;language;glauben;вірити;verb (weak);
-denken;думати;;language;denken;думати;verb (mixed);
-zustimmen;погоджуватися;;language;zustimmen (zu stimmen);погоджуватися;verb (separable);
-widersprechen;суперечити;;language;widersprechen;суперечити;verb (strong);
-behaupten;стверджувати;;language;behaupten;стверджувати;verb (weak);
-argumentieren;аргументувати;;language;argumentieren;аргументувати;verb (weak);
-diskutieren;дискутувати;;language;diskutieren;дискутувати;verb (weak);
-überzeugen;переконувати;;language;überzeugen;переконувати;verb (weak);
-zweifeln;сумніватися;;language;zweifeln;сумніватися;verb (weak);
-vorschlagen;пропонувати;;language;vorschlagen (zu schlagen);пропонувати;verb (separable);
-entscheiden;вирішувати;;language;entscheiden;вирішувати;verb (strong);
-überlegen;обмірковувати;;language;überlegen;обмірковувати;verb (weak);
-überzeugend;переконливий;;language;überzeugend;переконливий;adj;
-zweifelhaft;сумнівний;;language;zweifelhaft;сумнівний;adj;
-unsicher;невпевнений;;language;unsicher;невпевнений;adj;
-wahrscheinlich;ймовірний;;language;wahrscheinlich;ймовірний;adj;
-unbedingt;безумовний;;language;unbedingt;безумовний;adj;
-eigentlich;власне;;language;eigentlich;власне;adv;
-nämlich;адже;;language;nämlich;адже;adv;
-trotzdem;проте;;language;trotzdem;проте;adv;
-deshalb;тому;;language;deshalb;тому;adv;
-daher;отже;;language;daher;отже;adv;
-obwohl;хоча;;language;obwohl;хоча;conj;
-vielleicht;можливо;;language;vielleicht;можливо;adv;
-pro;за;;language;pro;за;prep;
-kontra;проти;;language;kontra;проти;prep;
-der Einwand;заперечення;die Einwände;language;Einwand;заперечення;noun;
-der Kommentar;коментар;die Kommentare;language;Kommentar;коментар;noun;
-der Spruch;вислів;die Sprüche;language;Spruch;вислів;noun;
-das Sprichwort;прислів'я;die Sprichwörter;language;Sprichwort;прислів'я;noun;
-der Slang;сленг;;language;Slang;сленг;noun;
-die Umgangssprache;розмовна мова;die Umgangssprachen;language;Umgang + Sprache;розмовна мова;noun;
-umgangssprachlich;розмовний;;language;umgangssprachlich;розмовний;adj;
-der Jargon;жаргон;die Jargons;language;Jargon;жаргон;noun;
-die Mundart;говірка;die Mundarten;language;Mund + Art;говірка;noun;
-die Redensart;приказка;die Redensarten;language;Redensart;приказка;noun;
-die Floskel;штамп;die Floskeln;language;Floskel;штамп;noun;
-das Schimpfwort;лайка;die Schimpfwörter;language;Schimpf + Wort;лайка;noun;
-der Kraftausdruck;грубе слово;die Kraftausdrücke;language;Kraft + Ausdruck;грубе слово;noun;
-der Neologismus;неологізм;die Neologismen;language;Neologismus;неологізм;noun;
-die Abkürzung;скорочення;die Abkürzungen;language;Abkürzung;скорочення;noun;
-das Kürzel;абревіатура;die Kürzel;language;Kürzel;абревіатура;noun;
-die Jugendsprache;молодіжна мова;die Jugendsprachen;language;Jugend + Sprache;молодіжна мова;noun;
-die Fachsprache;фахова мова;die Fachsprachen;language;Fach + Sprache;фахова мова;noun;
-die Gaunersprache;злодійський жаргон;die Gaunersprachen;language;Gauner + Sprache;злодійський жаргон;noun;
-der Anglizismus;англіцизм;die Anglizismen;language;Anglizismus;англіцизм;noun;
-das Lehnwort;запозичене слово;die Lehnwörter;language;Lehn + Wort;запозичене слово;noun;
-dolmetschen;усно перекладати;;language;dolmetschen;усно перекладати;verb (weak);
-die Parole;гасло;die Parolen;language;Parole;гасло;noun;
-der Slogan;слоган;die Slogans;language;Slogan;слоган;noun;
-die Metapher;метафора;die Metaphern;language;Metapher;метафора;noun;
-das Gleichnis;порівняння;die Gleichnisse;language;Gleichnis;порівняння;noun;
-der Vergleich;порівняння;die Vergleiche;language;Vergleich;порівняння;noun;
-die Übertreibung;перебільшення;die Übertreibungen;language;Übertreibung;перебільшення;noun;
-die Untertreibung;применшення;die Untertreibungen;language;Untertreibung;применшення;noun;
-ironisch;іронічний;;language;ironisch;іронічний;adj;
-sarkastisch;саркастичний;;language;sarkastisch;саркастичний;adj;
-witzig;дотепний;;language;witzig;дотепний;adj;
-der Witz;жарт;die Witze;language;Witz;жарт;noun;
-der Scherz;жарт;die Scherze;language;Scherz;жарт;noun;
-der Kalauer;каламбур;die Kalauer;language;Kalauer;каламбур;noun;
-das Wortspiel;гра слів;die Wortspiele;language;Wort + Spiel;гра слів;noun;
-doppeldeutig;двозначний;;language;doppeldeutig;двозначний;adj;
-zweideutig;двозначний;;language;zweideutig;двозначний;adj;
-die Anspielung;натяк;die Anspielungen;language;Anspielung;натяк;noun;
-die Andeutung;натяк;die Andeutungen;language;Andeutung;натяк;noun;
-der Euphemismus;евфемізм;die Euphemismen;language;Euphemismus;евфемізм;noun;
-der Tabuausdruck;табуйований вираз;die Tabuausdrücke;language;Tabu + Ausdruck;табуйований вираз;noun;
-das Schlagwort;гасло;die Schlagwörter;language;Schlag + Wort;гасло;noun;
-die Phrase;фраза;die Phrasen;language;Phrase;фраза;noun;
-das Klischee;кліше;die Klischees;language;Klischee;кліше;noun;
-der Argot;арго;;language;Argot;арго;noun;
-die Vulgärsprache;вульгарна мова;die Vulgärsprachen;language;vulgär + Sprache;вульгарна мова;noun;
+der Satz;речення;die Sätze;language;Satz;речення;noun;зац
+das Wort;слово;die Wörter;language;Wort;слово;noun;ворт
+die Grammatik;граматика;die Grammatiken;language;Grammatik;граматика;noun;граматік
+das Substantiv;іменник;die Substantive;language;Substantiv;іменник;noun;зупстантів
+das Nomen;іменник;die Nomen;language;Nomen;іменник;noun;номен
+das Verb;дієслово;die Verben;language;Verb;дієслово;noun;ферб
+das Adjektiv;прикметник;die Adjektive;language;Adjektiv;прикметник;noun;ад'єктів
+das Adverb;прислівник;die Adverbien;language;Adverb;прислівник;noun;адверб
+die Präposition;прийменник;die Präpositionen;language;Präposition;прийменник;noun;препозиціон
+die Konjunktion;сполучник;die Konjunktionen;language;Konjunktion;сполучник;noun;кон'юнкціон
+das Pronomen;займенник;die Pronomen;language;Pronomen;займенник;noun;прономен
+die Deklination;відмінювання;die Deklinationen;language;Deklination;відмінювання;noun;деклінаціон
+die Konjugation;дієвідмінювання;die Konjugationen;language;Konjugation;дієвідмінювання;noun;кон'югаціон
+der Kasus;відмінок;die Kasus;language;Kasus;відмінок;noun;казус
+der Fall;відмінок;die Fälle;language;Fall;відмінок;noun;фаль
+der Nominativ;називний відмінок;die Nominative;language;Nominativ;називний відмінок;noun;номінатів
+der Genitiv;родовий відмінок;die Genitive;language;Genitiv;родовий відмінок;noun;ґенітів
+der Dativ;давальний відмінок;die Dative;language;Dativ;давальний відмінок;noun;датів
+der Akkusativ;знахідний відмінок;die Akkusative;language;Akkusativ;знахідний відмінок;noun;акузатів
+der Plural;множина;die Plurale;language;Plural;множина;noun;плюраль
+der Singular;однина;die Singulare;language;Singular;однина;noun;зінгуляр
+das Genus;рід;die Genera;language;Genus;рід;noun;генус
+maskulin;чоловічий;;language;maskulin;чоловічий;adj;маскулін
+feminin;жіночий;;language;feminin;жіночий;adj;фемінін
+neutral;середній;;language;neutral;середній;adj;нойтраль
+der Komparativ;вищий ступінь порівняння;die Komparative;language;Komparativ;вищий ступінь порівняння;noun;компаратів
+der Superlativ;найвищий ступінь порівняння;die Superlative;language;Superlativ;найвищий ступінь порівняння;noun;суперлатів
+das Tempus;час;die Tempora;language;Tempus;час;noun;темпус
+die Zeitform;часова форма;die Zeitformen;language;Zeit + Form;часова форма;noun;цайтформ
+das Präsens;теперішній час;die Präsens;language;Präsens;теперішній час;noun;презенс
+das Präteritum;претерит;die Präterita;language;Präteritum;претерит;noun;претерітум
+das Perfekt;перфект;die Perfekte;language;Perfekt;перфект;noun;перфект
+das Plusquamperfekt;давноминулий час;die Plusquamperfekte;language;Plusquamperfekt;давноминулий час;noun;плюсквамперфект
+das Futur;майбутній час;die Future;language;Futur;майбутній час;noun;футур
+der Imperativ;наказовий спосіб;die Imperative;language;Imperativ;наказовий спосіб;noun;імператів
+der Konjunktiv;умовний спосіб;die Konjunktive;language;Konjunktiv;умовний спосіб;noun;кон'юнктів
+der Hauptsatz;головне речення;die Hauptsätze;language;Haupt + Satz;головне речення;noun;гауптзац
+der Nebensatz;підрядне речення;die Nebensätze;language;Neben + Satz;підрядне речення;noun;небензац
+das Subjekt;підмет;die Subjekte;language;Subjekt;підмет;noun;суб'єкт
+das Prädikat;присудок;die Prädikate;language;Prädikat;присудок;noun;предікат
+das Objekt;додаток;die Objekte;language;Objekt;додаток;noun;об'єкт
+das Adverbiale;обставина;die Adverbiale;language;Adverbiale;обставина;noun;адвербіале
+die Satzstellung;порядок слів у реченні;die Satzstellungen;language;Satz + Stellung;порядок слів у реченні;noun;зацштелунг
+die Wortstellung;порядок слів;die Wortstellungen;language;Wort + Stellung;порядок слів;noun;вортштелунг
+die Verneinung;заперечення;die Verneinungen;language;Verneinung;заперечення;noun;фернайнунг
+die Frage;питання;die Fragen;language;Frage;питання;noun;фраге
+der Befehl;наказ;die Befehle;language;Befehl;наказ;noun;бефель
+das Satzzeichen;розділовий знак;die Satzzeichen;language;Satz + Zeichen;розділовий знак;noun;заццайхен
+die Meinung;думка;die Meinungen;language;Meinung;думка;noun;майнунґ
+die Ansicht;погляд;die Ansichten;language;Ansicht;погляд;noun;анзіхт
+der Standpunkt;точка зору;die Standpunkte;language;Standpunkt;точка зору;noun;штандпункт
+die Überzeugung;переконання;die Überzeugungen;language;Überzeugung;переконання;noun;юберцойґунґ
+die Auffassung;сприйняття;die Auffassungen;language;Auffassung;сприйняття;noun;ауффассунґ
+der Eindruck;враження;die Eindrücke;language;Eindruck;враження;noun;айндрук
+die Vermutung;припущення;die Vermutungen;language;Vermutung;припущення;noun;фермутунґ
+die Behauptung;твердження;die Behauptungen;language;Behauptung;твердження;noun;бехауптунґ
+das Argument;аргумент;die Argumente;language;Argument;аргумент;noun;арґумент
+die Zustimmung;згода;;language;Zustimmung;згода;noun;цуштимунґ
+der Vorschlag;пропозиція;die Vorschläge;language;Vorschlag;пропозиція;noun;форшлаг
+die Empfehlung;рекомендація;die Empfehlungen;language;Empfehlung;рекомендація;noun;емпфелунґ
+die Bewertung;оцінка;die Bewertungen;language;Bewertung;оцінка;noun;бевертунґ
+die Einschätzung;оцінювання;die Einschätzungen;language;Einschätzung;оцінювання;noun;айншенцунґ
+der Glaube;віра;;language;Glaube;віра;noun;глаубе
+die Haltung;ставлення;die Haltungen;language;Haltung;ставлення;noun;гальтунґ
+die Position;позиція;die Positionen;language;Position;позиція;noun;позіціон
+die Stellungnahme;висловлення;die Stellungnahmen;language;Stellungnahme;висловлення;noun;штеллюнґнаме
+die Äußerung;висловлювання;die Äußerungen;language;Äußerung;висловлювання;noun;ойссерунґ
+der Zweifel;сумнів;die Zweifel;language;Zweifel;сумнів;noun;цвайфель
+der Einwand;заперечення;die Einwände;language;Einwand;заперечення;noun;айнванд
+die Sichtweise;погляд;die Sichtweisen;language;Sichtweise;погляд;noun;зіхтвайзе
+die Überlegung;міркування;die Überlegungen;language;Überlegung;міркування;noun;юберлеґунґ
+meinen;думати;;language;meinen;думати;verb (weak);майнен
+denken;думати;;language;denken;думати;verb (mixed);денкен
+glauben;вірити;;language;glauben;вірити;verb (weak);ґляубен
+überzeugen;переконувати;;language;überzeugen;переконувати;verb (weak);юберцойґен
+zustimmen;погоджуватися;;language;zustimmen (zu stimmen);погоджуватися;verb (separable);цуштіммен
+widersprechen;суперечити;;language;widersprechen;суперечити;verb (strong);відершпрехен
+ablehnen;відхиляти;;language;ablehnen (zu lehnen);відхиляти;verb (separable);абленен
+behaupten;стверджувати;;language;behaupten;стверджувати;verb (weak);бехауптен
+feststellen;встановлювати;;language;feststellen (zu stellen);встановлювати;verb (separable);фестштеллен
+argumentieren;аргументувати;;language;argumentieren;аргументувати;verb (weak);арґументірен
+hinweisen;вказувати;;language;hinweisen (zu weisen);вказувати;verb (separable);гінвайзен
+äußern;висловлювати;;language;äußern;висловлювати;verb (weak);ойссерн
+überlegen;обмірковувати;;language;überlegen;обмірковувати;verb (weak);юберлеґен
+bezweifeln;сумніватися;;language;bezweifeln;сумніватися;verb (weak);бецвайфельн
+vermuten;припускати;;language;vermuten;припускати;verb (weak);фермутен
+einschätzen;оцінювати;;language;einschätzen (zu schätzen);оцінювати;verb (separable);айншенцен
+überzeugt;переконаний;;language;überzeugt;переконаний;adj;юберцойґт
+sicher;впевнений;;language;sicher;впевнений;adj;зіхер
+zweifelhaft;сумнівний;;language;zweifelhaft;сумнівний;adj;цвайфельхафт
+möglicherweise;можливо;;language;möglicherweise;можливо;adv;мьоґліхервайзе
+wahrscheinlich;ймовірно;;language;wahrscheinlich;ймовірно;adv;вашайнліхь

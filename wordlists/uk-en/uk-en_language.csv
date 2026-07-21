@@ -1,163 +1,166 @@
-noun;іменник;nouns (masculine);language;noun;іменник;noun;/naʊn/
-verb;дієслово;verbs (neuter);language;verb;дієслово;noun;/vɜːrb/
-adjective;прикметник;adjectives (masculine);language;adjective;прикметник;noun;/ˈædʒɪktɪv/
-adverb;прислівник;adverbs (masculine);language;adverb;прислівник;noun;/ˈædvɜːrb/
-preposition;прийменник;prepositions (masculine);language;preposition;прийменник;noun;/ˌprɛpəˈzɪʃən/
-conjunction;сполучник;conjunctions (masculine);language;conjunction;сполучник;noun;/kənˈdʒʌŋkʃən/
-pronoun;займенник;pronouns (masculine);language;pronoun;займенник;noun;/ˈproʊnaʊn/
-numeral;числівник;numerals (masculine);language;numeral;числівник;noun;/ˈnuːmərəl/
-interjection;вигук;interjections (masculine);language;interjection;вигук;noun;/ˌɪntərˈdʒɛkʃən/
-predicate;присудок;predicates (masculine);language;predicate;присудок;noun;/ˈprɛdɪkət/
-object;додаток;objects (masculine);language;object;додаток;noun;/ˈɑːbdʒɪkt/
-complement;додаток;complements (masculine);language;complement;додаток;noun;/ˈkɑːmpləmənt/
-modifier;означення;modifiers (neuter);language;modifier;означення;noun;/ˈmɑːdɪfaɪər/
-aspect;вид;aspects (masculine);language;aspect;вид;noun;/ˈæspɛkt/
-mood;спосіб;moods (masculine);language;mood;спосіб;noun;/muːd/
-case;відмінок;cases (masculine);language;case;відмінок;noun;/keɪs/
-gender;рід;genders (masculine);language;gender;рід;noun;/ˈdʒɛndər/
-number;число;numbers (neuter);language;number;число;noun;/ˈnʌmbər/
-person;особа;persons (feminine);language;person;особа;noun;/ˈpɜːrsən/
-singular;однина;singulars (feminine);language;singular;однина;noun;/ˈsɪŋɡjələr/
-plural;множина;plurals (feminine);language;plural;множина;noun;/ˈplʊrəl/
-countable;злічуваний;;language;countable;злічуваний;adj;/ˈkaʊntəbəl/
-uncountable;незлічуваний;;language;uncountable;незлічуваний;adj;/ʌnˈkaʊntəbəl/
-article;артикль;articles (masculine);language;article;артикль;noun;/ˈɑːrtɪkəl/
-definite;означений;;language;definite;означений;adj;/ˈdɛfɪnɪt/
-indefinite;неозначений;;language;indefinite;неозначений;adj;/ɪnˈdɛfɪnɪt/
-infinitive;інфінітив;infinitives (masculine);language;infinitive;інфінітив;noun;/ɪnˈfɪnɪtɪv/
-gerund;герундій;gerunds (masculine);language;gerund;герундій;noun;/ˈdʒɛrənd/
-participle;дієприкметник;participles (masculine);language;participle;дієприкметник;noun;/ˈpɑːrtɪsɪpəl/
-reflexive;зворотний;;language;reflexive;зворотний;adj;/rɪˈflɛksɪv/
-comparative;компаратив;comparatives (masculine);language;comparative;компаратив;noun;/kəmˈpærətɪv/
-superlative;суперлатив;superlatives (masculine);language;superlative;суперлатив;noun;/sʊˈpɜːrlətɪv/
-prefix;префікс;prefixes (masculine);language;prefix;префікс;noun;/ˈpriːfɪks/
-suffix;суфікс;suffixes (masculine);language;suffix;суфікс;noun;/ˈsʌfɪks/
-root;корінь;roots (masculine);language;root;корінь;noun;/ruːt/
-stem;основа;stems (feminine);language;stem;основа;noun;/stɛm/
-inflection;флексія;inflections (feminine);language;inflection;флексія;noun;/ɪnˈflɛkʃən/
-conjugation;дієвідмінювання;conjugations (neuter);language;conjugation;дієвідмінювання;noun;/ˌkɑːndʒəˈɡeɪʃən/
-declension;відмінювання;declensions (neuter);language;declension;відмінювання;noun;/dɪˈklɛnʃən/
-syntax;синтаксис;syntax (uncountable);language;syntax;синтаксис;noun;/ˈsɪntæks/
-punctuation;пунктуація;punctuation (uncountable);language;punctuation;пунктуація;noun;/ˌpʌŋktʃuˈeɪʃən/
-comma;кома;commas (feminine);language;comma;кома;noun;/ˈkɑːmə/
-period;крапка;periods (feminine);language;period;крапка;noun;/ˈpɪriəd/
-accent;акцент;accents (masculine);language;accent;акцент;noun;/ˈæksɛnt/
-dialect;діалект;dialects (masculine);language;dialect;діалект;noun;/ˈdaɪəˌlɛkt/
-slang;сленг;uncountable (masculine);language;slang;сленг;noun;/slæŋ/
-jargon;жаргон;uncountable (masculine);language;jargon;жаргон;noun;/ˈdʒɑːrɡən/
-intonation;інтонація;intonations (feminine);language;intonation;інтонація;noun;/ˌɪntəˈneɪʃən/
-clarity;ясність;uncountable (feminine);language;clarity;ясність;noun;/ˈklærəti/
-ambiguity;двозначність;uncountable (feminine);language;ambiguity;двозначність;noun;/ˌæmbɪˈɡjuːəti/
-confusion;плутанина;uncountable (feminine);language;confusion;плутанина;noun;/kənˈfjuːʒən/
-misinterpretation;перекручення;misinterpretations (neuter);language;misinterpretation;перекручення;noun;/ˌmɪsɪnˌtɜːrprɪˈteɪʃən/
-barrier;бар'єр;barriers (masculine);language;barrier;бар'єр;noun;/ˈbæriər/
-noise;шум;uncountable (masculine);language;noise;шум;noun;/nɔɪz/
-interruption;переривання;interruptions (neuter);language;interruption;переривання;noun;/ˌɪntəˈrʌpʃən/
-mumble;бурмотіння;uncountable (neuter);language;mumble;бурмотіння;noun;/ˈmʌmbəl/
-whisper;шепіт;uncountable (masculine);language;whisper;шепіт;noun;/ˈwɪspər/
-gesture;жест;gestures (masculine);language;gesture;жест;noun;/ˈdʒɛstʃər/
-sign language;жестова мова;uncountable (feminine);language;sign language;жестова мова;noun;/saɪn ˈlæŋɡwɪdʒ/
-lip-reading;читання з губ;uncountable (neuter);language;lip-reading;читання з губ;noun;/ˈlɪp ˌriːdɪŋ/
-braille;шрифт Брайля;uncountable (masculine);language;braille;шрифт Брайля;noun;/breɪl/
-hearing impairment;порушення слуху;uncountable (neuter);language;hearing impairment;порушення слуху;noun;/ˈhɪərɪŋ ɪmˈpɛərmənt/
-speech impediment;дефект мовлення;speech impediments (masculine);language;speech impediment;дефект мовлення;noun;/spiːtʃ ɪmˈpɛdɪmənt/
-stutter;заїкання;uncountable (neuter);language;stutter;заїкання;noun;/ˈstʌtər/
-deafness;глухота;uncountable (feminine);language;deafness;глухота;noun;/ˈdɛfnəs/
-blindness;сліпота;uncountable (feminine);language;blindness;сліпота;noun;/ˈblaɪndnəs/
-captions;титри;captions (masculine plural);language;caption;титр;noun;/ˈkæpʃənz/
-misunderstand;неправильно розуміти;;language;misunderstand;неправильно розуміти (imperfective);verb;/ˌmɪsʌndərˈstænd/
-misinterpret;неправильно тлумачити;;language;misinterpret;неправильно тлумачити (imperfective);verb;/ˌmɪsɪnˈtɜːrprɪt/
-clarify;пояснювати;;language;clarify;пояснювати (imperfective);verb;/ˈklærɪfaɪ/
-explain;роз'яснювати;;language;explain;роз'яснювати (imperfective);verb;/ɪkˈspleɪn/
-interpret;усно перекладати;;language;interpret;усно перекладати (imperfective);verb;/ɪnˈtɜːrprɪt/
-interrupt;переривати;;language;interrupt;переривати (imperfective);verb;/ˌɪntəˈrʌpt/
-pronounce;вимовляти;;language;pronounce;вимовляти (imperfective);verb;/prəˈnaʊns/
-articulate;чітко вимовляти;;language;articulate;чітко вимовляти (imperfective);verb;/ɑːrˈtɪkjʊleɪt/
-confuse;плутати;;language;confuse;плутати (imperfective);verb;/kənˈfjuːz/
-stammer;затинатися;;language;stammer;затинатися (imperfective);verb;/ˈstæmər/
-deaf;глухий;;language;deaf;глухий;adj;/dɛf/
-blind;сліпий;;language;blind;сліпий;adj;/blaɪnd/
-mute;німий;;language;mute;німий;adj;/mjuːt/
-hard of hearing;слабочуючий;;language;hard of hearing;слабочуючий;adj;/hɑːrd əv ˈhɪərɪŋ/
-opinion;думка;opinions (feminine);language;opinion;думка;noun;/əˈpɪnjən/
-point of view;точка зору;points of view (feminine);language;point of view;точка зору;noun;/pɔɪnt əv vjuː/
-perspective;перспектива;perspectives (feminine);language;perspective;перспектива;noun;/pərˈspektɪv/
-standpoint;точка зору;standpoints (feminine);language;standpoint;точка зору;noun;/ˈstændpɔɪnt/
-belief;переконання;beliefs (neuter);language;belief;переконання;noun;/bɪˈliːf/
-thought;думка;thoughts (feminine);language;thought;думка;noun;/θɔːt/
-idea;ідея;ideas (feminine);language;idea;ідея;noun;/aɪˈdiːə/
-claim;твердження;claims (neuter);language;claim;твердження;noun;/kleɪm/
-stance;позиція;stances (feminine);language;stance;позиція;noun;/stæns/
-position;позиція;positions (feminine);language;position;позиція;noun;/pəˈzɪʃən/
-attitude;ставлення;attitudes (neuter);language;attitude;ставлення;noun;/ˈætɪtjuːd/
-agreement;згода;agreements (feminine);language;agreement;згода;noun;/əˈɡriːmənt/
-disagreement;незгода;disagreements (feminine);language;disagreement;незгода;noun;/ˌdɪsəˈɡriːmənt/
-think;думати;;language;think;думати (imperfective);verb;/θɪŋk/
-believe;вірити;;language;believe;вірити (imperfective);verb;/bɪˈliːv/
-feel;відчувати;;language;feel;відчувати (imperfective);verb;/fiːl/
-suppose;припускати;;language;suppose;припускати (imperfective);verb;/səˈpoʊz/
-guess;здогадуватися;;language;guess;здогадуватися (imperfective);verb;/ɡes/
-assume;припускати;;language;assume;припускати (imperfective);verb;/əˈsuːm/
-consider;вважати;;language;consider;вважати (imperfective);verb;/kənˈsɪdər/
-agree;погоджуватися;;language;agree;погоджуватися (imperfective);verb;/əˈɡriː/
-disagree;не погоджуватися;;language;disagree;не погоджуватися (imperfective);verb;/ˌdɪsəˈɡriː/
-oppose;заперечувати;;language;oppose;заперечувати (imperfective);verb;/əˈpoʊz/
-assert;стверджувати;;language;assert;стверджувати (imperfective);verb;/əˈsɜːrt/
-state;заявляти;;language;state;заявляти (imperfective);verb;/steɪt/
-express;висловлювати;;language;express;висловлювати (imperfective);verb;/ɪkˈspres/
-in my opinion;на мою думку;;language;in my opinion;на мою думку;adv;/ɪn maɪ əˈpɪnjən/
-from my perspective;з мого погляду;;language;from my perspective;з мого погляду;adv;/frɒm maɪ pərˈspektɪv/
-personally;особисто;;language;personally;особисто;adv;/ˈpɜːrsənəli/
-as for me;щодо мене;;language;as for me;щодо мене;adv;/æz fɔːr miː/
-I’d say;я б сказав;;language;say;сказати (perfective);verb;/aɪd seɪ/
-if you ask me;якщо ви мене запитаєте;;language;if you ask me;якщо ви мене запитаєте;adv;/ɪf juː æsk miː/
-to my mind;як на мене;;language;to my mind;як на мене;adv;/tə maɪ maɪnd/
-it seems to me;мені здається;;language;it seems to me;мені здається;adv;/ɪt siːmz tə miː/
-I’m convinced;я переконаний;;language;convinced;переконаний;adj;/aɪm kənˈvɪnst/
-I’m sure;я впевнений;;language;sure;впевнений;adj;/aɪm ʃʊr/
-I’m certain;я певний;;language;certain;певний;adj;/aɪm ˈsɜːrtən/
-I doubt it;я сумніваюся в цьому;;language;doubt;сумніватися (imperfective);verb;/aɪ daʊt ɪt/
-without a doubt;без сумніву;;language;without a doubt;без сумніву;adv;/wɪˈðaʊt ə daʊt/
-idiom;ідіома;idioms (feminine);language;idiom;ідіома;noun;/ˈɪdiəm/
-expression;вираз;expressions (masculine);language;expression;вираз;noun;/ɪkˈsprɛʃən/
-saying;приказка;sayings (feminine);language;saying;приказка;noun;/ˈseɪɪŋ/
-proverb;прислів'я;proverbs (neuter);language;proverb;прислів'я;noun;/ˈprɒvɜːrb/
-colloquialism;колоквіалізм;colloquialisms (masculine);language;colloquialism;колоквіалізм;noun;/kəˈloʊkwiəlɪzəm/
-slang term;сленговий термін;slang terms (masculine);language;slang term;сленговий термін;noun;/slæŋ tɜːrm/
-catchphrase;крилата фраза;catchphrases (feminine);language;catchphrase;крилата фраза;noun;/ˈkætʃfreɪz/
-cliché;штамп;clichés (masculine);language;cliché;штамп;noun;/kliːˈʃeɪ/
-euphemism;евфемізм;euphemisms (masculine);language;euphemism;евфемізм;noun;/ˈjuːfəmɪzəm/
-swear word;лайка;swear words (feminine);language;swear word;лайка;noun;/swɛər wɜːrd/
-nickname;прізвисько;nicknames (neuter);language;nickname;прізвисько;noun;/ˈnɪkneɪm/
-pet name;пестливе ім'я;pet names (neuter);language;pet name;пестливе ім'я;noun;/pɛt neɪm/
-pun;каламбур;puns (masculine);language;pun;каламбур;noun;/pʌn/
-metaphor;метафора;metaphors (feminine);language;metaphor;метафора;noun;/ˈmɛtəfɔːr/
-simile;порівняння;similes (neuter);language;simile;порівняння;noun;/ˈsɪmɪli/
-hyperbole;гіпербола;hyperboles (feminine);language;hyperbole;гіпербола;noun;/haɪˈpɜːrbəli/
-understatement;применшення;understatements (neuter);language;understatement;применшення;noun;/ˌʌndərˈsteɪtmənt/
-sarcasm;сарказм;sarcasm (uncountable);language;sarcasm;сарказм;noun;/ˈsɑːrkæzəm/
-irony;іронія;irony (uncountable);language;irony;іронія;noun;/ˈaɪrəni/
-wit;дотепність;wit (uncountable);language;wit;дотепність;noun;/wɪt/
-humour;гумор;humour (uncountable);language;humour;гумор;noun;/ˈhjuːmər/
-riddle;загадка;riddles (feminine);language;riddle;загадка;noun;/ˈrɪdəl/
-tongue twister;скоромовка;tongue twisters (feminine);language;tongue twister;скоромовка;noun;/tʌŋ ˈtwɪstər/
-acronym;акронім;acronyms (masculine);language;acronym;акронім;noun;/ˈækrənɪm/
-abbreviation;абревіатура;abbreviations (feminine);language;abbreviation;абревіатура;noun;/əˌbriːviˈeɪʃən/
-initialism;ініціалізм;initialisms (masculine);language;initialism;ініціалізм;noun;/ɪˈnɪʃəlɪzəm/
-phrasal verb;фразове дієслово;phrasal verbs (neuter);language;phrasal verb;фразове дієслово;noun;/ˈfreɪzəl vɜːrb/
-set phrase;стійкий вираз;set phrases (masculine);language;set phrase;стійкий вираз;noun;/sɛt freɪz/
-maxim;максима;maxims (feminine);language;maxim;максима;noun;/ˈmæksɪm/
-adage;афоризм;adages (masculine);language;adage;афоризм;noun;/ˈædɪdʒ/
-buzzword;модне слово;buzzwords (neuter);language;buzzword;модне слово;noun;/ˈbʌzwɜːrd/
-neologism;неологізм;neologisms (masculine);language;neologism;неологізм;noun;/niːˈɒlədʒɪzəm/
-archaism;архаїзм;archaisms (masculine);language;archaism;архаїзм;noun;/ɑːrˈkeɪɪzəm/
-barbarism;варваризм;barbarisms (masculine);language;barbarism;варваризм;noun;/ˈbɑːrbərɪzəm/
-vulgarism;вульгаризм;vulgarisms (masculine);language;vulgarism;вульгаризм;noun;/ˈvʌlɡərɪzəm/
-regionalism;регіоналізм;regionalisms (masculine);language;regionalism;регіоналізм;noun;/ˈriːdʒənəlɪzəm/
-urban legend;міська легенда;urban legends (feminine);language;urban legend;міська легенда;noun;/ˈɜːrbən ˈlɛdʒənd/
-figure of speech;фігура мови;figures of speech (feminine);language;figure of speech;фігура мови;noun;/ˈfɪɡjər əv spiːtʃ/
-wordplay;гра слів;wordplays (feminine);language;wordplay;гра слів;noun;/ˈwɜːrdpleɪ/
-coin a phrase;вигадувати фразу;;language;coin a phrase;вигадувати фразу (imperfective);verb;/kɔɪn ə freɪz/
-use slang;вживати сленг;;language;use slang;вживати сленг (imperfective);verb;/juːz slæŋ/
-swear;лаятися;;language;swear;лаятися (imperfective);verb;/swɛər/
-make a pun;каламбурити;;language;make a pun;каламбурити (imperfective);verb;/meɪk ə pʌn/
+noun;іменник;nouns (masculine);language;noun;іменник;noun;наун
+verb;дієслово;verbs (neuter);language;verb;дієслово;noun;верб
+adjective;прикметник;adjectives (masculine);language;adjective;прикметник;noun;аджектив
+adverb;прислівник;adverbs (masculine);language;adverb;прислівник;noun;адверб
+preposition;прийменник;prepositions (masculine);language;preposition;прийменник;noun;препозішн
+conjunction;сполучник;conjunctions (masculine);language;conjunction;сполучник;noun;конджанкшн
+pronoun;займенник;pronouns (masculine);language;pronoun;займенник;noun;пронаун
+interjection;вигук;interjections (masculine);language;interjection;вигук;noun;інтерджекшн
+article;артикль;articles (masculine);language;article;артикль;noun;артікл
+tense;час;tenses (masculine);language;tense;час;noun;тенс
+mood;спосіб;moods (masculine);language;mood;спосіб;noun;муд
+voice;стан;voices (masculine);language;voice;стан;noun;войс
+aspect;вид;aspects (masculine);language;aspect;вид;noun;аспект
+singular;однина;singular (uncountable);language;singular;однина;noun;сингуляр
+plural;множина;plural (uncountable);language;plural;множина;noun;плюрал
+masculine;чоловічий рід;masculine (uncountable);language;masculine;чоловічий рід;noun;маскулін
+feminine;жіночий рід;feminine (uncountable);language;feminine;жіночий рід;noun;фемінін
+neuter;середній рід;neuter (uncountable);language;neuter;середній рід;noun;ньютер
+case;відмінок;cases (masculine);language;case;відмінок;noun;кейс
+nominative;називний відмінок;nominatives (masculine);language;nominative;називний відмінок;noun;номінатив
+genitive;родовий відмінок;genitives (masculine);language;genitive;родовий відмінок;noun;дженетив
+dative;давальний відмінок;datives (masculine);language;dative;давальний відмінок;noun;дейтів
+accusative;знахідний відмінок;accusatives (masculine);language;accusative;знахідний відмінок;noun;екюзатив
+instrumental;орудний відмінок;instrumentals (masculine);language;instrumental;орудний відмінок;noun;інструментал
+vocative;кличний відмінок;vocatives (masculine);language;vocative;кличний відмінок;noun;вокатів
+subject;підмет;subjects (masculine);language;subject;підмет;noun;сабджект
+predicate;присудок;predicates (masculine);language;predicate;присудок;noun;предикат
+object;додаток;objects (masculine);language;object;додаток;noun;обджект
+clause;підрядне речення;clauses (neuter);language;clause;підрядне речення;noun;клоз
+sentence;речення;sentences (neuter);language;sentence;речення;noun;сентенс
+punctuation;пунктуація;punctuation (uncountable);language;punctuation;пунктуація;noun;панкчуейшн
+comma;кома;commas (feminine);language;comma;кома;noun;кома
+period;крапка;periods (feminine);language;period;крапка;noun;піріод
+question mark;знак питання;question marks (masculine);language;question mark;знак питання;noun;квесчен марк
+exclamation mark;знак оклику;exclamation marks (masculine);language;exclamation mark;знак оклику;noun;екскламейшн марк
+quotation marks;лапки;quotation marks (feminine);language;quotation mark;лапка;noun;квотейшн маркс
+apostrophe;апостроф;apostrophes (masculine);language;apostrophe;апостроф;noun;апострофі
+hyphen;дефіс;hyphens (masculine);language;hyphen;дефіс;noun;хайфен
+dash;тире;dashes (neuter);language;dash;тире;noun;даш
+colon;двокрапка;colons (feminine);language;colon;двокрапка;noun;коулон
+semicolon;крапка з комою;semicolons (feminine);language;semicolon;крапка з комою;noun;семіколон
+capital letter;велика літера;capital letters (feminine);language;capital letter;велика літера;noun;капітал летер
+lowercase;мала літера;lowercases (feminine);language;lowercase;мала літера;noun;ловеркейс
+vowel;голосний;vowels (masculine);language;vowel;голосний;noun;вауел
+consonant;приголосний;consonants (masculine);language;consonant;приголосний;noun;консонант
+syllable;склад;syllables (masculine);language;syllable;склад;noun;сілабл
+conjugation;дієвідмінювання;conjugations (neuter);language;conjugation;дієвідмінювання;noun;конджугейшн
+declension;відмінювання;declensions (neuter);language;declension;відмінювання;noun;декленшн
+language barrier;мовний бар'єр;language barriers (masculine);language;language barrier;мовний бар'єр;noun;лангвідж баріер
+dialect;діалект;dialects (masculine);language;dialect;діалект;noun;даіелект
+slang;сленг;slangs (masculine);language;slang;сленг;noun;сленг
+jargon;жаргон;jargons (masculine);language;jargon;жаргон;noun;джаргон
+interpreter;перекладач;interpreters (masculine);language;interpreter;перекладач;noun;інтерпретер
+translator;перекладач;translators (masculine);language;translator;перекладач;noun;транслейтер
+fluent;вільний;;language;fluent;вільний;adj;флуент
+inarticulate;невиразний;;language;inarticulate;невиразний;adj;інартікьюлет
+stutter;заїкатися;;language;stutter;заїкатися (imperfective);verb;статер
+mumble;бурмотіти;;language;mumble;бурмотіти (imperfective);verb;мамбл
+mishear;недочути;;language;mishear;недочути (perfective);verb;місхір
+misinterpret;неправильно витлумачити;;language;misinterpret;неправильно витлумачити (perfective);verb;місінтерпрет
+clarify;пояснювати;;language;clarify;пояснювати (imperfective);verb;кларіфай
+rephrase;перефразувати;;language;rephrase;перефразувати (perfective);verb;ріфрейз
+articulate;чітко висловлюватися;;language;articulate;чітко висловлюватися (imperfective);verb;артікьюлейт
+pronounce;вимовляти;;language;pronounce;вимовляти (imperfective);verb;пронаунс
+intonation;інтонація;intonations (feminine);language;intonation;інтонація;noun;інтонейшн
+tone;тон;tones (masculine);language;tone;тон;noun;тоун
+gesture;жест;gestures (masculine);language;gesture;жест;noun;джесчер
+facial expression;вираз обличчя;facial expressions (masculine);language;facial expression;вираз обличчя;noun;фейшл експрешн
+body language;мова тіла;body languages (feminine);language;body language;мова тіла;noun;боді лангвідж
+sign language;жестова мова;sign languages (feminine);language;sign language;жестова мова;noun;сайн лангвідж
+illiterate;неграмотний;;language;illiterate;неграмотний;adj;ілітерет
+mute;німий;;language;mute;німий;adj;мьют
+deaf;глухий;;language;deaf;глухий;adj;деф
+hard of hearing;слабочуючий;;language;hard of hearing;слабочуючий;adj;хард ов хірін
+speech impediment;дефект мовлення;speech impediments (masculine);language;speech impediment;дефект мовлення;noun;спіч імпедімент
+dyslexia;дислексія;dyslexias (feminine);language;dyslexia;дислексія;noun;дислексіа
+syntax;синтаксис;syntaxes (masculine);language;syntax;синтаксис;noun;сінтекс
+ambiguity;неоднозначність;ambiguities (feminine);language;ambiguity;неоднозначність;noun;ембігьюіті
+context;контекст;contexts (masculine);language;context;контекст;noun;контекст
+literal;буквальний;;language;literal;буквальний;adj;літерал
+figurative;переносний;;language;figurative;переносний;adj;фіг'юратив
+noise;шум;noises (masculine);language;noise;шум;noun;нойз
+paraphrase;переказ;paraphrases (masculine);language;paraphrase;переказ;noun;парафрейз
+summarize;підсумовувати;;language;summarize;підсумовувати (imperfective);verb;самерайз
+interrupt;перебивати;;language;interrupt;перебивати (imperfective);verb;інтерапт
+overlap;накладатися;;language;overlap;накладатися (imperfective);verb;оверлап
+miscommunication;непорозуміння;miscommunications (neuter);language;miscommunication;непорозуміння;noun;міском'юнікейшн
+cultural difference;культурна відмінність;cultural differences (feminine);language;cultural difference;культурна відмінність;noun;калчерел діференс
+taboo;табу;taboos (neuter);language;taboo;табу;noun;табу
+euphemism;евфемізм;euphemisms (masculine);language;euphemism;евфемізм;noun;юфемізм
+brevity;стислість;brevities (feminine);language;brevity;стислість;noun;бревіті
+opinion;думка;opinions (feminine);language;opinion;думка;noun;апініан
+point;аргумент;points (masculine);language;point;аргумент;noun;пойнт
+reason;причина;reasons (feminine);language;reason;причина;noun;різн
+fact;факт;facts (masculine);language;fact;факт;noun;фект
+discussion;обговорення;discussions (neuter);language;discussion;обговорення;noun;діскашн
+debate;дискусія;debates (feminine);language;debate;дискусія;noun;дібейт
+conclusion;висновок;conclusions (masculine);language;conclusion;висновок;noun;конклюжн
+suggestion;пропозиція;suggestions (feminine);language;suggestion;пропозиція;noun;саджестшен
+recommendation;рекомендація;recommendations (feminine);language;recommendation;рекомендація;noun;рекомендейшн
+proposal;пропозиція;proposals (feminine);language;proposal;пропозиція;noun;пропоузал
+idea;ідея;ideas (feminine);language;idea;ідея;noun;айдіа
+thought;міркування;uncountable;language;thought;міркування;noun;сот
+belief;переконання;beliefs (neuter);language;belief;переконання;noun;біліф
+doubt;сумнів;doubts (masculine);language;doubt;сумнів;noun;даут
+stance;позиція;stances (feminine);language;stance;позиція;noun;стенс
+judgment;судження;judgments (neuter);language;judgment;судження;noun;джаджмент
+think;думати;;language;think;думати (imperfective);verb;сінк
+believe;вірити;;language;believe;вірити (imperfective);verb;білів
+feel;відчувати;;language;feel;відчувати (imperfective);verb;філ
+suppose;припускати;;language;suppose;припускати (imperfective);verb;сапоуз
+assume;припускати;;language;assume;припускати (imperfective);verb;есюм
+guess;здогадуватися;;language;guess;здогадуватися (imperfective);verb;гес
+claim;стверджувати;;language;claim;стверджувати (imperfective);verb;клейм
+state;заявляти;;language;state;заявляти (imperfective);verb;стейт
+suggest;пропонувати;;language;suggest;пропонувати (imperfective);verb;саждест
+recommend;рекомендувати;;language;recommend;рекомендувати (imperfective);verb;рекоменд
+agree;погоджуватися;;language;agree;погоджуватися (imperfective);verb;еґрі
+disagree;не погоджуватися;;language;disagree;не погоджуватися (imperfective);verb;дісаґрі
+oppose;виступати проти;;language;oppose;виступати проти (imperfective);verb;опоуз
+insist;наполягати;;language;insist;наполягати (imperfective);verb;інсіст
+certain;певний;;language;certain;певний;adj;сьотн
+sure;впевнений;;language;sure;впевнений;adj;шуа
+convincing;переконливий;;language;convincing;переконливий;adj;конвінсін
+persuasive;переконливий;;language;persuasive;переконливий;adj;персвейсів
+valid;обґрунтований;;language;valid;обґрунтований;adj;валід
+reasonable;розумний;;language;reasonable;розумний;adj;різонабл
+doubtful;сумнівний;;language;doubtful;сумнівний;adj;даутфул
+idiom;ідіома;idioms (feminine);language;idiom;ідіома;noun;ідіом
+expression;вираз;expressions (masculine);language;expression;вираз;noun;експрешн
+saying;приказка;sayings (feminine);language;saying;приказка;noun;сейінґ
+proverb;прислів'я;proverbs (neuter);language;proverb;прислів'я;noun;проверб
+colloquialism;колоквіалізм;colloquialisms (masculine);language;colloquialism;колоквіалізм;noun;колоквіалізм
+vernacular;просторіччя;vernaculars (neuter);language;vernacular;просторіччя;noun;вернакюлар
+slangy;сленговий;;language;slangy;сленговий;adj;сленґі
+informal;неформальний;;language;informal;неформальний;adj;інформал
+metaphor;метафора;metaphors (feminine);language;metaphor;метафора;noun;метафор
+simile;порівняння;similes (neuter);language;simile;порівняння;noun;сімілі
+hyperbole;гіпербола;hyperboles (feminine);language;hyperbole;гіпербола;noun;гайперболі
+pun;каламбур;puns (masculine);language;pun;каламбур;noun;пан
+wordplay;гра слів;uncountable;language;wordplay;гра слів;noun;вордплей
+cliché;кліше;clichés (neuter);language;cliché;кліше;noun;клішей
+buzzword;баззворд;buzzwords (masculine);language;buzzword;баззворд;noun;базворд
+catchphrase;крилата фраза;catchphrases (feminine);language;catchphrase;крилата фраза;noun;кечфрейз
+motto;девіз;mottos (masculine);language;motto;девіз;noun;мотто
+slogan;гасло;slogans (neuter);language;slogan;гасло;noun;слоуган
+banter;бантер;uncountable;language;banter;бантер;noun;бантер
+chatter;балаканина;uncountable;language;chatter;балаканина;noun;чаттер
+rumor;чутка;rumors (feminine);language;rumor;чутка;noun;румор
+oath;лайка;oaths (feminine);language;oath;лайка;noun;оут
+curse;прокляття;curses (neuter);language;curse;прокляття;noun;керс
+swear;лаятися;;language;swear;лаятися (imperfective);verb;свер
+dysphemism;дисфемізм;dysphemisms (masculine);language;dysphemism;дисфемізм;noun;дисфемізм
+double entendre;двозначність;uncountable;language;double entendre;двозначність;noun;дабл андандр
+innuendo;натяк;innuendos (masculine);language;innuendo;натяк;noun;іньюендо
+remark;зауваження;remarks (neuter);language;remark;зауваження;noun;рімарк
+comment;коментар;comments (masculine);language;comment;коментар;noun;комент
+mention;згадка;mentions (feminine);language;mention;згадка;noun;меншн
+imply;натякати;;language;imply;натякати (imperfective);verb;імплай
+insinuate;інсинуювати;;language;insinuate;інсинуювати (imperfective);verb;інсіньюейт
+hint;натяк;hints (masculine);language;hint;натяк;noun;гінт
+interpretation;інтерпретація;interpretations (feminine);language;interpretation;інтерпретація;noun;інтерпретейшн
+meaning;значення;meanings (neuter);language;meaning;значення;noun;мінінґ
+definition;визначення;definitions (neuter);language;definition;визначення;noun;дефінішн
+nuance;нюанс;nuances (masculine);language;nuance;нюанс;noun;ньюанс
+connotation;конотація;connotations (feminine);language;connotation;конотація;noun;конотейшн

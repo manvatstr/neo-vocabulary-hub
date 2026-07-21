@@ -15,7 +15,7 @@ Format: foreign_word;ukrainian_word;german_plural;category_tag;lemma;lemma_trans
 5. 'lemma': The root dictionary form of the foreign_word. For compounds, include components (e.g., 'Wasser + Fall')
 6. 'lemma_translation': The translation of the lemma in Ukrainian
 7. 'part_of_speech': The part of speech using standardized terms (see below)
-8. 'transliteration': Leave empty (German is phonetic enough)
+8. 'transliteration': Ukrainian transliterative pronunciation guide (e.g., 'апфель' for 'Apfel', 'васса' for 'Wasser')
 
 ## CRITICAL RULES FOR GERMAN:
 - Always include definite articles (der/die/das) for nouns
@@ -55,21 +55,21 @@ Format: foreign_word;ukrainian_word;german_plural;category_tag;lemma;lemma_trans
 
 ## VALIDATION EXAMPLES (must match these patterns exactly):
 # Nouns (regular and irregular plurals)
-der Apfel;яблуко;die Äpfel;{category};Apfel;яблуко;noun;
-der Vater;батько;die Väter;{category};Vater;батько;noun;
+der Apfel;яблуко;die Äpfel;{category};Apfel;яблуко;noun;апфель
+der Vater;батько;die Väter;{category};Vater;батько;noun;фата
 
 # Compound nouns
-der Wasserfall;водоспад;;{category};Wasser + Fall;водоспад;noun;
+der Wasserfall;водоспад;;{category};Wasser + Fall;водоспад;noun;вассефаль
 
 # Verbs (specify type)
-lesen;читати;;{category};lesen;читати;verb (strong);
-einkaufen;купувати;;{category};einkaufen (zu kaufen);купувати;verb (separable);
+lesen;читати;;{category};lesen;читати;verb (strong);лєзен
+einkaufen;купувати;;{category};einkaufen (zu kaufen);купувати;verb (separable);айнкауфен
 
 # Adjectives
-kalt;холодний;;{category};kalt;холодний;adj;
+kalt;холодний;;{category};kalt;холодний;adj;кальт
 
 # Umlaut plurals
-der Bruder;брат;die Brüder;{category};Bruder;брат;noun;
+der Bruder;брат;die Brüder;{category};Bruder;брат;noun;бруда
 
 ## ERROR PREVENTION:
 - Never use quotation marks around words

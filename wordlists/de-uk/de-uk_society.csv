@@ -1,189 +1,144 @@
-der Journalist;журналіст;die Journalisten;society;Journalist;журналіст;noun;
-die Nachricht;новина;die Nachrichten;society;Nachricht;новина;noun;
-die Schlagzeile;заголовок;die Schlagzeilen;society;Schlagzeile;заголовок;noun;
-die Presse;преса;;society;Presse;преса;noun;
-der Rundfunk;радіомовлення;;society;Rundfunk;радіомовлення;noun;
-das Fernsehen;телебачення;;society;Fernsehen;телебачення;noun;
-der Sender;канал;die Sender;society;Sender;канал;noun;
-die Sendung;передача;die Sendungen;society;Sendung;передача;noun;
-die Reportage;репортаж;die Reportagen;society;Reportage;репортаж;noun;
-das Interview;інтерв'ю;die Interviews;society;Interview;інтерв'ю;noun;
-die Meldung;повідомлення;die Meldungen;society;Meldung;повідомлення;noun;
-die Ankündigung;анонс;die Ankündigungen;society;Ankündigung;анонс;noun;
-das Magazin;журнал;die Magazine;society;Magazin;журнал;noun;
-die Tageszeitung;щоденна газета;die Tageszeitungen;society;Tages + Zeitung;щоденна газета;noun;
-der Leserbrief;лист читача;die Leserbriefe;society;Leser + Brief;лист читача;noun;
-der Chefredakteur;головний редактор;die Chefredakteure;society;Chef + Redakteur;головний редактор;noun;
-der Korrespondent;кореспондент;die Korrespondenten;society;Korrespondent;кореспондент;noun;
-die Falschmeldung;фейк;die Falschmeldungen;society;falsch + Meldung;фейкове повідомлення;noun;
-die Titelseite;титульна сторінка;die Titelseiten;society;Titel + Seite;титульна сторінка;noun;
-der Druck;друк;;society;Druck;друк;noun;
-die Auflage;тираж;die Auflagen;society;Auflage;тираж;noun;
-die Veröffentlichung;публікація;die Veröffentlichungen;society;Veröffentlichung;публікація;noun;
-der Podcast;подкаст;die Podcasts;society;Podcast;подкаст;noun;
-der Blog;блог;die Blogs;society;Blog;блог;noun;
-die Nachrichtenagentur;інформаційне агентство;die Nachrichtenagenturen;society;Nachrichten + Agentur;інформаційне агентство;noun;
-das soziale Netzwerk;соціальна мережа;die sozialen Netzwerke;society;sozial + Netzwerk;соціальна мережа;noun;
-die App;застосунок;die Apps;society;App;застосунок;noun;
-die Website;вебсайт;die Websites;society;Website;вебсайт;noun;
-die Internetseite;інтернет-сторінка;die Internetseiten;society;Internet + Seite;інтернет-сторінка;noun;
-der Livestream;прямий ефір;die Livestreams;society;Live + Stream;прямий ефір;noun;
-der Tweet;твіт;die Tweets;society;Tweet;твіт;noun;
-der Beitrag;допис;die Beiträge;society;Beitrag;допис;noun;
-die Kolumne;колонка;die Kolumnen;society;Kolumne;колонка;noun;
-die Karikatur;карикатура;die Karikaturen;society;Karikatur;карикатура;noun;
-der Leitartikel;передова стаття;die Leitartikel;society;Leit + Artikel;передова стаття;noun;
-die Talkshow;ток-шоу;die Talkshows;society;Talk + Show;ток-шоу;noun;
-die Dokumentation;документальний фільм;die Dokumentationen;society;Dokumentation;документація;noun;
-die Liveübertragung;пряма трансляція;die Liveübertragungen;society;live + Übertragung;пряма трансляція;noun;
-die Pressefreiheit;свобода преси;;society;Presse + Freiheit;свобода преси;noun;
-das Gerücht;чутка;die Gerüchte;society;Gerücht;чутка;noun;
-die Propaganda;пропаганда;;society;Propaganda;пропаганда;noun;
-die Wahrheit;правда;;society;Wahrheit;правда;noun;
-die Lüge;брехня;die Lügen;society;Lüge;брехня;noun;
-der Hörer;слухач;die Hörer;society;Hörer;слухач;noun;
-der Nutzer;користувач;die Nutzer;society;Nutzer;користувач;noun;
-das Abonnement;підписка;die Abonnements;society;Abonnement;підписка;noun;
-berichten;повідомляти;;society;berichten;повідомляти;verb (weak);
-informieren;інформувати;;society;informieren;інформувати;verb (weak);
-übertragen;передавати;;society;übertragen;передавати;verb (strong);
-veröffentlichen;публікувати;;society;veröffentlichen;публікувати;verb (weak);
-kommentieren;коментувати;;society;kommentieren;коментувати;verb (weak);
-recherchieren;досліджувати;;society;recherchieren;досліджувати;verb (weak);
-verbreiten;поширювати;;society;verbreiten;поширювати;verb (weak);
-liken;лайкати;;society;liken;лайкати;verb (weak);
-posten;постити;;society;posten;постити;verb (weak);
-twittern;твітити;;society;twittern;твітити;verb (weak);
-abonnieren;підписатися;;society;abonnieren;підписатися;verb (weak);
-drucken;друкувати;;society;drucken;друкувати;verb (weak);
-erscheinen;виходити;;society;erscheinen;виходити;verb (strong);
-herausgeben;видавати;;society;herausgeben (zu geben);видавати;verb (separable);
-einschalten;вмикати;;society;einschalten (zu schalten);вмикати;verb (separable);
-ausstrahlen;транслювати;;society;ausstrahlen (zu strahlen);транслювати;verb (separable);
-anschauen;дивитися;;society;anschauen (zu schauen);дивитися;verb (separable);
-aktuell;актуальний;;society;aktuell;актуальний;adj;
-glaubwürdig;достовірний;;society;glaubwürdig;достовірний;adj;
-objektiv;об'єктивний;;society;objektiv;об'єктивний;adj;
-subjektiv;суб'єктивний;;society;subjektiv;суб'єктивний;adj;
-neutral;нейтральний;;society;neutral;нейтральний;adj;
-kritisch;критичний;;society;kritisch;критичний;adj;
-live;прямий;;society;live;прямий;adj;
-sofort;негайно;;society;sofort;негайно;adv;
-die Wahl;вибори;die Wahlen;society;Wahl;вибори;noun;
-wählen;голосувати;;society;wählen;голосувати;verb (weak);
-der Wähler;виборець;die Wähler;society;Wähler;виборець;noun;
-die Regierung;уряд;die Regierungen;society;Regierung;уряд;noun;
-der Staat;держава;die Staaten;society;Staat;держава;noun;
-das Parlament;парламент;die Parlamente;society;Parlament;парламент;noun;
-der Abgeordnete;депутат;die Abgeordneten;society;Abgeordneter;депутат;noun;
-die Demokratie;демократія;die Demokratien;society;Demokratie;демократія;noun;
-politisch;політичний;;society;politisch;політичний;adj;
-der Politiker;політик;die Politiker;society;Politiker;політик;noun;
-die Partei;партія;die Parteien;society;Partei;партія;noun;
-das Gesetz;закон;die Gesetze;society;Gesetz;закон;noun;
-das Grundgesetz;основний закон;die Grundgesetze;society;Grund + Gesetz;основний закон;noun;
-die Verfassung;конституція;die Verfassungen;society;Verfassung;конституція;noun;
-der Kanzler;канцлер;die Kanzler;society;Kanzler;канцлер;noun;
-die Regierungskoalition;урядова коаліція;die Regierungskoalitionen;society;Regierung + Koalition;урядова коаліція;noun;
-die Koalition;коаліція;die Koalitionen;society;Koalition;коаліція;noun;
-das Ministerium;міністерство;die Ministerien;society;Ministerium;міністерство;noun;
-der Minister;міністр;die Minister;society;Minister;міністр;noun;
-der Bundespräsident;федеральний президент;die Bundespräsidenten;society;Bundes + Präsident;федеральний президент;noun;
-der Bundeskanzler;федеральний канцлер;die Bundeskanzler;society;Bundes + Kanzler;федеральний канцлер;noun;
-die Bundesrepublik;федеративна республіка;;society;Bundes + Republik;федеративна республіка;noun;
-der Bundestag;Бундестаг;die Bundestage;society;Bund + Tag;Бундестаг;noun;
-die Wahlkampagne;виборча кампанія;die Wahlkampagnen;society;Wahl + Kampagne;виборча кампанія;noun;
-die Abstimmung;голосування;die Abstimmungen;society;Abstimmung;голосування;noun;
-die Mehrheit;більшість;die Mehrheiten;society;Mehrheit;більшість;noun;
-die Minderheit;меншість;die Minderheiten;society;Minderheit;меншість;noun;
-das Referendum;референдум;die Referenden;society;Referendum;референдум;noun;
-das Wahlrecht;виборче право;;society;Wahl + Recht;виборче право;noun;
-der Wahlkreis;виборчий округ;die Wahlkreise;society;Wahl + Kreis;виборчий округ;noun;
-die Stimmabgabe;подання голосу;die Stimmabgaben;society;Stimme + Abgabe;подання голосу;noun;
-abstimmen;голосувати;;society;abstimmen (zu stimmen);голосувати;verb (separable);
-die Beteiligung;участь;die Beteiligungen;society;Beteiligung;участь;noun;
-die Macht;влада;die Mächte;society;Macht;влада;noun;
-die Opposition;опозиція;;society;Opposition;опозиція;noun;
-die Fraktion;фракція;die Fraktionen;society;Fraktion;фракція;noun;
-der Antrag;пропозиція;die Anträge;society;Antrag;пропозиція;noun;
-die Debatte;дебати;die Debatten;society;Debatte;дебати;noun;
-die Rede;промова;die Reden;society;Rede;промова;noun;
-die Wahlbeteiligung;явка виборців;die Wahlbeteiligungen;society;Wahl + Beteiligung;вибори + участь;noun;
-der Stimmzettel;виборчий бюлетень;die Stimmzettel;society;Stimme + Zettel;голос + листок;noun;
-die Wahlurne;виборча урна;die Wahlurnen;society;Wahl + Urne;вибори + урна;noun;
-der Bürgermeister;мер;die Bürgermeister;society;Bürger + Meister;громадянин + майстер;noun;
-das Volk;народ;die Völker;society;Volk;народ;noun;
-der Räuber;грабіжник;die Räuber;society;Räuber;грабіжник;noun;
-der Beweis;доказ;die Beweise;society;Beweis;доказ;noun;
-der Mord;вбивство;die Morde;society;Mord;вбивство;noun;
-der Prozess;судовий процес;die Prozesse;society;Prozess;процес;noun;
-die Verhaftung;арешт;die Verhaftungen;society;Verhaftung;арешт;noun;
-die Geldstrafe;штраф;die Geldstrafen;society;Geld + Strafe;штраф;noun;
-der Verteidiger;захисник;die Verteidiger;society;Verteidiger;захисник;noun;
-die Staatsanwaltschaft;прокуратура;;society;Staat + Anwaltschaft;прокуратура;noun;
-die Verurteilung;засудження;die Verurteilungen;society;Verurteilung;засудження;noun;
-die Freiheitsstrafe;позбавлення волі;die Freiheitsstrafen;society;Freiheit + Strafe;позбавлення волі;noun;
-das Geständnis;зізнання;die Geständnisse;society;Geständnis;зізнання;noun;
-der Verdächtige;підозрюваний;die Verdächtigen;society;verdächtig;підозрюваний;noun;
-die Spur;слід;die Spuren;society;Spur;слід;noun;
-das Alibi;алібі;die Alibis;society;Alibi;алібі;noun;
-die Zelle;камера;die Zellen;society;Zelle;камера;noun;
-der Häftling;ув'язнений;die Häftlinge;society;Häftling;ув'язнений;noun;
-die Drohung;загроза;die Drohungen;society;Drohung;загроза;noun;
-die Nötigung;примус;die Nötigungen;society;Nötigung;примус;noun;
-die Körperverletzung;тілесне ушкодження;die Körperverletzungen;society;Körper + Verletzung;тілесне ушкодження;noun;
-der Raub;грабіж;;society;Raub;грабіж;noun;
-die Erpressung;вимагання;die Erpressungen;society;Erpressung;вимагання;noun;
-die Urkundenfälschung;підробка документів;die Urkundenfälschungen;society;Urkunde + Fälschung;підробка документів;noun;
-das Attentat;замах;die Attentate;society;Attentat;замах;noun;
-der Komplize;спільник;die Komplizen;society;Komplize;спільник;noun;
-der Zeugenschutz;захист свідків;;society;Zeuge + Schutz;захист свідків;noun;
-das Jugendgericht;суд у справах неповнолітніх;die Jugendgerichte;society;Jugend + Gericht;суд для неповнолітніх;noun;
-die Selbstverteidigung;самозахист;;society;selbst + Verteidigung;самозахист;noun;
-der Einbrecher;зломщик;die Einbrecher;society;Einbrecher;зломщик;noun;
-verhaften;заарештовувати;;society;verhaften;заарештовувати;verb (weak);
-stehlen;красти;;society;stehlen;красти;verb (strong);
-anklagen;обвинувачувати;;society;anklagen (anzuklagen);обвинувачувати;verb (separable);
-ermitteln;розслідувати;;society;ermitteln;розслідувати;verb (weak);
-das Smartphone;смартфон;die Smartphones;society;Smartphone;смартфон;noun;
-das Internet;Інтернет;;society;Internet;Інтернет;noun;
-der Download;завантаження;die Downloads;society;Download;завантаження;noun;
-der Upload;вивантаження;die Uploads;society;Upload;вивантаження;noun;
-das Passwort;пароль;die Passwörter;society;Passwort;пароль;noun;
-der Chat;чат;die Chats;society;Chat;чат;noun;
-der Videoanruf;відеодзвінок;die Videoanrufe;society;Video + Anruf;відеодзвінок;noun;
-online;онлайн;;society;online;онлайн;adj;
-offline;офлайн;;society;offline;офлайн;adj;
-aktualisieren;оновлювати;;society;aktualisieren;оновлювати;verb (weak);
-herunterladen;завантажувати;;society;herunterladen (zu laden);завантажувати;verb (separable);
-hochladen;вивантажувати;;society;hochladen (zu laden);вивантажувати;verb (separable);
-installieren;встановлювати;;society;installieren;встановлювати;verb (weak);
-deinstallieren;видаляти;;society;deinstallieren;видаляти;verb (weak);
-das Programm;програма;die Programme;society;Programm;програма;noun;
-der Link;посилання;die Links;society;Link;посилання;noun;
-die Suchmaschine;пошукова система;die Suchmaschinen;society;Such + Maschine;пошукова система;noun;
-der Browser;браузер;die Browser;society;Browser;браузер;noun;
-die Cloud;хмара;;society;Cloud;хмара;noun;
-die Datei;файл;die Dateien;society;Datei;файл;noun;
-der Server;сервер;die Server;society;Server;сервер;noun;
-das WLAN;вай-фай;;society;WLAN;вай-фай;noun;
-das Bluetooth;блютуз;;society;Bluetooth;блютуз;noun;
-der Monitor;монітор;die Monitore;society;Monitor;монітор;noun;
-der Scanner;сканер;die Scanner;society;Scanner;сканер;noun;
-die Software;програмне забезпечення;;society;Software;програмне забезпечення;noun;
-die Hardware;апаратне забезпечення;;society;Hardware;апаратне забезпечення;noun;
-die Sicherheit;безпека;;society;Sicherheit;безпека;noun;
-der Virus;вірус;die Viren;society;Virus;вірус;noun;
-die Firewall;брандмауер;die Firewalls;society;Firewall;брандмауер;noun;
-der Spam;спам;;society;Spam;спам;noun;
-digital;цифровий;;society;digital;цифровий;adj;
-virtuell;віртуальний;;society;virtuell;віртуальний;adj;
-der Algorithmus;алгоритм;die Algorithmen;society;Algorithmus;алгоритм;noun;
-der Roboter;робот;die Roboter;society;Roboter;робот;noun;
-die künstliche Intelligenz;штучний інтелект;;society;künstlich + Intelligenz;штучний інтелект;noun;
-der Chip;чип;die Chips;society;Chip;чип;noun;
-das Kabel;кабель;die Kabel;society;Kabel;кабель;noun;
-das Mikrofon;мікрофон;die Mikrofone;society;Mikrofon;мікрофон;noun;
-die Webcam;вебкамера;die Webcams;society;Webcam;вебкамера;noun;
-streamen;транслювати;;society;streamen;транслювати;verb (weak);
-googeln;гуглити;;society;googeln;гуглити;verb (weak);
+die Journalistin;журналістка;die Journalistinnen;society;Journalistin;журналістка;noun;журналістін
+die Schlagzeile;заголовок;die Schlagzeilen;society;Schlag + Zeile;заголовок;noun;шлагцайле
+die Pressemitteilung;прес-реліз;die Pressemitteilungen;society;Presse + Mitteilung;прес-реліз;noun;пресеміттайлунг
+die Meldung;повідомлення;die Meldungen;society;Meldung;повідомлення;noun;мельдунг
+das Interview;інтерв'ю;die Interviews;society;Interview;інтерв'ю;noun;інтерв'ю
+der Sender;канал;die Sender;society;Sender;канал;noun;зендер
+das Programm;програма;die Programme;society;Programm;програма;noun;програм
+der Rundfunk;радіомовлення;;society;Rundfunk;радіомовлення;noun;рундфунк
+die Fernsehnachrichten;теленовини;;society;Fernsehen + Nachrichten;теленовини;noun;фернзеенахріхтен
+die Radionachrichten;радіоновини;;society;Radio + Nachrichten;радіоновини;noun;радіонахріхтен
+die Sendung;передача;die Sendungen;society;Sendung;передача;noun;зендунг
+der Beitrag;внесок;die Beiträge;society;Beitrag;внесок;noun;байтрак
+der Kommentar;коментар;die Kommentare;society;Kommentar;коментар;noun;коментар
+die Kolumne;колонка;die Kolumnen;society;Kolumne;колонка;noun;колюмне
+der Leser;читач;die Leser;society;Leser;читач;noun;лезер
+die Leserin;читачка;die Leserinnen;society;Leserin;читачка;noun;лезерін
+der Zuhörer;слухач;die Zuhörer;society;Zuhörer;слухач;noun;цухьорер
+das Medium;медіа;die Medien;society;Medium;медіа;noun;медіум
+das Radio;радіо;die Radios;society;Radio;радіо;noun;радіо
+das Fernsehen;телебачення;;society;Fernsehen;телебачення;noun;фернзеен
+die Presse;преса;;society;Presse;преса;noun;прессе
+der Journalismus;журналістика;;society;Journalismus;журналістика;noun;журналісмус
+die Veröffentlichung;публікація;die Veröffentlichungen;society;Veröffentlichung;публікація;noun;фероеффентліхунг
+veröffentlichen;публікувати;;society;veröffentlichen;публікувати;verb (weak);фероеффентліхен
+berichten;повідомляти;;society;berichten;повідомляти;verb (weak);беріхтен
+senden;транслювати;;society;senden;транслювати;verb (weak);зенден
+schauen;дивитися;;society;schauen;дивитися;verb (weak);шауен
+hören;слухати;;society;hören;слухати;verb (weak);хьорен
+kommentieren;коментувати;;society;kommentieren;коментувати;verb (weak);коментірен
+beeinflussen;впливати;;society;beeinflussen;впливати;verb (weak);беайнфлюссен
+informieren;інформувати;;society;informieren;інформувати;verb (weak);інформірен
+teilen;ділитися;;society;teilen;ділитися;verb (weak);тайлен
+liken;лайкати;;society;liken;лайкати;verb (weak);лайкен
+aktuell;актуальний;;society;aktuell;актуальний;adj;актуелль
+wichtig;важливий;;society;wichtig;важливий;adj;віхтіхь
+falsch;хибний;;society;falsch;хибний;adj;фальш
+objektiv;об'єктивний;;society;objektiv;об'єктивний;adj;об'єктів
+subjektiv;суб'єктивний;;society;subjektiv;суб'єктивний;adj;суб'єктів
+die Wahl;вибори;die Wahlen;society;Wahl;вибір;noun;валь
+die Stimme;голос;die Stimmen;society;Stimme;голос;noun;штімме
+der Kandidat;кандидат;die Kandidaten;society;Kandidat;кандидат;noun;кандидат
+die Partei;партія;die Parteien;society;Partei;партія;noun;партай
+das Parlament;парламент;die Parlamente;society;Parlament;парламент;noun;парламент
+die Regierung;уряд;die Regierungen;society;Regierung;уряд;noun;реґірунґ
+der Minister;міністр;die Minister;society;Minister;міністр;noun;міністер
+der Präsident;президент;die Präsidenten;society;Präsident;президент;noun;презідент
+das Gesetz;закон;die Gesetze;society;Gesetz;закон;noun;ґезец
+die Verfassung;конституція;die Verfassungen;society;Verfassung;конституція;noun;ферфассунґ
+die Demokratie;демократія;die Demokratien;society;Demokratie;демократія;noun;демократі
+die Opposition;опозиція;;society;Opposition;опозиція;noun;опозіціон
+die Koalition;коаліція;die Koalitionen;society;Koalition;коаліція;noun;коаліціон
+der Abgeordnete;депутат;die Abgeordneten;society;Abgeordnete;депутат;noun;абґеорднете
+die Abstimmung;голосування;die Abstimmungen;society;Abstimmung;голосування;noun;абштіммунґ
+das Wahlrecht;виборче право;;society;Wahl + Recht;виборче право;noun;вальрехт
+die Wahlurne;виборча урна;die Wahlurnen;society;Wahl + Urne;виборча урна;noun;вальурне
+der Stimmzettel;виборчий бюлетень;die Stimmzettel;society;Stimme + Zettel;бюлетень;noun;штімцетель
+der Wahlkampf;виборча кампанія;die Wahlkämpfe;society;Wahl + Kampf;виборча кампанія;noun;валькампф
+der Wähler;виборець;die Wähler;society;Wähler;виборець;noun;велер
+die Wählerin;виборниця;die Wählerinnen;society;Wählerin;виборниця;noun;велерін
+die Mehrheit;більшість;die Mehrheiten;society;Mehrheit;більшість;noun;мергайт
+die Minderheit;меншість;die Minderheiten;society;Minderheit;меншість;noun;міндергайт
+die Entscheidung;рішення;die Entscheidungen;society;Entscheidung;рішення;noun;ентшайдунґ
+der Beschluss;ухвала;die Beschlüsse;society;Beschluss;ухвала;noun;бешлус
+der Vertreter;представник;die Vertreter;society;Vertreter;представник;noun;фертретер
+die Wahlbeteiligung;явка виборців;;society;Wahl + Beteiligung;явка;noun;вальбетайліґунґ
+das Referendum;референдум;die Referenden;society;Referendum;референдум;noun;референдум
+die Bürgerinitiative;громадянська ініціатива;die Bürgerinitiativen;society;Bürger + Initiative;громадянська ініціатива;noun;бюрґерініціатіве
+der Staat;держава;die Staaten;society;Staat;держава;noun;штат
+das Volk;народ;die Völker;society;Volk;народ;noun;фольк
+die Macht;влада;die Mächte;society;Macht;влада;noun;махт
+die Versammlung;збори;die Versammlungen;society;Versammlung;збори;noun;ферзамлунґ
+die Fraktion;фракція;die Fraktionen;society;Fraktion;фракція;noun;фракціон
+das Mandat;мандат;die Mandate;society;Mandat;мандат;noun;мандат
+der Bundeskanzler;федеральний канцлер;die Bundeskanzler;society;Bund + Kanzler;федеральний канцлер;noun;бундесканцлер
+der Bundespräsident;федеральний президент;die Bundespräsidenten;society;Bund + Präsident;федеральний президент;noun;бундеспрезідент
+die Bundestagswahl;вибори до бундестагу;die Bundestagswahlen;society;Bundestag + Wahl;вибори до бундестагу;noun;бундестаґсваль
+der Wahlkreis;виборчий округ;die Wahlkreise;society;Wahl + Kreis;виборчий округ;noun;валькрайс
+die Erststimme;перший голос;die Erststimmen;society;erste + Stimme;перший голос;noun;ерстштімме
+die Zweitstimme;другий голос;die Zweitstimmen;society;zweite + Stimme;другий голос;noun;цвайтштімме
+wählen;обирати;;society;wählen;обирати;verb (weak);велен
+abstimmen;голосувати;;society;abstimmen (zu stimmen);голосувати;verb (separable);абштіммен
+kandidieren;балотуватися;;society;kandidieren;балотуватися;verb (weak);кандідірен
+entscheiden;вирішувати;;society;entscheiden;вирішувати;verb (strong);ентшайден
+der Mord;вбивство;die Morde;society;Mord;вбивство;noun;морт
+das Urteil;вирок;die Urteile;society;Urteil;вирок;noun;уртайль
+die Strafe;покарання;die Strafen;society;Strafe;покарання;noun;штрафе
+der Häftling;в'язень;die Häftlinge;society;Häftling;в'язень;noun;гефтлінґ
+die Anwältin;адвокатеса;die Anwältinnen;society;Anwältin;адвокатеса;noun;анвельтін
+der Verbrecher;злочинець;die Verbrecher;society;Verbrecher;злочинець;noun;фербрехер
+die Kriminalität;злочинність;;society;Kriminalität;злочинність;noun;кріміналітет
+das Delikt;правопорушення;die Delikte;society;Delikt;правопорушення;noun;делікт
+die Ermittlung;розслідування;die Ermittlungen;society;Ermittlung;розслідування;noun;ермітлунґ
+ermitteln;розслідувати;;society;ermitteln;розслідувати;verb (weak);ермітельн
+verhaften;арештовувати;;society;verhaften;арештовувати;verb (weak);фергафтен
+verurteilen;засуджувати;;society;verurteilen;засуджувати;verb (weak);феруртайлен
+freisprechen;виправдовувати;;society;freisprechen (zu freisprechen);виправдовувати;verb (separable);фрайшпрехен
+anzeigen;заявляти (про злочин);;society;anzeigen (zu anzeigen);заявляти;verb (separable);анцайґен
+bestrafen;карати;;society;bestrafen;карати;verb (weak);бештрафен
+die Bewährung;умовний термін;;society;Bewährung;умовний термін;noun;беверунґ
+das Alibi;алібі;die Alibis;society;Alibi;алібі;noun;алібі
+die Notwehr;самозахист;;society;Not + Wehr;самозахист;noun;нотвер
+der Einbruch;злам;die Einbrüche;society;ein + Bruch;злам;noun;айнбрух
+fesseln;зв'язувати;;society;fesseln;зв'язувати;verb (weak);фесельн
+der Prozess;процес;die Prozesse;society;Prozess;процес;noun;процес
+der Staatsanwalt;прокурор;die Staatsanwälte;society;Staat + Anwalt;прокурор;noun;штаатсанвальт
+die Verteidigung;захист;die Verteidigungen;society;Verteidigung;захист;noun;фертайдиґунґ
+unschuldig;невинний;;society;unschuldig;невинний;adj;уншульдіх
+schuldig;винний;;society;schuldig;винний;adj;шульдіх
+das Recht;право;die Rechte;society;Recht;право;noun;рехт
+rechtmäßig;законний;;society;rechtmäßig;законний;adj;рехтмесіх
+illegal;незаконний;;society;illegal;незаконний;adj;іллегаль
+das Internet;Інтернет;;society;Internet;Інтернет;noun;інтернет
+die Website;вебсайт;die Websites;society;Web + Site;вебсайт;noun;вебсайт
+der Download;завантаження;die Downloads;society;Down + load;завантаження;noun;даунлоад
+der Link;посилання;die Links;society;Link;посилання;noun;лінк
+das Passwort;пароль;die Passwörter;society;Pass + Wort;пароль;noun;пасворт
+der Benutzername;ім'я користувача;die Benutzernamen;society;Benutzer + Name;ім'я користувача;noun;бенутцернаме
+die Suchmaschine;пошукова система;die Suchmaschinen;society;Such + Maschine;пошукова система;noun;зухмашіне
+der Browser;браузер;die Browser;society;Browser;браузер;noun;браузер
+das Netzwerk;мережа;die Netzwerke;society;Netz + Werk;мережа;noun;нецверк
+der Speicher;пам'ять;die Speicher;society;Speicher;пам'ять;noun;шпайхер
+der Akku;акумулятор;die Akkus;society;Akku;акумулятор;noun;аку
+der Laptop;ноутбук;die Laptops;society;Laptop;ноутбук;noun;лептоп
+das Video;відео;die Videos;society;Video;відео;noun;відео
+der Kopfhörer;навушники;die Kopfhörer;society;Kopf + Hörer;навушники;noun;копфгерер
+die Daten;дані;;society;Daten;дані;noun;датен
+herunterladen;завантажувати;;society;herunterladen (zu laden);завантажувати;verb (separable);херунтерладен
+hochladen;вивантажувати;;society;hochladen (zu laden);вивантажувати;verb (separable);хохладен
+empfangen;отримувати;;society;empfangen;отримувати;verb (strong);емпфанген
+klicken;клацати;;society;klicken;клацати;verb (weak);клікен
+tippen;друкувати;;society;tippen;друкувати;verb (weak);тіппен
+surfen;серфити;;society;surfen;серфити;verb (weak);зурфен
+googeln;гуглити;;society;googeln;гуглити;verb (weak);гуґельн
+löschen;видаляти;;society;löschen;видаляти;verb (weak);льошен
+speichern;зберігати;;society;speichern;зберігати;verb (weak);шпайхерн
+drücken;натискати;;society;drücken;натискати;verb (weak);дрюкен
+einschalten;вмикати;;society;einschalten (zu schalten);вмикати;verb (separable);айншальтен
+ausschalten;вимикати;;society;ausschalten (zu schalten);вимикати;verb (separable);аусшальтен
+abmelden;виходити;;society;abmelden (zu melden);виходити;verb (separable);абмельден
+posten;публікувати;;society;posten;публікувати;verb (weak);постен
+chatten;чатитися;;society;chatten;чатитися;verb (weak);чаттен
+online;онлайн;;society;online;онлайн;adj;онлайн
+digital;цифровий;;society;digital;цифровий;adj;дигіталь
+kabellos;бездротовий;;society;kabellos;бездротовий;adj;кабельос
