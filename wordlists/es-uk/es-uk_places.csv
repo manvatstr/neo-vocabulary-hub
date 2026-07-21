@@ -1,200 +1,200 @@
-la plaza;площа;las plazas;places
-el parque;парк;los parques;places
-la calle;вулиця;las calles;places
-la avenida;проспект;las avenidas;places
-el edificio;будівля;los edificios;places
-la tienda;магазин;las tiendas;places
-el supermercado;супермаркет;los supermercados;places
-el mercado;ринок;los mercados;places
-la farmacia;аптека;las farmacias;places
-el hospital;лікарня;los hospitales;places
-la escuela;школа;las escuelas;places
-la universidad;університет;las universidades;places
-la biblioteca;бібліотека;las bibliotecas;places
-el museo;музей;los museos;places
-el teatro;театр;los teatros;places
-el cine;кінотеатр;los cines;places
-el restaurante;ресторан;los restaurantes;places
-la cafetería;кафе;las cafeterías;places
-el bar;бар;los bares;places
-el banco;банк;los bancos;places
-la oficina de correos;пошта;las oficinas de correos;places
-la comisaría;поліцейський відділок;las comisarías;places
-la estación de tren;залізничний вокзал;las estaciones de tren;places
-la parada de autobús;автобусна зупинка;las paradas de autobús;places
-el aeropuerto;аеропорт;los aeropuertos;places
-el hotel;готель;los hoteles;places
-el hostal;хостел;los hostales;places
-la iglesia;церква;las iglesias;places
-la catedral;собор;las catedrales;places
-el monumento;пам'ятник;los monumentos;places
-la fuente;фонтан;las fuentes;places
-el puente;міст;los puentes;places
-el centro comercial;торговий центр;los centros comerciales;places
-el gimnasio;спортзал;los gimnasios;places
-la piscina;басейн;las piscinas;places
-el estadio;стадіон;los estadios;places
-el aparcamiento;парковка;los aparcamientos;places
-la gasolinera;заправка;las gasolineras;places
-el ayuntamiento;мерія;los ayuntamientos;places
-la boca de metro;вхід у метро;las bocas de metro;places
-el kiosco;кіоск;los kioscos;places
-el paso de peatones;пішохідний перехід;los pasos de peatones;places
-la rotonda;кільце;las rotondas;places
-el semáforo;світлофор;los semáforos;places
-la acera;тротуар;las aceras;places
-la farola;ліхтар;las farolas;places
-el buzón;поштова скринька;los buzones;places
-la parada de tranvía;трамвайна зупинка;las paradas de tranvía;places
-el estacionamiento;стоянка;los estacionamientos;places
-el jardín;сад;los jardines;places
-el campo;сільська місцевість;los campos;places
-la granja;ферма;las granjas;places
-el establo;стайня;los establos;places
-el granero;комора;los graneros;places
-el corral;загін;los corrales;places
-el gallinero;курник;los gallineros;places
-la pocilga;свинарник;las pocilgas;places
-el redil;кошара;los rediles;places
-el molino;млин;los molinos;places
-el molino de viento;вітряк;los molinos de viento;places
-el silo;силосна башта;los silos;places
-el viñedo;виноградник;los viñedos;places
-el huerto;сад;los huertos;places
-la huerta;город;las huertas;places
-el prado;луг;los prados;places
-el pasto;пасовище;los pastos;places
-el campo de cultivo;поле;los campos de cultivo;places
-la parcela;ділянка;las parcelas;places
-la tierra;земля;las tierras;places
-el camino;дорога;los caminos;places
-el sendero;стежка;los senderos;places
-la carretera;шосе;las carreteras;places
-el puente;міст;los puentes;places
-el río;річка;los ríos;places
-el arroyo;струмок;los arroyos;places
-el lago;озеро;los lagos;places
-el estanque;ставок;los estanques;places
-la charca;калюжа;las charcas;places
-el pantano;болото;los pantanos;places
-la colina;пагорб;las colinas;places
-la montaña;гора;las montañas;places
-la sierra;гірський хребет;las sierras;places
-el valle;долина;los valles;places
-la llanura;рівнина;las llanuras;places
-la meseta;плато;las mesetas;places
-el bosque;ліс;los bosques;places
-la arboleda;гай;las arboledas;places
-el seto;живопліт;los setos;places
-la valla;паркан;las vallas;places
-la cerca;огорожа;las cercas;places
-el pueblo;село;los pueblos;places
-la acequia;зрошувальний канал;las acequias;places
-el abrevadero;водопій;los abrevaderos;places
-la noria;водяне колесо;las norias;places
-el palomar;голубник;los palomares;places
-el colmenar;пасіка;los colmenares;places
-el cañaveral;тростниковий зарост;los cañaverales;places
-la cascada;водоспад;las cascadas;places
-la cueva;печера;las cuevas;places
-el acantilado;скеля;los acantilados;places
-montaña;гора;montañas;places
-río;річка;ríos;places
-lago;озеро;lagos;places
-océano;океан;océanos;places
-mar;море;mares;places
-isla;острів;islas;places
-continente;континент;continentes;places
-país;країна;países;places
-ciudad;місто;ciudades;places
-pueblo;селище;pueblos;places
-aldea;село;aldeas;places
-capital;столиця;capitales;places
-costa;узбережжя;costas;places
-playa;пляж;playas;places
-desierto;пустеля;desiertos;places
-bosque;ліс;bosques;places
-selva;джунглі;selvas;places
-valle;долина;valles;places
-colina;пагорб;colinas;places
-cordillera;гірський хребет;cordilleras;places
-volcán;вулкан;volcanes;places
-península;півострів;penínsulas;places
-archipiélago;архіпелаг;archipiélagos;places
-golfo;затока;golfos;places
-bahía;бухта;bahías;places
-estrecho;протока;estrechos;places
-canal;канал;canales;places
-mapa;карта;mapas;places
-norte;північ;;places
-sur;південь;;places
-este;схід;;places
-oeste;захід;;places
-hemisferio;півкуля;hemisferios;places
-ecuador;екватор;;places
-trópico;тропік;trópicos;places
-polo;полюс;polos;places
-clima;клімат;climas;places
-paisaje;пейзаж;paisajes;places
-terreno;місцевість;terrenos;places
-frontera;кордон;fronteras;places
-región;регіон;regiones;places
-zona;зона;zonas;places
-área;область;áreas;places
-lugar;місце;lugares;places
-territorio;територія;territorios;places
-estado;держава;estados;places
-provincia;провінція;provincias;places
-municipio;муніципалітет;municipios;places
-calle;вулиця;calles;places
-plaza;площа;plazas;places
-la calle;вулиця;las calles;places
-la avenida;проспект;las avenidas;places
-la plaza;площа;las plazas;places
-el parque;парк;los parques;places
-la estación;станція;las estaciones;places
-el aeropuerto;аеропорт;los aeropuertos;places
-el metro;метро;los metros;places
-la parada de autobús;автобусна зупинка;las paradas de autobús;places
-la estación de tren;вокзал;las estaciones de tren;places
-el hospital;лікарня;los hospitales;places
-la farmacia;аптека;las farmacias;places
-el banco;банк;los bancos;places
-el supermercado;супермаркет;los supermercados;places
-el restaurante;ресторан;los restaurantes;places
-el hotel;готель;los hoteles;places
-el museo;музей;los museos;places
-la iglesia;церква;las iglesias;places
-la catedral;собор;las catedrales;places
-el teatro;театр;los teatros;places
-el cine;кінотеатр;los cines;places
-la playa;пляж;las playas;places
-el puerto;порт;los puertos;places
-el centro comercial;торговий центр;los centros comerciales;places
-la oficina de turismo;туристичне бюро;las oficinas de turismo;places
-el ayuntamiento;мерія;los ayuntamientos;places
-la comisaría;поліцейський відділок;las comisarías;places
-el parque de bomberos;пожежна частина;los parques de bomberos;places
-la biblioteca;бібліотека;las bibliotecas;places
-la universidad;університет;las universidades;places
-la escuela;школа;las escuelas;places
-el mercado;ринок;los mercados;places
-el kiosco;кіоск;los kioscos;places
-la fuente;фонтан;las fuentes;places
-el monumento;пам'ятник;los monumentos;places
-el puente;міст;los puentes;places
-la rotonda;кругова розв'язка;las rotondas;places
-la esquina;ріг;las esquinas;places
-el cruce;перехрестя;los cruces;places
-el semáforo;світлофор;los semáforos;places
-el paso de peatones;пішохідний перехід;los pasos de peatones;places
-la acera;тротуар;las aceras;places
-la carretera;шосе;las carreteras;places
-la autopista;автомагістраль;las autopistas;places
-el callejón;провулок;los callejones;places
-la manzana;квартал;las manzanas;places
-el aparcamiento;парковка;los aparcamientos;places
-el jardín;сад;los jardines;places
-la casa;будинок;las casas;places
-el edificio;будівля;los edificios;places
-la gasolinera;заправка;las gasolineras;places
+la calle;вулиця;вулиці (жіночий);places;calle;вулиця;noun
+la plaza;площа;площі (жіночий);places;plaza;площа;noun
+el parque;парк;парки (чоловічий);places;parque;парк;noun
+el museo;музей;музеї (чоловічий);places;museo;музей;noun
+la estación de tren;вокзал;вокзали (чоловічий);places;estación de tren;вокзал;noun
+la estación de autobuses;автовокзал;автовокзали (чоловічий);places;estación de autobuses;автовокзал;noun
+el aeropuerto;аеропорт;аеропорти (чоловічий);places;aeropuerto;аеропорт;noun
+el hospital;лікарня;лікарні (жіночий);places;hospital;лікарня;noun
+la escuela;школа;школи (жіночий);places;escuela;школа;noun
+la universidad;університет;університети (чоловічий);places;universidad;університет;noun
+la biblioteca;бібліотека;бібліотеки (жіночий);places;biblioteca;бібліотека;noun
+la iglesia;церква;церкви (жіночий);places;iglesia;церква;noun
+la catedral;собор;собори (чоловічий);places;catedral;собор;noun
+el ayuntamiento;ратуша;ратуші (жіночий);places;ayuntamiento;ратуша;noun
+el mercado;ринок;ринки (чоловічий);places;mercado;ринок;noun
+el supermercado;супермаркет;супермаркети (чоловічий);places;supermercado;супермаркет;noun
+el centro comercial;торговий центр;торгові центри (чоловічий);places;centro comercial;торговий центр;noun
+el cine;кінотеатр;кінотеатри (чоловічий);places;cine;кінотеатр;noun
+el teatro;театр;театри (чоловічий);places;teatro;театр;noun
+el hotel;готель;готелі (чоловічий);places;hotel;готель;noun
+el restaurante;ресторан;ресторани (чоловічий);places;restaurante;ресторан;noun
+el bar;бар;бари (чоловічий);places;bar;бар;noun
+la cafetería;кафе;кафе (середній);places;cafetería;кафе;noun
+la panadería;пекарня;пекарні (жіночий);places;panadería;пекарня;noun
+la farmacia;аптека;аптеки (жіночий);places;farmacia;аптека;noun
+el banco;банк;банки (чоловічий);places;banco;банк;noun
+la oficina de correos;пошта;пошти (жіночий);places;oficina de correos;пошта;noun
+la comisaría;поліцейська дільниця;поліцейські дільниці (жіночий);places;comisaría;поліцейська дільниця;noun
+la piscina;басейн;басейни (чоловічий);places;piscina;басейн;noun
+el gimnasio;спортзал;спортзали (чоловічий);places;gimnasio;спортзал;noun
+el estadio;стадіон;стадіони (чоловічий);places;estadio;стадіон;noun
+el puerto;порт;порти (чоловічий);places;puerto;порт;noun
+la playa;пляж;пляжі (чоловічий);places;playa;пляж;noun
+el jardín;сад;сади (чоловічий);places;jardín;сад;noun
+el monumento;пам'ятник;пам'ятники (чоловічий);places;monumento;пам'ятник;noun
+la fuente;фонтан;фонтани (чоловічий);places;fuente;фонтан;noun
+la rotonda;кругове перехрестя;кругові перехрестя (середній);places;rotonda;кругове перехрестя;noun
+la autopista;автострада;автостради (жіночий);places;autopista;автострада;noun
+la parada de autobús;автобусна зупинка;автобусні зупинки (жіночий);places;parada de autobús;автобусна зупинка;noun
+la estación de metro;станція метро;станції метро (жіночий);places;estación de metro;станція метро;noun
+el aparcamiento;парковка;парковки (жіночий);places;aparcamiento;парковка;noun
+el rascacielos;хмарочос;хмарочоси (чоловічий);places;rascacielos;хмарочос;noun
+la oficina;офіс;офіси (чоловічий);places;oficina;офіс;noun
+el edificio;будівля;будівлі (жіночий);places;edificio;будівля;noun
+la fábrica;фабрика;фабрики (жіночий);places;fábrica;фабрика;noun
+la tienda;магазин;магазини (чоловічий);places;tienda;магазин;noun
+el quiosco;кіоск;кіоски (чоловічий);places;quiosco;кіоск;noun
+la gasolinera;заправка;заправки (жіночий);places;gasolinera;заправка;noun
+la lavandería;пральня;пральні (жіночий);places;lavandería;пральня;noun
+el taller;майстерня;майстерні (жіночий);places;taller;майстерня;noun
+campo;поле;поля (neutro);places;campo;поле;noun
+granja;ферма;ферми (femenino);places;granja;ферма;noun
+montaña;гора;гори (femenino);places;montaña;гора;noun
+río;річка;річки (femenino);places;río;річка;noun
+bosque;ліс;ліси (masculino);places;bosque;ліс;noun
+aldea;село;села (neutro);places;aldea;село;noun
+pueblo;селище;селища (neutro);places;pueblo;селище;noun
+camino;дорога;дороги (femenino);places;camino;дорога;noun
+colina;пагорб;пагорби (masculino);places;colina;пагорб;noun
+valle;долина;долини (femenino);places;valle;долина;noun
+lago;озеро;озера (neutro);places;lago;озеро;noun
+cascada;водоспад;водоспади (masculino);places;cascada;водоспад;noun
+puente;міст;мости (masculino);places;puente;міст;noun
+iglesia;церква;церкви (femenino);places;iglesia;церква;noun
+establo;стайня;стайні (femenino);places;establo;стайня;noun
+molino;млин;млини (masculino);places;molino;млин;noun
+prado;луг;луги (masculino);places;prado;луг;noun
+cabaña;хатина;хатини (femenino);places;cabaña;хатина;noun
+huerto;город;городи (masculino);places;huerto;город;noun
+viñedo;виноградник;виноградники (masculino);places;viñedo;виноградник;noun
+campesino;селянин;селяни (masculino);places;campesino;селянин;noun
+oveja;вівця;вівці (femenino);places;oveja;вівця;noun
+vaca;корова;корови (femenino);places;vaca;корова;noun
+caballo;кінь;коні (masculino);places;caballo;кінь;noun
+gallina;курка;курки (femenino);places;gallina;курка;noun
+pato;качка;качки (femenino);places;pato;качка;noun
+cerdo;свиня;свині (femenino);places;cerdo;свиня;noun
+tractor;трактор;трактори (masculino);places;tractor;трактор;noun
+cultivo;посів;посіви (masculino);places;cultivo;посів;noun
+cosecha;врожай;врожаї (masculino);places;cosecha;врожай;noun
+trigo;пшениця;(femenino);places;trigo;пшениця;noun
+heno;сіно;(neutro);places;heno;сіно;noun
+leche;молоко;(neutro);places;leche;молоко;noun
+queso;сир;(masculino);places;queso;сир;noun
+pan;хліб;(masculino);places;pan;хліб;noun
+vino;вино;(neutro);places;vino;вино;noun
+aceite;олія;(femenino);places;aceite;олія;noun
+fruta;фрукт;фрукти (masculino);places;fruta;фрукт;noun
+verdura;овоч;овочі (masculino);places;verdura;овоч;noun
+flor;квітка;квітки (femenino);places;flor;квітка;noun
+árbol;дерево;дерева (neutro);places;árbol;дерево;noun
+arbusto;кущ;кущі (masculino);places;arbusto;кущ;noun
+hierba;трава;трави (femenino);places;hierba;трава;noun
+seta;гриб;гриби (masculino);places;seta;гриб;noun
+nido;гніздо;гнізда (neutro);places;nido;гніздо;noun
+paisaje;пейзаж;пейзажі (masculino);places;paisaje;пейзаж;noun
+sendero;стежка;стежки (femenino);places;sendero;стежка;noun
+valla;паркан;паркани (masculino);places;valla;паркан;noun
+granero;комора;комори (femenino);places;granero;комора;noun
+pozo;колодязь;колодязі (masculino);places;pozo;колодязь;noun
+montaña;гора;гори (жіночий);places;montaña;гора;noun
+río;річка;річки (жіночий);places;río;річка;noun
+lago;озеро;озера (середній);places;lago;озеро;noun
+océano;океан;океани (чоловічий);places;océano;океан;noun
+mar;море;моря (середній);places;mar;море;noun
+isla;острів;острови (чоловічий);places;isla;острів;noun
+península;півострів;півострови (чоловічий);places;península;півострів;noun
+costa;узбережжя;узбережжя (середній);places;costa;узбережжя;noun
+playa;пляж;пляжі (чоловічий);places;playa;пляж;noun
+desierto;пустеля;пустелі (жіночий);places;desierto;пустеля;noun
+selva;джунглі;джунглі (pluralia tantum);places;selva;джунглі;noun
+bosque;ліс;ліси (чоловічий);places;bosque;ліс;noun
+campo;поле;поля (середній);places;campo;поле;noun
+colina;пагорб;пагорби (чоловічий);places;colina;пагорб;noun
+valle;долина;долини (жіночий);places;valle;долина;noun
+volcán;вулкан;вулкани (чоловічий);places;volcán;вулкан;noun
+cueva;печера;печери (жіночий);places;cueva;печера;noun
+cascada;водоспад;водоспади (чоловічий);places;cascada;водоспад;noun
+glaciar;льодовик;льодовики (чоловічий);places;glaciar;льодовик;noun
+continente;континент;континенти (чоловічий);places;continente;континент;noun
+país;країна;країни (жіночий);places;país;країна;noun
+ciudad;місто;міста (середній);places;ciudad;місто;noun
+pueblo;село;села (середній);places;pueblo;село;noun
+capital;столиця;столиці (жіночий);places;capital;столиця;noun
+frontera;кордон;кордони (чоловічий);places;frontera;кордон;noun
+región;регіон;регіони (чоловічий);places;región;регіон;noun
+hemisferio;півкуля;півкулі (жіночий);places;hemisferio;півкуля;noun
+ecuador;екватор;(чоловічий);places;ecuador;екватор;noun
+polo;полюс;полюси (чоловічий);places;polo;полюс;noun
+trópico;тропік;тропіки (чоловічий);places;trópico;тропік;noun
+latitud;широта;широти (жіночий);places;latitud;широта;noun
+longitud;довгота;довготи (жіночий);places;longitud;довгота;noun
+mapa;мапа;мапи (жіночий);places;mapa;мапа;noun
+brújula;компас;компаси (чоловічий);places;brújula;компас;noun
+norte;північ;(жіночий);places;norte;північ;noun
+sur;південь;(чоловічий);places;sur;південь;noun
+este;схід;(чоловічий);places;este;схід;noun
+oeste;захід;(чоловічий);places;oeste;захід;noun
+paisaje;пейзаж;пейзажі (чоловічий);places;paisaje;пейзаж;noun
+relieve;рельєф;рельєфи (чоловічий);places;relieve;рельєф;noun
+clima;клімат;(чоловічий);places;clima;клімат;noun
+tierra;земля;землі (жіночий);places;tierra;земля;noun
+suelo;ґрунт;ґрунти (чоловічий);places;suelo;ґрунт;noun
+roca;скеля;скелі (жіночий);places;roca;скеля;noun
+mineral;мінерал;мінерали (чоловічий);places;mineral;мінерал;noun
+cordillera;гірський хребет;гірські хребти (чоловічий);places;cordillera;гірський хребет;noun
+archipiélago;архіпелаг;архіпелаги (чоловічий);places;archipiélago;архіпелаг;noun
+estrecho;протока;протоки (жіночий);places;estrecho;протока;noun
+bahía;затока;затоки (жіночий);places;bahía;затока;noun
+acantilado;скеля;скелі (жіночий);places;acantilado;скеля;noun
+la calle;вулиця;вулиці (жіночий);places;calle;вулиця;noun
+la avenida;проспект;проспекти (чоловічий);places;avenida;проспект;noun
+la plaza;площа;площі (жіночий);places;plaza;площа;noun
+la esquina;ріг;роги (чоловічий);places;esquina;ріг;noun
+el cruce;перехрестя;перехрестя (середній);places;cruce;перехрестя;noun
+la rotonda;кільце;кільця (середній);places;rotonda;кільце;noun
+el semáforo;світлофор;світлофори (чоловічий);places;semáforo;світлофор;noun
+la parada;зупинка;зупинки (жіночий);places;parada;зупинка;noun
+la estación;станція;станції (жіночий);places;estación;станція;noun
+el metro;метро;;places;metro;метро;noun
+el aeropuerto;аеропорт;аеропорти (чоловічий);places;aeropuerto;аеропорт;noun
+el andén;платформа;платформи (жіночий);places;andén;платформа;noun
+el hospital;лікарня;лікарні (жіночий);places;hospital;лікарня;noun
+la comisaría;поліцейська дільниця;дільниці (жіночий);places;comisaría;поліцейська дільниця;noun
+el banco;банк;банки (чоловічий);places;banco;банк;noun
+la farmacia;аптека;аптеки (жіночий);places;farmacia;аптека;noun
+el supermercado;супермаркет;супермаркети (чоловічий);places;supermercado;супермаркет;noun
+el museo;музей;музеї (чоловічий);places;museo;музей;noun
+el teatro;театр;театри (чоловічий);places;teatro;театр;noun
+el cine;кінотеатр;кінотеатри (чоловічий);places;cine;кінотеатр;noun
+el restaurante;ресторан;ресторани (чоловічий);places;restaurante;ресторан;noun
+el hotel;готель;готелі (чоловічий);places;hotel;готель;noun
+la catedral;собор;собори (чоловічий);places;catedral;собор;noun
+el parque;парк;парки (чоловічий);places;parque;парк;noun
+la fuente;фонтан;фонтани (чоловічий);places;fuente;фонтан;noun
+el puente;міст;мости (чоловічий);places;puente;міст;noun
+el río;річка;річки (жіночий);places;río;річка;noun
+la playa;пляж;пляжі (чоловічий);places;playa;пляж;noun
+la montaña;гора;гори (жіночий);places;montaña;гора;noun
+el centro;центр;центри (чоловічий);places;centro;центр;noun
+el barrio;квартал;квартали (чоловічий);places;barrio;квартал;noun
+la dirección;адреса;адреси (жіночий);places;dirección;адреса;noun
+el mapa;мапа;мапи (жіночий);places;mapa;мапа;noun
+la distancia;відстань;відстані (жіночий);places;distancia;відстань;noun
+la izquierda;лівий бік;боки (чоловічий);places;izquierda;лівий бік;noun
+la derecha;правий бік;боки (чоловічий);places;derecha;правий бік;noun
+el lado;бік;боки (чоловічий);places;lado;бік;noun
+girar;повертати;;places;girar;повертати;verb
+seguir;продовжувати;;places;seguir;продовжувати;verb
+cruzar;перетинати;;places;cruzar;перетинати;verb
+tomar;брати;;places;tomar;брати;verb
+preguntar;запитувати;;places;preguntar;запитувати;verb
+indicar;вказувати;;places;indicar;вказувати;verb
+buscar;шукати;;places;buscar;шукати;verb
+encontrar;знаходити;;places;encontrar;знаходити;verb
+perderse;загубитися;;places;perderse;загубитися;verb
+orientarse;орієнтуватися;;places;orientarse;орієнтуватися;verb
+recto;прямо;;places;recto;прямо;adv
+cerca;близько;;places;cerca;близько;adv
+lejos;далеко;;places;lejos;далеко;adv

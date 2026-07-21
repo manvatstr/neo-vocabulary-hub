@@ -1,200 +1,200 @@
-bank;банк;m;services
-konto;рахунок;n;services
-karta kredytowa;кредитна картка;f;services
-pieniądze;гроші;pl;services
-gotówka;готівка;f;services
-czek;чек;m;services
-przelew;переказ;m;services
-wpłata;внесок;f;services
-wypłata;виплата;f;services
-bankomat;банкомат;m;services
-oddział;відділення;m;services
-rachunek;рахунок;m;services
-oszczędności;заощадження;pl;services
-kredyt;кредит;m;services
-pożyczka;позика;f;services
-odsetki;відсотки;pl;services
-waluta;валюта;f;services
-kurs wymiany;обмінний курс;m;services
-kantor;обмінний пункт;m;services
-karta płatnicza;платіжна картка;f;services
-PIN;PIN-код;m;services
-wyciąg bankowy;банківська виписка;m;services
-lokata;депозит;f;services
-ubezpieczenie;страхування;n;services
-formularz;формуляр;m;services
-podpis;підпис;m;services
-dowód osobisty;посвідчення особи;m;services
-banknot;банкнота;m;services
-moneta;монета;f;services
-reszta;решта;f;services
-wpłacić;внести;;services
-wypłacić;зняти;;services
-przelać;переказати;;services
-poczta;пошта;f;services
-list;лист;m;services
-paczka;посилка;f;services
-znaczek pocztowy;поштова марка;m;services
-koperta;конверт;f;services
-adres;адреса;m;services
-nadawca;відправник;m;services
-odbiorca;одержувач;m;services
-kod pocztowy;поштовий індекс;m;services
-skrytka pocztowa;абонентська скринька;f;services
-list polecony;рекомендований лист;m;services
-paczkomat;пачкомат;m;services
-przekaz pocztowy;поштовий переказ;m;services
-awizo;авізо;n;services
-doręczenie;доставка;n;services
-listonosz;листоноша;m;services
-stempel;штемпель;m;services
-fryzjer;перукар;m;services
-fryzjerka;перукарка;f;services
-salon;салон;m;services
-nożyczki;ножиці;pl;services
-grzebień;гребінець;m;services
-szczotka;щітка;f;services
-suszarka;фен;f;services
-maszynka;машинка;f;services
-lokówka;плойка;f;services
-prostownica;випрямляч;f;services
-farba;фарба;f;services
-szampon;шампунь;m;services
-odżywka;кондиціонер;f;services
-maska;маска;f;services
-balsam;бальзам;m;services
-pianka;пінка;f;services
-lakier;лак;m;services
-żel;гель;m;services
-pasta;паста;f;services
-wosk;віск;m;services
-spray;спрей;m;services
-strzyżenie;стрижка;n;services
-modelowanie;укладка;n;services
-farbowanie;фарбування;n;services
-rozjaśnianie;освітлення;n;services
-ondulacja;завивка;f;services
-lok;локон;m;services
-fala;хвиля;f;services
-grzywka;чубчик;f;services
-pasemko;пасмо;n;services
-balejaż;балаяж;m;services
-ombre;омбре;n;services
-degaż;філірування;m;services
-golenie;гоління;n;services
-broda;борода;f;services
-wąs;вус;m;services
-trymer;тример;m;services
-brzytwa;бритва;f;services
-ręcznik;рушник;m;services
-peleryna;накидка;f;services
-fotel;крісло;m;services
-lustro;дзеркало;n;services
-umywalka;раковина;f;services
-wizyta;візит;f;services
-umawianie;запис;n;services
-termin;термін;m;services
-fryzura;зачіска;f;services
-stylizacja;стайлінг;f;services
-kosmetyk;косметика;m;services
-płukanka;ополіскувач;f;services
-mechanik;механік;mechanicy;services
-warsztat;майстерня;warsztaty;services
-część;деталь;części;services
-narzędzie;інструмент;narzędzia;services
-klucz;ключ;klucze;services
-śruba;болт;śruby;services
-opona;шина;opony;services
-silnik;двигун;silniki;services
-hamulec;гальмо;hamulce;services
-olej;масло;oleje;services
-paliwo;паливо;paliwa;services
-akumulator;акумулятор;akumulatory;services
-świeca;свічка;świece;services
-filtr;фільтр;filtry;services
-wydech;вихлоп;wydechy;services
-tłumik;глушник;tłumiki;services
-katalizator;каталізатор;katalizatory;services
-sprzęgło;зчеплення;sprzęgła;services
-skrzynia biegów;коробка передач;skrzynie biegów;services
-pasek rozrządu;ремінь ГРМ;paski rozrządu;services
-naprawa;ремонт;naprawy;services
-wymiana;заміна;wymiany;services
-regulacja;регулювання;regulacje;services
-smarowanie;змащування;smarowania;services
-holowanie;буксирування;holowania;services
-lakierowanie;фарбування;lakierowania;services
-spawanie;зварювання;spawania;services
-wyważanie kół;балансування коліс;wyważania kół;services
-geometria kół;розвал-сходження;geometrie kół;services
-przegląd;огляд;przeglądy;services
-rejestracja;реєстрація;rejestracje;services
-ubezpieczenie;страхування;ubezpieczenia;services
-pomoc drogowa;допомога на дорозі;;services
-laweta;евакуатор;lawety;services
-podnośnik;підйомник;podnośniki;services
-kompresor;компресор;kompresory;services
-myjnia;мийка;myjnie;services
-uszczelka;прокладка;uszczelki;services
-cylinder;циліндр;cylindry;services
-alternator;генератор;alternatory;services
-rozrusznik;стартер;rozruszniki;services
-chłodnica;радіатор;chłodnice;services
-pasek klinowy;клиновий ремінь;paski klinowe;services
-blacharz;бляхар;blacharze;services
-lakiernik;маляр;lakiernicy;services
-wulkanizacja;вулканізація;wulkanizacje;services
-olej silnikowy;моторне масло;oleje silnikowe;services
-naprawiać;ремонтувати;;services
-wymieniać;заміняти;;services
-sprawdzać;перевіряти;;services
-policjant;поліцейський;policjanci;services
-policjantka;поліцейська;policjantki;services
-policja;поліція;;services
-posterunek policji;поліцейський відділок;posterunki policji;services
-radiowóz;поліцейська машина;radiowozy;services
-mundur;форма;mundury;services
-odznaka;значок;odznaki;services
-kajdanki;наручники;pl;services
-areszt;арешт;areszty;services
-przestępca;злочинець;przestępcy;services
-ofiara;жертва;ofiary;services
-świadek;свідок;świadkowie;services
-zgłoszenie;повідомлення;zgłoszenia;services
-patrol;патруль;patrole;services
-dochodzenie;розслідування;dochodzenia;services
-śledztwo;слідство;śledztwa;services
-alarm;тривога;alarmy;services
-pożar;пожежа;pożary;services
-straż pożarna;пожежна охорона;;services
-strażak;пожежник;strażacy;services
-karetka pogotowia;швидка допомога;karetki pogotowia;services
-ratownik medyczny;медичний рятувальник;ratownicy medyczni;services
-wypadek;нещасний випадок;wypadki;services
-katastrofa;катастрофа;katastrofy;services
-pomoc;допомога;;services
-numer alarmowy;номер екстреної служби;numery alarmowe;services
-ucieczka;втеча;ucieczki;services
-napad;напад;napady;services
-kradzież;крадіжка;kradzieże;services
-włamanie;злом;włamania;services
-przemoc;насильство;;services
-broń;зброя;;services
-nóż;ніж;noże;services
-niebezpieczeństwo;небезпека;niebezpieczeństwa;services
-lawina;лавина;lawiny;services
-powódź;повінь;powodzie;services
-trzęsienie ziemi;землетрус;trzęsienia ziemi;services
-ewakuacja;евакуація;ewakuacje;services
-schron;укриття;schrony;services
-apteczka pierwszej pomocy;аптечка першої допомоги;apteczki pierwszej pomocy;services
-defibrylator;дефібрилятор;defibrylatory;services
-ranny;поранений;ranni;services
-poszkodowany;постраждалий;poszkodowani;services
-zaginiony;зниклий безвісти;zaginieni;services
-poszukiwania;пошуки;pl;services
-helikopter ratunkowy;рятувальний гелікоптер;helikoptery ratunkowe;services
-służby ratunkowe;екстрені служби;pl;services
-zgłosić;повідомити;;services
-wezwać pomoc;викликати допомогу;;services
-pierwsza pomoc;перша допомога;;services
+bank;банк;банки (męski);services;bank;банк;noun
+konto;рахунок;рахунки (męski);services;konto;рахунок;noun
+pieniądze;гроші;;services;pieniądze;гроші;noun
+waluta;валюта;валюти (żeński);services;waluta;валюта;noun
+karta kredytowa;кредитна картка;кредитні картки (żeński);services;karta kredytowa;кредитна картка;noun
+bankomat;банкомат;банкомати (męski);services;bankomat;банкомат;noun
+wpłata;внесок;внески (męski);services;wpłata;внесок;noun
+wypłata;виплата;виплати (żeński);services;wypłata;виплата;noun
+przelew;переказ;перекази (męski);services;przelew;переказ;noun
+oddział;відділення;відділення (nijaki);services;oddział;відділення;noun
+okienko;віконце;віконця (nijaki);services;okienko;віконце;noun
+kolejka;черга;черги (żeński);services;kolejka;черга;noun
+numer;номер;номери (męski);services;numer;номер;noun
+formularz;бланк;бланки (męski);services;formularz;бланк;noun
+podpis;підпис;підписи (męski);services;podpis;підпис;noun
+kredyt;кредит;кредити (męski);services;kredyt;кредит;noun
+debet;дебет;дебети (męski);services;debet;дебет;noun
+oprocentowanie;відсоткова ставка;відсоткові ставки (żeński);services;oprocentowanie;відсоткова ставка;noun
+rachunek;рахунок;рахунки (męski);services;rachunek;рахунок;noun
+oszczędności;заощадження;заощадження (nijaki);services;oszczędności;заощадження;noun
+konto oszczędnościowe;ощадний рахунок;ощадні рахунки (męski);services;konto oszczędnościowe;ощадний рахунок;noun
+lokata;депозит;депозити (męski);services;lokata;депозит;noun
+moneta;монета;монети (żeński);services;moneta;монета;noun
+banknot;банкнота;банкноти (żeński);services;banknot;банкнота;noun
+kantor;обмінник;обмінники (męski);services;kantor;обмінник;noun
+kurs;курс;курси (męski);services;kurs;курс;noun
+wymiana;обмін;обміни (męski);services;wymiana;обмін;noun
+prowizja;комісія;комісії (żeński);services;prowizja;комісія;noun
+doradca;консультант;консультанти (męski);services;doradca;консультант;noun
+karta debetowa;дебетова картка;дебетові картки (żeński);services;karta debetowa;дебетова картка;noun
+PIN;ПІН-код;ПІН-коди (męski);services;PIN;ПІН-код;noun
+poczta;пошта;пошти (żeński);services;poczta;пошта;noun
+list;лист;листи (męski);services;list;лист;noun
+paczka;посилка;посилки (żeński);services;paczka;посилка;noun
+znaczek;марка;марки (żeński);services;znaczek;марка;noun
+koperta;конверт;конверти (męski);services;koperta;конверт;noun
+nadawca;відправник;відправники (męski);services;nadawca;відправник;noun
+odbiorca;отримувач;отримувачі (męski);services;odbiorca;отримувач;noun
+adres;адреса;адреси (żeński);services;adres;адреса;noun
+skrytka pocztowa;поштова скринька;поштові скриньки (żeński);services;skrytka pocztowa;поштова скринька;noun
+przekaz pocztowy;поштовий переказ;поштові перекази (męski);services;przekaz pocztowy;поштовий переказ;noun
+listonosz;листоноша;листоноші (męski);services;listonosz;листоноша;noun
+sortownia;сортувальня;сортувальні (żeński);services;sortownia;сортувальня;noun
+priorytet;пріоритет;пріоритети (męski);services;priorytet;пріоритет;noun
+list polecony;рекомендований лист;рекомендовані листи (męski);services;list polecony;рекомендований лист;noun
+awizo;повідомлення;повідомлення (nijaki);services;awizo;повідомлення;noun
+dopłata;доплата;доплати (żeński);services;dopłata;доплата;noun
+opłata;плата;плати (żeński);services;opłata;плата;noun
+przesyłka;відправлення;відправлення (nijaki);services;przesyłka;відправлення;noun
+kurier;кур'єр;кур'єри (męski);services;kurier;кур'єр;noun
+fryzjer;перукар;перукарі (чоловічий);services;fryzjer;перукар;noun
+fryzjerka;перукарка;перукарки (жіночий);services;fryzjerka;перукарка;noun
+salon fryzjerski;перукарня;перукарні (жіночий);services;salon fryzjerski;перукарня;noun
+klient;клієнт;клієнти (чоловічий);services;klient;клієнт;noun
+klientka;клієнтка;клієнтки (жіночий);services;klientka;клієнтка;noun
+fryzura;зачіска;зачіски (жіночий);services;fryzura;зачіска;noun
+strzyżenie;стрижка;стрижки (жіночий);services;strzyżenie;стрижка;noun
+nożyczki;ножиці;ножиці;services;nożyczki;ножиці;noun
+grzebień;гребінець;гребінці (чоловічий);services;grzebień;гребінець;noun
+szczotka;щітка;щітки (жіночий);services;szczotka;щітка;noun
+suszarka;фен;фени (чоловічий);services;suszarka;фен;noun
+lokówka;плойка;плойки (жіночий);services;lokówka;плойка;noun
+prostownica;випрямляч;випрямлячі (чоловічий);services;prostownica;випрямляч;noun
+wałki;бігуді;бігуді;services;wałki;бігуді;noun
+lakier do włosów;лак для волосся;лаки (чоловічий);services;lakier do włosów;лак для волосся;noun
+pianka;пінка;пінки (жіночий);services;pianka;пінка;noun
+szampon;шампунь;шампуні (чоловічий);services;szampon;шампунь;noun
+odżywka;кондиціонер;кондиціонери (чоловічий);services;odżywka;кондиціонер;noun
+farba do włosów;фарба для волосся;фарби (жіночий);services;farba do włosów;фарба для волосся;noun
+podcięcie;підрівнювання;підрівнювання (середній);services;podcięcie;підрівнювання;noun
+myć;мити;;services;myć;мити;verb
+suszyć;сушити;;services;suszyć;сушити;verb
+czesać;розчісувати;;services;czesać;розчісувати;verb
+układać;укладати;;services;układać;укладати;verb
+farbować;фарбувати;;services;farbować;фарбувати;verb
+strzyc;стригти;;services;strzyc;стригти;verb
+ondulować;завивати;;services;ondulować;завивати;verb
+modelować;моделювати;;services;modelować;моделювати;verb
+przycinać;підрізати;;services;przycinać;підрізати;verb
+przedziałek;проділ;проділи (чоловічий);services;przedziałek;проділ;noun
+grzywka;чуб;чуби (чоловічий);services;grzywka;чуб;noun
+warkocz;коса;коси (жіночий);services;warkocz;коса;noun
+kucyk;хвіст;хвости (чоловічий);services;kucyk;хвіст;noun
+kok;пучок;пучки (чоловічий);services;kok;пучок;noun
+fala;хвиля;хвилі (жіночий);services;fala;хвиля;noun
+lok;локон;локони (чоловічий);services;lok;локон;noun
+ręcznik;рушник;рушники (чоловічий);services;ręcznik;рушник;noun
+fartuch;фартух;фартухи (чоловічий);services;fartuch;фартух;noun
+lustro;дзеркало;дзеркала (середній);services;lustro;дзеркало;noun
+fotel fryzjerski;перукарське крісло;перукарські крісла (середній);services;fotel fryzjerski;перукарське крісло;noun
+myjnia;мийка;мийки (жіночий);services;myjnia;мийка;noun
+peleryna fryzjerska;накидка;накидки (жіночий);services;peleryna fryzjerska;накидка;noun
+maszynka do strzyżenia;машинка для стрижки;машинки (жіночий);services;maszynka do strzyżenia;машинка для стрижки;noun
+golarka;бритва;бритви (жіночий);services;golarka;бритва;noun
+pianka do golenia;піна для гоління;;services;pianka do golenia;піна для гоління;noun
+dezynfekcja;дезинфекція;;services;dezynfekcja;дезинфекція;noun
+wizyta;візит;візити (чоловічий);services;wizyta;візит;noun
+termin;термін;терміни (чоловічий);services;termin;термін;noun
+szpilka;шпилька;шпильки (жіночий);services;szpilka;шпилька;noun
+gumka do włosów;резинка для волосся;резинки (жіночий);services;gumka do włosów;резинка для волосся;noun
+samochód;автомобіль;автомобілі (męski);services;samochód;автомобіль;noun
+warsztat;майстерня;майстерні (żeński);services;warsztat;майстерня;noun
+mechanik;механік;механіки (męski);services;mechanik;механік;noun
+naprawa;ремонт;ремонти (męski);services;naprawa;ремонт;noun
+naprawiać;ремонтувати;;services;naprawiać;ремонтувати;verb
+wymieniać;замінювати;;services;wymieniać;замінювати;verb
+olej;олива;оливи (żeński);services;olej;олива;noun
+filtr;фільтр;фільтри (męski);services;filtr;фільтр;noun
+opona;шина;шини (żeński);services;opona;шина;noun
+hamulec;гальмо;гальма (nijaki);services;hamulec;гальмо;noun
+klocek hamulcowy;гальмівна колодка;гальмівні колодки (żeński);services;klocek hamulcowy;гальмівна колодка;noun
+tarcza hamulcowa;гальмівний диск;гальмівні диски (męski);services;tarcza hamulcowa;гальмівний диск;noun
+akumulator;акумулятор;акумулятори (męski);services;akumulator;акумулятор;noun
+zapłon;запалювання;;services;zapłon;запалювання;noun
+świeca zapłonowa;свічка запалювання;свічки запалювання (żeński);services;świeca zapłonowa;свічка запалювання;noun
+rozrusznik;стартер;стартери (męski);services;rozrusznik;стартер;noun
+alternator;генератор;генератори (męski);services;alternator;генератор;noun
+pasek klinowy;клиновий ремінь;клинові ремені (męski);services;pasek klinowy;клиновий ремінь;noun
+chłodnica;радіатор;радіатори (męski);services;chłodnica;радіатор;noun
+płyn chłodniczy;охолоджувальна рідина;охолоджувальні рідини (żeński);services;płyn chłodniczy;охолоджувальна рідина;noun
+układ wydechowy;вихлопна система;вихлопні системи (żeński);services;układ wydechowy;вихлопна система;noun
+tłumik;глушник;глушники (męski);services;tłumik;глушник;noun
+sprzęgło;зчеплення;зчеплення (nijaki);services;sprzęgło;зчеплення;noun
+skrzynia biegów;коробка передач;коробки передач (żeński);services;skrzynia biegów;коробка передач;noun
+pompa paliwa;паливний насос;паливні насоси (męski);services;pompa paliwa;паливний насос;noun
+układ kierowniczy;рульове керування;;services;układ kierowniczy;рульове керування;noun
+zawieszenie;підвіска;підвіски (żeński);services;zawieszenie;підвіска;noun
+amortyzator;амортизатор;амортизатори (męski);services;amortyzator;амортизатор;noun
+wycieraczka;склоочисник;склоочисники (męski);services;wycieraczka;склоочисник;noun
+szyba przednia;лобове скло;лобові скла (nijaki);services;szyba przednia;лобове скло;noun
+lusterko;дзеркало;дзеркала (nijaki);services;lusterko;дзеркало;noun
+karoseria;кузов;кузови (męski);services;karoseria;кузов;noun
+lakier;фарба;фарби (żeński);services;lakier;фарба;noun
+lakierowanie;фарбування;;services;lakierowanie;фарбування;noun
+spawanie;зварювання;;services;spawanie;зварювання;noun
+przegląd;техогляд;техогляди (męski);services;przegląd;техогляд;noun
+diagnoza;діагностика;;services;diagnoza;діагностика;noun
+awaria;аварія;аварії (żeński);services;awaria;аварія;noun
+holowanie;буксирування;;services;holowanie;буксирування;noun
+laweta;евакуатор;евакуатори (męski);services;laweta;евакуатор;noun
+opona zimowa;зимова шина;зимові шини (żeński);services;opona zimowa;зимова шина;noun
+opona letnia;літня шина;літні шини (żeński);services;opona letnia;літня шина;noun
+wymiana oleju;заміна оливи;заміни оливи (żeński);services;wymiana oleju;заміна оливи;noun
+serwis;сервіс;сервіси (męski);services;serwis;сервіс;noun
+blacharz;бляхар;бляхарі (męski);services;blacharz;бляхар;noun
+lakiernik;маляр;малярі (męski);services;lakiernik;маляр;noun
+wulkanizacja;вулканізація;;services;wulkanizacja;вулканізація;noun
+geometria kół;розвал-сходження;;services;geometria kół;розвал-сходження;noun
+wydech;вихлоп;вихлопи (męski);services;wydech;вихлоп;noun
+gaśnica;вогнегасник;вогнегасники (męski);services;gaśnica;вогнегасник;noun
+policja;поліція;поліції (żeński);services;policja;поліція;noun
+policjant;поліцейський;поліцейські (męski);services;policjant;поліцейський;noun
+radiowóz;поліцейський автомобіль;поліцейські автомобілі (męski);services;radiowóz;поліцейський автомобіль;noun
+straż pożarna;пожежна служба;пожежні служби (żeński);services;straż pożarna;пожежна служба;noun
+strażak;пожежник;пожежники (męski);services;strażak;пожежник;noun
+karetka pogotowia;швидка допомога;швидкі допомоги (żeński);services;karetka pogotowia;швидка допомога;noun
+lekarz;лікар;лікарі (męski);services;lekarz;лікар;noun
+szpital;лікарня;лікарні (żeński);services;szpital;лікарня;noun
+wypadek;аварія;аварії (żeński);services;wypadek;аварія;noun
+kolizja;зіткнення;зіткнення (nijaki);services;kolizja;зіткнення;noun
+ofiara;жертва;жертви (żeński);services;ofiara;жертва;noun
+poszkodowany;потерпілий;потерпілі (męski);services;poszkodowany;потерпілий;noun
+ranny;поранений;поранені (męski);services;ranny;поранений;noun
+alarm;тривога;тривоги (żeński);services;alarm;тривога;noun
+syrena;сирена;сирени (żeński);services;syrena;сирена;noun
+patrol;патруль;патрулі (męski);services;patrol;патруль;noun
+funkcjonariusz;службовець;службовці (męski);services;funkcjonariusz;службовець;noun
+przestępstwo;злочин;злочини (męski);services;przestępstwo;злочин;noun
+przestępca;злочинець;злочинці (męski);services;przestępca;злочинець;noun
+kradzież;крадіжка;крадіжки (żeński);services;kradzież;крадіжка;noun
+włamanie;злом;зломи (męski);services;włamanie;злом;noun
+napad;напад;напади (męski);services;napad;напад;noun
+rozbój;розбій;розбої (męski);services;rozbój;розбій;noun
+pobicie;побиття;побиття (nijaki);services;pobicie;побиття;noun
+przemoc;насильство;;services;przemoc;насильство;noun
+zagrożenie;загроза;загрози (żeński);services;zagrożenie;загроза;noun
+niebezpieczeństwo;небезпека;небезпеки (żeński);services;niebezpieczeństwo;небезпека;noun
+pomoc;допомога;;services;pomoc;допомога;noun
+ratunek;порятунок;;services;ratunek;порятунок;noun
+pierwsza pomoc;перша допомога;;services;pierwsza pomoc;перша допомога;noun
+numer alarmowy;екстрений номер;екстрені номери (męski);services;numer alarmowy;екстрений номер;noun
+wezwać pomoc;викликати допомогу;;services;wezwać;викликати;verb
+dzwonić;дзвонити;;services;dzwonić;дзвонити;verb
+zgłaszać;повідомляти;;services;zgłaszać;повідомляти;verb
+zgłoszenie;повідомлення;повідомлення (nijaki);services;zgłoszenie;повідомлення;noun
+interwencja;втручання;втручання (nijaki);services;interwencja;втручання;noun
+areszt;арешт;арешти (męski);services;areszt;арешт;noun
+aresztować;арештувати;;services;aresztować;арештувати;verb
+zatrzymać;затримати;;services;zatrzymać;затримати;verb
+śledztwo;розслідування;розслідування (nijaki);services;śledztwo;розслідування;noun
+dowód;доказ;докази (męski);services;dowód;доказ;noun
+świadek;свідок;свідки (męski);services;świadek;свідок;noun
+zeznanie;свідчення;свідчення (nijaki);services;zeznanie;свідчення;noun
+oficer dyżurny;черговий офіцер;чергові офіцери (męski);services;oficer dyżurny;черговий офіцер;noun
+komisariat;відділок поліції;відділки поліції (męski);services;komisariat;відділок поліції;noun
+patrolować;патрулювати;;services;patrolować;патрулювати;verb
+mandat;штраф;штрафи (męski);services;mandat;штраф;noun
+pouczenie;попередження;попередження (nijaki);services;pouczenie;попередження;noun
+blokada;блокада;блокади (żeński);services;blokada;блокада;noun
+wezwanie;виклик;виклики (męski);services;wezwanie;виклик;noun

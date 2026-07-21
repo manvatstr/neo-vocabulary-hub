@@ -1,200 +1,200 @@
-das Restaurant;ресторан;die Restaurants;food
-das Menü;меню;die Menüs;food
-die Speisekarte;меню страв;die Speisekarten;food
-der Kellner;офіціант;die Kellner;food
-die Kellnerin;офіціантка;die Kellnerinnen;food
-der Gast;гість;die Gäste;food
-die Rechnung;рахунок;die Rechnungen;food
-das Trinkgeld;чайові;die Trinkgelder;food
-die Vorspeise;закуска;die Vorspeisen;food
-die Suppe;суп;die Suppen;food
-der Salat;салат;die Salate;food
-das Hauptgericht;основна страва;die Hauptgerichte;food
-das Fleischgericht;м'ясна страва;die Fleischgerichte;food
-das Fischgericht;рибна страва;die Fischgerichte;food
-die Beilage;гарнір;die Beilagen;food
-die Soße;соус;die Soßen;food
-der Nachtisch;десерт;die Nachtische;food
-das Dessert;десерт;die Desserts;food
-das Getränk;напій;die Getränke;food
-das Wasser;вода;die Wasser;food
-der Wein;вино;die Weine;food
-das Bier;пиво;die Biere;food
-der Kaffee;кава;die Kaffees;food
-der Tee;чай;die Tees;food
-der Saft;сік;die Säfte;food
-das Brot;хліб;die Brote;food
-die Butter;вершкове масло;;food
-das Messer;ніж;die Messer;food
-die Gabel;виделка;die Gabeln;food
-der Löffel;ложка;die Löffel;food
-der Teller;тарілка;die Teller;food
-das Glas;склянка;die Gläser;food
-die Tasse;чашка;die Tassen;food
-die Serviette;серветка;die Servietten;food
-die Reservierung;бронювання;die Reservierungen;food
-der Tisch;стіл;die Tische;food
-der Stuhl;стілець;die Stühle;food
-die Terrasse;тераса;die Terrassen;food
-die Bedienung;обслуговування;die Bedienungen;food
-die Bestellung;замовлення;die Bestellungen;food
-das Besteck;столові прибори;die Bestecke;food
-die Flasche;пляшка;die Flaschen;food
-das Gericht;страва;die Gerichte;food
-die Speise;страва;die Speisen;food
-der Appetit;апетит;;food
-vegetarisch;вегетаріанський;;food
-bestellen;замовляти;;food
-reservieren;бронювати;;food
-bezahlen;платити;;food
-der Imbiss;закусочна;die Imbisse;food
-kochen;варити;;food
-backen;пекти;;food
-braten;смажити;;food
-schneiden;різати;;food
-rühren;мішати;;food
-mixen;змішувати;;food
-würzen;приправляти;;food
-abschmecken;пробувати на смак;;food
-garen;готувати;;food
-dünsten;тушкувати;;food
-schmoren;тушкувати;;food
-grillen;грилювати;;food
-frittieren;смажити у фритюрі;;food
-dämpfen;готувати на пару;;food
-pürieren;пюрувати;;food
-zerkleinern;подрібнювати;;food
-raspeln;терти;;food
-schälen;чистити;;food
-ausrollen;розкачувати;;food
-kneten;місити;;food
-aufschlagen;збивати;;food
-unterheben;вмішувати обережно;;food
-absieben;проціджувати;;food
-abseihen;проціджувати;;food
-marinieren;маринувати;;food
-panieren;панірувати;;food
-überbacken;запікати;;food
-köcheln;томити;;food
-aufkochen;доводити до кипіння;;food
-abkühlen;охолоджувати;;food
-erhitzen;нагрівати;;food
-servieren;подавати;;food
-anrichten;сервірувати;;food
-zubereiten;готувати;;food
-hacken;рубати;;food
-wiegen;зважувати;;food
-messen;вимірювати;;food
-einrühren;вмішувати;;food
-verrühren;перемішувати;;food
-ausstechen;вирізати формою;;food
-garnieren;гарнірувати;;food
-bestreichen;змащувати;;food
-einfetten;змащувати;;food
-mehlen;посипати борошном;;food
-anbraten;обсмажувати;;food
-blanchieren;бланшувати;;food
-pochieren;припускати;;food
-flambieren;фламбувати;;food
-abschrecken;обдавати холодною водою;;food
-ziehen lassen;настоювати;;food
-der Reis;рис;die Reise;food
-das Salz;сіль;die Salze;food
-der Pfeffer;перець;die Pfeffer;food
-der Zucker;цукор;die Zucker;food
-das Mehl;борошно;die Mehle;food
-das Öl;олія;die Öle;food
-die Butter;масло;die Butter;food
-das Ei;яйце;die Eier;food
-die Milch;молоко;;food
-die Sahne;вершки;;food
-der Käse;сир;die Käse;food
-der Honig;мед;die Honige;food
-der Essig;оцет;die Essige;food
-der Senf;гірчиця;die Senfe;food
-der Knoblauch;часник;die Knoblauche;food
-die Zwiebel;цибуля;die Zwiebeln;food
-die Karotte;морква;die Karotten;food
-die Tomate;помідор;die Tomaten;food
-die Gurke;огірок;die Gurken;food
-der Salat;салат;die Salate;food
-der Spinat;шпинат;die Spinate;food
-der Brokkoli;броколі;die Brokkolis;food
-die Bohne;квасоля;die Bohnen;food
-die Linse;сочевиця;die Linsen;food
-der Pilz;гриб;die Pilze;food
-der Apfel;яблуко;die Äpfel;food
-die Birne;груша;die Birnen;food
-die Banane;банан;die Bananen;food
-die Zitrone;лимон;die Zitronen;food
-die Orange;апельсин;die Orangen;food
-die Erdbeere;полуниця;die Erdbeeren;food
-die Kirsche;вишня;die Kirschen;food
-die Traube;виноград;die Trauben;food
-der Pfirsich;персик;die Pfirsiche;food
-die Schokolade;шоколад;die Schokoladen;food
-die Vanille;ваніль;die Vanillen;food
-der Zimt;кориця;die Zimte;food
-der Ingwer;імбир;die Ingwer;food
-die Muskatnuss;мускатний горіх;die Muskatnüsse;food
-der Paprika;паприка;die Paprikas;food
-der Kümmel;кмин;die Kümmel;food
-der Koriander;коріандр;die Koriander;food
-das Basilikum;базилік;die Basilikums;food
-die Petersilie;петрушка;die Petersilien;food
-der Dill;кріп;die Dille;food
-die Minze;м'ята;die Minzen;food
-der Thymian;чебрець;die Thymiane;food
-der Rosmarin;розмарин;die Rosmarine;food
-der Oregano;орегано;die Oreganos;food
-die Nuss;горіх;die Nüsse;food
-die Ernährung;харчування;;food
-die Diät;дієта;die Diäten;food
-das Obst;фрукти;;food
-das Gemüse;овочі;;food
-der Apfel;яблуко;die Äpfel;food
-die Banane;банан;die Bananen;food
-die Karotte;морква;die Karotten;food
-die Tomate;помідор;die Tomaten;food
-der Salat;салат;die Salate;food
-das Brot;хліб;die Brote;food
-das Brötchen;булочка;die Brötchen;food
-die Nudel;локшина;die Nudeln;food
-der Reis;рис;;food
-die Kartoffel;картопля;die Kartoffeln;food
-das Fleisch;м'ясо;;food
-der Fisch;риба;die Fische;food
-das Hähnchen;курка;die Hähnchen;food
-das Ei;яйце;die Eier;food
-die Milch;молоко;;food
-der Käse;сир;;food
-der Joghurt;йогурт;die Joghurts;food
-die Butter;масло;;food
-das Öl;олія;die Öle;food
-der Zucker;цукор;;food
-das Salz;сіль;;food
-das Mehl;борошно;;food
-die Schokolade;шоколад;die Schokoladen;food
-die Suppe;суп;die Suppen;food
-die Soße;соус;die Soßen;food
-das Getränk;напій;die Getränke;food
-das Wasser;вода;;food
-der Saft;сік;die Säfte;food
-der Tee;чай;die Tees;food
-der Kaffee;кава;die Kaffees;food
-das Vitamin;вітамін;die Vitamine;food
-das Mineral;мінерал;die Minerale;food
-das Eiweiß;білок;;food
-das Fett;жир;die Fette;food
-das Kohlenhydrat;вуглевод;die Kohlenhydrate;food
-der Ballaststoff;клітковина;die Ballaststoffe;food
-die Kalorie;калорія;die Kalorien;food
-die Mahlzeit;прийом їжі;die Mahlzeiten;food
-das Frühstück;сніданок;die Frühstücke;food
-das Mittagessen;обід;die Mittagessen;food
-das Abendessen;вечеря;die Abendessen;food
-der Snack;перекус;die Snacks;food
-der Hunger;голод;;food
-der Durst;спрага;;food
-kochen;готувати;;food
-essen;їсти;;food
+der Teller;тарілка;тарілки (weiblich);food;Teller;тарілка;noun
+die Gabel;виделка;виделки (weiblich);food;Gabel;виделка;noun
+das Messer;ніж;ножі (männlich);food;Messer;ніж;noun
+der Löffel;ложка;ложки (weiblich);food;Löffel;ложка;noun
+die Serviette;серветка;серветки (weiblich);food;Serviette;серветка;noun
+das Glas;склянка;склянки (weiblich);food;Glas;склянка;noun
+die Tasse;чашка;чашки (weiblich);food;Tasse;чашка;noun
+die Flasche;пляшка;пляшки (weiblich);food;Flasche;пляшка;noun
+die Speisekarte;меню;меню (sächlich);food;Speisekarte;меню;noun
+die Weinkarte;винна карта;винні карти (weiblich);food;Weinkarte;винна карта;noun
+das Menü;комплексне меню;комплексні меню (sächlich);food;Menü;комплексне меню;noun
+die Vorspeise;закуска;закуски (weiblich);food;Vorspeise;закуска;noun
+die Hauptspeise;основна страва;основні страви (weiblich);food;Hauptspeise;основна страва;noun
+das Gericht;страва;страви (weiblich);food;Gericht;страва;noun
+die Beilage;гарнір;гарніри (männlich);food;Beilage;гарнір;noun
+die Soße;соус;соуси (männlich);food;Soße;соус;noun
+der Salat;салат;салати (männlich);food;Salat;салат;noun
+die Suppe;суп;супи (männlich);food;Suppe;суп;noun
+das Steak;стейк;стейки (männlich);food;Steak;стейк;noun
+das Schnitzel;шніцель;шніцелі (männlich);food;Schnitzel;шніцель;noun
+die Pizza;піца;піци (weiblich);food;Pizza;піца;noun
+die Pasta;паста;пасти (weiblich);food;Pasta;паста;noun
+der Fisch;риба;риби (weiblich);food;Fisch;риба;noun
+das Hähnchen;курка;кури (weiblich);food;Hähnchen;курка;noun
+die Pommes frites;картопля фрі;картоплі (weiblich);food;Pommes frites;картопля фрі;noun
+das Dessert;десерт;десерти (männlich);food;Dessert;десерт;noun
+der Kuchen;торт;торти (männlich);food;Kuchen;торт;noun
+das Eis;морозиво;;food;Eis;морозиво;noun
+der Kaffee;кава;;food;Kaffee;кава;noun
+der Tee;чай;;food;Tee;чай;noun
+der Saft;сік;соки (männlich);food;Saft;сік;noun
+das Wasser;вода;;food;Wasser;вода;noun
+der Wein;вино;вина (sächlich);food;Wein;вино;noun
+das Bier;пиво;пива (sächlich);food;Bier;пиво;noun
+die Limonade;лимонад;лимонади (männlich);food;Limonade;лимонад;noun
+die Rechnung;рахунок;рахунки (männlich);food;Rechnung;рахунок;noun
+das Trinkgeld;чайові;чайові (nur Plural);food;Trinkgeld;чайові;noun
+der Kellner;офіціант;офіціанти (männlich);food;Kellner;офіціант;noun
+die Kellnerin;офіціантка;офіціантки (weiblich);food;Kellnerin;офіціантка;noun
+der Gast;гість;гості (männlich);food;Gast;гість;noun
+die Reservierung;бронювання;бронювання (sächlich);food;Reservierung;бронювання;noun
+die Bestellung;замовлення;замовлення (sächlich);food;Bestellung;замовлення;noun
+der Tisch;стіл;столи (männlich);food;Tisch;стіл;noun
+die Terrasse;тераса;тераси (weiblich);food;Terrasse;тераса;noun
+das Restaurant;ресторан;ресторани (männlich);food;Restaurant;ресторан;noun
+das Café;кафе;кафе (sächlich);food;Café;кафе;noun
+die Bar;бар;бари (männlich);food;Bar;бар;noun
+die Toilette;туалет;туалети (männlich);food;Toilette;туалет;noun
+das Besteck;столові прибори;столові прибори (nur Plural);food;Besteck;столові прибори;noun
+die Quittung;квитанція;квитанції (weiblich);food;Quittung;квитанція;noun
+braten;смажити;;food;braten;смажити;verb
+backen;пекти;;food;backen;пекти;verb
+kochen;варити;;food;kochen;варити;verb
+schneiden;різати;;food;schneiden;різати;verb
+hacken;кришити;;food;hacken;кришити;verb
+rühren;перемішувати;;food;rühren;перемішувати;verb
+mixen;змішувати;;food;mixen;змішувати;verb
+würzen;приправляти;;food;würzen;приправляти;verb
+salzen;солити;;food;salzen;солити;verb
+pfeffern;перчити;;food;pfeffern;перчити;verb
+grillen;грилювати;;food;grillen;грилювати;verb
+dampfgaren;готувати на парі;;food;dampfgaren;готувати на парі;verb
+schmoren;тушкувати;;food;schmoren;тушкувати;verb
+frittieren;смажити у фритюрі;;food;frittieren;смажити у фритюрі;verb
+panieren;панірувати;;food;panieren;панірувати;verb
+raspeln;натирати на тертці;;food;raspeln;натирати на тертці;verb
+ausrollen;розкачувати;;food;ausrollen;розкачувати;verb
+kneten;замішувати;;food;kneten;замішувати;verb
+servieren;подавати;;food;servieren;подавати;verb
+probieren;пробувати;;food;probieren;пробувати;verb
+abschmecken;доводити до смаку;;food;abschmecken;доводити до смаку;verb
+zerkleinern;подрібнювати;;food;zerkleinern;подрібнювати;verb
+pürieren;пюрувати;;food;pürieren;пюрувати;verb
+marinieren;маринувати;;food;marinieren;маринувати;verb
+auftauen;розморожувати;;food;auftauen;розморожувати;verb
+einfrieren;заморожувати;;food;einfrieren;заморожувати;verb
+erhitzen;нагрівати;;food;erhitzen;нагрівати;verb
+abkühlen;охолоджувати;;food;abkühlen;охолоджувати;verb
+umrühren;помішувати;;food;umrühren;помішувати;verb
+unterheben;обережно вмішувати;;food;unterheben;обережно вмішувати;verb
+schälen;чистити (овочі);;food;schälen;чистити;verb
+entkernen;видаляти серцевину;;food;entkernen;видаляти серцевину;verb
+ausstechen;вирізати (формочкою);;food;ausstechen;вирізати;verb
+garnieren;гарнірувати;;food;garnieren;гарнірувати;verb
+bestreichen;змащувати;;food;bestreichen;змащувати;verb
+gießen;наливати;;food;gießen;наливати;verb
+abgießen;зливати (воду);;food;abgießen;зливати;verb
+schöpfen;черпати;;food;schöpfen;черпати;verb
+wiegen;зважувати;;food;wiegen;зважувати;verb
+abmessen;відміряти;;food;abmessen;відміряти;verb
+vorheizen;розігрівати (духовку);;food;vorheizen;розігрівати;verb
+dünsten;припускати (на слабкому вогні);;food;dünsten;припускати;verb
+einlegen;маринувати / засолювати;;food;einlegen;маринувати;verb
+zuckern;підсолоджувати;;food;zuckern;підсолоджувати;verb
+säuern;підкислювати;;food;säuern;підкислювати;verb
+anbraten;обсмажувати;;food;anbraten;обсмажувати;verb
+köcheln;варити на повільному вогні;;food;köcheln;варити на повільному вогні;verb
+filetieren;філетувати;;food;filetieren;філетувати;verb
+spicken;шпигувати;;food;spicken;шпигувати;verb
+blanchieren;бланшувати;;food;blanchieren;бланшувати;verb
+das Salz;сіль;;food;Salz;сіль;noun
+der Pfeffer;перець;;food;Pfeffer;перець;noun
+der Zucker;цукор;;food;Zucker;цукор;noun
+das Öl;олія;;food;Öl;олія;noun
+der Essig;оцет;;food;Essig;оцет;noun
+die Butter;масло;;food;Butter;масло;noun
+das Mehl;борошно;;food;Mehl;борошно;noun
+das Ei;яйце;die Eier;food;Ei;яйце;noun
+die Milch;молоко;;food;Milch;молоко;noun
+der Käse;сир;;food;Käse;сир;noun
+die Sahne;вершки;;food;Sahne;вершки;noun
+der Joghurt;йогурт;;food;Joghurt;йогурт;noun
+die Kartoffel;картопля;die Kartoffeln;food;Kartoffel;картопля;noun
+die Tomate;помідор;die Tomaten;food;Tomate;помідор;noun
+die Zwiebel;цибуля;die Zwiebeln;food;Zwiebel;цибуля;noun
+der Knoblauch;часник;;food;Knoblauch;часник;noun
+die Karotte;морквина;die Karotten;food;Karotte;морквина;noun
+die Gurke;огірок;die Gurken;food;Gurke;огірок;noun
+die Paprika;паприка;die Paprikas;food;Paprika;паприка;noun
+der Salat;салат;die Salate;food;Salat;салат;noun
+die Bohne;квасолина;die Bohnen;food;Bohne;квасолина;noun
+die Erbse;горошина;die Erbsen;food;Erbse;горошина;noun
+der Mais;кукурудза;;food;Mais;кукурудза;noun
+die Olive;оливка;die Oliven;food;Olive;оливка;noun
+der Pilz;гриб;die Pilze;food;Pilz;гриб;noun
+der Apfel;яблуко;die Äpfel;food;Apfel;яблуко;noun
+die Banane;банан;die Bananen;food;Banane;банан;noun
+die Orange;апельсин;die Orangen;food;Orange;апельсин;noun
+die Zitrone;лимон;die Zitronen;food;Zitrone;лимон;noun
+die Erdbeere;полуниця;die Erdbeeren;food;Erdbeere;полуниця;noun
+die Traube;виноградина;die Trauben;food;Traube;виноградина;noun
+die Kirsche;вишня;die Kirschen;food;Kirsche;вишня;noun
+die Birne;груша;die Birnen;food;Birne;груша;noun
+die Ananas;ананас;die Ananas;food;Ananas;ананас;noun
+die Melone;диня;die Melonen;food;Melone;диня;noun
+der Pfirsich;персик;die Pfirsiche;food;Pfirsich;персик;noun
+das Fleisch;м'ясо;;food;Fleisch;м'ясо;noun
+das Hähnchen;курятина;;food;Hähnchen;курятина;noun
+die Wurst;ковбаса;die Würste;food;Wurst;ковбаса;noun
+der Fisch;риба;die Fische;food;Fisch;риба;noun
+der Schinken;шинка;;food;Schinken;шинка;noun
+der Senf;гірчиця;;food;Senf;гірчиця;noun
+die Mayonnaise;майонез;;food;Mayonnaise;майонез;noun
+der Ketchup;кетчуп;;food;Ketchup;кетчуп;noun
+die Sojasoße;соєвий соус;;food;Sojasoße;соєвий соус;noun
+der Reis;рис;;food;Reis;рис;noun
+die Nudel;локшина;die Nudeln;food;Nudel;локшина;noun
+der Zimt;кориця;;food;Zimt;кориця;noun
+der Ingwer;імбир;;food;Ingwer;імбир;noun
+das Basilikum;базилік;;food;Basilikum;базилік;noun
+die Ernährung;харчування;харчування (sächlich);food;Ernährung;харчування;noun
+die Diät;дієта;дієти (weiblich);food;Diät;дієта;noun
+die Kalorie;калорія;калорії (weiblich);food;Kalorie;калорія;noun
+das Protein;білок;білки (männlich);food;Protein;білок;noun
+das Fett;жир;жири (männlich);food;Fett;жир;noun
+das Kohlenhydrat;вуглевод;вуглеводи (männlich);food;Kohlenhydrat;вуглевод;noun
+der Ballaststoff;клітковина;клітковини (weiblich);food;Ballaststoff;клітковина;noun
+das Vitamin;вітамін;вітаміни (männlich);food;Vitamin;вітамін;noun
+der Mineralstoff;мінерал;мінерали (männlich);food;Mineralstoff;мінерал;noun
+das Spurenelement;мікроелемент;мікроелементи (männlich);food;Spurenelement;мікроелемент;noun
+die Mahlzeit;прийом їжі;прийоми їжі (männlich);food;Mahlzeit;прийом їжі;noun
+die Portion;порція;порції (weiblich);food;Portion;порція;noun
+der Nährwert;поживна цінність;поживні цінності (weiblich);food;Nährwert;поживна цінність;noun
+die Zutat;інгредієнт;інгредієнти (männlich);food;Zutat;інгредієнт;noun
+das Rezept;рецепт;рецепти (männlich);food;Rezept;рецепт;noun
+der Supermarkt;супермаркет;супермаркети (männlich);food;Supermarkt;супермаркет;noun
+die Bio-Lebensmittel;органічні продукти;;food;Bio-Lebensmittel;органічні продукти;noun
+das Fast Food;фаст-фуд;фаст-фуди (männlich);food;Fast Food;фаст-фуд;noun
+die Süßigkeit;солодощі;солодощі (weiblich);food;Süßigkeit;солодощі;noun
+die Schokolade;шоколад;шоколади (männlich);food;Schokolade;шоколад;noun
+der Zucker;цукор;цукри (männlich);food;Zucker;цукор;noun
+das Salz;сіль;солі (weiblich);food;Salz;сіль;noun
+das Öl;олія;олії (weiblich);food;Öl;олія;noun
+die Butter;масло;масла (sächlich);food;Butter;масло;noun
+die Sahne;вершки;вершки (männlich);food;Sahne;вершки;noun
+das Obst;фрукти;;food;Obst;фрукти;noun
+das Gemüse;овочі;;food;Gemüse;овочі;noun
+der Fisch;риба;риби (weiblich);food;Fisch;риба;noun
+das Fleisch;м’ясо;м’яса (sächlich);food;Fleisch;м’ясо;noun
+das Ei;яйце;яйця (sächlich);food;Ei;яйце;noun
+die Milch;молоко;;food;Milch;молоко;noun
+der Joghurt;йогурт;йогурти (männlich);food;Joghurt;йогурт;noun
+der Käse;сир;сири (männlich);food;Käse;сир;noun
+das Brot;хліб;хліби (männlich);food;Brot;хліб;noun
+die Nudel;локшина;локшини (weiblich);food;Nudel;локшина;noun
+der Reis;рис;риси (männlich);food;Reis;рис;noun
+die Kartoffel;картопля;картоплі (weiblich);food;Kartoffel;картопля;noun
+die Hülsenfrucht;бобові;бобові (weiblich);food;Hülsenfrucht;бобові;noun
+die Nuss;горіх;горіхи (männlich);food;Nuss;горіх;noun
+das Wasser;вода;води (weiblich);food;Wasser;вода;noun
+der Tee;чай;чаї (männlich);food;Tee;чай;noun
+der Kaffee;кава;кави (weiblich);food;Kaffee;кава;noun
+der Saft;сік;соки (männlich);food;Saft;сік;noun
+die Allergie;алергія;алергії (weiblich);food;Allergie;алергія;noun
+die Unverträglichkeit;непереносимість;непереносимості (weiblich);food;Unverträglichkeit;непереносимість;noun
+die Laktoseintoleranz;непереносимість лактози;;food;Laktoseintoleranz;непереносимість лактози;noun
+die Glutenunverträglichkeit;непереносимість глютену;;food;Glutenunverträglichkeit;непереносимість глютену;noun
+das Gewicht;вага;ваги (weiblich);food;Gewicht;вага;noun
+die Waage;ваги;ваги (weiblich);food;Waage;ваги;noun
+der Body-Mass-Index;індекс маси тіла;індекси маси тіла (männlich);food;Body-Mass-Index;індекс маси тіла;noun

@@ -1,199 +1,200 @@
-la contaminación;забруднення;las contaminaciones;environment
-el reciclaje;переробка;los reciclajes;environment
-el residuo;відходи;los residuos;environment
-el desecho;покидьки;los desechos;environment
-el vertedero;сміттєзвалище;los vertederos;environment
-el humo;дим;los humos;environment
-el gas de escape;вихлопний газ;los gases de escape;environment
-el producto químico;хімікат;los productos químicos;environment
-el tóxico;отруйна речовина;los tóxicos;environment
-el plástico;пластик;los plásticos;environment
-el vidrio;скло;los vidrios;environment
-el papel;папір;los papeles;environment
-el cartón;картон;los cartones;environment
-el metal;метал;los metales;environment
-el aluminio;алюміній;los aluminios;environment
-la lata;бляшанка;las latas;environment
-la botella;пляшка;las botellas;environment
-el envase;упаковка;los envases;environment
-el contenedor de reciclaje;контейнер для переробки;los contenedores de reciclaje;environment
-la emisión;викид;las emisiones;environment
-el dióxido de carbono;вуглекислий газ;los dióxidos de carbono;environment
-el efecto invernadero;парниковий ефект;los efectos invernadero;environment
-el calentamiento global;глобальне потепління;los calentamientos globales;environment
-el cambio climático;зміна клімату;los cambios climáticos;environment
-el contaminante;забруднювач;los contaminantes;environment
-la eliminación de residuos;утилізація відходів;las eliminaciones de residuos;environment
-la incineración;спалювання;las incineraciones;environment
-el compost;компост;los compost;environment
-el residuo orgánico;органічні відходи;los residuos orgánicos;environment
-biodegradable;біорозкладний;;environment
-no biodegradable;не біорозкладний;;environment
-el medio ambiente;навколишнє середовище;los medios ambientes;environment
-reciclar;переробляти;;environment
-reutilizar;повторно використовувати;;environment
-reducir;зменшувати;;environment
-contaminar;забруднювати;;environment
-proteger;захищати;;environment
-separar la basura;сортувати сміття;;environment
-la bolsa de plástico;поліетиленовий пакет;las bolsas de plástico;environment
-la bolsa reutilizable;багаторазова сумка;las bolsas reutilizables;environment
-la energía;енергія;las energías;environment
-la energía renovable;відновлювана енергія;las energías renovables;environment
-el combustible fósil;викопне паливо;los combustibles fósiles;environment
-el derrame de petróleo;розлив нафти;los derrames de petróleo;environment
-la contaminación del aire;забруднення повітря;las contaminaciones del aire;environment
-la contaminación del agua;забруднення води;las contaminaciones del agua;environment
-el smog;смог;los smogs;environment
-la capa de ozono;озоновий шар;las capas de ozono;environment
-el agujero de ozono;озонова діра;los agujeros de ozono;environment
-perro;собака;perros;environment
-gato;кіт;gatos;environment
-pájaro;птах;pájaros;environment
-pez;риба;peces;environment
-conejo;кролик;conejos;environment
-hámster;хом'як;hámsters;environment
-tortuga;черепаха;tortugas;environment
-caballo;кінь;caballos;environment
-vaca;корова;vacas;environment
-cerdo;свиня;cerdos;environment
-gallina;курка;gallinas;environment
-gallo;півень;gallos;environment
-oveja;вівця;ovejas;environment
-cabra;коза;cabras;environment
-pato;качка;patos;environment
-pollo;курча;pollos;environment
-loro;папуга;loros;environment
-canario;канарка;canarios;environment
-serpiente;змія;serpientes;environment
-araña;павук;arañas;environment
-insecto;комаха;insectos;environment
-mariposa;метелик;mariposas;environment
-abeja;бджола;abejas;environment
-mosca;муха;moscas;environment
-mosquito;комар;mosquitos;environment
-hormiga;мураха;hormigas;environment
-ratón;миша;ratones;environment
-rata;пацюк;ratas;environment
-murciélago;кажан;murciélagos;environment
-ballena;кит;ballenas;environment
-delfín;дельфін;delfines;environment
-tiburón;акула;tiburones;environment
-foca;тюлень;focas;environment
-pingüino;пінгвін;pingüinos;environment
-oso;ведмідь;osos;environment
-lobo;вовк;lobos;environment
-zorro;лисиця;zorros;environment
-ciervo;олень;ciervos;environment
-animal;тварина;animales;environment
-mascota;домашня тварина;mascotas;environment
-gusano;черв'як;gusanos;environment
-caracol;равлик;caracoles;environment
-rana;жаба;ranas;environment
-sapo;ропуха;sapos;environment
-cocodrilo;крокодил;cocodrilos;environment
-elefante;слон;elefantes;environment
-jirafa;жираф;jirafas;environment
-león;лев;leones;environment
-tigre;тигр;tigres;environment
-mono;мавпа;monos;environment
-árbol;дерево;árboles;environment
-planta;рослина;plantas;environment
-hoja;листок;hojas;environment
-flor;квітка;flores;environment
-raíz;корінь;raíces;environment
-rama;гілка;ramas;environment
-tronco;стовбур;troncos;environment
-corteza;кора;;environment
-semilla;насінина;semillas;environment
-fruto;плід;frutos;environment
-pino;сосна;pinos;environment
-roble;дуб;robles;environment
-palmera;пальма;palmeras;environment
-cactus;кактус;cactus;environment
-hierba;трава;hierbas;environment
-arbusto;кущ;arbustos;environment
-matorral;чагарник;matorrales;environment
-musgo;мох;musgos;environment
-helecho;папороть;helechos;environment
-alga;водорість;algas;environment
-tallo;стебло;tallos;environment
-espina;колючка;espinas;environment
-pétalo;пелюстка;pétalos;environment
-polen;пилок;;environment
-bosque;ліс;bosques;environment
-selva;джунглі;selvas;environment
-jardín;сад;jardines;environment
-parque;парк;parques;environment
-invernadero;теплиця;invernaderos;environment
-suelo;грунт;suelos;environment
-tierra;земля;tierras;environment
-naturaleza;природа;naturalezas;environment
-abeto;ялиця;abetos;environment
-sauce;верба;sauces;environment
-abedul;береза;abedules;environment
-álamo;тополя;álamos;environment
-arce;клен;arces;environment
-ciprés;кипарис;cipreses;environment
-vid;виноградна лоза;vides;environment
-hiedra;плющ;hiedras;environment
-bambú;бамбук;bambúes;environment
-liana;ліана;lianas;environment
-yema;брунька;yemas;environment
-capullo;пуп'янок;capullos;environment
-follaje;листя;follajes;environment
-trébol;конюшина;tréboles;environment
-diente de león;кульбаба;dientes de león;environment
-rosa;троянда;rosas;environment
-girasol;соняшник;girasoles;environment
-margarita;маргаритка;margaritas;environment
-clima;клімат;climas;environment
-cambio climático;зміна клімату;cambios climáticos;environment
-calentamiento global;глобальне потепління;calentamientos globales;environment
-efecto invernadero;парниковий ефект;efectos invernadero;environment
-gas de efecto invernadero;парниковий газ;gases de efecto invernadero;environment
-dióxido de carbono;вуглекислий газ;;environment
-emisión;викид;emisiones;environment
-contaminación;забруднення;;environment
-atmósfera;атмосфера;atmósferas;environment
-temperatura;температура;temperaturas;environment
-nivel del mar;рівень моря;niveles del mar;environment
-capa de ozono;озоновий шар;capas de ozono;environment
-combustible fósil;викопне паливо;combustibles fósiles;environment
-energía renovable;відновлювана енергія;energías renovables;environment
-energía solar;сонячна енергія;;environment
-energía eólica;вітрова енергія;;environment
-reciclaje;переробка відходів;;environment
-residuo;відхід;residuos;environment
-plástico;пластик;plásticos;environment
-basura;сміття;;environment
-vertido;скид;vertidos;environment
-deforestación;вирубка лісів;;environment
-reforestación;лісовідновлення;;environment
-desertificación;опустелювання;;environment
-sequía;посуха;sequías;environment
-inundación;повінь;inundaciones;environment
-ola de calor;хвиля спеки;olas de calor;environment
-huracán;ураган;huracanes;environment
-incendio forestal;лісова пожежа;incendios forestales;environment
-extinción;вимирання;extinciones;environment
-biodiversidad;біорізноманіття;;environment
-ecosistema;екосистема;ecosistemas;environment
-glaciar;льодовик;glaciares;environment
-deshielo;танення льодовиків;deshielos;environment
-recurso natural;природний ресурс;recursos naturales;environment
-huella de carbono;вуглецевий слід;huellas de carbono;environment
-sostenibilidad;сталість;;environment
-desarrollo sostenible;сталий розвиток;desarrollos sostenibles;environment
-acuerdo climático;кліматична угода;acuerdos climáticos;environment
-energía limpia;чиста енергія;energías limpias;environment
-contaminante;забруднювач;contaminantes;environment
-derretimiento;танення;derretimientos;environment
-reciclable;придатний для переробки;reciclables;environment
-biodegradable;біорозкладний;biodegradables;environment
-renovable;відновлюваний;renovables;environment
-reducir;зменшувати;;environment
-reciclar;переробляти;;environment
-ahorrar;економити;;environment
-contaminar;забруднювати;;environment
-proteger;захищати;;environment
+contaminación;забруднення;contaminaciones (neutro);environment;contaminación;забруднення;noun
+reciclaje;переробка;(femenino);environment;reciclaje;переробка;noun
+basura;сміття;(neutro);environment;basura;сміття;noun
+vertedero;звалище;vertederos (neutro);environment;vertedero;звалище;noun
+incinerador;інсинератор;incineradores (masculino);environment;incinerador;інсинератор;noun
+humo;дим;humos (masculino);environment;humo;дим;noun
+smog;смог;(masculino);environment;smog;смог;noun
+escape;вихлоп;escapes (masculino);environment;escape;вихлоп;noun
+emisión;викид;emisiones (masculino);environment;emisión;викид;noun
+dióxido de carbono;вуглекислий газ;(masculino);environment;dióxido de carbono;вуглекислий газ;noun
+efecto invernadero;парниковий ефект;(masculino);environment;efecto invernadero;парниковий ефект;noun
+calentamiento global;глобальне потепління;(neuter);environment;calentamiento global;глобальне потепління;noun
+cambio climático;зміна клімату;cambios climáticos (femenino);environment;cambio climático;зміна клімату;noun
+capa de ozono;озоновий шар;capas de ozono (masculino);environment;capa de ozono;озоновий шар;noun
+agujero de ozono;озонова діра;agujeros de ozono (femenino);environment;agujero de ozono;озонова діра;noun
+deforestación;вирубка лісів;(femenino);environment;deforestación;вирубка лісів;noun
+desertificación;опустелювання;(neuter);environment;desertificación;опустелювання;noun
+pesticida;пестицид;pesticidas (masculino);environment;pesticida;пестицид;noun
+fertilizante;добриво;fertilizantes (neuter);environment;fertilizante;добриво;noun
+químico;хімікат;químicos (masculino);environment;químico;хімікат;noun
+tóxico;токсичний;;environment;tóxico;токсичний;adj
+venenoso;отруйний;;environment;venenoso;отруйний;adj
+contaminante;забруднювач;contaminantes (masculino);environment;contaminante;забруднювач;noun
+biodegradable;біорозкладний;;environment;biodegradable;біорозкладний;adj
+reciclable;перероблюваний;;environment;reciclable;перероблюваний;adj
+reutilizar;повторно використовувати;;environment;reutilizar;повторно використовувати;verb
+reducir;зменшувати;;environment;reducir;зменшувати;verb
+reciclar;переробляти;;environment;reciclar;переробляти;verb
+clasificar;сортувати;;environment;clasificar;сортувати;verb
+separar;розділяти;;environment;separar;розділяти;verb
+envase;упаковка;envases (femenino);environment;envase;упаковка;noun
+plástico;пластик;plásticos (masculino);environment;plástico;пластик;noun
+vidrio;скло;vidrios (neuter);environment;vidrio;скло;noun
+papel;папір;papeles (masculino);environment;papel;папір;noun
+cartón;картон;cartones (masculino);environment;cartón;картон;noun
+metal;метал;metales (masculino);environment;metal;метал;noun
+aluminio;алюміній;(masculino);environment;aluminio;алюміній;noun
+orgánico;органічний;;environment;orgánico;органічний;adj
+compost;компост;(masculino);environment;compost;компост;noun
+compostaje;компостування;(neuter);environment;compostaje;компостування;noun
+derrame;розлив;derrames (masculino);environment;derrame;розлив;noun
+marea negra;нафтова пляма;mareas negras (femenino);environment;marea negra;нафтова пляма;noun
+desecho tóxico;токсичний відхід;desechos tóxicos (masculino);environment;desecho tóxico;токсичний відхід;noun
+pila;батарейка;pilas (femenino);environment;pila;батарейка;noun
+batería;акумулятор;baterías (masculino);environment;batería;акумулятор;noun
+bombilla;лампочка;bombillas (femenino);environment;bombilla;лампочка;noun
+aceite usado;відпрацьована олія;(femenino);environment;aceite usado;відпрацьована олія;noun
+punto limpio;пункт прийому вторсировини;puntos limpios (masculino);environment;punto limpio;пункт прийому вторсировини;noun
+contenedor;контейнер;contenedores (masculino);environment;contendor;контейнер;noun
+bolsa de plástico;пластиковий пакет;bolsas de plástico (masculino);environment;bolsa de plástico;пластиковий пакет;noun
+perro;собака;perros (чоловічий);environment;perro;собака;noun
+gato;кіт;gatos (чоловічий);environment;gato;кіт;noun
+pez;риба;peces (жіночий);environment;pez;риба;noun
+pájaro;птах;pájaros (чоловічий);environment;pájaro;птах;noun
+conejo;кролик;conejos (чоловічий);environment;conejo;кролик;noun
+hámster;хом'як;hámsters (чоловічий);environment;hámster;хом'як;noun
+caballo;кінь;caballos (чоловічий);environment;caballo;кінь;noun
+vaca;корова;vacas (жіночий);environment;vaca;корова;noun
+cerdo;свиня;cerdos (жіночий);environment;cerdo;свиня;noun
+oveja;вівця;ovejas (жіночий);environment;oveja;вівця;noun
+cabra;коза;cabras (жіночий);environment;cabra;коза;noun
+gallina;курка;gallinas (жіночий);environment;gallina;курка;noun
+gallo;півень;gallos (чоловічий);environment;gallo;півень;noun
+pato;качка;patos (жіночий);environment;pato;качка;noun
+tortuga;черепаха;tortugas (жіночий);environment;tortuga;черепаха;noun
+serpiente;змія;serpientes (жіночий);environment;serpiente;змія;noun
+rana;жаба;ranas (жіночий);environment;rana;жаба;noun
+lagarto;ящірка;lagartos (жіночий);environment;lagarto;ящірка;noun
+araña;павук;arañas (чоловічий);environment;araña;павук;noun
+insecto;комаха;insectos (жіночий);environment;insecto;комаха;noun
+mariposa;метелик;mariposas (чоловічий);environment;mariposa;метелик;noun
+abeja;бджола;abejas (жіночий);environment;abeja;бджола;noun
+mosca;муха;moscas (жіночий);environment;mosca;муха;noun
+mosquito;комар;mosquitos (чоловічий);environment;mosquito;комар;noun
+ratón;миша;ratones (жіночий);environment;ratón;миша;noun
+rata;щур;ratas (чоловічий);environment;rata;щур;noun
+hurón;тхір;hurones (чоловічий);environment;hurón;тхір;noun
+loro;папуга;loros (чоловічий);environment;loro;папуга;noun
+canario;канарка;canarios (жіночий);environment;canario;канарка;noun
+cobaya;морська свинка;cobayas (жіночий);environment;cobaya;морська свинка;noun
+jirafa;жираф;jirafas (чоловічий);environment;jirafa;жираф;noun
+león;лев;leones (чоловічий);environment;león;лев;noun
+tigre;тигр;tigres (чоловічий);environment;tigre;тигр;noun
+elefante;слон;elefantes (чоловічий);environment;elefante;слон;noun
+mono;мавпа;monos (жіночий);environment;mono;мавпа;noun
+oso;ведмідь;osos (чоловічий);environment;oso;ведмідь;noun
+lobo;вовк;lobos (чоловічий);environment;lobo;вовк;noun
+zorro;лисиця;zorros (жіночий);environment;zorro;лисиця;noun
+ciervo;олень;ciervos (чоловічий);environment;ciervo;олень;noun
+ardilla;білка;ardillas (жіночий);environment;ardilla;білка;noun
+erizo;їжак;erizos (чоловічий);environment;erizo;їжак;noun
+murciélago;кажан;murciélagos (чоловічий);environment;murciélago;кажан;noun
+pingüino;пінгвін;pingüinos (чоловічий);environment;pingüino;пінгвін;noun
+foca;тюлень;focas (чоловічий);environment;foca;тюлень;noun
+ballena;кит;ballenas (чоловічий);environment;ballena;кит;noun
+delfín;дельфін;delfines (чоловічий);environment;delfín;дельфін;noun
+tiburón;акула;tiburones (жіночий);environment;tiburón;акула;noun
+cangrejo;краб;cangrejos (чоловічий);environment;cangrejo;краб;noun
+estrella de mar;морська зірка;estrellas de mar (жіночий);environment;estrella de mar;морська зірка;noun
+mascota;домашній улюбленець;mascotas (чоловічий);environment;mascota;домашній улюбленець;noun
+árbol;дерево;дерева (середній);environment;árbol;дерево;noun
+planta;рослина;рослини (жіночий);environment;planta;рослина;noun
+flor;квітка;квітки (жіночий);environment;flor;квітка;noun
+hoja;листок;листки (чоловічий);environment;hoja;листок;noun
+raíz;корінь;корені (чоловічий);environment;raíz;корінь;noun
+rama;гілка;гілки (жіночий);environment;rama;гілка;noun
+tronco;стовбур;стовбури (чоловічий);environment;tronco;стовбур;noun
+corteza;кора;кори (жіночий);environment;corteza;кора;noun
+semilla;насінина;насінини (жіночий);environment;semilla;насінина;noun
+fruto;плід;плоди (чоловічий);environment;fruto;плід;noun
+brote;паросток;паростки (чоловічий);environment;brote;паросток;noun
+capullo;бутон;бутони (чоловічий);environment;capullo;бутон;noun
+espina;шип;шипи (чоловічий);environment;espina;шип;noun
+enredadera;ліана;ліани (жіночий);environment;enredadera;ліана;noun
+arbusto;кущ;кущі (чоловічий);environment;arbusto;кущ;noun
+seto;живопліт;живоплоти (чоловічий);environment;seto;живопліт;noun
+césped;газон;газони (чоловічий);environment;césped;газон;noun
+musgo;мох;мохи (чоловічий);environment;musgo;мох;noun
+helecho;папороть;папороті (жіночий);environment;helecho;папороть;noun
+seta;гриб;гриби (чоловічий);environment;seta;гриб;noun
+bosque;ліс;ліси (чоловічий);environment;bosque;ліс;noun
+pradera;лука;луки (жіночий);environment;pradera;лука;noun
+jardín;сад;сади (чоловічий);environment;jardín;сад;noun
+parque;парк;парки (чоловічий);environment;parque;парк;noun
+huerto;город;городи (чоловічий);environment;huerto;город;noun
+invernadero;теплиця;теплиці (жіночий);environment;invernadero;теплиця;noun
+tierra;земля;землі (жіночий);environment;tierra;земля;noun
+suelo;ґрунт;ґрунти (чоловічий);environment;suelo;ґрунт;noun
+maceta;горщик;горщики (чоловічий);environment;maceta;горщик;noun
+pino;сосна;сосни (жіночий);environment;pino;сосна;noun
+roble;дуб;дуби (чоловічий);environment;roble;дуб;noun
+palmera;пальма;пальми (жіночий);environment;palmera;пальма;noun
+cactus;кактус;кактуси (чоловічий);environment;cactus;кактус;noun
+bambú;бамбук;бамбуки (чоловічий);environment;bambú;бамбук;noun
+hierba;трава;трави (жіночий);environment;hierba;трава;noun
+vid;лоза;лози (жіночий);environment;vid;лоза;noun
+trébol;конюшина;конюшини (жіночий);environment;trébol;конюшина;noun
+rosa;троянда;троянди (жіночий);environment;rosa;троянда;noun
+girasol;соняшник;соняшники (чоловічий);environment;girasol;соняшник;noun
+margarita;ромашка;ромашки (жіночий);environment;margarita;ромашка;noun
+tulipán;тюльпан;тюльпани (чоловічий);environment;tulipán;тюльпан;noun
+orquídea;орхідея;орхідеї (жіночий);environment;orquídea;орхідея;noun
+lirio;лілія;лілії (жіночий);environment;lirio;лілія;noun
+jazmín;жасмин;жасмини (чоловічий);environment;jazmín;жасмин;noun
+lavanda;лаванда;лаванди (жіночий);environment;lavanda;лаванда;noun
+romero;розмарин;розмарини (чоловічий);environment;romero;розмарин;noun
+albahaca;базилік;базиліки (чоловічий);environment;albahaca;базилік;noun
+menta;м'ята;м'яти (жіночий);environment;menta;м'ята;noun
+tomillo;чебрець;чебреці (чоловічий);environment;tomillo;чебрець;noun
+eneldo;кріп;кропи (чоловічий);environment;eneldo;кріп;noun
+el calentamiento global;глобальне потепління;;environment;calentamiento global;глобальне потепління;noun
+la emisión;викид;викиди (чоловічий);environment;emisión;викид;noun
+el dióxido de carbono;вуглекислий газ;;environment;dióxido de carbono;вуглекислий газ;noun
+el efecto invernadero;парниковий ефект;;environment;efecto invernadero;парниковий ефект;noun
+el deshielo;танення (льодовиків);;environment;deshielo;танення;noun
+la sequía;посуха;посухи (жіночий);environment;sequía;посуха;noun
+la inundación;повінь;повені (жіночий);environment;inundación;повінь;noun
+la contaminación;забруднення;;environment;contaminación;забруднення;noun
+la atmósfera;атмосфера;атмосфери (жіночий);environment;atmósfera;атмосфера;noun
+la temperatura;температура;температури (жіночий);environment;temperatura;температура;noun
+el clima;клімат;клімати (чоловічий);environment;clima;клімат;noun
+el cambio climático;зміна клімату;;environment;cambio climático;зміна клімату;noun
+la deforestación;вирубка лісів;;environment;deforestación;вирубка лісів;noun
+la biodiversidad;біорізноманіття;;environment;biodiversidad;біорізноманіття;noun
+el ecosistema;екосистема;екосистеми (жіночий);environment;ecosistema;екосистема;noun
+la capa de ozono;озоновий шар;;environment;capa de ozono;озоновий шар;noun
+la huella de carbono;вуглецевий слід;;environment;huella de carbono;вуглецевий слід;noun
+sostenible;сталий;;environment;sostenible;сталий;adj
+ecológico;екологічний;;environment;ecológico;екологічний;adj
+el combustible fósil;викопне паливо;викопні палива (середній);environment;combustible fósil;викопне паливо;noun
+la energía renovable;відновлювана енергія;;environment;energía renovable;відновлювана енергія;noun
+el reciclaje;переробка;;environment;reciclaje;переробка;noun
+reciclar;переробляти;;environment;reciclar;переробляти;verb
+reducir;зменшувати;;environment;reducir;зменшувати;verb
+reutilizar;повторно використовувати;;environment;reutilizar;повторно використовувати;verb
+la extinción;вимирання;;environment;extinción;вимирання;noun
+el nivel del mar;рівень моря;;environment;nivel del mar;рівень моря;noun
+el glaciar;льодовик;льодовики (чоловічий);environment;glaciar;льодовик;noun
+el desastre natural;стихійне лихо;стихійні лиха (середній);environment;desastre natural;стихійне лихо;noun
+la ola de calor;хвиля спеки;хвилі спеки (жіночий);environment;ola de calor;хвиля спеки;noun
+el incendio forestal;лісова пожежа;лісові пожежі (жіночий);environment;incendio forestal;лісова пожежа;noun
+el smog;смог;;environment;smog;смог;noun
+el pesticida;пестицид;пестициди (чоловічий);environment;pesticida;пестицид;noun
+el residuo;відходи;;environment;residuo;відходи;noun
+la central nuclear;атомна електростанція;атомні електростанції (жіночий);environment;central nuclear;атомна електростанція;noun
+el petróleo;нафта;;environment;petróleo;нафта;noun
+el carbón;вугілля;;environment;carbón;вугілля;noun
+el gas natural;природний газ;;environment;gas natural;природний газ;noun
+la lluvia ácida;кислотний дощ;кислотні дощі (чоловічий);environment;lluvia ácida;кислотний дощ;noun
+la erosión;ерозія;;environment;erosión;ерозія;noun
+la marea negra;нафтова пляма;нафтові плями (жіночий);environment;marea negra;нафтова пляма;noun
+la especie en peligro;зникаючий вид;зникаючі види (чоловічий);environment;especie en peligro;зникаючий вид;noun
+el consumo;споживання;;environment;consumo;споживання;noun
+el vertedero;сміттєзвалище;сміттєзвалища (середній);environment;vertedero;сміттєзвалище;noun
+la bolsa de plástico;поліетиленовий пакет;поліетиленові пакети (чоловічий);environment;bolsa de plástico;поліетиленовий пакет;noun
+el aerosol;аерозоль;аерозолі (чоловічий);environment;aerosol;аерозоль;noun
+la conservación;збереження;;environment;conservación;збереження;noun
+proteger;захищати;;environment;proteger;захищати;verb
+contaminar;забруднювати;;environment;contaminar;забруднювати;verb
+ahorrar energía;економити енергію;;environment;ahorrar energía;економити енергію;verb

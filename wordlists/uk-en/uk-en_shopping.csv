@@ -1,199 +1,200 @@
-shirt;сорочка;f;shopping
-trousers;штани;pl;shopping
-dress;сукня;f;shopping
-skirt;спідниця;f;shopping
-jacket;куртка;f;shopping
-coat;пальто;n;shopping
-sweater;светр;m;shopping
-T-shirt;футболка;f;shopping
-blouse;блузка;f;shopping
-suit;костюм;m;shopping
-tie;краватка;f;shopping
-scarf;шарф;m;shopping
-gloves;рукавички;pl;shopping
-hat;капелюх;m;shopping
-cap;кепка;f;shopping
-socks;шкарпетки;pl;shopping
-shoes;туфлі;pl;shopping
-boots;чоботи;pl;shopping
-sandals;сандалі;pl;shopping
-trainers;кросівки;pl;shopping
-size;розмір;m;shopping
-small;малий;m;shopping
-medium;середній;m;shopping
-large;великий;m;shopping
-extra large;дуже великий;m;shopping
-fitting room;примірочна;f;shopping
-try on;приміряти;;shopping
-tight;тісний;m;shopping
-loose;вільний;m;shopping
-long;довгий;m;shopping
-short;короткий;m;shopping
-sleeve;рукав;m;shopping
-collar;комір;m;shopping
-button;ґудзик;m;shopping
-zip;блискавка;f;shopping
-pocket;кишеня;f;shopping
-cotton;бавовна;f;shopping
-wool;вовна;f;shopping
-leather;шкіра;f;shopping
-denim;джинса;f;shopping
-pattern;візерунок;m;shopping
-striped;смугастий;m;shopping
-checked;картатий;m;shopping
-plain;однотонний;m;shopping
-brand;бренд;m;shopping
-price;ціна;f;shopping
-discount;знижка;f;shopping
-receipt;чек;m;shopping
-exchange;обмін;m;shopping
-refund;повернення;n;shopping
-supermarket;супермаркет;m;shopping
-shop;магазин;m;shopping
-customer;покупець;m;shopping
-cashier;касир;m;shopping
-receipt;чек;m;shopping
-shopping cart;візок;m;shopping
-basket;кошик;m;shopping
-aisle;прохід;m;shopping
-shelf;полиця;f;shopping
-product;товар;m;shopping
-price;ціна;f;shopping
-discount;знижка;f;shopping
-sale;розпродаж;m;shopping
-total;сума;f;shopping
-money;гроші;pl;shopping
-coin;монета;f;shopping
-banknote;банкнота;f;shopping
-credit card;кредитна картка;f;shopping
-cash;готівка;f;shopping
-change;решта;f;shopping
-wallet;гаманець;m;shopping
-shopping list;список покупок;m;shopping
-plastic bag;пакет;m;shopping
-reusable bag;багаторазова сумка;f;shopping
-scale;ваги;pl;shopping
-barcode;штрих-код;m;shopping
-self-checkout;каса самообслуговування;f;shopping
-bakery;пекарня;f;shopping
-bread;хліб;m;shopping
-milk;молоко;n;shopping
-butter;масло;n;shopping
-cheese;сир;m;shopping
-eggs;яйця;pl;shopping
-meat;м'ясо;n;shopping
-fish;риба;f;shopping
-vegetables;овочі;pl;shopping
-fruit;фрукти;pl;shopping
-water;вода;f;shopping
-juice;сік;m;shopping
-tea;чай;m;shopping
-coffee;кава;f;shopping
-sugar;цукор;m;shopping
-salt;сіль;f;shopping
-rice;рис;m;shopping
-pasta;макарони;pl;shopping
-oil;олія;f;shopping
-flour;борошно;n;shopping
-canned food;консерви;pl;shopping
-bottle;пляшка;f;shopping
-jar;банка;f;shopping
-cash;готівка;f;shopping
-credit card;кредитна картка;f;shopping
-debit card;дебетова картка;f;shopping
-receipt;чек;m;shopping
-price;ціна;f;shopping
-discount;знижка;f;shopping
-change;здача;f;shopping
-wallet;гаманець;m;shopping
-purse;гаманець;m;shopping
-checkout;каса;f;shopping
-cashier;касир;m;shopping
-pay;платити;;shopping
-payment;платіж;m;shopping
-bank transfer;банківський переказ;m;shopping
-online payment;онлайн-платіж;m;shopping
-contactless payment;безконтактна оплата;f;shopping
-PIN code;пін-код;m;shopping
-chip;чіп;m;shopping
-card terminal;платіжний термінал;m;shopping
-tap to pay;оплата дотиком;f;shopping
-refund;повернення коштів;n;shopping
-currency exchange;обмін валюти;m;shopping
-currency;валюта;f;shopping
-bill;купюра;f;shopping
-coin;монета;f;shopping
-note;банкнота;f;shopping
-ATM;банкомат;m;shopping
-bank account;банківський рахунок;m;shopping
-prepaid card;передплачена картка;f;shopping
-gift card;подарункова картка;f;shopping
-voucher;ваучер;m;shopping
-coupon;купон;m;shopping
-loyalty card;картка лояльності;f;shopping
-digital wallet;цифровий гаманець;m;shopping
-mobile payment;мобільний платіж;m;shopping
-installment;розстрочка;f;shopping
-loan;кредит;m;shopping
-credit;кредит;m;shopping
-debt;борг;m;shopping
-interest;відсоток;m;shopping
-fee;комісія;f;shopping
-surcharge;доплата;f;shopping
-tip;чайові;pl;shopping
-tax;податок;m;shopping
-invoice;рахунок-фактура;m;shopping
-transaction;транзакція;f;shopping
-balance;баланс;m;shopping
-statement;виписка;f;shopping
-withdrawal;зняття готівки;n;shopping
-complaint;скарга;f;shopping
-return;повернення;n;shopping
-exchange;обмін;m;shopping
-refund;повернення коштів;n;shopping
-receipt;чек;m;shopping
-warranty;гарантія;f;shopping
-defect;дефект;m;shopping
-damage;пошкодження;n;shopping
-faulty item;несправний товар;m;shopping
-customer service;обслуговування клієнтів;n;shopping
-credit note;кредитний чек;m;shopping
-exchange policy;політика обміну;f;shopping
-wrong item;неправильний товар;m;shopping
-missing part;відсутня частина;f;shopping
-packaging;упаковка;f;shopping
-reimbursement;відшкодування;n;shopping
-store credit;подарункова картка;f;shopping
-replacement;заміна;f;shopping
-claim;претензія;f;shopping
-dispute;спір;m;shopping
-proof of purchase;підтвердження покупки;n;shopping
-defective item;дефектний товар;m;shopping
-breakage;поломка;f;shopping
-damaged item;пошкоджений товар;m;shopping
-non-conformity;невідповідність;f;shopping
-wrong size;неправильний розмір;m;shopping
-wrong color;неправильний колір;m;shopping
-order mistake;помилка в замовленні;f;shopping
-return period;термін повернення;m;shopping
-return label;зворотна накладна;f;shopping
-shipping fee;вартість доставки;f;shopping
-return shipping;зворотна доставка;f;shopping
-online return;онлайн-повернення;n;shopping
-in-store return;повернення в магазин;n;shopping
-refusal;відмова;f;shopping
-approval;схвалення;n;shopping
-processing;обробка;f;shopping
-return policy;політика повернення;f;shopping
-non-returnable item;неповоротний товар;m;shopping
-receipt number;номер чека;m;shopping
-item condition;стан товару;m;shopping
-open box;відкрита коробка;f;shopping
-seal;пломба;f;shopping
-accessories;аксесуари;pl;shopping
-complaint letter;лист-скарга;m;shopping
-compensation;компенсація;f;shopping
-apology;вибачення;n;shopping
-manager;менеджер;m;shopping
-supervisor;керівник;m;shopping
-invoice;рахунок-фактура;m;shopping
+t-shirt;футболка;футболки (feminine);shopping;t-shirt;футболка;noun
+blouse;блузка;блузки (feminine);shopping;blouse;блузка;noun
+shirt;сорочка;сорочки (feminine);shopping;shirt;сорочка;noun
+sweater;светр;светри (masculine);shopping;sweater;светр;noun
+jacket;куртка;куртки (feminine);shopping;jacket;куртка;noun
+coat;пальто;пальта (neuter);shopping;coat;пальто;noun
+trousers;штани;штани (plural);shopping;trousers;штани;noun
+jeans;джинси;джинси (plural);shopping;jeans;джинси;noun
+shorts;шорти;шорти (plural);shopping;shorts;шорти;noun
+skirt;спідниця;спідниці (feminine);shopping;skirt;спідниця;noun
+dress;сукня;сукні (feminine);shopping;dress;сукня;noun
+suit;костюм;костюми (masculine);shopping;suit;костюм;noun
+tie;краватка;краватки (feminine);shopping;tie;краватка;noun
+belt;ремінь;ремені (masculine);shopping;belt;ремінь;noun
+shoes;взуття;;shopping;shoe;взуття;noun
+boots;чоботи;чоботи (plural);shopping;boot;чобіт;noun
+sandals;сандалі;сандалі (plural);shopping;sandal;сандаля;noun
+sneakers;кросівки;кросівки (plural);shopping;sneaker;кросівка;noun
+hat;капелюх;капелюхи (masculine);shopping;hat;капелюх;noun
+cap;кепка;кепки (feminine);shopping;cap;кепка;noun
+scarf;шарф;шарфи (masculine);shopping;scarf;шарф;noun
+gloves;рукавички;рукавички (plural);shopping;glove;рукавичка;noun
+socks;шкарпетки;шкарпетки (feminine);shopping;sock;шкарпетка;noun
+underwear;білизна;;shopping;underwear;білизна;noun
+bra;бюстгальтер;бюстгальтери (masculine);shopping;bra;бюстгальтер;noun
+size;розмір;розміри (masculine);shopping;size;розмір;noun
+small;малий;;shopping;small;малий;adj
+medium;середній;;shopping;medium;середній;adj
+large;великий;;shopping;large;великий;adj
+extra large;дуже великий;;shopping;extra large;дуже великий;adj
+tight;тісний;;shopping;tight;тісний;adj
+loose;вільний;;shopping;loose;вільний;adj
+long;довгий;;shopping;long;довгий;adj
+short;короткий;;shopping;short;короткий;adj
+narrow;вузький;;shopping;narrow;вузький;adj
+wide;широкий;;shopping;wide;широкий;adj
+fit;підходити;;shopping;fit;підходити;verb
+try on;приміряти;;shopping;try on;приміряти;verb
+changing room;примірочна;примірочні (feminine);shopping;changing room;примірочна;noun
+receipt;чек;чеки (masculine);shopping;receipt;чек;noun
+discount;знижка;знижки (feminine);shopping;discount;знижка;noun
+sale;розпродаж;розпродажі (masculine);shopping;sale;розпродаж;noun
+cashier;касир;касири (masculine);shopping;cashier;касир;noun
+price;ціна;ціни (feminine);shopping;price;ціна;noun
+expensive;дорогий;;shopping;expensive;дорогий;adj
+cheap;дешевий;;shopping;cheap;дешевий;adj
+customer;покупець;покупці (masculine);shopping;customer;покупець;noun
+return;повертати;;shopping;return;повертати;verb
+exchange;обмінювати;;shopping;exchange;обмінювати;verb
+brand;бренд;бренди (masculine);shopping;brand;бренд;noun
+aisle;прохід;проходи (masculine);shopping;aisle;прохід;noun
+basket;кошик;кошики (masculine);shopping;basket;кошик;noun
+trolley;візок;візки (masculine);shopping;trolley;візок;noun
+checkout;каса;каси (feminine);shopping;checkout;каса;noun
+cashier;касир;касири (masculine);shopping;cashier;касир;noun
+receipt;чек;чеки (masculine);shopping;receipt;чек;noun
+discount;знижка;знижки (feminine);shopping;discount;знижка;noun
+coupon;купон;купони (masculine);shopping;coupon;купон;noun
+shelf;полиця;полиці (feminine);shopping;shelf;полиця;noun
+product;продукт;продукти (masculine);shopping;product;продукт;noun
+brand;бренд;бренди (masculine);shopping;brand;бренд;noun
+price;ціна;ціни (feminine);shopping;price;ціна;noun
+barcode;штрих-код;штрих-коди (masculine);shopping;barcode;штрих-код;noun
+scale;ваги;ваги (feminine);shopping;scale;ваги;noun
+bag;пакет;пакети (masculine);shopping;bag;пакет;noun
+grocery;бакалія;бакалії (feminine);shopping;grocery;бакалія;noun
+dairy;молочний відділ;молочні відділи (masculine);shopping;dairy;молочний відділ;noun
+bakery;пекарня;пекарні (feminine);shopping;bakery;пекарня;noun
+butcher;м'ясний відділ;м'ясні відділи (masculine);shopping;butcher;м'ясний відділ;noun
+vegetable;овоч;овочі (masculine);shopping;vegetable;овоч;noun
+fruit;фрукт;фрукти (masculine);shopping;fruit;фрукт;noun
+meat;м'ясо;;shopping;meat;м'ясо;noun
+fish;риба;риби (feminine);shopping;fish;риба;noun
+bread;хліб;хліби (masculine);shopping;bread;хліб;noun
+milk;молоко;;shopping;milk;молоко;noun
+cheese;сир;сири (masculine);shopping;cheese;сир;noun
+egg;яйце;яйця (neuter);shopping;egg;яйце;noun
+butter;масло;;shopping;butter;масло;noun
+yogurt;йогурт;йогурти (masculine);shopping;yogurt;йогурт;noun
+pasta;макарони;макарони (masculine);shopping;pasta;макарони;noun
+rice;рис;;shopping;rice;рис;noun
+flour;борошно;;shopping;flour;борошно;noun
+sugar;цукор;;shopping;sugar;цукор;noun
+salt;сіль;солі (feminine);shopping;salt;сіль;noun
+oil;олія;олії (feminine);shopping;oil;олія;noun
+chicken;курка;курки (feminine);shopping;chicken;курка;noun
+beef;яловичина;;shopping;beef;яловичина;noun
+sausage;ковбаса;ковбаси (feminine);shopping;sausage;ковбаса;noun
+pay;платити;;shopping;pay;платити;verb
+buy;купувати;;shopping;buy;купувати;verb
+choose;вибирати;;shopping;choose;вибирати;verb
+weigh;зважувати;;shopping;weigh;зважувати;verb
+scan;сканувати;;shopping;scan;сканувати;verb
+spend;витрачати;;shopping;spend;витрачати;verb
+save;заощаджувати;;shopping;save;заощаджувати;verb
+wrap;загортати;;shopping;wrap;загортати;verb
+fresh;свіжий;;shopping;fresh;свіжий;adj
+frozen;заморожений;;shopping;frozen;заморожений;adj
+expensive;дорогий;;shopping;expensive;дорогий;adj
+cheap;дешевий;;shopping;cheap;дешевий;adj
+cash;готівка;;shopping;cash;готівка;noun
+credit card;кредитна картка;кредитні картки (feminine);shopping;credit card;кредитна картка;noun
+debit card;дебетова картка;дебетові картки (feminine);shopping;debit card;дебетова картка;noun
+payment;платіж;платежі (masculine);shopping;payment;платіж;noun
+receipt;касовий чек;касові чеки (masculine);shopping;receipt;касовий чек;noun
+invoice;фактура;фактури (feminine);shopping;invoice;фактура;noun
+change;решта;;shopping;change;решта;noun
+wallet;гаманець;гаманці (masculine);shopping;wallet;гаманець;noun
+bank account;банківський рахунок;банківські рахунки (masculine);shopping;bank account;банківський рахунок;noun
+transaction;транзакція;транзакції (feminine);shopping;transaction;транзакція;noun
+contactless payment;безконтактна оплата;;shopping;contactless payment;безконтактна оплата;noun
+mobile payment;мобільний платіж;мобільні платежі (masculine);shopping;mobile payment;мобільний платіж;noun
+online payment;онлайн-платіж;онлайн-платежі (masculine);shopping;online payment;онлайн-платіж;noun
+PIN;PIN-код;PIN-коди (masculine);shopping;PIN;PIN-код;noun
+chip;чіп;чіпи (masculine);shopping;chip;чіп;noun
+contactless;безконтактний;;shopping;contactless;безконтактний;adj
+cheque;банківський чек;банківські чеки (masculine);shopping;cheque;банківський чек;noun
+money;гроші;;shopping;money;гроші;noun
+currency;валюта;валюти (feminine);shopping;currency;валюта;noun
+exchange rate;обмінний курс;обмінні курси (masculine);shopping;exchange rate;обмінний курс;noun
+refund;відшкодування;відшкодування (neuter);shopping;refund;відшкодування;noun
+discount;знижка;знижки (feminine);shopping;discount;знижка;noun
+price;ціна;ціни (feminine);shopping;price;ціна;noun
+total;загальна сума;загальні суми (feminine);shopping;total;загальна сума;noun
+amount;сума;суми (feminine);shopping;amount;сума;noun
+bill;рахунок;рахунки (masculine);shopping;bill;рахунок;noun
+installment;розстрочка;розстрочки (feminine);shopping;installment;розстрочка;noun
+bank transfer;банківський переказ;банківські перекази (masculine);shopping;bank transfer;банківський переказ;noun
+payment terminal;платіжний термінал;платіжні термінали (masculine);shopping;payment terminal;платіжний термінал;noun
+pay;платити;;shopping;pay;платити;verb
+buy;купувати;;shopping;buy;купувати;verb
+sell;продавати;;shopping;sell;продавати;verb
+return;повертати;;shopping;return;повертати;verb
+exchange;обмінювати;;shopping;exchange;обмінювати;verb
+gift card;подарункова картка;подарункові картки (feminine);shopping;gift card;подарункова картка;noun
+voucher;ваучер;ваучери (masculine);shopping;voucher;ваучер;noun
+loyalty card;картка лояльності;картки лояльності (feminine);shopping;loyalty card;картка лояльності;noun
+purse;монетниця;монетниці (feminine);shopping;purse;монетниця;noun
+coin;монета;монети (feminine);shopping;coin;монета;noun
+banknote;банкнота;банкноти (feminine);shopping;banknote;банкнота;noun
+ATM;банкомат;банкомати (masculine);shopping;ATM;банкомат;noun
+bank;банк;банки (masculine);shopping;bank;банк;noun
+shop assistant;продавець;продавці (masculine);shopping;shop assistant;продавець;noun
+checkout;каса;каси (feminine);shopping;checkout;каса;noun
+self-checkout;каса самообслуговування;каси самообслуговування (feminine);shopping;self-checkout;каса самообслуговування;noun
+barcode;штрих-код;штрих-коди (masculine);shopping;barcode;штрих-код;noun
+QR code;QR-код;QR-коди (masculine);shopping;QR code;QR-код;noun
+scanner;сканер;сканери (masculine);shopping;scanner;сканер;noun
+till;касовий апарат;касові апарати (masculine);shopping;till;касовий апарат;noun
+contactless card;безконтактна картка;безконтактні картки (feminine);shopping;contactless card;безконтактна картка;noun
+complaint;скарга;скарги (feminine);shopping;complaint;скарга;noun
+return;повернення;повернення (neuter);shopping;return;повернення;noun
+refund;відшкодування;відшкодування (neuter);shopping;refund;відшкодування;noun
+exchange;обмін;обміни (masculine);shopping;exchange;обмін;noun
+receipt;чек;чеки (masculine);shopping;receipt;чек;noun
+warranty;гарантія;гарантії (feminine);shopping;warranty;гарантія;noun
+guarantee;гарантія;гарантії (feminine);shopping;guarantee;гарантія;noun
+faulty;несправний;;shopping;faulty;несправний;adj
+defective;дефектний;;shopping;defective;дефектний;adj
+damaged;пошкоджений;;shopping;damaged;пошкоджений;adj
+broken;зламаний;;shopping;broken;зламаний;adj
+missing;відсутній;;shopping;missing;відсутній;adj
+wrong;неправильний;;shopping;wrong;неправильний;adj
+size;розмір;розміри (masculine);shopping;size;розмір;noun
+order;замовлення;замовлення (neuter);shopping;order;замовлення;noun
+delivery;доставка;доставки (feminine);shopping;delivery;доставка;noun
+delay;затримка;затримки (feminine);shopping;delay;затримка;noun
+packaging;упаковка;упаковки (feminine);shopping;packaging;упаковка;noun
+dispute;спір;спори (masculine);shopping;dispute;спір;noun
+credit;кредит;кредити (masculine);shopping;credit;кредит;noun
+debit;дебет;дебети (masculine);shopping;debit;дебет;noun
+refundable;відшкодовуваний;;shopping;refundable;відшкодовуваний;adj
+proof;доказ;докази (masculine);shopping;proof;доказ;noun
+purchase;покупка;покупки (feminine);shopping;purchase;покупка;noun
+restocking;поповнення запасів;;shopping;restocking;поповнення запасів;noun
+fee;плата;плати (feminine);shopping;fee;плата;noun
+customer;клієнт;клієнти (masculine);shopping;customer;клієнт;noun
+manager;менеджер;менеджери (masculine);shopping;manager;менеджер;noun
+replacement;заміна;заміни (feminine);shopping;replacement;заміна;noun
+policy;політика;політики (feminine);shopping;policy;політика;noun
+terms;умови;умови (feminine);shopping;terms;умови;noun
+label;етикетка;етикетки (feminine);shopping;label;етикетка;noun
+shipping;доставка;доставки (feminine);shopping;shipping;доставка;noun
+cost;вартість;вартості (feminine);shopping;cost;вартість;noun
+reimburse;відшкодовувати;;shopping;reimburse;відшкодовувати;verb
+compensation;компенсація;компенсації (feminine);shopping;compensation;компенсація;noun
+complain;скаржитися;;shopping;complain;скаржитися;verb
+request;запит;запити (masculine);shopping;request;запит;noun
+reject;відхиляти;;shopping;reject;відхиляти;verb
+accept;приймати;;shopping;accept;приймати;verb
+apology;вибачення;вибачення (neuter);shopping;apology;вибачення;noun
+discount;знижка;знижки (feminine);shopping;discount;знижка;noun
+voucher;ваучер;ваучери (masculine);shopping;voucher;ваучер;noun
+gift;подарунок;подарунки (masculine);shopping;gift;подарунок;noun
+store;магазин;магазини (masculine);shopping;store;магазин;noun
+credit_note;кредит-нота;кредит-ноти (feminine);shopping;credit_note;кредит-нота;noun
+recall;відкликання;відкликання (neuter);shopping;recall;відкликання;noun
+return_window;період повернення;періоди повернення (masculine);shopping;return_window;період повернення;noun
+authorisation;авторизація;авторизації (feminine);shopping;authorisation;авторизація;noun
+unsatisfactory;незадовільний;;shopping;unsatisfactory;незадовільний;adj

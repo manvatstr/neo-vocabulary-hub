@@ -1,199 +1,200 @@
-pogoda;погода;f;weather
-klimat;клімат;m;weather
-pora roku;пора року;f;weather
-wiosna;весна;f;weather
-lato;літо;n;weather
-jesień;осінь;f;weather
-zima;зима;f;weather
-temperatura;температура;f;weather
-termometr;термометр;m;weather
-słońce;сонце;n;weather
-chmura;хмара;f;weather
-deszcz;дощ;m;weather
-śnieg;сніг;m;weather
-grad;град;m;weather
-mgła;туман;m;weather
-wiatr;вітер;m;weather
-burza;буря;f;weather
-błyskawica;блискавка;f;weather
-grzmot;грім;m;weather
-tęcza;веселка;f;weather
-mróz;мороз;m;weather
-lód;лід;m;weather
-rosa;роса;f;weather
-szron;іній;m;weather
-zamieć;заметіль;f;weather
-zawieja;завірюха;f;weather
-susza;посуха;f;weather
-powódź;повінь;f;weather
-ulewa;злива;f;weather
-opady;опади;pl;weather
-ciśnienie;тиск;m;weather
-wilgotność;вологість;f;weather
-powietrze;повітря;n;weather
-niebo;небо;n;weather
-zachmurzenie;хмарність;f;weather
-prognoza;прогноз;m;weather
-ciepło;тепло;n;weather
-zimno;холод;m;weather
-upał;спека;f;weather
-ochłoda;прохолода;f;weather
-ocieplenie;потепління;n;weather
-ochłodzenie;похолодання;n;weather
-gołoledź;ожеледь;f;weather
-para;пара;f;weather
-sopel;бурулька;f;weather
-kałuża;калюжа;f;weather
-błoto;багнюка;f;weather
-śnieżynka;сніжинка;f;weather
-kropla;крапля;f;weather
-bryza;бриз;m;weather
-pogoda;погода;f;weather
-prognoza;прогноз;f;weather
-temperatura;температура;f;weather
-ciśnienie;тиск;n;weather
-wilgotność;вологість;f;weather
-wiatr;вітер;m;weather
-prędkość wiatru;швидкість вітру;f;weather
-kierunek wiatru;напрямок вітру;m;weather
-zachmurzenie;хмарність;n;weather
-opady;опади;pl;weather
-deszcz;дощ;m;weather
-śnieg;сніг;m;weather
-grad;град;m;weather
-mgła;туман;f;weather
-burza;гроза;f;weather
-piorun;блискавка;m;weather
-grzmot;грім;m;weather
-front atmosferyczny;атмосферний фронт;m;weather
-wyż;антициклон;m;weather
-niż;циклон;m;weather
-ciśnienie atmosferyczne;атмосферний тиск;n;weather
-mapa pogody;карта погоди;f;weather
-satelita;супутник;m;weather
-radar;радар;m;weather
-prognoza długoterminowa;довгостроковий прогноз;f;weather
-prognoza krótkoterminowa;короткостроковий прогноз;f;weather
-alert pogodowy;погодне сповіщення;m;weather
-ostrzeżenie;попередження;n;weather
-stopień zagrożenia;ступінь небезпеки;m;weather
-synoptyk;синоптик;m;weather
-meteorolog;метеоролог;m;weather
-temperatura odczuwalna;відчувана температура;f;weather
-punkt rosy;точка роси;m;weather
-widoczność;видимість;f;weather
-zachód słońca;захід сонця;m;weather
-wschód słońca;схід сонця;m;weather
-indeks UV;індекс УФ;m;weather
-front ciepły;теплий фронт;m;weather
-front zimny;холодний фронт;m;weather
-front okluzji;фронт оклюзії;m;weather
-izobara;ізобара;f;weather
-opad deszczu;дощові опади;m;weather
-pokrywa śnieżna;сніговий покрив;f;weather
-gołoledź;ожеледь;f;weather
-zawieja;заметіль;f;weather
-zamieć;хуртовина;f;weather
-mżawka;мряка;f;weather
-przejaśnienie;прояснення;n;weather
-prognoza pogody;прогноз погоди;f;weather
-powódź;повінь;f;weather
-trzęsienie ziemi;землетрус;n;weather
-huragan;ураган;m;weather
-cyklon;циклон;m;weather
-tornado;торнадо;n;weather
-tsunami;цунамі;n;weather
-erupcja;виверження;f;weather
-wulkan;вулкан;m;weather
-susza;посуха;f;weather
-pożar;пожежа;m;weather
-osuwisko;зсув;n;weather
-lawina;лавина;f;weather
-burza;буря;f;weather
-zamieć;хуртовина;f;weather
-gradobicie;градобій;n;weather
-piorun;блискавка;m;weather
-grzmot;грім;m;weather
-sejsmograf;сейсмограф;m;weather
-ulewa;злива;f;weather
-powódź błyskawiczna;раптова повінь;f;weather
-fala upałów;хвиля тепла;f;weather
-fala mrozów;хвиля морозів;f;weather
-sztorm;шторм;m;weather
-trąba powietrzna;смерч;f;weather
-wichura;віхола;f;weather
-orkan;буревій;m;weather
-tajfun;тайфун;m;weather
-kataklizm;катаклізм;m;weather
-klęska żywiołowa;стихійне лихо;f;weather
-zagrożenie;загроза;n;weather
-ostrzeżenie;попередження;n;weather
-ewakuacja;евакуація;f;weather
-ratownik;рятувальник;m;weather
-ofiara;жертва;f;weather
-zniszczenie;руйнування;n;weather
-zawalenie;обвал;n;weather
-zalanie;затоплення;n;weather
-wstrząs;поштовх;m;weather
-skala Richtera;шкала Ріхтера;f;weather
-epicentrum;епіцентр;n;weather
-magma;магма;f;weather
-lawa;лава;f;weather
-popiół wulkaniczny;вулканічний попіл;m;weather
-dym;дим;m;weather
-wybuch;вибух;m;weather
-lawa błotna;сель;f;weather
-zapadlisko;провал;n;weather
-grad;град;m;weather
-śnieżyca;заметіль;f;weather
-katastrofa naturalna;природна катастрофа;f;weather
-pogoda;погода;f;weather
-temperatura;температура;f;weather
-stopień;градус;m;weather
-ciepło;тепло;n;weather
-zimno;холод;n;weather
-upał;спека;m;weather
-mróz;мороз;m;weather
-chłód;прохолода;m;weather
-odwilż;відлига;f;weather
-słońce;сонце;n;weather
-zachmurzenie;захмареність;n;weather
-chmura;хмара;f;weather
-deszcz;дощ;m;weather
-mżawka;мряка;f;weather
-ulewa;злива;f;weather
-opady;опади;pl;weather
-śnieg;сніг;m;weather
-śnieżyca;хуртовина;f;weather
-zawieja;віхола;f;weather
-zamieć;заметіль;f;weather
-grad;град;m;weather
-krupa;крупа;f;weather
-gołoledź;ожеледь;f;weather
-mgła;туман;f;weather
-wiatr;вітер;m;weather
-wichura;шторм;f;weather
-huragan;ураган;m;weather
-tornado;торнадо;n;weather
-cyklon;циклон;m;weather
-burza;гроза;f;weather
-piorun;блискавка;m;weather
-błyskawica;блискавка;f;weather
-grzmot;грім;m;weather
-tęcza;веселка;f;weather
-wilgotność;вологість;f;weather
-ciśnienie;тиск;n;weather
-przymrozek;заморозок;m;weather
-szron;іній;m;weather
-rosa;роса;f;weather
-susza;посуха;f;weather
-powódź;повінь;f;weather
-parność;духота;f;weather
-powietrze;повітря;n;weather
-niebo;небо;n;weather
-widoczność;видимість;f;weather
-front;фронт;m;weather
-wyż;антициклон;m;weather
-przejaśnienie;прояснення;n;weather
-klimat;клімат;m;weather
-mgiełka;імла;f;weather
+wiosna;весна;весни (żeński);weather;wiosna;весна;noun
+lato;літо;літа (nijaki);weather;lato;літо;noun
+jesień;осінь;осені (żeński);weather;jesień;осінь;noun
+zima;зима;зими (żeński);weather;zima;зима;noun
+pogoda;погода;погоди (żeński);weather;pogoda;погода;noun
+klimat;клімат;клімати (męski);weather;klimat;клімат;noun
+temperatura;температура;температури (żeński);weather;temperatura;температура;noun
+deszcz;дощ;дощі (męski);weather;deszcz;дощ;noun
+śnieg;сніг;сніги (męski);weather;śnieg;сніг;noun
+wiatr;вітер;вітри (męski);weather;wiatr;вітер;noun
+słońce;сонце;сонця (nijaki);weather;słońce;сонце;noun
+chmura;хмара;хмари (żeński);weather;chmura;хмара;noun
+burza;буря;бурі (żeński);weather;burza;буря;noun
+piorun;блискавка;блискавки (żeński);weather;piorun;блискавка;noun
+tęcza;веселка;веселки (żeński);weather;tęcza;веселка;noun
+mgła;туман;тумани (męski);weather;mgła;туман;noun
+mróz;мороз;морози (męski);weather;mróz;мороз;noun
+upał;спека;спеки (żeński);weather;upał;спека;noun
+wilgoć;вологість;;weather;wilgoć;вологість;noun
+susza;посуха;посухи (żeński);weather;susza;посуха;noun
+powódź;повінь;повені (żeński);weather;powódź;повінь;noun
+grad;град;гради (męski);weather;grad;град;noun
+bryza;бриз;бризи (męski);weather;bryza;бриз;noun
+rosa;роса;роси (żeński);weather;rosa;роса;noun
+szron;іній;інеї (męski);weather;szron;іній;noun
+odwilż;відлига;відлиги (żeński);weather;odwilż;відлига;noun
+ciśnienie atmosferyczne;атмосферний тиск;;weather;ciśnienie atmosferyczne;атмосферний тиск;noun
+front atmosferyczny;атмосферний фронт;атмосферні фронти (męski);weather;front atmosferyczny;атмосферний фронт;noun
+cyklon;циклон;циклони (męski);weather;cyklon;циклон;noun
+huragan;ураган;урагани (męski);weather;huragan;ураган;noun
+tornado;торнадо;торнадо (nijaki);weather;tornado;торнадо;noun
+tajfun;тайфун;тайфуни (męski);weather;tajfun;тайфун;noun
+monsun;мусон;мусони (męski);weather;monsun;мусон;noun
+ocieplenie;потепління;потепління (nijaki);weather;ocieplenie;потепління;noun
+ochłodzenie;похолодання;похолодання (nijaki);weather;ochłodzenie;похолодання;noun
+klimat zwrotnikowy;тропічний клімат;тропічні клімати (męski);weather;klimat zwrotnikowy;тропічний клімат;noun
+klimat umiarkowany;помірний клімат;помірні клімати (męski);weather;klimat umiarkowany;помірний клімат;noun
+klimat polarny;полярний клімат;полярні клімати (męski);weather;klimat polarny;полярний клімат;noun
+pora sucha;сухий сезон;сухі сезони (męski);weather;pora sucha;сухий сезон;noun
+pora deszczowa;дощовий сезон;дощові сезони (męski);weather;pora deszczowa;дощовий сезон;noun
+sezon;сезон;сезони (męski);weather;sezon;сезон;noun
+wiosenny;весняний;;weather;wiosenny;весняний;adj
+letni;літній;;weather;letni;літній;adj
+jesienny;осінній;;weather;jesienny;осінній;adj
+zimowy;зимовий;;weather;zimowy;зимовий;adj
+słoneczny;сонячний;;weather;słoneczny;сонячний;adj
+deszczowy;дощовий;;weather;deszczowy;дощовий;adj
+śnieżny;сніжний;;weather;śnieżny;сніжний;adj
+wietrzny;вітряний;;weather;wietrzny;вітряний;adj
+pochmurny;хмарний;;weather;pochmurny;хмарний;adj
+prognoza;прогноз;прогнози (męski);weather;prognoza;прогноз;noun
+pogoda;погода;погоди (żeński);weather;pogoda;погода;noun
+temperatura;температура;температури (żeński);weather;temperatura;температура;noun
+opady;опади;опади (męski);weather;opad;опад;noun
+deszcz;дощ;дощі (męski);weather;deszcz;дощ;noun
+śnieg;сніг;сніги (męski);weather;śnieg;сніг;noun
+wiatr;вітер;вітри (męski);weather;wiatr;вітер;noun
+słońce;сонце;сонця (nijaki);weather;słońce;сонце;noun
+chmura;хмара;хмари (żeński);weather;chmura;хмара;noun
+burza;буря;бурі (żeński);weather;burza;буря;noun
+mgła;туман;тумани (męski);weather;mgła;туман;noun
+ciśnienie;тиск;тиски (męski);weather;ciśnienie;тиск;noun
+wilgotność;вологість;;weather;wilgotność;вологість;noun
+stopień;градус;градуси (męski);weather;stopień;градус;noun
+termometr;термометр;термометри (męski);weather;termometr;термометр;noun
+prognozowanie;прогнозування;;weather;prognozowanie;прогнозування;noun
+meteorolog;метеоролог;метеорологи (męski);weather;meteorolog;метеоролог;noun
+meteorologia;метеорологія;;weather;meteorologia;метеорологія;noun
+niebo;небо;небеса (nijaki);weather;niebo;небо;noun
+zachmurzenie;хмарність;;weather;zachmurzenie;хмарність;noun
+przejaśnienia;прояснення;прояснення (nijaki);weather;przejaśnienie;прояснення;noun
+poryw;порив;пориви (męski);weather;poryw;порив;noun
+słoneczny;сонячний;;weather;słoneczny;сонячний;adj
+pochmurny;похмурий;;weather;pochmurny;похмурий;adj
+deszczowy;дощовий;;weather;deszczowy;дощовий;adj
+wietrzny;вітряний;;weather;wietrzny;вітряний;adj
+mglisty;туманний;;weather;mglisty;туманний;adj
+śnieżny;сніжний;;weather;śnieżny;сніжний;adj
+burzowy;грозовий;;weather;burzowy;грозовий;adj
+wilgotny;вологий;;weather;wilgotny;вологий;adj
+suchy;сухий;;weather;suchy;сухий;adj
+zimny;холодний;;weather;zimny;холодний;adj
+ciepły;теплий;;weather;ciepły;теплий;adj
+gorący;гарячий;;weather;gorący;гарячий;adj
+bezchmurny;безхмарний;;weather;bezchmurny;безхмарний;adj
+zmienny;мінливий;;weather;zmienny;мінливий;adj
+umiarkowany;помірний;;weather;umiarkowany;помірний;adj
+lokalny;місцевий;;weather;lokalny;місцевий;adj
+prognozować;прогнозувати;;weather;prognozować;прогнозувати;verb
+padać;падати;;weather;padać;падати;verb
+wiać;віяти;;weather;wiać;віяти;verb
+świecić;світити;;weather;świecić;світити;verb
+grzmieć;гриміти;;weather;grzmieć;гриміти;verb
+błyskać;блискати;;weather;błyskać;блискати;verb
+ochładzać się;охолоджуватися;;weather;ochładzać się;охолоджуватися;verb
+ocieplać się;теплішати;;weather;ocieplać się;теплішати;verb
+topnieć;танути;;weather;topnieć;танути;verb
+zmieniać się;змінюватися;;weather;zmieniać się;змінюватися;verb
+słonecznie;сонячно;;weather;słonecznie;сонячно;adv
+pochmurno;похмуро;;weather;pochmurno;похмуро;adv
+trzęsienie ziemi;землетрус;землетруси (męski);weather;trzęsienie ziemi;землетрус;noun
+powódź;повінь;повені (żeński);weather;powódź;повінь;noun
+huragan;ураган;урагани (męski);weather;huragan;ураган;noun
+tornado;торнадо;торнадо (nijaki);weather;tornado;торнадо;noun
+erupcja wulkanu;виверження вулкану;виверження вулканів (nijaki);weather;erupcja wulkanu;виверження вулкану;noun
+susza;посуха;посухи (żeński);weather;susza;посуха;noun
+pożar lasu;лісова пожежа;лісові пожежі (żeński);weather;pożar lasu;лісова пожежа;noun
+tsunami;цунамі;цунамі (nijaki);weather;tsunami;цунамі;noun
+lawina;лавина;лавини (żeński);weather;lawina;лавина;noun
+osuwisko;зсув;зсуви (męski);weather;osuwisko;зсув;noun
+burza;гроза;грози (żeński);weather;burza;гроза;noun
+zamieć;завірюха;завірюхи (żeński);weather;zamieć;завірюха;noun
+fala upałów;спека;спеки (żeński);weather;fala upałów;спека;noun
+gradobicie;град;гради (męski);weather;gradobicie;град;noun
+wstrząs wtórny;афтершок;афтершоки (męski);weather;wstrząs wtórny;афтершок;noun
+szkoda;збиток;збитки (męski);weather;szkoda;збиток;noun
+zniszczenie;руйнування;руйнування (nijaki);weather;zniszczenie;руйнування;noun
+ofiara;жертва;жертви (żeński);weather;ofiara;жертва;noun
+ratunek;рятування;;weather;ratunek;рятування;noun
+straż pożarna;пожежна охорона;пожежні охорони (żeński);weather;straż pożarna;пожежна охорона;noun
+alarm;тривога;тривоги (żeński);weather;alarm;тривога;noun
+ostrzeżenie;попередження;попередження (nijaki);weather;ostrzeżenie;попередження;noun
+ewakuacja;евакуація;евакуації (żeński);weather;ewakuacja;евакуація;noun
+schron;укриття;укриття (nijaki);weather;schron;укриття;noun
+poszkodowany;постраждалий;постраждалі (męski);weather;poszkodowany;постраждалий;noun
+deszcz;дощ;дощі (męski);weather;deszcz;дощ;noun
+ulewa;злива;зливи (żeński);weather;ulewa;злива;noun
+wicher;вітер;вітри (męski);weather;wicher;вітер;noun
+cyklon;циклон;циклони (męski);weather;cyklon;циклон;noun
+tajfun;тайфун;тайфуни (męski);weather;tajfun;тайфун;noun
+monsun;мусон;мусони (męski);weather;monsun;мусон;noun
+pożar;пожежа;пожежі (żeński);weather;pożar;пожежа;noun
+dym;дим;дими (męski);weather;dym;дим;noun
+popiół;попіл;попели (męski);weather;popiół;попіл;noun
+lawa;лава;лави (żeński);weather;lawa;лава;noun
+magma;магма;магми (żeński);weather;magma;магма;noun
+krater;кратер;кратери (męski);weather;krater;кратер;noun
+sejsmograf;сейсмограф;сейсмографи (męski);weather;sejsmograf;сейсмограф;noun
+skala Richtera;шкала Ріхтера;шкали Ріхтера (żeński);weather;skala Richtera;шкала Ріхтера;noun
+wstrząs;поштовх;поштовхи (męski);weather;wstrząs;поштовх;noun
+fala tsunami;хвиля цунамі;хвилі цунамі (żeński);weather;fala tsunami;хвиля цунамі;noun
+zalanie;затоплення;затоплення (nijaki);weather;zalanie;затоплення;noun
+podtopienie;підтоплення;підтоплення (nijaki);weather;podtopienie;підтоплення;noun
+osunięcie się ziemi;зсув ґрунту;зсуви ґрунту (męski);weather;osunięcie się ziemi;зсув ґрунту;noun
+burza piaskowa;піщана буря;піщані бурі (żeński);weather;burza piaskowa;піщана буря;noun
+burza śnieżna;снігова буря;снігові бурі (żeński);weather;burza śnieżna;снігова буря;noun
+gołoledź;ожеледиця;ожеледиці (żeński);weather;gołoledź;ожеледиця;noun
+lawina błotna;сель;селі (męski);weather;lawina błotna;сель;noun
+katastrofa;катастрофа;катастрофи (żeński);weather;katastrofa;катастрофа;noun
+kataklizm;катаклізм;катаклізми (męski);weather;kataklizm;катаклізм;noun
+temperatura;температура;temperatury;weather;temperatura;температура;noun
+termometr;термометр;termometry;weather;termometr;термометр;noun
+stopień;градус;stopnie;weather;stopień;градус;noun
+ciepło;тепло;;weather;ciepło;тепло;adv
+zimno;холодно;;weather;zimno;холодно;adv
+gorąco;спекотно;;weather;gorąco;спекотно;adv
+upał;спека;upały;weather;upał;спека;noun
+mróz;мороз;mrozy;weather;mróz;мороз;noun
+skwar;спека;skwary;weather;skwar;спека;noun
+ziąb;холоднеча;;weather;ziąb;холоднеча;noun
+wiatr;вітер;wiatry;weather;wiatr;вітер;noun
+bryza;бриз;bryzy;weather;bryza;бриз;noun
+podmuch;порив;podmuchy;weather;podmuch;порив;noun
+deszcz;дощ;deszcze;weather;deszcz;дощ;noun
+mżawka;мряка;mżawki;weather;mżawka;мряка;noun
+ulewa;злива;ulewy;weather;ulewa;злива;noun
+śnieg;сніг;śniegi;weather;śnieg;сніг;noun
+grad;град;grady;weather;grad;град;noun
+mgła;туман;mgły;weather;mgła;туман;noun
+zamglenie;імла;zamglenia;weather;zamglenie;імла;noun
+chmura;хмара;chmury;weather;chmura;хмара;noun
+zachmurzenie;хмарність;zachmurzenia;weather;zachmurzenie;хмарність;noun
+słońce;сонце;słońca;weather;słońce;сонце;noun
+burza;буря;burze;weather;burza;буря;noun
+grzmot;грім;grzmoty;weather;grzmot;грім;noun
+błyskawica;блискавка;błyskawice;weather;błyskawica;блискавка;noun
+piorun;блискавка;pioruny;weather;piorun;блискавка;noun
+tęcza;веселка;tęcze;weather;tęcza;веселка;noun
+wilgotność;вологість;;weather;wilgotność;вологість;noun
+wilgotno;волого;;weather;wilgotno;волого;adv
+sucho;сухо;;weather;sucho;сухо;adv
+susza;посуха;susze;weather;susza;посуха;noun
+ciśnienie;тиск;ciśnienia;weather;ciśnienie;тиск;noun
+wyż;антициклон;wyże;weather;wyż;антициклон;noun
+niż;циклон;niże;weather;niż;циклон;noun
+front;фронт;fronty;weather;front;фронт;noun
+prognoza;прогноз;prognozy;weather;prognoza;прогноз;noun
+ocieplenie;потепління;ocieplenia;weather;ocieplenie;потепління;noun
+ochłodzenie;похолодання;ochłodzenia;weather;ochłodzenie;похолодання;noun
+przymrozek;заморозок;przymrozki;weather;przymrozek;заморозок;noun
+szron;іній;szrony;weather;szron;іній;noun
+gołoledź;ожеледь;gołoledzie;weather;gołoledź;ожеледь;noun
+rosa;роса;rosy;weather;rosa;роса;noun
+plucha;сльота;pluchy;weather;plucha;сльота;noun
+zamieć;хуртовина;zamiecie;weather;zamieć;хуртовина;noun
+zawieja;завірюха;zawieje;weather;zawieja;завірюха;noun
+tornado;торнадо;tornada;weather;tornado;торнадо;noun
+huragan;ураган;huragany;weather;huragan;ураган;noun
+cyklon;циклон;cyklony;weather;cyklon;циклон;noun
+fala upałów;хвиля спеки;fale upałów;weather;fala upałów;хвиля спеки;noun

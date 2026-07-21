@@ -1,199 +1,200 @@
-zanieczyszczenie;забруднення;n;environment
-recykling;переробка;m;environment
-segregacja;сортування;f;environment
-odpady;відходи;m;environment
-śmieci;сміття;m;environment
-wysypisko;звалище;n;environment
-spalarnia;сміттєспалювальний завод;f;environment
-kompostownik;компостер;m;environment
-plastik;пластик;m;environment
-szkło;скло;n;environment
-papier;папір;m;environment
-metal;метал;m;environment
-bateria;батарейка;f;environment
-puszka;бляшанка;f;environment
-butelka;пляшка;f;environment
-opakowanie;упаковка;n;environment
-foliówka;поліетиленовий пакет;f;environment
-torba wielorazowa;багаторазова сумка;f;environment
-toksyny;токсини;f;environment
-chemikalia;хімікати;pl;environment
-pestycydy;пестициди;m;environment
-nawóz;добриво;m;environment
-ścieki;стічні води;m;environment
-oczyszczalnia;очисна станція;f;environment
-filtr;фільтр;m;environment
-smog;смог;m;environment
-dym;дим;m;environment
-sadza;сажа;f;environment
-emisja;викиди;f;environment
-spaliny;вихлопні гази;f;environment
-dwutlenek węgla;вуглекислий газ;m;environment
-kwaśny deszcz;кислотний дощ;m;environment
-dziura ozonowa;озонова діра;f;environment
-globalne ocieplenie;глобальне потепління;n;environment
-efekt cieplarniany;парниковий ефект;m;environment
-biodegradacja;біорозклад;f;environment
-toksyczność;токсичність;f;environment
-ekologia;екологія;f;environment
-oszczędzać;економити;;environment
-marnować;марнувати;;environment
-segregować;сортувати;;environment
-recyklingować;переробляти;;environment
-utylizować;утилізувати;;environment
-zanieczyszczać;забруднювати;;environment
-chronić;захищати;;environment
-redukować;зменшувати;;environment
-ponowne użycie;повторне використання;n;environment
-odpad komunalny;побутові відходи;m;environment
-składowisko;полігон;n;environment
-elektrośmieci;електровідходи;pl;environment
-pies;собака;m;environment
-kot;кіт;m;environment
-ptak;птах;m;environment
-ryba;риба;f;environment
-chomik;хом'як;m;environment
-świnka morska;морська свинка;f;environment
-królik;кролик;m;environment
-papuga;папуга;f;environment
-żółw;черепаха;m;environment
-wąż;змія;m;environment
-koń;кінь;m;environment
-krowa;корова;f;environment
-świnia;свиня;f;environment
-owca;вівця;f;environment
-koza;коза;f;environment
-kura;курка;f;environment
-kaczka;качка;f;environment
-gęś;гуска;f;environment
-indyk;індик;m;environment
-żaba;жаба;f;environment
-lis;лисиця;m;environment
-wilk;вовк;m;environment
-niedźwiedź;ведмідь;m;environment
-jeleń;олень;m;environment
-łoś;лось;m;environment
-wiewiórka;білка;f;environment
-jeż;їжак;m;environment
-mysz;миша;f;environment
-szczur;щур;m;environment
-nietoperz;кажан;m;environment
-motyl;метелик;m;environment
-pszczoła;бджола;f;environment
-mrówka;мураха;f;environment
-pająk;павук;m;environment
-mucha;муха;f;environment
-komar;комар;m;environment
-robak;черв'як;m;environment
-ślimak;равлик;m;environment
-rozgwiazda;морська зірка;f;environment
-meduza;медуза;f;environment
-rekin;акула;m;environment
-delfin;дельфін;m;environment
-wieloryb;кит;m;environment
-ośmiornica;восьминіг;f;environment
-krab;краб;m;environment
-homar;омар;m;environment
-pingwin;пінгвін;m;environment
-paw;павич;m;environment
-łabędź;лебідь;m;environment
-bocian;лелека;m;environment
-drzewo;дерево;n;environment
-las;ліс;m;environment
-krzew;кущ;m;environment
-roślina;рослина;f;environment
-kwiat;квітка;m;environment
-liść;листок;m;environment
-korzeń;корінь;m;environment
-pień;стовбур;m;environment
-gałąź;гілка;f;environment
-kora;кора;f;environment
-pąk;брунька;m;environment
-igła;голка;f;environment
-szyszka;шишка;f;environment
-nasiono;насіння;n;environment
-owoc;плід;m;environment
-jagoda;ягода;f;environment
-trawa;трава;f;environment
-mech;мох;m;environment
-paproć;папороть;f;environment
-grzyb;гриб;m;environment
-korona;крона;f;environment
-sadzonka;сажданець;f;environment
-drzewo iglaste;хвойне дерево;n;environment
-drzewo liściaste;листяне дерево;n;environment
-dąb;дуб;m;environment
-brzoza;береза;f;environment
-sosna;сосна;f;environment
-świerk;ялина;m;environment
-jodła;ялиця;f;environment
-lipa;липа;f;environment
-klon;клен;m;environment
-wierzba;верба;f;environment
-topola;тополя;f;environment
-jałowiec;яловець;m;environment
-kasztan;каштан;m;environment
-buk;бук;m;environment
-leszczyna;ліщина;f;environment
-jarzębina;горобина;f;environment
-czeremcha;черемха;f;environment
-kalina;калина;f;environment
-róża;троянда;f;environment
-tulipan;тюльпан;m;environment
-stokrotka;маргаритка;f;environment
-konwalia;конвалія;f;environment
-niezapominajka;незабудка;f;environment
-bluszcz;плющ;m;environment
-winorośl;виноградна лоза;f;environment
-wrzos;верес;m;environment
-żywopłot;живопліт;m;environment
-klimat;клімат;m;environment
-pogoda;погода;f;environment
-atmosfera;атмосфера;f;environment
-powietrze;повітря;n;environment
-zanieczyszczenie;забруднення;n;environment
-emisja;викид;f;environment
-smog;смог;m;environment
-ozon;озон;m;environment
-warstwa;шар;f;environment
-promieniowanie;випромінювання;n;environment
-efekt;ефект;m;environment
-gaz;газ;m;environment
-metan;метан;m;environment
-dwutlenek węgla;вуглекислий газ;m;environment
-ropa;нафта;f;environment
-węgiel;вугілля;m;environment
-paliwo;паливо;n;environment
-energia;енергія;f;environment
-źródło;джерело;n;environment
-słońce;сонце;n;environment
-wiatr;вітер;m;environment
-turbina;турбіна;f;environment
-panel;панель;m;environment
-recykling;переробка;m;environment
-odpady;відходи;pl;environment
-segregacja;сортування;f;environment
-śmieci;сміття;pl;environment
-wysypisko;звалище;n;environment
-składowisko;полігон;n;environment
-spalanie;спалювання;n;environment
-topnienie;танення;n;environment
-lodowiec;льодовик;m;environment
-lód;лід;m;environment
-topnieć;танути;;environment
-podnosić się;підвищуватися;;environment
-poziom;рівень;m;environment
-morze;море;n;environment
-ocean;океан;m;environment
-powódź;повінь;f;environment
-susza;посуха;f;environment
-pożar;пожежа;m;environment
-las;ліс;m;environment
-wycinka;вирубка;f;environment
-wylesianie;знеліснення;n;environment
-bioróżnorodność;біорізноманіття;f;environment
-gatunek;вид;m;environment
-wymieranie;вимирання;n;environment
-ekosystem;екосистема;m;environment
-ochrona;охорона;f;environment
-porozumienie;угода;n;environment
+zanieczyszczenie;забруднення;забруднення (nijaki);environment;zanieczyszczenie;забруднення;noun
+odpady;відходи;відходи (męski);environment;odpad;відхід;noun
+recykling;переробка;переробки (żeński);environment;recykling;переробка;noun
+śmieci;сміття;;environment;śmieć;сміття;noun
+wysypisko;звалище;звалища (nijaki);environment;wysypisko;звалище;noun
+spalarnia;сміттєспалювальний завод;сміттєспалювальні заводи (męski);environment;spalarnia;сміттєспалювальний завод;noun
+toksyczny;токсичний;;environment;toksyczny;токсичний;adj
+smog;смог;smogi (męski);environment;smog;смог;noun
+spaliny;вихлопні гази;вихлопні гази (męski);environment;spalina;вихлопний газ;noun
+ścieki;стічні води;стічні води (żeński);environment;ściek;стічна вода;noun
+plastik;пластик;plastiki (męski);environment;plastik;пластик;noun
+szkło;скло;szkła (nijaki);environment;szkło;скло;noun
+papier;папір;papiery (męski);environment;papier;папір;noun
+metal;метал;metale (męski);environment;metal;метал;noun
+kompost;компост;komposty (męski);environment;kompost;компост;noun
+biodegradowalny;біорозкладний;;environment;biodegradowalny;біорозкладний;adj
+rozkładać się;розкладатися;;environment;rozkładać się;розкладатися;verb
+zanieczyszczać;забруднювати;;environment;zanieczyszczać;забруднювати;verb
+zanieczyszczenie;забруднювач;забруднювачі (męski);environment;zanieczyszczenie;забруднювач;noun
+emisja;викид;викиди (męski);environment;emisja;викид;noun
+dwutlenek węgla;вуглекислий газ;dwutlenki węgla (męski);environment;dwutlenek węgla;вуглекислий газ;noun
+efekt cieplarniany;парниковий ефект;efekty cieplarniane (męski);environment;efekt cieplarniany;парниковий ефект;noun
+warstwa ozonowa;озоновий шар;warstwy ozonowe (żeński);environment;warstwa ozonowa;озоновий шар;noun
+zmiana klimatu;зміна клімату;zmiany klimatu (żeński);environment;zmiana klimatu;зміна клімату;noun
+zrównoważony;стійкий;;environment;zrównoważony;стійкий;adj
+odnawialny;відновлюваний;;environment;odnawialny;відновлюваний;adj
+energia;енергія;energie (żeński);environment;energia;енергія;noun
+segregacja odpadów;сортування відходів;;environment;segregacja odpadów;сортування відходів;noun
+pojemnik na surowce wtórne;контейнер для вторсировини;pojemniki na surowce wtórne (męski);environment;pojemnik na surowce wtórne;контейнер для вторсировини;noun
+śmiecić;смітити;;environment;śmiecić;смітити;verb
+butelka;пляшка;пляшки (żeński);environment;butelka;пляшка;noun
+puszka;бляшанка;бляшанки (żeński);environment;puszka;бляшанка;noun
+opakowanie;упаковка;упаковки (żeński);environment;opakowanie;упаковка;noun
+ograniczać;обмежувати;;environment;ograniczać;обмежувати;verb
+ponownie wykorzystywać;повторно використовувати;;environment;ponownie wykorzystywać;повторно використовувати;verb
+przetwarzać;переробляти;;environment;przetwarzać;переробляти;verb
+składowisko odpadów;полігон відходів;składowiska odpadów (nijaki);environment;składowisko odpadów;полігон відходів;noun
+niebezpieczny;небезпечний;;environment;niebezpieczny;небезпечний;adj
+chemiczny;хімічний;;environment;chemiczny;хімічний;adj
+wyciek ropy;розлив нафти;wycieki ropy (męski);environment;wyciek ropy;розлив нафти;noun
+zanieczyszczenie powietrza;забруднення повітря;;environment;zanieczyszczenie powietrza;забруднення повітря;noun
+zanieczyszczenie wody;забруднення води;;environment;zanieczyszczenie wody;забруднення води;noun
+skażenie gleby;забруднення ґрунту;;environment;skażenie gleby;забруднення ґрунту;noun
+zanieczyszczenie hałasem;шумове забруднення;;environment;zanieczyszczenie hałasem;шумове забруднення;noun
+torba plastikowa;поліетиленовий пакет;torby plastikowe (żeński);environment;torba plastikowa;поліетиленовий пакет;noun
+jednorazowy;одноразовий;;environment;jednorazowy;одноразовий;adj
+wyrzucać;викидати;;environment;wyrzucać;викидати;verb
+usuwanie odpadów;видалення відходів;;environment;usuwanie odpadów;видалення відходів;noun
+zakład recyklingu;завод з переробки;zakłady recyklingu (męski);environment;zakład recyklingu;завод з переробки;noun
+ekologiczny;екологічний;;environment;ekologiczny;екологічний;adj
+pies;собака;собаки (rodzaj męski);environment;pies;собака;noun
+kot;кіт;коти (rodzaj męski);environment;kot;кіт;noun
+chomik;хом'як;хом'яки (rodzaj męski);environment;chomik;хом'як;noun
+królik;кролик;кролики (rodzaj męski);environment;królik;кролик;noun
+świnka morska;морська свинка;морські свинки (rodzaj żeński);environment;świnka morska;морська свинка;noun
+papuga;папуга;папуги (rodzaj żeński);environment;papuga;папуга;noun
+ryba;риба;риби (rodzaj żeński);environment;ryba;риба;noun
+żółw;черепаха;черепахи (rodzaj żeński);environment;żółw;черепаха;noun
+wąż;змія;змії (rodzaj żeński);environment;wąż;змія;noun
+jaszczurka;ящірка;ящірки (rodzaj żeński);environment;jaszczurka;ящірка;noun
+koń;кінь;коні (rodzaj męski);environment;koń;кінь;noun
+krowa;корова;корови (rodzaj żeński);environment;krowa;корова;noun
+świnia;свиня;свині (rodzaj żeński);environment;świnia;свиня;noun
+owca;вівця;вівці (rodzaj żeński);environment;owca;вівця;noun
+koza;коза;кози (rodzaj żeński);environment;koza;коза;noun
+kura;курка;курки (rodzaj żeński);environment;kura;курка;noun
+kogut;півень;півні (rodzaj męski);environment;kogut;півень;noun
+kaczka;качка;качки (rodzaj żeński);environment;kaczka;качка;noun
+gęś;гуска;гуски (rodzaj żeński);environment;gęś;гуска;noun
+indyk;індик;індики (rodzaj męski);environment;indyk;індик;noun
+ptak;птах;птахи (rodzaj męski);environment;ptak;птах;noun
+orzeł;орел;орли (rodzaj męski);environment;orzeł;орел;noun
+sowa;сова;сови (rodzaj żeński);environment;sowa;сова;noun
+wróbel;горобець;горобці (rodzaj męski);environment;wróbel;горобець;noun
+sikorka;синиця;синиці (rodzaj żeński);environment;sikorka;синиця;noun
+jeż;їжак;їжаки (rodzaj męski);environment;jeż;їжак;noun
+wiewiórka;білка;білки (rodzaj żeński);environment;wiewiórka;білка;noun
+lis;лисиця;лисиці (rodzaj żeński);environment;lis;лисиця;noun
+wilk;вовк;вовки (rodzaj męski);environment;wilk;вовк;noun
+niedźwiedź;ведмідь;ведмеді (rodzaj męski);environment;niedźwiedź;ведмідь;noun
+zając;заєць;зайці (rodzaj męski);environment;zając;заєць;noun
+karmić;годувати;;environment;karmić;годувати;verb
+wyprowadzać;вигулювати;;environment;wyprowadzać;вигулювати;verb
+tresować;дресирувати;;environment;tresować;дресирувати;verb
+opiekować się;доглядати;;environment;opiekować się;доглядати;verb
+bawić się;гратися;;environment;bawić się;гратися;verb
+głaskać;гладити;;environment;głaskać;гладити;verb
+adoptować;адоптувати;;environment;adoptować;адоптувати;verb
+szczepić;вакцинувати;;environment;szczepić;вакцинувати;verb
+czesać;розчісувати;;environment;czesać;розчісувати;verb
+kąpać;купати;;environment;kąpać;купати;verb
+domowy;домашній;;environment;domowy;домашній;adj
+dziki;дикий;;environment;dziki;дикий;adj
+wierny;вірний;;environment;wierny;вірний;adj
+futrzany;пухнастий;;environment;futrzany;пухнастий;adj
+łagodny;лагідний;;environment;łagodny;лагідний;adj
+mały;маленький;;environment;mały;маленький;adj
+duży;великий;;environment;duży;великий;adj
+młody;молодий;;environment;młody;молодий;adj
+stary;старий;;environment;stary;старий;adj
+drzewo;дерево;дерева (nijaki);environment;drzewo;дерево;noun
+liść;листок;листки (męski);environment;liść;листок;noun
+gałąź;гілка;гілки (żeński);environment;gałąź;гілка;noun
+korzeń;корінь;корені (męski);environment;korzeń;корінь;noun
+kwiat;квітка;квітки (żeński);environment;kwiat;квітка;noun
+trawa;трава;(żeński);environment;trawa;трава;noun
+krzak;кущ;кущі (męski);environment;krzak;кущ;noun
+nasiono;насінина;насінини (żeński);environment;nasiono;насінина;noun
+owoc;плід;плоди (męski);environment;owoc;плід;noun
+las;ліс;ліси (męski);environment;las;ліс;noun
+drewno;деревина;(żeński);environment;drewno;деревина;noun
+kora;кора;(żeński);environment;kora;кора;noun
+szyszka;шишка;шишки (żeński);environment;szyszka;шишка;noun
+kwitnąć;цвісти;;environment;kwitnąć;цвісти;verb
+sadzić;садити;;environment;sadzić;садити;verb
+rosnąć;рости;;environment;rosnąć;рости;verb
+pączek;брунька;бруньки (żeński);environment;pączek;брунька;noun
+pień;стовбур;стовбури (męski);environment;pień;стовбур;noun
+żywopłot;живопліт;живоплоти (męski);environment;żywopłot;живопліт;noun
+mech;мох;(męski);environment;mech;мох;noun
+paproć;папороть;папороті (żeński);environment;paproć;папороть;noun
+bluszcz;плющ;(męski);environment;bluszcz;плющ;noun
+latorośl;пагін;пагони (męski);environment;latorośl;пагін;noun
+gałązka;гілочка;гілочки (żeński);environment;gałązka;гілочка;noun
+igła;голка;голки (żeński);environment;igła;голка;noun
+liściasty;листяний;;environment;liściasty;листяний;adj
+iglasty;хвойний;;environment;iglasty;хвойний;adj
+zielony;зелений;;environment;zielony;зелений;adj
+dojrzały;стиглий;;environment;dojrzały;стиглий;adj
+sadzonka;саджанець;саджанці (męski);environment;sadzonka;саджанець;noun
+pestka;кісточка;кісточки (żeński);environment;pestka;кісточка;noun
+łodyga;стебло;стебла (nijaki);environment;łodyga;стебло;noun
+płatek;пелюстка;пелюстки (żeński);environment;płatek;пелюстка;noun
+pyłek;пилок;(męski);environment;pyłek;пилок;noun
+nektar;нектар;(męski);environment;nektar;нектар;noun
+grzyb;гриб;гриби (męski);environment;grzyb;гриб;noun
+choinka;ялинка;ялинки (żeński);environment;choinka;ялинка;noun
+dąb;дуб;дуби (męski);environment;dąb;дуб;noun
+brzoza;береза;берези (żeński);environment;brzoza;береза;noun
+sosna;сосна;сосни (żeński);environment;sosna;сосна;noun
+jodła;ялиця;ялиці (żeński);environment;jodła;ялиця;noun
+klon;клен;клени (męski);environment;klon;клен;noun
+topola;тополя;тополі (żeński);environment;topola;тополя;noun
+wierzba;верба;верби (żeński);environment;wierzba;верба;noun
+leszczyna;ліщина;ліщини (żeński);environment;leszczyna;ліщина;noun
+orzech;горіх;горіхи (męski);environment;orzech;горіх;noun
+żołądź;жолудь;жолуді (męski);environment;żołądź;жолудь;noun
+szpaler;шпалер;шпалери (męski);environment;szpaler;шпалер;noun
+aleja;алея;алеї (żeński);environment;aleja;алея;noun
+park;парк;парки (męski);environment;park;парк;noun
+zmiana klimatu;зміна клімату;зміни клімату (żeński);environment;zmiana klimatu;зміна клімату;noun
+globalne ocieplenie;глобальне потепління;;environment;globalne ocieplenie;глобальне потепління;noun
+efekt cieplarniany;парниковий ефект;парникові ефекти (męski);environment;efekt cieplarniany;парниковий ефект;noun
+gaz cieplarniany;парниковий газ;парникові гази (męski);environment;gaz cieplarniany;парниковий газ;noun
+dwutlenek węgla;вуглекислий газ;вуглекислі гази (męski);environment;dwutlenek węgla;вуглекислий газ;noun
+metan;метан;;environment;metan;метан;noun
+emisja;викид;викиди (męski);environment;emisja;викид;noun
+ślad węglowy;вуглецевий слід;вуглецеві сліди (męski);environment;ślad węglowy;вуглецевий слід;noun
+zanieczyszczenie;забруднення;забруднення (nijaki);environment;zanieczyszczenie;забруднення;noun
+powietrze;повітря;;environment;powietrze;повітря;noun
+atmosfera;атмосфера;атмосфери (żeński);environment;atmosfera;атмосфера;noun
+klimat;клімат;клімати (męski);environment;klimat;клімат;noun
+pogoda;погода;;environment;pogoda;погода;noun
+temperatura;температура;температури (żeński);environment;temperatura;температура;noun
+upał;спека;спеки (żeński);environment;upał;спека;noun
+susza;посуха;посухи (żeński);environment;susza;посуха;noun
+powódź;повінь;повені (żeński);environment;powódź;повінь;noun
+pożar;пожежа;пожежі (żeński);environment;pożar;пожежа;noun
+huragan;ураган;урагани (męski);environment;huragan;ураган;noun
+tornado;торнадо;торнадо (nijaki);environment;tornado;торнадо;noun
+topnienie;танення;;environment;topnienie;танення;noun
+lodowiec;льодовик;льодовики (męski);environment;lodowiec;льодовик;noun
+poziom morza;рівень моря;рівні моря (męski);environment;poziom morza;рівень моря;noun
+wyspa;острів;острови (męski);environment;wyspa;острів;noun
+wybrzeże;узбережжя;узбережжя (nijaki);environment;wybrzeże;узбережжя;noun
+las;ліс;ліси (męski);environment;las;ліс;noun
+puszcza;пуща;пущі (żeński);environment;puszcza;пуща;noun
+wycinka;вирубка;вирубки (żeński);environment;wycinka;вирубка;noun
+odnawialne źródło energii;відновлюване джерело енергії;відновлювані джерела енергії (nijaki);environment;odnawialne źródło energii;відновлюване джерело енергії;noun
+energia słoneczna;сонячна енергія;;environment;energia słoneczna;сонячна енергія;noun
+energia wiatrowa;вітрова енергія;;environment;energia wiatrowa;вітрова енергія;noun
+energia wodna;гідроенергія;;environment;energia wodna;гідроенергія;noun
+elektrownia;електростанція;електростанції (żeński);environment;elektrownia;електростанція;noun
+paliwo kopalne;викопне паливо;викопні палива (nijaki);environment;paliwo kopalne;викопне паливо;noun
+ropa naftowa;нафта;;environment;ropa naftowa;нафта;noun
+węgiel;вугілля;;environment;węgiel;вугілля;noun
+gaz ziemny;природний газ;природні гази (męski);environment;gaz ziemny;природний газ;noun
+odpady;відходи;відходи (męski, l. mn.);environment;odpad;відхід;noun
+recykling;переробка;переробки (żeński);environment;recykling;переробка;noun
+śmieci;сміття;;environment;śmieć;сміття;noun
+ekologia;екологія;;environment;ekologia;екологія;noun
+ekosystem;екосистема;екосистеми (żeński);environment;ekosystem;екосистема;noun
+bioróżnorodność;біорізноманіття;;environment;bioróżnorodność;біорізноманіття;noun
+gatunek;вид;види (męski);environment;gatunek;вид;noun
+wymierać;вимирати;;environment;wymierać;вимирати;verb
+ginąć;гинути;;environment;ginąć;гинути;verb
+chronić;захищати;;environment;chronić;захищати;verb
+zanieczyszczać;забруднювати;;environment;zanieczyszczać;забруднювати;verb
+topnieć;танути;;environment;topnieć;танути;verb
+ocieplać się;потеплішати;;environment;ocieplać się;потеплішати;verb

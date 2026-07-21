@@ -1,199 +1,201 @@
-centre;центр;m;places
-square;площа;f;places
-street;вулиця;f;places
-avenue;проспект;m;places
-boulevard;бульвар;m;places
-alley;провулок;m;places
-bridge;міст;m;places
-embankment;набережна;f;places
-park;парк;m;places
-garden;сад;m;places
-public garden;сквер;m;places
-market;ринок;m;places
-supermarket;супермаркет;m;places
-shop;магазин;m;places
-shopping centre;торговий центр;m;places
-restaurant;ресторан;m;places
-cafe;кафе;n;places
-bar;бар;m;places
-pub;паб;m;places
-nightclub;нічний клуб;m;places
-cinema;кінотеатр;m;places
-theatre;театр;m;places
-museum;музей;m;places
-gallery;галерея;f;places
-library;бібліотека;f;places
-hospital;лікарня;f;places
-pharmacy;аптека;f;places
-police station;поліцейський відділок;m;places
-fire station;пожежна частина;f;places
-post office;пошта;f;places
-bank;банк;m;places
-hotel;готель;m;places
-hostel;хостел;m;places
-train station;вокзал;m;places
-bus station;автовокзал;m;places
-bus stop;автобусна зупинка;f;places
-tram stop;трамвайна зупинка;f;places
-metro;метро;n;places
-airport;аеропорт;m;places
-port;порт;m;places
-church;церква;f;places
-cathedral;собор;m;places
-mosque;мечеть;f;places
-synagogue;синагога;f;places
-temple;храм;m;places
-school;школа;f;places
-university;університет;m;places
-college;коледж;m;places
-office;офіс;m;places
-stadium;стадіон;m;places
-countryside;сільська місцевість;f;places
-farm;ферма;f;places
-field;поле;n;places
-meadow;луг;m;places
-forest;ліс;m;places
-wood;гай;m;places
-hill;пагорб;m;places
-mountain;гора;f;places
-valley;долина;f;places
-river;річка;f;places
-lake;озеро;n;places
-pond;ставок;m;places
-stream;струмок;m;places
-waterfall;водоспад;m;places
-cliff;скеля;f;places
-cave;печера;f;places
-path;доріжка;f;places
-trail;стежка;f;places
-lane;провулок;m;places
-village;село;n;places
-hamlet;хутір;m;places
-farmhouse;садиба;f;places
-barn;сарай;m;places
-stable;стайня;f;places
-shed;навіс;m;places
-pasture;пасовище;n;places
-orchard;фруктовий сад;m;places
-vineyard;виноградник;m;places
-garden;сад;m;places
-greenhouse;теплиця;f;places
-paddock;загін;m;places
-pen;загорода;f;places
-heath;пустище;n;places
-moor;торфовище;n;places
-marsh;болото;n;places
-swamp;трясовина;f;places
-bog;драговина;f;places
-grassland;лука;f;places
-prairie;прерія;f;places
-thicket;хаща;f;places
-clearing;галявина;f;places
-edge of forest;узлісся;n;places
-lookout;оглядовий майданчик;m;places
-campsite;кемпінг;m;places
-farmyard;подвір'я;n;places
-watermill;водяний млин;m;places
-windmill;вітряк;m;places
-bridge;міст;m;places
-gate;ворота;pl;places
-stile;перелаз;m;places
-mountain;гора;f;places
-river;річка;f;places
-lake;озеро;n;places
-sea;море;n;places
-ocean;океан;m;places
-desert;пустеля;f;places
-forest;ліс;m;places
-valley;долина;f;places
-hill;пагорб;m;places
-island;острів;m;places
-peninsula;півострів;m;places
-continent;континент;m;places
-country;країна;f;places
-city;місто;n;places
-village;село;n;places
-capital;столиця;f;places
-coast;узбережжя;n;places
-beach;пляж;m;places
-cliff;скеля;f;places
-cave;печера;f;places
-waterfall;водоспад;m;places
-volcano;вулкан;m;places
-glacier;льодовик;m;places
-jungle;джунглі;pl;places
-swamp;болото;n;places
-plain;рівнина;f;places
-plateau;плато;n;places
-canyon;каньйон;m;places
-bay;затока;f;places
-strait;протока;f;places
-archipelago;архіпелаг;m;places
-reef;риф;m;places
-atoll;атол;m;places
-stream;струмок;m;places
-field;поле;n;places
-meadow;лука;f;places
-farm;ферма;f;places
-landscape;ландшафт;m;places
-terrain;місцевість;f;places
-region;область;f;places
-border;кордон;m;places
-boundary;межа;f;places
-map;карта;f;places
-globe;глобус;m;places
-hemisphere;півкуля;f;places
-equator;екватор;m;places
-pole;полюс;m;places
-latitude;широта;f;places
-longitude;довгота;f;places
-street;вулиця;f;places
-road;дорога;f;places
-avenue;проспект;m;places
-square;площа;f;places
-corner;кут;m;places
-intersection;перехрестя;n;places
-traffic light;світлофор;m;places
-roundabout;кільце;n;places
-bridge;міст;m;places
-tunnel;тунель;m;places
-underpass;підземний перехід;m;places
-pedestrian crossing;пішохідний перехід;m;places
-pavement;тротуар;m;places
-bus stop;автобусна зупинка;f;places
-taxi rank;стоянка таксі;f;places
-railway station;вокзал;m;places
-metro station;станція метро;f;places
-airport;аеропорт;m;places
-port;порт;m;places
-harbour;гавань;f;places
-city centre;центр міста;m;places
-district;район;m;places
-neighbourhood;мікрорайон;m;places
-block;квартал;m;places
-park;парк;m;places
-market;ринок;m;places
-supermarket;супермаркет;m;places
-pharmacy;аптека;f;places
-hospital;лікарня;f;places
-police station;поліцейський відділок;m;places
-post office;пошта;f;places
-bank;банк;m;places
-hotel;готель;m;places
-restaurant;ресторан;m;places
-café;кафе;n;places
-cinema;кінотеатр;m;places
-theatre;театр;m;places
-museum;музей;m;places
-church;церква;f;places
-cathedral;собор;m;places
-castle;замок;m;places
-monument;пам'ятник;m;places
-fountain;фонтан;m;places
-car park;автостоянка;f;places
-petrol station;заправка;f;places
-direction;напрямок;m;places
-map;карта;f;places
-road sign;дорожній знак;m;places
-embankment;набережна;f;places
-tourist information centre;туристичний центр;m;places
+airport;аеропорт;аеропорти (masculine);places;airport;аеропорт;noun
+bank;банк;банки (masculine);places;bank;банк;noun
+bar;бар;бари (masculine);places;bar;бар;noun
+bookstore;книгарня;книгарні (feminine);places;bookstore;книгарня;noun
+bridge;міст;мости (masculine);places;bridge;міст;noun
+bus station;автовокзал;автовокзали (masculine);places;bus station;автовокзал;noun
+bus stop;автобусна зупинка;автобусні зупинки (feminine);places;bus stop;автобусна зупинка;noun
+café;кафе;кафе (neuter);places;café;кафе;noun
+castle;замок;замки (masculine);places;castle;замок;noun
+cathedral;собор;собори (masculine);places;cathedral;собор;noun
+church;церква;церкви (feminine);places;church;церква;noun
+cinema;кінотеатр;кінотеатри (masculine);places;cinema;кінотеатр;noun
+city center;центр міста;центри міста (masculine);places;city center;центр міста;noun
+corner;ріг;роги (masculine);places;corner;ріг;noun
+crossroads;перехрестя;перехрестя (neuter);places;crossroads;перехрестя;noun
+department store;універмаг;універмаги (masculine);places;department store;універмаг;noun
+factory;фабрика;фабрики (feminine);places;factory;фабрика;noun
+fire station;пожежна станція;пожежні станції (feminine);places;fire station;пожежна станція;noun
+fountain;фонтан;фонтани (masculine);places;fountain;фонтан;noun
+gallery;галерея;галереї (feminine);places;gallery;галерея;noun
+gas station;заправка;заправки (feminine);places;gas station;заправка;noun
+hospital;лікарня;лікарні (feminine);places;hospital;лікарня;noun
+hotel;готель;готелі (masculine);places;hotel;готель;noun
+library;бібліотека;бібліотеки (feminine);places;library;бібліотека;noun
+market;ринок;ринки (masculine);places;market;ринок;noun
+monument;пам'ятник;пам'ятники (masculine);places;monument;пам'ятник;noun
+mosque;мечеть;мечеті (feminine);places;mosque;мечеть;noun
+museum;музей;музеї (masculine);places;museum;музей;noun
+neighborhood;район;райони (masculine);places;neighborhood;район;noun
+nightclub;нічний клуб;нічні клуби (masculine);places;nightclub;нічний клуб;noun
+park;парк;парки (masculine);places;park;парк;noun
+parking lot;парковка;парковки (feminine);places;parking lot;парковка;noun
+pharmacy;аптека;аптеки (feminine);places;pharmacy;аптека;noun
+police station;поліцейський відділок;поліцейські відділки (masculine);places;police station;поліцейський відділок;noun
+port;порт;порти (masculine);places;port;порт;noun
+post office;пошта;пошти (feminine);places;post office;пошта;noun
+prison;в'язниця;в'язниці (feminine);places;prison;в'язниця;noun
+riverbank;берег річки;береги річки (masculine);places;riverbank;берег річки;noun
+road;дорога;дороги (feminine);places;road;дорога;noun
+school;школа;школи (feminine);places;school;школа;noun
+shop;магазин;магазини (masculine);places;shop;магазин;noun
+square;площа;площі (feminine);places;square;площа;noun
+stadium;стадіон;стадіони (masculine);places;stadium;стадіон;noun
+street;вулиця;вулиці (feminine);places;street;вулиця;noun
+suburb;передмістя;передмістя (neuter);places;suburb;передмістя;noun
+supermarket;супермаркет;супермаркети (masculine);places;supermarket;супермаркет;noun
+synagogue;синагога;синагоги (feminine);places;synagogue;синагога;noun
+temple;храм;храми (masculine);places;temple;храм;noun
+theater;театр;театри (masculine);places;theater;театр;noun
+town hall;мерія;мерії (feminine);places;town hall;мерія;noun
+train station;залізничний вокзал;залізничні вокзали (masculine);places;train station;залізничний вокзал;noun
+countryside;сільська місцевість;;places;countryside;сільська місцевість;noun
+village;село;села (neuter);places;village;село;noun
+farm;ферма;ферми (feminine);places;farm;ферма;noun
+field;поле;поля (neuter);places;field;поле;noun
+meadow;лука;луки (feminine);places;meadow;лука;noun
+forest;ліс;ліси (masculine);places;forest;ліс;noun
+wood;лісок;ліски (masculine);places;wood;лісок;noun
+hill;пагорб;пагорби (masculine);places;hill;пагорб;noun
+mountain;гора;гори (feminine);places;mountain;гора;noun
+valley;долина;долини (feminine);places;valley;долина;noun
+river;річка;річки (feminine);places;river;річка;noun
+stream;струмок;струмки (masculine);places;stream;струмок;noun
+brook;потік;потоки (masculine);places;brook;потік;noun
+lake;озеро;озера (neuter);places;lake;озеро;noun
+pond;ставок;ставки (masculine);places;pond;ставок;noun
+waterfall;водоспад;водоспади (masculine);places;waterfall;водоспад;noun
+cliff;скеля;скелі (feminine);places;cliff;скеля;noun
+cave;печера;печери (feminine);places;cave;печера;noun
+coast;узбережжя;узбережжя (neuter);places;coast;узбережжя;noun
+plain;рівнина;рівнини (feminine);places;plain;рівнина;noun
+plateau;плато;;places;plateau;плато;noun
+marsh;болото;болота (neuter);places;marsh;болото;noun
+swamp;трясовина;трясовини (feminine);places;swamp;трясовина;noun
+moor;пустище;пустища (neuter);places;moor;пустище;noun
+heath;пустка;пустки (feminine);places;heath;пустка;noun
+path;стежка;стежки (feminine);places;path;стежка;noun
+trail;шлях;шляхи (masculine);places;trail;шлях;noun
+bridge;міст;мости (masculine);places;bridge;міст;noun
+gate;ворота;ворота (neuter);places;gate;ворота;noun
+stile;перелаз;перелази (masculine);places;stile;перелаз;noun
+cottage;котедж;котеджі (masculine);places;cottage;котедж;noun
+farmhouse;садиба;садиби (feminine);places;farmhouse;садиба;noun
+barn;сарай;сараї (masculine);places;barn;сарай;noun
+stable;стайня;стайні (feminine);places;stable;стайня;noun
+shed;повітка;повітки (feminine);places;shed;повітка;noun
+orchard;сад;сади (masculine);places;orchard;сад;noun
+vineyard;виноградник;виноградники (masculine);places;vineyard;виноградник;noun
+pasture;пасовище;пасовища (neuter);places;pasture;пасовище;noun
+grove;гай;гаї (masculine);places;grove;гай;noun
+thicket;чагарник;чагарники (masculine);places;thicket;чагарник;noun
+bush;кущ;кущі (masculine);places;bush;кущ;noun
+hedge;живопліт;живоплоти (masculine);places;hedge;живопліт;noun
+riverbank;берег;береги (masculine);places;riverbank;берег;noun
+farmland;угіддя;угіддя (neuter);places;farmland;угіддя;noun
+mill;млин;млини (masculine);places;mill;млин;noun
+church;церква;церкви (feminine);places;church;церква;noun
+chapel;каплиця;каплиці (feminine);places;chapel;каплиця;noun
+town;містечко;містечка (neuter);places;town;містечко;noun
+hamlet;селище;селища (neuter);places;hamlet;селище;noun
+lane;путівець;путівці (masculine);places;lane;путівець;noun
+mountain;гора;гори (feminine);places;mountain;гора;noun
+hill;пагорб;пагорби (masculine);places;hill;пагорб;noun
+valley;долина;долини (feminine);places;valley;долина;noun
+plain;рівнина;рівнини (feminine);places;plain;рівнина;noun
+plateau;плато;плато (neuter);places;plateau;плато;noun
+desert;пустеля;пустелі (feminine);places;desert;пустеля;noun
+forest;ліс;ліси (masculine);places;forest;ліс;noun
+swamp;болото;болота (neuter);places;swamp;болото;noun
+coast;узбережжя;узбережжя (neuter);places;coast;узбережжя;noun
+beach;пляж;пляжі (masculine);places;beach;пляж;noun
+island;острів;острови (masculine);places;island;острів;noun
+peninsula;півострів;півострови (masculine);places;peninsula;півострів;noun
+bay;затока;затоки (feminine);places;bay;затока;noun
+ocean;океан;океани (masculine);places;ocean;океан;noun
+sea;море;моря (neuter);places;sea;море;noun
+lake;озеро;озера (neuter);places;lake;озеро;noun
+river;річка;річки (feminine);places;river;річка;noun
+stream;струмок;струмки (masculine);places;stream;струмок;noun
+waterfall;водоспад;водоспади (masculine);places;waterfall;водоспад;noun
+volcano;вулкан;вулкани (masculine);places;volcano;вулкан;noun
+cave;печера;печери (feminine);places;cave;печера;noun
+cliff;скеля;скелі (feminine);places;cliff;скеля;noun
+canyon;каньйон;каньйони (masculine);places;canyon;каньйон;noun
+glacier;льодовик;льодовики (masculine);places;glacier;льодовик;noun
+iceberg;айсберг;айсберги (masculine);places;iceberg;айсберг;noun
+pole;полюс;полюси (masculine);places;pole;полюс;noun
+equator;екватор;(masculine);places;equator;екватор;noun
+north;північ;(feminine);places;north;північ;noun
+south;південь;(masculine);places;south;південь;noun
+east;схід;(masculine);places;east;схід;noun
+west;захід;(masculine);places;west;захід;noun
+map;карта;карти (feminine);places;map;карта;noun
+globe;глобус;глобуси (masculine);places;globe;глобус;noun
+atlas;атлас;атласи (masculine);places;atlas;атлас;noun
+compass;компас;компаси (masculine);places;compass;компас;noun
+country;країна;країни (feminine);places;country;країна;noun
+region;регіон;регіони (masculine);places;region;регіон;noun
+capital;столиця;столиці (feminine);places;capital;столиця;noun
+city;місто;міста (neuter);places;city;місто;noun
+town;містечко;містечка (neuter);places;town;містечко;noun
+village;село;села (neuter);places;village;село;noun
+border;кордон;кордони (masculine);places;border;кордон;noun
+landscape;ландшафт;ландшафти (masculine);places;landscape;ландшафт;noun
+environment;довкілля;(neuter);places;environment;довкілля;noun
+nature;природа;(feminine);places;nature;природа;noun
+earth;Земля;(feminine);places;earth;Земля;noun
+world;світ;світи (masculine);places;world;світ;noun
+continent;континент;континенти (masculine);places;continent;континент;noun
+latitude;широта;широти (feminine);places;latitude;широта;noun
+longitude;довгота;довготи (feminine);places;longitude;довгота;noun
+street;вулиця;вулиці (feminine);places;street;вулиця;noun
+corner;кут;кути (masculine);places;corner;кут;noun
+intersection;перехрестя;перехрестя (neuter);places;intersection;перехрестя;noun
+traffic light;світлофор;світлофори (masculine);places;traffic light;світлофор;noun
+roundabout;кільце;кільця (neuter);places;roundabout;кільце;noun
+bridge;міст;мости (masculine);places;bridge;міст;noun
+tunnel;тунель;тунелі (masculine);places;tunnel;тунель;noun
+square;площа;площі (feminine);places;square;площа;noun
+station;станція;станції (feminine);places;station;станція;noun
+bus stop;автобусна зупинка;автобусні зупинки (feminine);places;bus stop;автобусна зупинка;noun
+subway;метро;метро (neuter);places;subway;метро;noun
+entrance;вхід;входи (masculine);places;entrance;вхід;noun
+exit;вихід;виходи (masculine);places;exit;вихід;noun
+path;стежка;стежки (feminine);places;path;стежка;noun
+sidewalk;тротуар;тротуари (masculine);places;sidewalk;тротуар;noun
+highway;шосе;шосе (neuter);places;highway;шосе;noun
+avenue;проспект;проспекти (masculine);places;avenue;проспект;noun
+block;квартал;квартали (masculine);places;block;квартал;noun
+map;карта;карти (feminine);places;map;карта;noun
+route;маршрут;маршрути (masculine);places;route;маршрут;noun
+landmark;орієнтир;орієнтири (masculine);places;landmark;орієнтир;noun
+parking lot;парковка;парковки (feminine);places;parking lot;парковка;noun
+building;будівля;будівлі (feminine);places;building;будівля;noun
+neighborhood;район;райони (masculine);places;neighborhood;район;noun
+direction;напрямок;напрямки (masculine);places;direction;напрямок;noun
+sign;знак;знаки (masculine);places;sign;знак;noun
+stairs;сходи;сходи (masculine, plural only);places;stairs;сходи;noun
+escalator;ескалатор;ескалатори (masculine);places;escalator;ескалатор;noun
+elevator;ліфт;ліфти (masculine);places;elevator;ліфт;noun
+crosswalk;пішохідний перехід;пішохідні переходи (masculine);places;crosswalk;пішохідний перехід;noun
+alley;провулок;провулки (masculine);places;alley;провулок;noun
+dead end;тупик;тупики (masculine);places;dead end;тупик;noun
+turn;повертати;;places;turn;повертати;verb
+cross;переходити;;places;cross;переходити;verb
+follow;слідувати;;places;follow;слідувати;verb
+continue;продовжувати;;places;continue;продовжувати;verb
+pass;проходити;;places;pass;проходити;verb
+head;прямувати;;places;head;прямувати;verb
+walk;йти;;places;walk;йти;verb
+reach;досягати;;places;reach;досягати;verb
+straight;прямо;;places;straight;прямо;adv
+left;ліворуч;;places;left;ліворуч;adv
+right;праворуч;;places;right;праворуч;adv
+ahead;попереду;;places;ahead;попереду;adv
+far;далеко;;places;far;далеко;adv
+nearby;поруч;;places;nearby;поруч;adv
+opposite;навпроти;;places;opposite;навпроти;prep
+between;між;;places;between;між;prep
+next to;поруч з;;places;next to;поруч з;prep
+behind;позаду;;places;behind;позаду;prep

@@ -1,199 +1,200 @@
-die Umweltverschmutzung;забруднення довкілля;;environment
-die Luftverschmutzung;забруднення повітря;;environment
-der Müll;сміття;;environment
-der Abfall;відходи;die Abfälle;environment
-die Mülltonne;сміттєвий бак;die Mülltonnen;environment
-das Recycling;переробка;;environment
-der Plastikmüll;пластикове сміття;;environment
-die Plastiktüte;пластиковий пакет;die Plastiktüten;environment
-die Glasflasche;скляна пляшка;die Glasflaschen;environment
-die Aludose;алюмінієва банка;die Aludosen;environment
-das Pfand;застава;die Pfänder;environment
-der Müllberg;сміттєва гора;die Müllberge;environment
-die Deponie;звалище;die Deponien;environment
-der Sondermüll;небезпечні відходи;;environment
-die Verbrennungsanlage;сміттєспалювальний завод;die Verbrennungsanlagen;environment
-der Rauch;дим;;environment
-die Emission;викид;die Emissionen;environment
-das Abgas;вихлопний газ;die Abgase;environment
-der Treibhauseffekt;парниковий ефект;die Treibhauseffekte;environment
-die Ozonschicht;озоновий шар;;environment
-das Ozonloch;озонова діра;die Ozonlöcher;environment
-die Ressource;ресурс;die Ressourcen;environment
-der Rohstoff;сировина;die Rohstoffe;environment
-die Energieverschwendung;марнотратство енергії;;environment
-der Schadstoff;шкідлива речовина;die Schadstoffe;environment
-die Wiederverwertung;переробка;;environment
-die Verschmutzung;забруднення;die Verschmutzungen;environment
-die Reinigung;очищення;die Reinigungen;environment
-recyceln;переробляти;;environment
-trennen;сортувати;;environment
-vermeiden;уникати;;environment
-verschmutzen;забруднювати;;environment
-entsorgen;утилізувати;;environment
-kompostieren;компостувати;;environment
-einsparen;економити;;environment
-reduzieren;зменшувати;;environment
-wiederverwenden;повторно використовувати;;environment
-umweltfreundlich;екологічний;;environment
-schädlich;шкідливий;;environment
-giftig;отруйний;;environment
-biologisch abbaubar;біорозкладний;;environment
-nachhaltig;сталий;;environment
-wiederverwertbar;придатний для переробки;;environment
-energiesparend;енергоощадний;;environment
-umweltschädlich;шкідливий для довкілля;;environment
-der Müllsack;сміттєвий пакет;die Müllsäcke;environment
-die Wertstofftonne;контейнер для вторинної сировини;die Wertstofftonnen;environment
-der Kompost;компост;;environment
-die Mülltrennung;сортування сміття;die Mülltrennungen;environment
-der Pfandautomat;автомат для прийому тари;die Pfandautomaten;environment
-der Hund;собака;die Hunde;environment
-die Katze;кішка;die Katzen;environment
-der Fisch;риба;die Fische;environment
-der Vogel;птах;die Vögel;environment
-der Hamster;хом'як;die Hamster;environment
-das Meerschweinchen;морська свинка;die Meerschweinchen;environment
-das Kaninchen;кролик;die Kaninchen;environment
-das Pferd;кінь;die Pferde;environment
-die Kuh;корова;die Kühe;environment
-das Schaf;вівця;die Schafe;environment
-die Ziege;коза;die Ziegen;environment
-das Schwein;свиня;die Schweine;environment
-das Huhn;курка;die Hühner;environment
-die Ente;качка;die Enten;environment
-die Gans;гуска;die Gänse;environment
-der Truthahn;індик;die Truthähne;environment
-die Taube;голуб;die Tauben;environment
-der Papagei;папуга;die Papageien;environment
-der Wellensittich;хвилястий папуга;die Wellensittiche;environment
-die Maus;миша;die Mäuse;environment
-die Ratte;щур;die Ratten;environment
-das Frettchen;тхір;die Frettchen;environment
-die Eidechse;ящірка;die Eidechsen;environment
-die Schlange;змія;die Schlangen;environment
-die Schildkröte;черепаха;die Schildkröten;environment
-der Igel;їжак;die Igel;environment
-das Eichhörnchen;білка;die Eichhörnchen;environment
-der Fuchs;лисиця;die Füchse;environment
-der Wolf;вовк;die Wölfe;environment
-der Bär;ведмідь;die Bären;environment
-der Tiger;тигр;die Tiger;environment
-der Löwe;лев;die Löwen;environment
-der Elefant;слон;die Elefanten;environment
-die Giraffe;жираф;die Giraffen;environment
-der Affe;мавпа;die Affen;environment
-der Pinguin;пінгвін;die Pinguine;environment
-der Delfin;дельфін;die Delfine;environment
-der Wal;кит;die Wale;environment
-der Hai;акула;die Haie;environment
-die Robbe;тюлень;die Robben;environment
-das Krokodil;крокодил;die Krokodile;environment
-der Adler;орел;die Adler;environment
-der Falke;сокіл;die Falken;environment
-die Eule;сова;die Eulen;environment
-die Spinne;павук;die Spinnen;environment
-die Biene;бджола;die Bienen;environment
-die Ameise;мураха;die Ameisen;environment
-der Schmetterling;метелик;die Schmetterlinge;environment
-der Marienkäfer;сонечко;die Marienkäfer;environment
-die Möwe;чайка;die Möwen;environment
-der Baum;дерево;die Bäume;environment
-die Blume;квітка;die Blumen;environment
-die Pflanze;рослина;die Pflanzen;environment
-das Blatt;листок;die Blätter;environment
-die Wurzel;корінь;die Wurzeln;environment
-der Ast;гілка;die Äste;environment
-der Zweig;гілочка;die Zweige;environment
-der Stamm;стовбур;die Stämme;environment
-die Rinde;кора;die Rinden;environment
-die Knospe;брунька;die Knospen;environment
-die Blüte;цвіт;die Blüten;environment
-die Frucht;плід;die Früchte;environment
-der Samen;насіння;die Samen;environment
-der Keimling;паросток;die Keimlinge;environment
-der Sämling;саджанець;die Sämlinge;environment
-das Gras;трава;die Gräser;environment
-das Moos;мох;die Moose;environment
-der Farn;папороть;die Farne;environment
-der Pilz;гриб;die Pilze;environment
-die Tanne;ялиця;die Tannen;environment
-die Fichte;ялина;die Fichten;environment
-die Kiefer;сосна;die Kiefern;environment
-die Birke;береза;die Birken;environment
-die Eiche;дуб;die Eichen;environment
-die Buche;бук;die Buchen;environment
-die Linde;липа;die Linden;environment
-die Weide;верба;die Weiden;environment
-der Ahorn;клен;die Ahorne;environment
-die Palme;пальма;die Palmen;environment
-der Kaktus;кактус;die Kakteen;environment
-der Strauch;кущ;die Sträucher;environment
-die Hecke;живопліт;die Hecken;environment
-die Blütenpflanze;квіткова рослина;die Blütenpflanzen;environment
-das Kraut;трава;die Kräuter;environment
-die Staude;багаторічна рослина;die Stauden;environment
-die Kletterpflanze;витка рослина;die Kletterpflanzen;environment
-die Zierpflanze;декоративна рослина;die Zierpflanzen;environment
-die Zimmerpflanze;кімнатна рослина;die Zimmerpflanzen;environment
-der Busch;кущ;die Büsche;environment
-das Gehölz;деревна рослина;die Gehölze;environment
-das Laub;листя;;environment
-die Nadel;голка;die Nadeln;environment
-der Zapfen;шишка;die Zapfen;environment
-die Kastanie;каштан;die Kastanien;environment
-die Hasel;ліщина;die Haseln;environment
-der Holunder;бузина;die Holunder;environment
-der Flieder;бузок;die Flieder;environment
-die Rose;троянда;die Rosen;environment
-die Tulpe;тюльпан;die Tulpen;environment
-der Klimawandel;зміна клімату;;environment
-die globale Erwärmung;глобальне потепління;;environment
-der Treibhauseffekt;парниковий ефект;die Treibhauseffekte;environment
-das Treibhausgas;парниковий газ;die Treibhausgase;environment
-die CO2-Emission;викиди CO2;die CO2-Emissionen;environment
-das Kohlenstoffdioxid;вуглекислий газ;;environment
-die Umweltverschmutzung;забруднення довкілля;;environment
-die Luftverschmutzung;забруднення повітря;;environment
-die Wasserverschmutzung;забруднення води;;environment
-der Smog;смог;;environment
-das Ozonloch;озонова діра;die Ozonlöcher;environment
-die Ozonschicht;озоновий шар;;environment
-die Abholzung;вирубка лісів;;environment
-die Wüstenbildung;опустелювання;;environment
-die Dürre;посуха;die Dürren;environment
-die Überschwemmung;повінь;die Überschwemmungen;environment
-der Meeresspiegelanstieg;підвищення рівня моря;;environment
-der Gletscher;льодовик;die Gletscher;environment
-das Polareis;полярний лід;;environment
-die Polkappe;полярна шапка;die Polkappen;environment
-die Temperatur;температура;die Temperaturen;environment
-das Wetter;погода;;environment
-das Klima;клімат;die Klimata;environment
-die Klimazone;кліматичний пояс;die Klimazonen;environment
-der Wetterbericht;прогноз погоди;die Wetterberichte;environment
-die Vorhersage;прогноз;die Vorhersagen;environment
-die Naturkatastrophe;стихійне лихо;die Naturkatastrophen;environment
-der Hurrikan;ураган;die Hurrikane;environment
-der Tornado;торнадо;die Tornados;environment
-der Wirbelsturm;циклон;die Wirbelstürme;environment
-die Hitzewelle;спека;die Hitzewellen;environment
-der Waldbrand;лісова пожежа;die Waldbrände;environment
-der Artenschutz;захист видів;;environment
-die Biodiversität;біорізноманіття;;environment
-das Ökosystem;екосистема;die Ökosysteme;environment
-die erneuerbare Energie;відновлювана енергія;die erneuerbaren Energien;environment
-die Solarenergie;сонячна енергія;;environment
-die Windenergie;вітрова енергія;;environment
-die Wasserkraft;гідроенергія;;environment
-die Biomasse;біомаса;;environment
-die Energieeffizienz;енергоефективність;;environment
-die Nachhaltigkeit;сталий розвиток;;environment
-das Recycling;переробка;;environment
-die Mülltrennung;сортування сміття;;environment
-der Müll;сміття;;environment
-die Plastikverschmutzung;забруднення пластиком;;environment
-das Abgas;вихлопний газ;die Abgase;environment
-der Feinstaub;дрібнодисперсний пил;;environment
-das Elektroauto;електромобіль;die Elektroautos;environment
-der ökologische Fußabdruck;екологічний слід;die ökologischen Fußabdrücke;environment
+die Umweltverschmutzung;забруднення довкілля;;environment;Umweltverschmutzung;забруднення довкілля;noun
+die Luftverschmutzung;забруднення повітря;;environment;Luftverschmutzung;забруднення повітря;noun
+die Wasserverschmutzung;забруднення води;;environment;Wasserverschmutzung;забруднення води;noun
+der Müll;сміття;;environment;Müll;сміття;noun
+der Abfall;відхід;відходи (männlich);environment;Abfall;відхід;noun
+die Mülltonne;сміттєвий бак;сміттєві баки (männlich);environment;Mülltonne;сміттєвий бак;noun
+die Müllabfuhr;вивезення сміття;;environment;Müllabfuhr;вивезення сміття;noun
+die Mülldeponie;сміттєзвалище;сміттєзвалища (sächlich);environment;Mülldeponie;сміттєзвалище;noun
+das Recycling;переробка;;environment;Recycling;переробка;noun
+der Recyclinghof;пункт прийому вторсировини;пункти прийому вторсировини (männlich);environment;Recyclinghof;пункт прийому вторсировини;noun
+die Wertstofftonne;контейнер для вторсировини;контейнери для вторсировини (männlich);environment;Wertstofftonne;контейнер для вторсировини;noun
+der Gelbe Sack;жовтий мішок;жовті мішки (männlich);environment;Gelber Sack;жовтий мішок;noun
+die Plastiktüte;пластиковий пакет;пластикові пакети (männlich);environment;Plastiktüte;пластиковий пакет;noun
+die Plastikflasche;пластикова пляшка;пластикові пляшки (weiblich);environment;Plastikflasche;пластикова пляшка;noun
+der Plastikmüll;пластикове сміття;;environment;Plastikmüll;пластикове сміття;noun
+das Plastik;пластик;;environment;Plastik;пластик;noun
+die Dose;бляшанка;бляшанки (weiblich);environment;Dose;бляшанка;noun
+die Aludose;алюмінієва бляшанка;алюмінієві бляшанки (weiblich);environment;Aludose;алюмінієва бляшанка;noun
+die Glasflasche;скляна пляшка;скляні пляшки (weiblich);environment;Glasflasche;скляна пляшка;noun
+das Altglas;склобій;;environment;Altglas;склобій;noun
+das Altpapier;макулатура;;environment;Altpapier;макулатура;noun
+der Papiermüll;паперове сміття;;environment;Papiermüll;паперове сміття;noun
+der Biomüll;біовідходи;біовідходи (männlich);environment;Biomüll;біовідходи;noun
+der Kompost;компост;;environment;Kompost;компост;noun
+die Kompostierung;компостування;;environment;Kompostierung;компостування;noun
+der Schadstoff;шкідлива речовина;шкідливі речовини (weiblich);environment;Schadstoff;шкідлива речовина;noun
+die Emission;викид;викиди (männlich);environment;Emission;викид;noun
+das Abgas;вихлопний газ;вихлопні гази (männlich);environment;Abgas;вихлопний газ;noun
+der CO2-Ausstoß;викиди CO2;викиди CO2 (männlich);environment;CO2-Ausstoß;викид CO2;noun
+die Umweltbelastung;навантаження на довкілля;;environment;Umweltbelastung;навантаження на довкілля;noun
+die Umweltgefährdung;небезпека для довкілля;;environment;Umweltgefährdung;небезпека для довкілля;noun
+die Verschmutzung;забруднення;;environment;Verschmutzung;забруднення;noun
+das Ozonloch;озонова діра;озонові діри (weiblich);environment;Ozonloch;озонова діра;noun
+der Treibhauseffekt;парниковий ефект;;environment;Treibhauseffekt;парниковий ефект;noun
+die globale Erwärmung;глобальне потепління;;environment;globale Erwärmung;глобальне потепління;noun
+der Klimawandel;зміна клімату;;environment;Klimawandel;зміна клімату;noun
+die Nachhaltigkeit;стійкість;;environment;Nachhaltigkeit;стійкість;noun
+nachhaltig;стійкий;;environment;nachhaltig;стійкий;adj
+umweltfreundlich;екологічний;;environment;umweltfreundlich;екологічний;adj
+die Energieeinsparung;енергозбереження;;environment;Energieeinsparung;енергозбереження;noun
+die Energiesparlampe;енергозберігаюча лампа;енергозберігаючі лампи (weiblich);environment;Energiesparlampe;енергозберігаюча лампа;noun
+der Stromverbrauch;споживання електроенергії;;environment;Stromverbrauch;споживання електроенергії;noun
+die erneuerbare Energie;відновлювана енергія;;environment;erneuerbare Energie;відновлювана енергія;noun
+die Windenergie;вітрова енергія;;environment;Windenergie;вітрова енергія;noun
+die Solarenergie;сонячна енергія;;environment;Solarenergie;сонячна енергія;noun
+die Müllvermeidung;запобігання утворенню сміття;;environment;Müllvermeidung;запобігання утворенню сміття;noun
+der Pfand;застава;застави (weiblich);environment;Pfand;застава;noun
+die Pfandflasche;пляшка під заставу;пляшки під заставу (weiblich);environment;Pfandflasche;пляшка під заставу;noun
+recyceln;переробляти;;environment;recyceln;переробляти;verb
+trennen;сортувати;;environment;trennen;сортувати;verb
+das Haustier;домашня тварина;Haustiere (sächlich);environment;Haustier;домашня тварина;noun
+der Hund;собака;Hunde (männlich);environment;Hund;собака;noun
+die Katze;кіт;Katzen (weiblich);environment;Katze;кіт;noun
+der Vogel;птах;Vögel (männlich);environment;Vogel;птах;noun
+der Fisch;риба;Fische (männlich);environment;Fisch;риба;noun
+das Kaninchen;кролик;Kaninchen (sächlich);environment;Kaninchen;кролик;noun
+der Hamster;хом'як;Hamster (männlich);environment;Hamster;хом'як;noun
+das Meerschweinchen;морська свинка;Meerschweinchen (sächlich);environment;Meerschweinchen;морська свинка;noun
+die Schildkröte;черепаха;Schildkröten (weiblich);environment;Schildkröte;черепаха;noun
+die Maus;миша;Mäuse (weiblich);environment;Maus;миша;noun
+die Ratte;пацюк;Ratten (weiblich);environment;Ratte;пацюк;noun
+der Wellensittich;хвилястий папужка;Wellensittiche (männlich);environment;Wellensittich;хвилястий папужка;noun
+der Papagei;папуга;Papageien (männlich);environment;Papagei;папуга;noun
+das Pferd;кінь;Pferde (sächlich);environment;Pferd;кінь;noun
+die Kuh;корова;Kühe (weiblich);environment;Kuh;корова;noun
+das Schwein;свиня;Schweine (sächlich);environment;Schwein;свиня;noun
+das Schaf;вівця;Schafe (sächlich);environment;Schaf;вівця;noun
+die Ziege;коза;Ziegen (weiblich);environment;Ziege;коза;noun
+das Huhn;курка;Hühner (sächlich);environment;Huhn;курка;noun
+der Hahn;півень;Hähne (männlich);environment;Hahn;півень;noun
+die Ente;качка;Enten (weiblich);environment;Ente;качка;noun
+die Gans;гуска;Gänse (weiblich);environment;Gans;гуска;noun
+der Esel;віслюк;Esel (männlich);environment;Esel;віслюк;noun
+der Frosch;жаба;Frösche (männlich);environment;Frosch;жаба;noun
+der Igel;їжак;Igel (männlich);environment;Igel;їжак;noun
+das Eichhörnchen;білка;Eichhörnchen (sächlich);environment;Eichhörnchen;білка;noun
+der Fuchs;лисиця;Füchse (männlich);environment;Fuchs;лисиця;noun
+der Wolf;вовк;Wölfe (männlich);environment;Wolf;вовк;noun
+der Bär;ведмідь;Bären (männlich);environment;Bär;ведмідь;noun
+der Löwe;лев;Löwen (männlich);environment;Löwe;лев;noun
+der Tiger;тигр;Tiger (männlich);environment;Tiger;тигр;noun
+der Elefant;слон;Elefanten (männlich);environment;Elefant;слон;noun
+die Giraffe;жирафа;Giraffen (weiblich);environment;Giraffe;жирафа;noun
+der Affe;мавпа;Affen (männlich);environment;Affe;мавпа;noun
+die Schlange;змія;Schlangen (weiblich);environment;Schlange;змія;noun
+die Biene;бджола;Bienen (weiblich);environment;Biene;бджола;noun
+der Schmetterling;метелик;Schmetterlinge (männlich);environment;Schmetterling;метелик;noun
+die Ameise;мураха;Ameisen (weiblich);environment;Ameise;мураха;noun
+die Fliege;муха;Fliegen (weiblich);environment;Fliege;муха;noun
+die Spinne;павук;Spinnen (weiblich);environment;Spinne;павук;noun
+der Schwanz;хвіст;Schwänze (männlich);environment;Schwanz;хвіст;noun
+die Pfote;лапа;Pfoten (weiblich);environment;Pfote;лапа;noun
+das Fell;шерсть;;environment;Fell;шерсть;noun
+die Feder;перо;Federn (weiblich);environment;Feder;перо;noun
+der Schnabel;дзьоб;Schnäbel (männlich);environment;Schnabel;дзьоб;noun
+die Kralle;кіготь;Krallen (weiblich);environment;Kralle;кіготь;noun
+der Käfig;клітка;Käfige (männlich);environment;Käfig;клітка;noun
+das Aquarium;акваріум;Aquarien (sächlich);environment;Aquarium;акваріум;noun
+der Tierarzt;ветеринар;Tierärzte (männlich);environment;Tierarzt;ветеринар;noun
+füttern;годувати;;environment;füttern;годувати;verb
+der Baum;дерево;дерева (sächlich);environment;Baum;дерево;noun
+die Blume;квітка;квіти (weiblich);environment;Blume;квітка;noun
+das Blatt;листок;листки (sächlich);environment;Blatt;листок;noun
+die Wurzel;корінь;корені (männlich);environment;Wurzel;корінь;noun
+der Stamm;стовбур;стовбури (männlich);environment;Stamm;стовбур;noun
+die Rinde;кора;;environment;Rinde;кора;noun
+der Ast;гілка;гілки (weiblich);environment;Ast;гілка;noun
+der Zweig;гілочка;гілочки (weiblich);environment;Zweig;гілочка;noun
+die Knospe;брунька;бруньки (weiblich);environment;Knospe;брунька;noun
+die Blüte;цвіт;цвіти (männlich);environment;Blüte;цвіт;noun
+die Frucht;плід;плоди (männlich);environment;Frucht;плід;noun
+der Samen;насінина;насінини (weiblich);environment;Samen;насінина;noun
+die Beere;ягода;ягоди (weiblich);environment;Beere;ягода;noun
+die Nuss;горіх;горіхи (männlich);environment;Nuss;горіх;noun
+die Kiefer;сосна;сосни (weiblich);environment;Kiefer;сосна;noun
+die Tanne;ялиця;ялиці (weiblich);environment;Tanne;ялиця;noun
+die Fichte;ялина;ялини (weiblich);environment;Fichte;ялина;noun
+die Eiche;дуб;дуби (männlich);environment;Eiche;дуб;noun
+die Buche;бук;буки (männlich);environment;Buche;бук;noun
+die Birke;береза;берези (weiblich);environment;Birke;береза;noun
+die Linde;липа;липи (weiblich);environment;Linde;липа;noun
+die Weide;верба;верби (weiblich);environment;Weide;верба;noun
+die Pappel;тополя;тополі (weiblich);environment;Pappel;тополя;noun
+die Kastanie;каштан;каштани (männlich);environment;Kastanie;каштан;noun
+die Palme;пальма;пальми (weiblich);environment;Palme;пальма;noun
+das Gras;трава;трави (weiblich);environment;Gras;трава;noun
+das Moos;мох;мохи (männlich);environment;Moos;мох;noun
+der Farn;папороть;папороті (weiblich);environment;Farn;папороть;noun
+der Pilz;гриб;гриби (männlich);environment;Pilz;гриб;noun
+die Flechte;лишайник;лишайники (männlich);environment;Flechte;лишайник;noun
+das Unkraut;бур'ян;бур'яни (männlich);environment;Unkraut;бур'ян;noun
+die Brennnessel;кропива;кропиви (weiblich);environment;Brennnessel;кропива;noun
+die Distel;будяк;будяки (männlich);environment;Distel;будяк;noun
+der Löwenzahn;кульбаба;кульбаби (weiblich);environment;Löwenzahn;кульбаба;noun
+die Rose;троянда;троянди (weiblich);environment;Rose;троянда;noun
+die Tulpe;тюльпан;тюльпани (männlich);environment;Tulpe;тюльпан;noun
+die Sonnenblume;соняшник;соняшники (männlich);environment;Sonnenblume;соняшник;noun
+die Nelke;гвоздика;гвоздики (weiblich);environment;Nelke;гвоздика;noun
+die Lilie;лілея;лілеї (weiblich);environment;Lilie;лілея;noun
+das Gänseblümchen;маргаритка;маргаритки (weiblich);environment;Gänseblümchen;маргаритка;noun
+das Veilchen;фіалка;фіалки (weiblich);environment;Veilchen;фіалка;noun
+der Kaktus;кактус;кактуси (männlich);environment;Kaktus;кактус;noun
+der Bambus;бамбук;бамбуки (männlich);environment;Bambus;бамбук;noun
+der Strauch;кущ;кущі (männlich);environment;Strauch;кущ;noun
+die Hecke;живопліт;живоплоти (männlich);environment;Hecke;живопліт;noun
+die Weinrebe;виноградна лоза;виноградні лози (weiblich);environment;Weinrebe;виноградна лоза;noun
+der Hopfen;хміль;хмелі (männlich);environment;Hopfen;хміль;noun
+die Alge;водорість;водорості (weiblich);environment;Alge;водорість;noun
+der Zapfen;шишка;шишки (weiblich);environment;Zapfen;шишка;noun
+der Dorn;колючка;колючки (weiblich);environment;Dorn;колючка;noun
+der Klimawandel;зміна клімату;зміни клімату (weiblich);environment;Klimawandel;зміна клімату;noun
+die Erderwärmung;глобальне потепління;(sächlich);environment;Erderwärmung;глобальне потепління;noun
+der Treibhauseffekt;парниковий ефект;(männlich);environment;Treibhauseffekt;парниковий ефект;noun
+das Treibhausgas;парниковий газ;парникові гази (männlich);environment;Treibhausgas;парниковий газ;noun
+die Emission;викид;викиди (männlich);environment;Emission;викид;noun
+der CO2-Ausstoß;викиди CO2;(männlich);environment;CO2-Ausstoß;викиди CO2;noun
+die Luftverschmutzung;забруднення повітря;(sächlich);environment;Luftverschmutzung;забруднення повітря;noun
+die Umwelt;навколишнє середовище;(sächlich);environment;Umwelt;навколишнє середовище;noun
+die Nachhaltigkeit;сталий розвиток;(weiblich);environment;Nachhaltigkeit;сталий розвиток;noun
+erneuerbare Energie;відновлювана енергія;(weiblich);environment;erneuerbare Energie;відновлювана енергія;noun
+der fossile Brennstoff;викопне паливо;викопні палива (sächlich);environment;fossiler Brennstoff;викопне паливо;noun
+die Kohle;вугілля;(sächlich);environment;Kohle;вугілля;noun
+das Erdöl;нафта;(weiblich);environment;Erdöl;нафта;noun
+das Erdgas;природний газ;(männlich);environment;Erdgas;природний газ;noun
+die Abholzung;вирубка лісів;(weiblich);environment;Abholzung;вирубка лісів;noun
+der Regenwald;тропічний ліс;тропічні ліси (männlich);environment;Regenwald;тропічний ліс;noun
+das Ozonloch;озонова діра;озонові діри (weiblich);environment;Ozonloch;озонова діра;noun
+das Klima;клімат;(männlich);environment;Klima;клімат;noun
+der Meeresspiegel;рівень моря;рівні моря (männlich);environment;Meeresspiegel;рівень моря;noun
+die Gletscherschmelze;танення льодовиків;(sächlich);environment;Gletscherschmelze;танення льодовиків;noun
+der Anstieg;підвищення;підвищення (sächlich);environment;Anstieg;підвищення;noun
+die Dürre;посуха;посухи (weiblich);environment;Dürre;посуха;noun
+die Überschwemmung;повінь;повені (weiblich);environment;Überschwemmung;повінь;noun
+der Sturm;шторм;шторми (männlich);environment;Sturm;шторм;noun
+die Hitzewelle;теплова хвиля;теплові хвилі (weiblich);environment;Hitzewelle;теплова хвиля;noun
+die Naturkatastrophe;стихійне лихо;стихійні лиха (sächlich);environment;Naturkatastrophe;стихійне лихо;noun
+das Unwetter;негода;(weiblich);environment;Unwetter;негода;noun
+die Klimapolitik;кліматична політика;(weiblich);environment;Klimapolitik;кліматична політика;noun
+das Abkommen;угода;угоди (weiblich);environment;Abkommen;угода;noun
+der Umweltschutz;охорона довкілля;(weiblich);environment;Umweltschutz;охорона довкілля;noun
+der CO2-Fußabdruck;вуглецевий слід;вуглецеві сліди (männlich);environment;CO2-Fußabdruck;вуглецевий слід;noun
+die Energieeffizienz;енергоефективність;(weiblich);environment;Energieeffizienz;енергоефективність;noun
+der Klimaschutz;захист клімату;(männlich);environment;Klimaschutz;захист клімату;noun
+schmelzen;танути;;environment;schmelzen;танути;verb
+reduzieren;зменшувати;;environment;reduzieren;зменшувати;verb
+vermeiden;уникати;;environment;vermeiden;уникати;verb
+ausstoßen;викидати;;environment;ausstoßen;викидати;verb
+nachhaltig;стійкий;;environment;nachhaltig;стійкий;adj
+umweltfreundlich;екологічно чистий;;environment;umweltfreundlich;екологічно чистий;adj
+klimaneutral;кліматично нейтральний;;environment;klimaneutral;кліматично нейтральний;adj
+erneuerbar;відновлюваний;;environment;erneuerbar;відновлюваний;adj
+fossil;викопний;;environment;fossil;викопний;adj
+die Erneuerbaren;відновлювані джерела;відновлювані джерела (sächlich);environment;Erneuerbare;відновлювані джерела;noun
+der Waldbrand;лісова пожежа;лісові пожежі (weiblich);environment;Waldbrand;лісова пожежа;noun
+die Polkappen;полярні шапки;полярні шапки (weiblich);environment;Polkappe;полярна шапка;noun
+der Permafrost;вічна мерзлота;(weiblich);environment;Permafrost;вічна мерзлота;noun
+die Art;вид;види (männlich);environment;Art;вид;noun
+das Ökosystem;екосистема;екосистеми (weiblich);environment;Ökosystem;екосистема;noun
+die Biodiversität;біорізноманіття;(sächlich);environment;Biodiversität;біорізноманіття;noun
+die Kohlenstoffbindung;поглинання вуглецю;(sächlich);environment;Kohlenstoffbindung;поглинання вуглецю;noun

@@ -1,200 +1,200 @@
-amigo;друг;amigos;relationships
-amiga;подруга;amigas;relationships
-amistad;дружба;amistades;relationships
-compañero;товариш;compañeros;relationships
-compañera;товаришка;compañeras;relationships
-conocido;знайомий;conocidos;relationships
-conocida;знайома;conocidas;relationships
-colega;колега;colegas;relationships
-pandilla;компанія;pandillas;relationships
-confianza;довіра;confianzas;relationships
-lealtad;вірність;lealtades;relationships
-apoyo;підтримка;apoyos;relationships
-cariño;ніжність;cariños;relationships
-respeto;повага;respetos;relationships
-sinceridad;щирість;sinceridades;relationships
-honestidad;чесність;honestidades;relationships
-comprensión;розуміння;comprensiones;relationships
-paciencia;терпіння;paciencias;relationships
-humor;гумор;humores;relationships
-risa;сміх;risas;relationships
-abrazo;обійми;abrazos;relationships
-beso;поцілунок;besos;relationships
-recuerdo;спогад;recuerdos;relationships
-secreto;секрет;secretos;relationships
-promesa;обіцянка;promesas;relationships
-perdón;прощення;;relationships
-solidaridad;солідарність;solidaridades;relationships
-empatía;емпатія;empatías;relationships
-gratitud;вдячність;gratitudes;relationships
-celos;ревнощі;;relationships
-envidia;заздрість;envidias;relationships
-conflicto;конфлікт;conflictos;relationships
-discusión;суперечка;discusiones;relationships
-pelea;сварка;peleas;relationships
-reunión;зустріч;reuniones;relationships
-cita;побачення;citas;relationships
-quedada;посиденьки;quedadas;relationships
-fiesta;вечірка;fiestas;relationships
-celebración;святкування;celebraciones;relationships
-aniversario;річниця;aniversarios;relationships
-regalo;подарунок;regalos;relationships
-confiar;довіряти;;relationships
-apoyar;підтримувати;;relationships
-compartir;ділитися;;relationships
-escuchar;слухати;;relationships
-perdonar;пробачати;;relationships
-reconciliarse;миритися;;relationships
-ayudar;допомагати;;relationships
-animar;підбадьорювати;;relationships
-bromear;жартувати;;relationships
-la fiesta;вечірка;las fiestas;relationships
-la invitación;запрошення;las invitaciones;relationships
-el invitado;гість;los invitados;relationships
-el anfitrión;господар;los anfitriones;relationships
-el amigo;друг;los amigos;relationships
-la cita;побачення;las citas;relationships
-el baile;танець;los bailes;relationships
-la música;музика;las músicas;relationships
-la canción;пісня;las canciones;relationships
-el brindis;тост;los brindis;relationships
-la copa;келих;las copas;relationships
-la bebida;напій;las bebidas;relationships
-la charla;розмова;las charlas;relationships
-la conversación;бесіда;las conversaciones;relationships
-el saludo;привітання;los saludos;relationships
-la despedida;прощання;las despedidas;relationships
-el abrazo;обійма;los abrazos;relationships
-el beso;поцілунок;los besos;relationships
-la pareja;пара;las parejas;relationships
-la celebración;святкування;las celebraciones;relationships
-el cumpleaños;день народження;los cumpleaños;relationships
-la sorpresa;сюрприз;las sorpresas;relationships
-el regalo;подарунок;los regalos;relationships
-la diversión;розвага;las diversiones;relationships
-el juego;гра;los juegos;relationships
-la risa;сміх;las risas;relationships
-la sonrisa;усмішка;las sonrisas;relationships
-el chiste;жарт;los chistes;relationships
-la reunión;зустріч;las reuniones;relationships
-la confianza;довіра;;relationships
-invitar;запрошувати;;relationships
-quedar;зустрічатися;;relationships
-bailar;танцювати;;relationships
-charlar;розмовляти;;relationships
-celebrar;святкувати;;relationships
-brindar;тостувати;;relationships
-despedirse;прощатися;;relationships
-saludar;вітатися;;relationships
-abrazar;обіймати;;relationships
-besar;цілувати;;relationships
-reírse;сміятися;;relationships
-sonreír;усміхатися;;relationships
-contar;розповідати;;relationships
-discutir;обговорювати;;relationships
-compartir;ділитися;;relationships
-divertirse;веселитися;;relationships
-conocer;знайомитися;;relationships
-presentar;знайомити;;relationships
-cotillear;пліткувати;;relationships
-confiar;довіряти;;relationships
-la discusión;суперечка;las discusiones;relationships
-el conflicto;конфлікт;los conflictos;relationships
-la pelea;бійка;las peleas;relationships
-el malentendido;непорозуміння;los malentendidos;relationships
-la ofensa;образа;las ofensas;relationships
-el insulto;образа;los insultos;relationships
-la disculpa;вибачення;las disculpas;relationships
-el perdón;пробачення;los perdones;relationships
-la reconciliación;примирення;las reconciliaciones;relationships
-el arrepentimiento;каяття;los arrepentimientos;relationships
-la queja;скарга;las quejas;relationships
-el reproche;докір;los reproches;relationships
-la crítica;критика;las críticas;relationships
-el acuerdo;згода;los acuerdos;relationships
-el desacuerdo;незгода;los desacuerdos;relationships
-el grito;крик;los gritos;relationships
-el silencio;мовчання;los silencios;relationships
-la lágrima;сльоза;las lágrimas;relationships
-la culpa;вина;las culpas;relationships
-la mentira;брехня;las mentiras;relationships
-la verdad;правда;las verdades;relationships
-el engaño;обман;los engaños;relationships
-la confianza;довіра;las confianzas;relationships
-la desconfianza;недовіра;las desconfianzas;relationships
-el respeto;повага;los respetos;relationships
-la falta de respeto;неповага;las faltas de respeto;relationships
-la ira;лють;las iras;relationships
-el odio;ненависть;los odios;relationships
-el resentimiento;образа;los resentimientos;relationships
-la venganza;помста;las venganzas;relationships
-el rencor;злопам'ятність;los rencores;relationships
-pedir disculpas;просити вибачення;;relationships
-disculparse;вибачатися;;relationships
-perdonar;пробачати;;relationships
-ofender;ображати;;relationships
-insultar;ображати;;relationships
-gritar;кричати;;relationships
-llorar;плакати;;relationships
-quejarse;скаржитися;;relationships
-criticar;критикувати;;relationships
-acusar;звинувачувати;;relationships
-culpar;звинувачувати;;relationships
-arrepentirse;каятися;;relationships
-reconciliarse;миритися;;relationships
-enfadarse;сердитися;;relationships
-calmarse;заспокоюватися;;relationships
-ignorar;ігнорувати;;relationships
-hacer las paces;миритися;;relationships
-enfadado;сердитий;enfadados;relationships
-ofendido;ображений;ofendidos;relationships
-el amor;кохання;los amores;relationships
-la cita;побачення;las citas;relationships
-el novio;хлопець;los novios;relationships
-la novia;дівчина;las novias;relationships
-salir;зустрічатися;;relationships
-enamorarse;закохатися;;relationships
-besar;цілувати;;relationships
-el beso;поцілунок;los besos;relationships
-abrazar;обіймати;;relationships
-el abrazo;обійми;los abrazos;relationships
-la pareja;пара;las parejas;relationships
-el corazón;серце;los corazones;relationships
-romántico;романтичний;románticos;relationships
-querer;кохати;;relationships
-gustar;подобатися;;relationships
-la cita a ciegas;побачення наосліп;las citas a ciegas;relationships
-el flechazo;кохання з першого погляду;los flechazos;relationships
-coquetear;фліртувати;;relationships
-el piropo;комплімент;los piropos;relationships
-la relación;стосунки;las relaciones;relationships
-el compromiso;заручини;los compromisos;relationships
-casarse;одружитися;;relationships
-la boda;весілля;las bodas;relationships
-el matrimonio;шлюб;los matrimonios;relationships
-la luna de miel;медовий місяць;las lunas de miel;relationships
-el anillo de compromiso;обручка;los anillos de compromiso;relationships
-el regalo;подарунок;los regalos;relationships
-la sorpresa;сюрприз;las sorpresas;relationships
-la cita romántica;романтичне побачення;las citas románticas;relationships
-la primera cita;перше побачення;las primeras citas;relationships
-la pareja perfecta;ідеальна пара;las parejas perfectas;relationships
-la atracción;потяг;las atracciones;relationships
-la cena a la luz de las velas;вечеря при свічках;las cenas a la luz de las velas;relationships
-el ramo de flores;букет квітів;los ramos de flores;relationships
-la rosa;троянда;las rosas;relationships
-el chocolate;шоколад;los chocolates;relationships
-el poema;вірш;los poemas;relationships
-la canción de amor;пісня про кохання;las canciones de amor;relationships
-el detalle;знак уваги;los detalles;relationships
-la serenata;серенада;las serenatas;relationships
-la declaración de amor;освідчення в коханні;las declaraciones de amor;relationships
-el corazón roto;розбите серце;los corazones rotos;relationships
-la ruptura;розрив;las rupturas;relationships
-discutir;сперечатися;;relationships
-perdonar;прощати;;relationships
-confiar;довіряти;;relationships
-la confianza;довіра;las confianzas;relationships
-los celos;ревнощі;;relationships
-la discusión;суперечка;las discusiones;relationships
-la reconciliación;примирення;las reconciliaciones;relationships
+amigo;друг;друзі (чоловічий);relationships;amigo;друг;noun
+amiga;подруга;подруги (жіночий);relationships;amiga;подруга;noun
+compañero;товариш;товариші (чоловічий);relationships;compañero;товариш;noun
+compañera;товаришка;товаришки (жіночий);relationships;compañera;товаришка;noun
+conocido;знайомий;знайомі (чоловічий);relationships;conocido;знайомий;noun
+conocida;знайома;знайомі (жіночий);relationships;conocida;знайома;noun
+amistad;дружба;;relationships;amistad;дружба;noun
+confianza;довіра;;relationships;confianza;довіра;noun
+lealtad;вірність;;relationships;lealtad;вірність;noun
+apoyo;підтримка;;relationships;apoyo;підтримка;noun
+cariño;ніжність;;relationships;cariño;ніжність;noun
+comprensión;розуміння;;relationships;comprensión;розуміння;noun
+respeto;повага;;relationships;respeto;повага;noun
+comunicación;спілкування;;relationships;comunicación;спілкування;noun
+secreto;секрет;секрети (чоловічий);relationships;secreto;секрет;noun
+chisme;плітка;плітки (жіночий);relationships;chisme;плітка;noun
+cotilleo;пліткування;;relationships;cotilleo;пліткування;noun
+broma;жарт;жарти (чоловічий);relationships;broma;жарт;noun
+abrazo;обійм;обійми (чоловічий);relationships;abrazo;обійм;noun
+beso;поцілунок;поцілунки (чоловічий);relationships;beso;поцілунок;noun
+fiesta;вечірка;вечірки (жіночий);relationships;fiesta;вечірка;noun
+reunión;зустріч;зустрічі (жіночий);relationships;reunión;зустріч;noun
+grupo;група;групи (жіночий);relationships;grupo;група;noun
+pandilla;компанія;компанії (жіночий);relationships;pandilla;компанія;noun
+pareja;пара;пари (жіночий);relationships;pareja;пара;noun
+novio;коханий;кохані (чоловічий);relationships;novio;коханий;noun
+novia;кохана;кохані (жіночий);relationships;novia;кохана;noun
+matrimonio;шлюб;;relationships;matrimonio;шлюб;noun
+fidelidad;вірність;;relationships;fidelidad;вірність;noun
+mentira;брехня;брехні (жіночий);relationships;mentira;брехня;noun
+verdad;правда;;relationships;verdad;правда;noun
+consejo;порада;поради (жіночий);relationships;consejo;порада;noun
+promesa;обіцянка;обіцянки (жіночий);relationships;promesa;обіцянка;noun
+pelea;сварка;сварки (жіночий);relationships;pelea;сварка;noun
+reconciliación;примирення;;relationships;reconciliación;примирення;noun
+perdón;прощення;;relationships;perdón;прощення;noun
+envidia;заздрість;;relationships;envidia;заздрість;noun
+celos;ревнощі;ревнощі (множина);relationships;celos;ревнощі;noun
+confidente;наперсник;наперсники (чоловічий);relationships;confidente;наперсник;noun
+vecino;сусід;сусіди (чоловічий);relationships;vecino;сусід;noun
+vecina;сусідка;сусідки (жіночий);relationships;vecina;сусідка;noun
+colega;колега;колеги (чоловічий);relationships;colega;колега;noun
+compañero de clase;однокласник;однокласники (чоловічий);relationships;compañero de clase;однокласник;noun
+compañera de clase;однокласниця;однокласниці (жіночий);relationships;compañera de clase;однокласниця;noun
+amistoso;дружній;;relationships;amistoso;дружній;adj
+leal;вірний;;relationships;leal;вірний;adj
+sincero;щирий;;relationships;sincero;щирий;adj
+honesto;чесний;;relationships;honesto;чесний;adj
+divertido;веселий;;relationships;divertido;веселий;adj
+tímido;сором'язливий;;relationships;tímido;сором'язливий;adj
+fiesta;вечірка;вечірки (жіночий);relationships;fiesta;вечірка;noun
+cumpleaños;день народження;дні народження (чоловічий);relationships;cumpleaños;день народження;noun
+invitado;гість;гості (чоловічий);relationships;invitado;гість;noun
+anfitrión;господар;господарі (чоловічий);relationships;anfitrión;господар;noun
+celebración;свято;свята (середній);relationships;celebración;свято;noun
+baile;танець;танці (чоловічий);relationships;baile;танець;noun
+música;музика;музики (жіночий);relationships;música;музика;noun
+regalo;подарунок;подарунки (чоловічий);relationships;regalo;подарунок;noun
+bebida;напій;напої (чоловічий);relationships;bebida;напій;noun
+comida;їжа;їжі (жіночий);relationships;comida;їжа;noun
+pastel;торт;торти (чоловічий);relationships;pastel;торт;noun
+vela;свічка;свічки (жіночий);relationships;vela;свічка;noun
+globo;повітряна кулька;повітряні кульки (жіночий);relationships;globo;повітряна кулька;noun
+decoración;прикраса;прикраси (жіночий);relationships;decoración;прикраса;noun
+disfraz;костюм;костюми (чоловічий);relationships;disfraz;костюм;noun
+confeti;конфеті;конфеті (середній);relationships;confeti;конфеті;noun
+serpentina;серпантин;серпантини (чоловічий);relationships;serpentina;серпантин;noun
+brindis;тост;тости (чоловічий);relationships;brindis;тост;noun
+champán;шампанське;шампанські (середній);relationships;champán;шампанське;noun
+vino;вино;вина (середній);relationships;vino;вино;noun
+cerveza;пиво;пива (середній);relationships;cerveza;пиво;noun
+refresco;лимонад;лимонади (чоловічий);relationships;refresco;лимонад;noun
+aperitivo;закуска;закуски (жіночий);relationships;aperitivo;закуска;noun
+canapé;канапе;канапе (середній);relationships;canapé;канапе;noun
+bocadillo;бутерброд;бутерброди (чоловічий);relationships;bocadillo;бутерброд;noun
+barbacoa;барбекю;барбекю (середній);relationships;barbacoa;барбекю;noun
+reunión;зустріч;зустрічі (жіночий);relationships;reunión;зустріч;noun
+cita;побачення;побачення (середній);relationships;cita;побачення;noun
+amigo;друг;друзі (чоловічий);relationships;amigo;друг;noun
+amiga;подруга;подруги (жіночий);relationships;amiga;подруга;noun
+conocido;знайомий;знайомі (чоловічий);relationships;conocido;знайомий;noun
+compañero;товариш;товариші (чоловічий);relationships;compañero;товариш;noun
+pareja;пара;пари (жіночий);relationships;pareja;пара;noun
+novio;наречений;наречені (чоловічий);relationships;novio;наречений;noun
+selfi;селфі;селфі (середній);relationships;selfi;селфі;noun
+foto;фото;фото (середній);relationships;foto;фото;noun
+recuerdo;сувенір;сувеніри (чоловічий);relationships;recuerdo;сувенір;noun
+conversación;розмова;розмови (жіночий);relationships;conversación;розмова;noun
+chisme;плітка;плітки (жіночий);relationships;chisme;плітка;noun
+risa;сміх;сміхи (чоловічий);relationships;risa;сміх;noun
+diversión;розвага;розваги (жіночий);relationships;diversión;розвага;noun
+invitar;запрошувати;;relationships;invitar;запрошувати;verb
+celebrar;святкувати;;relationships;celebrar;святкувати;verb
+bailar;танцювати;;relationships;bailar;танцювати;verb
+charlar;балакати;;relationships;charlar;балакати;verb
+cotillear;пліткувати;;relationships;cotillear;пліткувати;verb
+conocer;знайомитися;;relationships;conocer;знайомитися;verb
+organizar;організовувати;;relationships;organizar;організовувати;verb
+decorar;прикрашати;;relationships;decorar;прикрашати;verb
+brindar;проголошувати тост;;relationships;brindar;проголошувати тост;verb
+la discusión;суперечки (жіночий);relationships;discusión;суперечка;noun
+el conflicto;конфлікти (чоловічий);relationships;conflicto;конфлікт;noun
+la pelea;бійки (жіночий);relationships;pelea;бійка;noun
+el malentendido;непорозуміння (середній);relationships;malentendido;непорозуміння;noun
+la ofensa;образи (жіночий);relationships;ofensa;образа;noun
+el insulto;образи (жіночий);relationships;insulto;образа;noun
+la queja;скарги (жіночий);relationships;queja;скарга;noun
+el reproche;докори (чоловічий);relationships;reproche;докір;noun
+la crítica;критики (жіночий);relationships;crítica;критика;noun
+el enojo;;relationships;enojo;гнів;noun
+el resentimiento;;relationships;resentimiento;образа;noun
+la ira;;relationships;ira;лють;noun
+la furia;;relationships;furia;лютість;noun
+el rencor;злопам'ятства (середній);relationships;rencor;злопам'ятство;noun
+la reconciliación;;relationships;reconciliación;примирення;noun
+la disculpa;вибачення (середній);relationships;disculpa;вибачення;noun
+el perdón;прощення (середній);relationships;perdón;прощення;noun
+la excusa;виправдання (середній);relationships;excusa;виправдання;noun
+el arrepentimiento;;relationships;arrepentimiento;каяття;noun
+la culpa;;relationships;culpa;провина;noun
+el error;помилки (жіночий);relationships;error;помилка;noun
+la falta;помилки (жіночий);relationships;falta;помилка;noun
+el daño;;relationships;daño;шкода;noun
+la herida;рани (жіночий);relationships;herida;рана;noun
+la agresión;агресії (жіночий);relationships;agresión;агресія;noun
+el grito;крики (чоловічий);relationships;grito;крик;noun
+el llanto;;relationships;llanto;плач;noun
+el desacuerdo;незгоди (жіночий);relationships;desacuerdo;незгода;noun
+la tensión;напруги (жіночий);relationships;tensión;напруга;noun
+la ruptura;розриви (чоловічий);relationships;ruptura;розрив;noun
+la separación;розлуки (жіночий);relationships;separación;розлука;noun
+el divorcio;розлучення (середній);relationships;divorcio;розлучення;noun
+la infidelidad;зради (жіночий);relationships;infidelidad;зрада;noun
+los celos;ревнощі (чоловічий);relationships;celos;ревнощі;noun
+la desconfianza;;relationships;desconfianza;недовіра;noun
+el engaño;обмани (чоловічий);relationships;engaño;обман;noun
+la mentira;брехні (жіночий);relationships;mentira;брехня;noun
+la verdad;правди (жіночий);relationships;verdad;правда;noun
+la paz;;relationships;paz;мир;noun
+discutir;;relationships;discutir;сперечатися;verb
+pelear;;relationships;pelear;сваритися;verb
+ofender;;relationships;ofender;ображати;verb
+insultar;;relationships;insultar;ображати;verb
+quejarse;;relationships;quejarse;скаржитися;verb
+reprochar;;relationships;reprochar;докоряти;verb
+criticar;;relationships;criticar;критикувати;verb
+enojarse;;relationships;enojarse;сердитися;verb
+resentirse;;relationships;resentirse;ображатися;verb
+perdonar;;relationships;perdonar;прощати;verb
+disculparse;;relationships;disculparse;вибачатися;verb
+enamorarse;закохуватися;;relationships;enamorarse;закохуватися;verb
+el amor;любов;;relationships;amor;любов;noun
+la cita;побачення;побачення (середній);relationships;cita;побачення;noun
+el novio;хлопець;хлопці (чоловічий);relationships;novio;хлопець;noun
+la novia;дівчина;дівчата (жіночий);relationships;novia;дівчина;noun
+la pareja;пара;пари (жіночий);relationships;pareja;пара;noun
+el beso;поцілунок;поцілунки (чоловічий);relationships;beso;поцілунок;noun
+besar;цілувати;;relationships;besar;цілувати;verb
+el abrazo;обійми;обійми (чоловічий);relationships;abrazo;обійми;noun
+abrazar;обіймати;;relationships;abrazar;обіймати;verb
+el corazón;серце;серця (середній);relationships;corazón;серце;noun
+la flor;квітка;квітки (жіночий);relationships;flor;квітка;noun
+el regalo;подарунок;подарунки (чоловічий);relationships;regalo;подарунок;noun
+la carta;лист;листи (чоловічий);relationships;carta;лист;noun
+romántico;романтичний;;relationships;romántico;романтичний;adj
+la relación;стосунки;стосунки (чоловічий);relationships;relación;стосунки;noun
+salir;зустрічатися;;relationships;salir;зустрічатися;verb
+luna de miel;медовий місяць;медові місяці (чоловічий);relationships;luna de miel;медовий місяць;noun
+el anillo;обручка;обручки (жіночий);relationships;anillo;обручка;noun
+la boda;весілля;весілля (середній);relationships;boda;весілля;noun
+casarse;одружуватися;;relationships;casarse;одружуватися;verb
+el matrimonio;шлюб;шлюби (чоловічий);relationships;matrimonio;шлюб;noun
+el divorcio;розлучення;розлучення (середній);relationships;divorcio;розлучення;noun
+separarse;розлучатися;;relationships;separarse;розлучатися;verb
+el compromiso;заручини;заручини (жіночий);relationships;compromiso;заручини;noun
+el amante;коханець;коханці (чоловічий);relationships;amante;коханець;noun
+la pasión;пристрасть;;relationships;pasión;пристрасть;noun
+apasionado;пристрасний;;relationships;apasionado;пристрасний;adj
+la atracción;потяг;потяги (чоловічий);relationships;atracción;потяг;noun
+el flechazo;кохання з першого погляду;;relationships;flechazo;кохання з першого погляду;noun
+el coqueteo;флірт;флірти (чоловічий);relationships;coqueteo;флірт;noun
+coquetear;фліртувати;;relationships;coquetear;фліртувати;verb
+la conquista;завоювання;завоювання (середній);relationships;conquista;завоювання;noun
+conquistar;завойовувати;;relationships;conquistar;завойовувати;verb
+la fidelidad;вірність;;relationships;fidelidad;вірність;noun
+infiel;невірний;;relationships;infiel;невірний;adj
+los celos;ревнощі;ревнощі (жіночий);relationships;celos;ревнощі;noun
+celoso;ревнивий;;relationships;celoso;ревнивий;adj
+la confianza;довіра;;relationships;confianza;довіра;noun
+la ruptura;розрив;розриви (чоловічий);relationships;ruptura;розрив;noun
+romper;розривати;;relationships;romper;розривати;verb
+la discusión;сварка;сварки (жіночий);relationships;discusión;сварка;noun
+discutir;сваритися;;relationships;discutir;сваритися;verb
+perdonar;пробачати;;relationships;perdonar;пробачати;verb
+el perdón;пробачення;пробачення (середній);relationships;perdón;пробачення;noun
+la reconciliación;примирення;примирення (середній);relationships;reconciliación;примирення;noun
+el detalle;деталь;деталі (жіночий);relationships;detalle;деталь;noun
+la sorpresa;сюрприз;сюрпризи (чоловічий);relationships;sorpresa;сюрприз;noun
+la intimidad;інтимність;;relationships;intimidad;інтимність;noun
+el deseo;бажання;бажання (середній);relationships;deseo;бажання;noun

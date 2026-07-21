@@ -1,199 +1,200 @@
-mathematics;математика;f;education
-algebra;алгебра;f;education
-geometry;геометрія;f;education
-physics;фізика;f;education
-chemistry;хімія;f;education
-biology;біологія;f;education
-geography;географія;f;education
-history;історія;f;education
-literature;література;f;education
-Ukrainian;українська мова;f;education
-English;англійська мова;f;education
-German;німецька мова;f;education
-French;французька мова;f;education
-Spanish;іспанська мова;f;education
-physical education;фізкультура;f;education
-music;музика;f;education
-art;мистецтво;n;education
-computer science;інформатика;f;education
-technology;технологія;f;education
-labour training;трудове навчання;n;education
-ethics;етика;f;education
-social studies;суспільствознавство;n;education
-law;право;n;education
-economics;економіка;f;education
-astronomy;астрономія;f;education
-drawing;малювання;n;education
-native language;рідна мова;f;education
-reading;читання;n;education
-writing;письмо;n;education
-science;природознавство;n;education
-civic education;громадянська освіта;f;education
-world history;всесвітня історія;f;education
-Ukrainian literature;українська література;f;education
-foreign literature;зарубіжна література;f;education
-career guidance;профорієнтація;f;education
-psychology;психологія;f;education
-sociology;соціологія;f;education
-logic;логіка;f;education
-philosophy;філософія;f;education
-ecology;екологія;f;education
-physical geography;фізична географія;f;education
-economic geography;економічна географія;f;education
-design;дизайн;m;education
-programming;програмування;n;education
-Latin;латинська мова;f;education
-basics of health;основи здоров'я;pl;education
-religious education;релігієзнавство;n;education
-defence of Ukraine;захист України;m;education
-labour safety;охорона праці;f;education
-information technology;інформаційні технології;pl;education
-university;університет;m;education
-student;студент;m;education
-lecture;лекція;f;education
-seminar;семінар;m;education
-exam;іспит;m;education
-library;бібліотека;f;education
-book;книга;f;education
-textbook;підручник;m;education
-notebook;зошит;m;education
-pen;ручка;f;education
-pencil;олівець;m;education
-backpack;рюкзак;m;education
-dormitory;гуртожиток;m;education
-scholarship;стипендія;f;education
-degree;ступінь;m;education
-diploma;диплом;m;education
-bachelor's degree;бакалаврат;m;education
-master's degree;магістратура;f;education
-PhD;аспірантура;f;education
-lecture hall;аудиторія;f;education
-campus;кампус;m;education
-subject;предмет;m;education
-course;курс;m;education
-semester;семестр;m;education
-academic year;навчальний рік;m;education
-lecture notes;конспект;m;education
-assignment;завдання;n;education
-homework;домашнє завдання;n;education
-grade;оцінка;f;education
-exam period;сесія;f;education
-to study;навчатися;;education
-to enroll;вступати;;education
-to graduate;закінчити;;education
-freshman;першокурсник;m;education
-sophomore;другокурсник;m;education
-professor;професор;m;education
-lecturer;викладач;m;education
-assistant;асистент;m;education
-dean;декан;m;education
-rector;ректор;m;education
-faculty;факультет;m;education
-department;кафедра;f;education
-research;дослідження;n;education
-thesis;дипломна робота;f;education
-dissertation;дисертація;f;education
-graduation;випуск;m;education
-student ID;студентський квиток;m;education
-library card;читацький квиток;m;education
-lecture slides;слайди;pl;education
-classmate;одногрупник;m;education
-exam;екзамен;m;education
-test;тест;m;education
-quiz;опитування;n;education
-grade;оцінка;f;education
-mark;бал;m;education
-credit;залік;m;education
-result;результат;m;education
-pass;здати;;education
-fail;провалити;;education
-excellent;відмінно;;education
-good;добре;;education
-satisfactory;задовільно;;education
-unsatisfactory;незадовільно;;education
-assessment;оцінювання;n;education
-evaluation;оцінка;f;education
-revision;повторення;n;education
-preparation;підготовка;f;education
-study;навчання;n;education
-homework;домашнє завдання;n;education
-assignment;завдання;n;education
-project;проект;m;education
-presentation;презентація;f;education
-essay;есе;n;education
-resit;перескладання;n;education
-cheating;списування;n;education
-to cheat;списувати;;education
-plagiarism;плагіат;m;education
-attendance;відвідуваність;f;education
-register;журнал;m;education
-timetable;розклад;m;education
-semester;семестр;m;education
-report card;табель;m;education
-transcript;транскрипт;m;education
-certificate;сертифікат;m;education
-diploma;диплом;m;education
-degree;ступінь;m;education
-scholarship;стипендія;f;education
-fee;плата;f;education
-enrollment;зарахування;n;education
-dropout;відрахування;n;education
-graduate;випускник;m;education
-graduation;випуск;m;education
-examiner;екзаменатор;m;education
-candidate;кандидат;m;education
-question;питання;n;education
-answer;відповідь;f;education
-deadline;дедлайн;m;education
-submission;подання;n;education
-feedback;відгук;m;education
-language;мова;f;education
-grammar;граматика;f;education
-vocabulary;словниковий запас;m;education
-dictionary;словник;m;education
-pronunciation;вимова;f;education
-verb;дієслово;n;education
-noun;іменник;m;education
-adjective;прикметник;m;education
-adverb;прислівник;m;education
-preposition;прийменник;m;education
-phrase;фраза;f;education
-sentence;речення;n;education
-word;слово;n;education
-letter;буква;f;education
-sound;звук;m;education
-accent;акцент;m;education
-dialogue;діалог;m;education
-conversation;розмова;f;education
-listening;аудіювання;n;education
-speaking;говоріння;n;education
-reading;читання;n;education
-writing;письмо;n;education
-skill;навичка;f;education
-level;рівень;m;education
-beginner;початківець;m;education
-intermediate;середній рівень;m;education
-advanced;просунутий рівень;m;education
-native speaker;носій мови;m;education
-fluency;вільне володіння;n;education
-lesson;урок;m;education
-exercise;вправа;f;education
-homework;домашнє завдання;n;education
-textbook;підручник;m;education
-notebook;зошит;m;education
-pen;ручка;f;education
-pencil;олівець;m;education
-blackboard;дошка;f;education
-teacher;вчитель;m;education
-student;студент;m;education
-classroom;клас;m;education
-exam;іспит;m;education
-certificate;сертифікат;m;education
-mistake;помилка;f;education
-correction;виправлення;n;education
-translation;переклад;m;education
-meaning;значення;n;education
-synonym;синонім;m;education
-antonym;антонім;m;education
-example;приклад;m;education
-practice;практика;f;education
+biology;біологія;;education;biology;біологія;noun
+chemistry;хімія;;education;chemistry;хімія;noun
+physics;фізика;;education;physics;фізика;noun
+mathematics;математика;;education;mathematics;математика;noun
+algebra;алгебра;;education;algebra;алгебра;noun
+geometry;геометрія;;education;geometry;геометрія;noun
+history;історія;;education;history;історія;noun
+geography;географія;;education;geography;географія;noun
+literature;література;;education;literature;література;noun
+art;мистецтво;;education;art;мистецтво;noun
+music;музика;;education;music;музика;noun
+physical education;фізкультура;;education;physical education;фізкультура;noun
+computer science;інформатика;;education;computer science;інформатика;noun
+economics;економіка;;education;economics;економіка;noun
+psychology;психологія;;education;psychology;психологія;noun
+philosophy;філософія;;education;philosophy;філософія;noun
+sociology;соціологія;;education;sociology;соціологія;noun
+law;право;;education;law;право;noun
+medicine;медицина;;education;medicine;медицина;noun
+engineering;інженерія;;education;engineering;інженерія;noun
+architecture;архітектура;;education;architecture;архітектура;noun
+astronomy;астрономія;;education;astronomy;астрономія;noun
+ecology;екологія;;education;ecology;екологія;noun
+ethics;етика;;education;ethics;етика;noun
+religious studies;релігієзнавство;;education;religious studies;релігієзнавство;noun
+civics;громадянська освіта;;education;civics;громадянська освіта;noun
+drama;драма;;education;drama;драма;noun
+dance;танці;танці (masculine);education;dance;танець;noun
+photography;фотографія;;education;photography;фотографія;noun
+film studies;кінознавство;;education;film studies;кінознавство;noun
+media studies;медіазнавство;;education;media studies;медіазнавство;noun
+graphic design;графічний дизайн;;education;graphic design;графічний дизайн;noun
+business studies;бізнес-освіта;;education;business studies;бізнес-освіта;noun
+accounting;бухгалтерський облік;;education;accounting;бухгалтерський облік;noun
+marketing;маркетинг;;education;marketing;маркетинг;noun
+tourism;туризм;;education;tourism;туризм;noun
+hospitality;готельна справа;;education;hospitality;готельна справа;noun
+fashion design;дизайн одягу;;education;fashion design;дизайн одягу;noun
+textiles;текстильна справа;;education;textiles;текстильна справа;noun
+culinary arts;кулінарія;;education;culinary arts;кулінарія;noun
+health education;здоров'язбереження;;education;health education;здоров'язбереження;noun
+sex education;сексуальна освіта;;education;sex education;сексуальна освіта;noun
+environmental science;екологічна наука;;education;environmental science;екологічна наука;noun
+political science;політологія;;education;political science;політологія;noun
+anthropology;антропологія;;education;anthropology;антропологія;noun
+foreign language;іноземна мова;іноземні мови (feminine);education;foreign language;іноземна мова;noun
+English;англійська мова;англійські мови (feminine);education;English;англійська мова;noun
+Spanish;іспанська мова;іспанські мови (feminine);education;Spanish;іспанська мова;noun
+German;німецька мова;німецькі мови (feminine);education;German;німецька мова;noun
+French;французька мова;французькі мови (feminine);education;French;французька мова;noun
+lecture;лекція;lectures (feminine);education;lecture;лекція;noun
+professor;професор;professors (masculine);education;professor;професор;noun
+student;студент;students (masculine);education;student;студент;noun
+campus;кампус;campuses (masculine);education;campus;кампус;noun
+degree;ступінь;degrees (masculine);education;degree;ступінь;noun
+exam;іспит;exams (masculine);education;exam;іспит;noun
+library;бібліотека;libraries (feminine);education;library;бібліотека;noun
+assignment;завдання;assignments (neuter);education;assignment;завдання;noun
+deadline;дедлайн;deadlines (masculine);education;deadline;дедлайн;noun
+scholarship;стипендія;scholarships (feminine);education;scholarship;стипендія;noun
+dormitory;гуртожиток;dormitories (masculine);education;dormitory;гуртожиток;noun
+tuition;плата за навчання;;education;tuition;плата за навчання;noun
+freshman;першокурсник;freshmen (masculine);education;freshman;першокурсник;noun
+sophomore;другокурсник;sophomores (masculine);education;sophomore;другокурсник;noun
+junior;третьокурсник;juniors (masculine);education;junior;третьокурсник;noun
+senior;четвертокурсник;seniors (masculine);education;senior;четвертокурсник;noun
+major;спеціальність;majors (feminine);education;major;спеціальність;noun
+minor;додаткова спеціальність;minors (feminine);education;minor;додаткова спеціальність;noun
+textbook;підручник;textbooks (masculine);education;textbook;підручник;noun
+notebook;зошит;notebooks (masculine);education;notebook;зошит;noun
+research;дослідження;researches (neuter);education;research;дослідження;noun
+seminar;семінар;seminars (masculine);education;seminar;семінар;noun
+thesis;дипломна робота;theses (feminine);education;thesis;дипломна робота;noun
+graduate;випускник;graduates (masculine);education;graduate;випускник;noun
+undergraduate;студент бакалаврату;undergraduates (masculine);education;undergraduate;студент бакалаврату;noun
+postgraduate;аспірант;postgraduates (masculine);education;postgraduate;аспірант;noun
+lecture hall;лекційна зала;lecture halls (feminine);education;lecture hall;лекційна зала;noun
+diploma;диплом;diplomas (masculine);education;diploma;диплом;noun
+enrollment;зарахування;enrollments (neuter);education;enrollment;зарахування;noun
+semester;семестр;semesters (masculine);education;semester;семестр;noun
+schedule;розклад;schedules (masculine);education;schedule;розклад;noun
+lab;лабораторія;labs (feminine);education;lab;лабораторія;noun
+course;курс;courses (masculine);education;course;курс;noun
+elective;вибірковий предмет;electives (masculine);education;elective;вибірковий предмет;noun
+grade;оцінка;grades (feminine);education;grade;оцінка;noun
+credit;кредит;credits (masculine);education;credit;кредит;noun
+lecture notes;конспект лекцій;lecture notes (masculine);education;lecture notes;конспект лекцій;noun
+study group;навчальна група;study groups (feminine);education;study group;навчальна група;noun
+exam period;екзаменаційна сесія;exam periods (feminine);education;exam period;екзаменаційна сесія;noun
+part-time job;робота на півставки;part-time jobs (feminine);education;part-time job;робота на півставки;noun
+student loan;студентський кредит;student loans (masculine);education;student loan;студентський кредит;noun
+graduate school;аспірантура;graduate schools (feminine);education;graduate school;аспірантура;noun
+academic advisor;науковий керівник;academic advisors (masculine);education;academic advisor;науковий керівник;noun
+dean;декан;deans (masculine);education;dean;декан;noun
+faculty;факультет;faculties (masculine);education;faculty;факультет;noun
+lecture series;цикл лекцій;lecture series (masculine);education;lecture series;цикл лекцій;noun
+syllabus;програма курсу;syllabi (feminine);education;syllabus;програма курсу;noun
+workshop;воркшоп;workshops (masculine);education;workshop;воркшоп;noun
+internship;стажування;internships (neuter);education;internship;стажування;noun
+tutor;репетитор;tutors (masculine);education;tutor;репетитор;noun
+exam;іспит;іспити (masculine);education;exam;іспит;noun
+test;тест;тести (masculine);education;test;тест;noun
+grade;оцінка;оцінки (feminine);education;grade;оцінка;noun
+score;бал;бали (masculine);education;score;бал;noun
+result;результат;результати (masculine);education;result;результат;noun
+pass;здавати;;education;pass;здавати;verb
+fail;провалити;;education;fail;провалити;verb
+revise;повторювати;;education;revise;повторювати;verb
+study;вчитися;;education;study;вчитися;verb
+cheat;списувати;;education;cheat;списувати;verb
+certificate;сертифікат;сертифікати (masculine);education;certificate;сертифікат;noun
+diploma;диплом;дипломи (masculine);education;diploma;диплом;noun
+degree;ступінь;ступені (masculine);education;degree;ступінь;noun
+graduation;випуск;випуски (masculine);education;graduation;випуск;noun
+transcript;табель;табелі (masculine);education;transcript;табель;noun
+scholarship;стипендія;стипендії (feminine);education;scholarship;стипендія;noun
+invigilator;наглядач;наглядачі (masculine);education;invigilator;наглядач;noun
+candidate;кандидат;кандидати (masculine);education;candidate;кандидат;noun
+examiner;екзаменатор;екзаменатори (masculine);education;examiner;екзаменатор;noun
+timetable;розклад;розклади (masculine);education;timetable;розклад;noun
+question;питання;питання (neuter);education;question;питання;noun
+answer;відповідь;відповіді (feminine);education;answer;відповідь;noun
+essay;твір;твори (masculine);education;essay;твір;noun
+multiple-choice;багатоваріантний;;education;multiple-choice;багатоваріантний;adj
+oral;усний;;education;oral;усний;adj
+written;письмовий;;education;written;письмовий;adj
+resit;перездача;перездачі (feminine);education;resit;перездача;noun
+retake;перездавати;;education;retake;перездавати;verb
+coursework;курсова;курсові (feminine);education;coursework;курсова;noun
+assessment;оцінювання;(neuter);education;assessment;оцінювання;noun
+feedback;відгук;відгуки (masculine);education;feedback;відгук;noun
+report;звіт;звіти (masculine);education;report;звіт;noun
+cheat sheet;шпаргалка;шпаргалки (feminine);education;cheat sheet;шпаргалка;noun
+cram;зубрити;;education;cram;зубрити;verb
+entrance exam;вступний іспит;вступні іспити (masculine);education;entrance exam;вступний іспит;noun
+final exam;випускний іспит;випускні іспити (masculine);education;final exam;випускний іспит;noun
+midterm;семестровий іспит;семестрові іспити (masculine);education;midterm;семестровий іспит;noun
+mock exam;пробний іспит;пробні іспити (masculine);education;mock exam;пробний іспит;noun
+grade point average;середній бал;середні бали (masculine);education;grade point average;середній бал;noun
+distinction;відзнака;відзнаки (feminine);education;distinction;відзнака;noun
+credit;залік;заліки (masculine);education;credit;залік;noun
+fail mark;незадовільна оцінка;незадовільні оцінки (feminine);education;fail mark;незадовільна оцінка;noun
+pass mark;прохідний бал;прохідні бали (masculine);education;pass mark;прохідний бал;noun
+oral exam;усний іспит;усні іспити (masculine);education;oral exam;усний іспит;noun
+written exam;письмовий іспит;письмові іспити (masculine);education;written exam;письмовий іспит;noun
+invigilation;нагляд;нагляди (masculine);education;invigilation;нагляд;noun
+revision;повторення;(neuter);education;revision;повторення;noun
+preparation;підготовка;підготовки (feminine);education;preparation;підготовка;noun
+drop out;кинути навчання;;education;drop out;кинути навчання;verb
+examination hall;екзаменаційна зала;екзаменаційні зали (feminine);education;examination hall;екзаменаційна зала;noun
+language;мова;мови (feminine);education;language;мова;noun
+grammar;граматика;(feminine);education;grammar;граматика;noun
+vocabulary;словниковий запас;(masculine);education;vocabulary;словниковий запас;noun
+pronunciation;вимова;(feminine);education;pronunciation;вимова;noun
+accent;акцент;акценти (masculine);education;accent;акцент;noun
+practice;практика;(feminine);education;practice;практика;noun
+exercise;вправа;вправи (feminine);education;exercise;вправа;noun
+lesson;урок;уроки (masculine);education;lesson;урок;noun
+course;курс;курси (masculine);education;course;курс;noun
+textbook;підручник;підручники (masculine);education;textbook;підручник;noun
+dictionary;словник;словники (masculine);education;dictionary;словник;noun
+homework;домашнє завдання;(neuter);education;homework;домашнє завдання;noun
+test;тест;тести (masculine);education;test;тест;noun
+exam;іспит;іспити (masculine);education;exam;іспит;noun
+level;рівень;рівні (masculine);education;level;рівень;noun
+beginner;початківець;початківці (masculine);education;beginner;початківець;noun
+intermediate;середній;;education;intermediate;середній;adj
+advanced;просунутий;;education;advanced;просунутий;adj
+teacher;вчитель;вчителі (masculine);education;teacher;вчитель;noun
+student;студент;студенти (masculine);education;student;студент;noun
+class;заняття;заняття (neuter);education;class;заняття;noun
+classroom;клас;класи (masculine);education;classroom;клас;noun
+listening;аудіювання;(neuter);education;listening;аудіювання;noun
+speaking;говоріння;(neuter);education;speaking;говоріння;noun
+reading;читання;(neuter);education;reading;читання;noun
+writing;письмо;(neuter);education;writing;письмо;noun
+phrase;фраза;фрази (feminine);education;phrase;фраза;noun
+sentence;речення;речення (neuter);education;sentence;речення;noun
+word;слово;слова (neuter);education;word;слово;noun
+translation;переклад;переклади (masculine);education;translation;переклад;noun
+meaning;значення;значення (neuter);education;meaning;значення;noun
+mistake;помилка;помилки (feminine);education;mistake;помилка;noun
+error;помилка;помилки (feminine);education;error;помилка;noun
+improve;покращувати;;education;improve;покращувати;verb
+learn;вчити;;education;learn;вчити;verb
+study;навчатися;;education;study;навчатися;verb
+understand;розуміти;;education;understand;розуміти;verb
+communicate;спілкуватися;;education;communicate;спілкуватися;verb
+conversation;розмова;розмови (feminine);education;conversation;розмова;noun
+dialogue;діалог;діалоги (masculine);education;dialogue;діалог;noun
+fluency;вільне володіння;(neuter);education;fluency;вільне володіння;noun
+alphabet;алфавіт;алфавіти (masculine);education;alphabet;алфавіт;noun
+vowel;голосна;голосні (feminine);education;vowel;голосна;noun
+consonant;приголосна;приголосні (feminine);education;consonant;приголосна;noun
+spelling;правопис;(masculine);education;spelling;правопис;noun
+punctuation;пунктуація;(feminine);education;punctuation;пунктуація;noun
+skill;навичка;навички (feminine);education;skill;навичка;noun
+progress;прогрес;(masculine);education;progress;прогрес;noun
+motivation;мотивація;(feminine);education;motivation;мотивація;noun
+goal;мета;мети (feminine);education;goal;мета;noun

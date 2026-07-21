@@ -1,200 +1,200 @@
-head;голова;f;health
-forehead;лоб;m;health
-eye;око;n;health
-eyebrow;брова;f;health
-eyelid;повіка;f;health
-eyelash;вія;f;health
-ear;вухо;n;health
-nose;ніс;m;health
-mouth;рот;m;health
-lip;губа;f;health
-tooth;зуб;m;health
-tongue;язик;m;health
-chin;підборіддя;n;health
-cheek;щока;f;health
-jaw;щелепа;f;health
-neck;шия;f;health
-shoulder;плече;n;health
-arm;рука;f;health
-elbow;лікоть;m;health
-wrist;зап'ястя;n;health
-hand;кисть;f;health
-finger;палець;m;health
-thumb;великий палець;m;health
-chest;груди;pl;health
-back;спина;f;health
-spine;хребет;m;health
-waist;талія;f;health
-stomach;живіт;m;health
-hip;стегно;n;health
-leg;нога;f;health
-knee;коліно;n;health
-ankle;щиколотка;f;health
-foot;стопа;f;health
-toe;палець ноги;m;health
-heel;п'ята;f;health
-skin;шкіра;f;health
-bone;кістка;f;health
-muscle;м'яз;m;health
-heart;серце;n;health
-brain;мозок;m;health
-lung;легеня;f;health
-liver;печінка;f;health
-kidney;нирка;f;health
-blood;кров;f;health
-vein;вена;f;health
-artery;артерія;f;health
-nail;ніготь;m;health
-hair;волосся;n;health
-throat;горло;n;health
-palm;долоня;f;health
-headache;головний біль;m;health
-fever;температура;f;health
-cough;кашель;m;health
-sneeze;чхання;n;health
-sore throat;біль у горлі;m;health
-runny nose;нежить;m;health
-cold;застуда;f;health
-flu;грип;m;health
-infection;інфекція;f;health
-allergy;алергія;f;health
-rash;висип;m;health
-nausea;нудота;f;health
-vomiting;блювота;f;health
-diarrhea;діарея;f;health
-constipation;запор;m;health
-stomach ache;біль у животі;m;health
-earache;біль у вусі;m;health
-toothache;зубний біль;m;health
-backache;біль у спині;m;health
-pain;біль;m;health
-cut;поріз;m;health
-burn;опік;m;health
-bruise;синець;m;health
-sprain;розтягнення;n;health
-fracture;перелом;m;health
-dislocation;вивих;m;health
-inflammation;запалення;n;health
-swelling;набряк;m;health
-dizziness;запаморочення;n;health
-fatigue;втома;f;health
-weakness;слабкість;f;health
-insomnia;безсоння;n;health
-cold sore;герпес;m;health
-tonsillitis;ангіна;f;health
-asthma;астма;f;health
-diabetes;діабет;m;health
-high blood pressure;високий тиск;m;health
-heart attack;серцевий напад;m;health
-stroke;інсульт;m;health
-depression;депресія;f;health
-anxiety;тривога;f;health
-chest pain;біль у грудях;m;health
-nosebleed;носова кровотеча;f;health
-sunburn;сонячний опік;m;health
-blister;пухир;m;health
-wart;бородавка;f;health
-eczema;екзема;f;health
-migraine;мігрень;f;health
-illness;хвороба;f;health
-symptom;симптом;m;health
-doctor;лікар;m;health
-nurse;медсестра;f;health
-patient;пацієнт;m;health
-pharmacy;аптека;f;health
-medicine;ліки;pl;health
-pill;таблетка;f;health
-prescription;рецепт;m;health
-symptom;симптом;m;health
-fever;температура;f;health
-cough;кашель;m;health
-cold;застуда;f;health
-headache;головний біль;m;health
-stomachache;біль у животі;m;health
-pain;біль;m;health
-appointment;візит;m;health
-waiting room;зал очікування;m;health
-examination;огляд;m;health
-blood pressure;кров'яний тиск;m;health
-thermometer;термометр;m;health
-syringe;шприц;m;health
-bandage;бинт;m;health
-ointment;мазь;f;health
-tablets;пігулки;pl;health
-antibiotic;антибіотик;m;health
-allergy;алергія;f;health
-infection;інфекція;f;health
-virus;вірус;m;health
-vaccination;вакцинація;f;health
-health insurance;медична страховка;f;health
-side effects;побічні ефекти;pl;health
-dose;доза;f;health
-treatment;лікування;n;health
-diagnosis;діагноз;m;health
-surgeon;хірург;m;health
-specialist;спеціаліст;m;health
-ambulance;швидка;f;health
-emergency;невідкладний стан;m;health
-first aid;перша допомога;f;health
-crutches;милиці;pl;health
-wheelchair;інвалідний візок;m;health
-aspirin;аспірин;m;health
-ibuprofen;ібупрофен;m;health
-cough syrup;сироп від кашлю;m;health
-drops;краплі;pl;health
-inhaler;інгалятор;m;health
-sleeping pill;снодійне;n;health
-vaccine;вакцина;f;health
-X-ray;рентген;m;health
-blood test;аналіз крові;m;health
-urine test;аналіз сечі;m;health
-exercise;вправа;f;health
-diet;дієта;f;health
-nutrition;харчування;n;health
-healthy;здоровий;;health
-lifestyle;спосіб життя;m;health
-fitness;фітнес;m;health
-sport;спорт;m;health
-gym;спортзал;m;health
-yoga;йога;f;health
-meditation;медитація;f;health
-sleep;сон;m;health
-rest;відпочинок;m;health
-water;вода;f;health
-hydration;гідратація;f;health
-vegetables;овочі;pl;health
-fruit;фрукти;pl;health
-vitamins;вітаміни;pl;health
-minerals;мінерали;pl;health
-protein;білок;m;health
-carbohydrates;вуглеводи;pl;health
-fats;жири;pl;health
-sugar;цукор;m;health
-salt;сіль;f;health
-fiber;клітковина;f;health
-calories;калорії;pl;health
-weight;вага;f;health
-obesity;ожиріння;n;health
-stress;стрес;m;health
-relaxation;релаксація;f;health
-smoking;куріння;n;health
-alcohol;алкоголь;m;health
-medicine;ліки;pl;health
-doctor;лікар;m;health
-check-up;медичний огляд;m;health
-disease;хвороба;f;health
-prevention;профілактика;f;health
-hygiene;гігієна;f;health
-toothbrush;зубна щітка;f;health
-physical activity;фізична активність;f;health
-endurance;витривалість;f;health
-strength;сила;f;health
-flexibility;гнучкість;f;health
-balance;рівновага;f;health
-jogging;пробіжка;f;health
-walking;ходьба;f;health
-stretching;розтяжка;f;health
-healthy eating;здорове харчування;n;health
-fresh air;свіже повітря;n;health
-sunlight;сонячне світло;n;health
-immunity;імунітет;m;health
+head;голова;голови (жіночий);health;head;голова;noun
+face;обличчя;обличчя (середній);health;face;обличчя;noun
+eye;око;очі (середній);health;eye;око;noun
+ear;вухо;вуха (середній);health;ear;вухо;noun
+nose;ніс;носи (чоловічий);health;nose;ніс;noun
+mouth;рот;роти (чоловічий);health;mouth;рот;noun
+tooth;зуб;зуби (чоловічий);health;tooth;зуб;noun
+tongue;язик;язики (чоловічий);health;tongue;язик;noun
+neck;шия;шиї (жіночий);health;neck;шия;noun
+shoulder;плече;плечі (середній);health;shoulder;плече;noun
+arm;рука;руки (жіночий);health;arm;рука;noun
+elbow;лікоть;лікті (чоловічий);health;elbow;лікоть;noun
+wrist;зап'ястя;зап'ястя (середній);health;wrist;зап'ястя;noun
+hand;рука;руки (жіночий);health;hand;рука;noun
+finger;палець;пальці (чоловічий);health;finger;палець;noun
+thumb;великий палець;великі пальці (чоловічий);health;thumb;великий палець;noun
+chest;груди;груди (plural only);health;chest;груди;noun
+back;спина;спини (жіночий);health;back;спина;noun
+stomach;живіт;животи (чоловічий);health;stomach;живіт;noun
+waist;талія;талії (жіночий);health;waist;талія;noun
+leg;нога;ноги (жіночий);health;leg;нога;noun
+knee;коліно;коліна (середній);health;knee;коліно;noun
+ankle;щиколотка;щиколотки (жіночий);health;ankle;щиколотка;noun
+foot;стопа;стопи (жіночий);health;foot;стопа;noun
+toe;палець ноги;пальці ноги (чоловічий);health;toe;палець ноги;noun
+heel;п'ята;п'яти (жіночий);health;heel;п'ята;noun
+skin;шкіра;;health;skin;шкіра;noun
+bone;кістка;кістки (жіночий);health;bone;кістка;noun
+muscle;м'яз;м'язи (чоловічий);health;muscle;м'яз;noun
+heart;серце;серця (середній);health;heart;серце;noun
+brain;мозок;мізки (чоловічий);health;brain;мозок;noun
+lung;легеня;легені (жіночий);health;lung;легеня;noun
+liver;печінка;печінки (жіночий);health;liver;печінка;noun
+kidney;нирка;нирки (жіночий);health;kidney;нирка;noun
+blood;кров;;health;blood;кров;noun
+vein;вена;вени (жіночий);health;vein;вена;noun
+artery;артерія;артерії (жіночий);health;artery;артерія;noun
+forehead;лоб;лоби (чоловічий);health;forehead;лоб;noun
+cheek;щока;щоки (жіночий);health;cheek;щока;noun
+chin;підборіддя;підборіддя (середній);health;chin;підборіддя;noun
+jaw;щелепа;щелепи (жіночий);health;jaw;щелепа;noun
+lip;губа;губи (жіночий);health;lip;губа;noun
+gum;ясна;ясна (plural only);health;gum;ясна;noun
+throat;горло;горла (середній);health;throat;горло;noun
+spine;хребет;хребти (чоловічий);health;spine;хребет;noun
+rib;ребро;ребра (середній);health;rib;ребро;noun
+skull;череп;черепи (чоловічий);health;skull;череп;noun
+joint;суглоб;суглоби (чоловічий);health;joint;суглоб;noun
+nail;ніготь;нігті (чоловічий);health;nail;ніготь;noun
+hair;волосся;;health;hair;волосся;noun
+headache;головний біль;головні болі (masculine);health;headache;головний біль;noun
+fever;гарячка;гарячки (feminine);health;fever;гарячка;noun
+cough;кашель;кашлі (masculine);health;cough;кашель;noun
+sore throat;біль у горлі;болі в горлі (masculine);health;sore throat;біль у горлі;noun
+runny nose;нежить;нежиті (masculine);health;runny nose;нежить;noun
+sneeze;чхання;;health;sneeze;чхання;noun
+flu;грип;;health;flu;грип;noun
+cold;застуда;застуди (feminine);health;cold;застуда;noun
+stomach ache;біль у животі;болі в животі (masculine);health;stomach ache;біль у животі;noun
+diarrhea;діарея;;health;diarrhea;діарея;noun
+nausea;нудота;;health;nausea;нудота;noun
+vomit;блювота;;health;vomit;блювота;noun
+rash;висип;висипи (masculine);health;rash;висип;noun
+allergy;алергія;алергії (feminine);health;allergy;алергія;noun
+infection;інфекція;інфекції (feminine);health;infection;інфекція;noun
+virus;вірус;віруси (masculine);health;virus;вірус;noun
+pain;біль;болі (masculine);health;pain;біль;noun
+ache;біль;болі (masculine);health;ache;біль;noun
+injury;травма;травми (feminine);health;injury;травма;noun
+wound;рана;рани (feminine);health;wound;рана;noun
+bruise;синець;синці (masculine);health;bruise;синець;noun
+swelling;набряк;набряки (masculine);health;swelling;набряк;noun
+bleeding;кровотеча;кровотечі (feminine);health;bleeding;кровотеча;noun
+fracture;перелом;переломи (masculine);health;fracture;перелом;noun
+sprain;розтягнення;розтягнення (neuter);health;sprain;розтягнення;noun
+burn;опік;опіки (masculine);health;burn;опік;noun
+blister;пухир;пухирі (masculine);health;blister;пухир;noun
+itching;свербіж;;health;itching;свербіж;noun
+dizziness;запаморочення;запаморочення (neuter);health;dizziness;запаморочення;noun
+fatigue;втома;;health;fatigue;втома;noun
+weakness;слабкість;;health;weakness;слабкість;noun
+chills;озноб;озноби (masculine);health;chills;озноб;noun
+sweating;потовиділення;;health;sweating;потовиділення;noun
+loss of appetite;втрата апетиту;;health;loss of appetite;втрата апетиту;noun
+insomnia;безсоння;;health;insomnia;безсоння;noun
+depression;депресія;депресії (feminine);health;depression;депресія;noun
+anxiety;тривога;тривоги (feminine);health;anxiety;тривога;noun
+stress;стрес;стреси (masculine);health;stress;стрес;noun
+asthma;астма;;health;asthma;астма;noun
+diabetes;діабет;;health;diabetes;діабет;noun
+cancer;рак;;health;cancer;рак;noun
+stroke;інсульт;інсульти (masculine);health;stroke;інсульт;noun
+heart attack;серцевий напад;серцеві напади (masculine);health;heart attack;серцевий напад;noun
+hypertension;гіпертонія;;health;hypertension;гіпертонія;noun
+migraine;мігрень;мігрені (feminine);health;migraine;мігрень;noun
+earache;біль у вусі;болі в вусі (masculine);health;earache;біль у вусі;noun
+toothache;зубний біль;зубні болі (masculine);health;toothache;зубний біль;noun
+backache;біль у спині;болі у спині (masculine);health;backache;біль у спині;noun
+cramp;судома;судоми (feminine);health;cramp;судома;noun
+symptom;симптом;симптоми (masculine);health;symptom;симптом;noun
+tablet;таблетка;таблетки (feminine);health;tablet;таблетка;noun
+pill;пігулка;пігулки (feminine);health;pill;пігулка;noun
+capsule;капсула;капсули (feminine);health;capsule;капсула;noun
+injection;ін'єкція;ін'єкції (feminine);health;injection;ін'єкція;noun
+bandage;бинт;бинти (masculine);health;bandage;бинт;noun
+plaster;пластир;пластири (masculine);health;plaster;пластир;noun
+symptom;симптом;симптоми (masculine);health;symptom;симптом;noun
+prescription;рецепт;рецепти (masculine);health;prescription;рецепт;noun
+doctor;лікар;лікарі (masculine);health;doctor;лікар;noun
+nurse;медсестра;медсестри (feminine);health;nurse;медсестра;noun
+pharmacist;фармацевт;фармацевти (masculine);health;pharmacist;фармацевт;noun
+patient;пацієнт;пацієнти (masculine);health;patient;пацієнт;noun
+fever;температура;температури (feminine);health;fever;температура;noun
+headache;головний біль;головні болі (masculine);health;headache;головний біль;noun
+stomach ache;біль у животі;болі в животі (masculine);health;stomach ache;біль у животі;noun
+sore throat;біль у горлі;болі в горлі (masculine);health;sore throat;біль у горлі;noun
+cough;кашель;(masculine);health;cough;кашель;noun
+cold;застуда;застуди (feminine);health;cold;застуда;noun
+flu;грип;(masculine);health;flu;грип;noun
+allergy;алергія;алергії (feminine);health;allergy;алергія;noun
+infection;інфекція;інфекції (feminine);health;infection;інфекція;noun
+appointment;прийом;прийоми (masculine);health;appointment;прийом;noun
+pharmacy;аптека;аптеки (feminine);health;pharmacy;аптека;noun
+drug;медикамент;медикаменти (masculine);health;drug;медикамент;noun
+ointment;мазь;мазі (feminine);health;ointment;мазь;noun
+syrup;сироп;сиропи (masculine);health;syrup;сироп;noun
+thermometer;термометр;термометри (masculine);health;thermometer;термометр;noun
+blood pressure;кров'яний тиск;(masculine);health;blood pressure;кров'яний тиск;noun
+heart rate;пульс;пульси (masculine);health;heart rate;пульс;noun
+insurance;страховка;страховки (feminine);health;insurance;страховка;noun
+antibiotic;антибіотик;антибіотики (masculine);health;antibiotic;антибіотик;noun
+vitamin;вітамін;вітаміни (masculine);health;vitamin;вітамін;noun
+painkiller;знеболювальне;знеболювальні (neuter);health;painkiller;знеболювальне;noun
+syringe;шприц;шприци (masculine);health;syringe;шприц;noun
+clinic;клініка;клініки (feminine);health;clinic;клініка;noun
+hospital;лікарня;лікарні (feminine);health;hospital;лікарня;noun
+X-ray;рентген;рентгени (masculine);health;X-ray;рентген;noun
+prescribe;виписувати;;health;prescribe;виписувати;verb
+examine;оглядати;;health;examine;оглядати;verb
+treat;лікувати;;health;treat;лікувати;verb
+take;приймати;;health;take;приймати;verb
+cough;кашляти;;health;cough;кашляти;verb
+sneeze;чхати;;health;sneeze;чхати;verb
+vomit;блювати;;health;vomit;блювати;verb
+faint;непритомніти;;health;faint;непритомніти;verb
+bleed;кровоточити;;health;bleed;кровоточити;verb
+hurt;боліти;;health;hurt;боліти;verb
+sick;хворий;;health;sick;хворий;adj
+healthy;здоровий;;health;healthy;здоровий;adj
+painful;болючий;;health;painful;болючий;adj
+exercise;вправа;вправи (feminine);health;exercise;вправа;noun
+diet;дієта;дієти (feminine);health;diet;дієта;noun
+nutrition;харчування;;health;nutrition;харчування;noun
+calorie;калорія;калорії (feminine);health;calorie;калорія;noun
+protein;білок;білки (masculine);health;protein;білок;noun
+carbohydrate;вуглевод;вуглеводи (masculine);health;carbohydrate;вуглевод;noun
+fat;жир;жири (masculine);health;fat;жир;noun
+sugar;цукор;;health;sugar;цукор;noun
+salt;сіль;;health;salt;сіль;noun
+vitamin;вітамін;вітаміни (masculine);health;vitamin;вітамін;noun
+mineral;мінерал;мінерали (masculine);health;mineral;мінерал;noun
+fiber;клітковина;;health;fiber;клітковина;noun
+water;вода;;health;water;вода;noun
+meal;прийом їжі;прийоми їжі (masculine);health;meal;прийом їжі;noun
+snack;перекус;перекуси (masculine);health;snack;перекус;noun
+breakfast;сніданок;сніданки (masculine);health;breakfast;сніданок;noun
+lunch;обід;обіди (masculine);health;lunch;обід;noun
+dinner;вечеря;вечері (feminine);health;dinner;вечеря;noun
+portion;порція;порції (feminine);health;portion;порція;noun
+plate;тарілка;тарілки (feminine);health;plate;тарілка;noun
+balance;баланс;;health;balance;баланс;noun
+variety;різноманітність;;health;variety;різноманітність;noun
+vegetable;овоч;овочі (masculine);health;vegetable;овоч;noun
+fruit;фрукт;фрукти (masculine);health;fruit;фрукт;noun
+grain;зерно;зерна (neuter);health;grain;зерно;noun
+dairy;молочний продукт;молочні продукти (masculine);health;dairy;молочний продукт;noun
+meat;м'ясо;;health;meat;м'ясо;noun
+fish;риба;;health;fish;риба;noun
+egg;яйце;яйця (neuter);health;egg;яйце;noun
+nut;горіх;горіхи (masculine);health;nut;горіх;noun
+seed;насіння;насіння (neuter);health;seed;насіння;noun
+oil;олія;;health;oil;олія;noun
+butter;масло;;health;butter;масло;noun
+beverage;напій;напої (masculine);health;beverage;напій;noun
+physical;фізичний;;health;physical;фізичний;adj
+activity;активність;;health;activity;активність;noun
+sport;спорт;;health;sport;спорт;noun
+walk;прогулянка;прогулянки (feminine);health;walk;прогулянка;noun
+run;біг;;health;run;біг;noun
+jogging;біг підтюпцем;;health;jogging;біг підтюпцем;noun
+swimming;плавання;;health;swimming;плавання;noun
+cycling;їзда на велосипеді;;health;cycling;їзда на велосипеді;noun
+gym;спортзал;спортзали (masculine);health;gym;спортзал;noun
+workout;тренування;тренування (neuter);health;workout;тренування;noun
+stretching;розтяжка;розтяжки (feminine);health;stretching;розтяжка;noun
+strength;сила;;health;strength;сила;noun
+flexibility;гнучкість;;health;flexibility;гнучкість;noun
+endurance;витривалість;;health;endurance;витривалість;noun
+sleep;сон;;health;sleep;сон;noun
+rest;відпочинок;;health;rest;відпочинок;noun

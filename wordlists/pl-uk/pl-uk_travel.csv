@@ -1,200 +1,199 @@
-autobus;автобус;m;travel
-tramwaj;трамвай;m;travel
-pociąg;поїзд;m;travel
-metro;метро;n;travel
-bilet;квиток;m;travel
-przystanek;зупинка;m;travel
-dworzec;вокзал;m;travel
-peron;перон;m;travel
-kasa;каса;f;travel
-rozkład jazdy;розклад руху;m;travel
-stacja;станція;f;travel
-wagon;вагон;m;travel
-miejsce;місце;n;travel
-pasażer;пасажир;m;travel
-pasażerka;пасажирка;f;travel
-kierowca;водій;m;travel
-motorniczy;вагоновод;m;travel
-kontrola biletów;контроль квитків;f;travel
-bilet miesięczny;місячний квиток;m;travel
-bilet ulgowy;пільговий квиток;m;travel
-bilet normalny;звичайний квиток;m;travel
-linia;лінія;f;travel
-komunikacja miejska;міський транспорт;f;travel
-przesiadka;пересадка;f;travel
-opóźnienie;затримка;n;travel
-odjazd;відправлення;m;travel
-przyjazd;прибуття;m;travel
-podróż;подорож;f;travel
-bagaż;багаж;m;travel
-walizka;валіза;f;travel
-plecak;рюкзак;m;travel
-torba;сумка;f;travel
-mapa;мапа;f;travel
-plan miasta;план міста;m;travel
-informacja;інформація;f;travel
-poczekalnia;чекальня;f;travel
-kiosk;кіоск;m;travel
-automat biletowy;квитковий автомат;m;travel
-przejście podziemne;підземний перехід;n;travel
-schody ruchome;рухомі сходи;pl;travel
-winda;ліфт;f;travel
-barierka;бар'єр;f;travel
-tor;колія;m;travel
-zwrotnica;стрілка;f;travel
-semafor;семафор;m;travel
-zawiadowca;начальник станції;m;travel
-konduktor;кондуктор;m;travel
-maszynista;машиніст;m;travel
-podróżny;подорожній;m;travel
-bagażowy;носій;m;travel
-lot;рейс;m;travel
-samolot;літак;m;travel
-bilet;квиток;m;travel
-rezerwacja;бронювання;f;travel
-lotnisko;аеропорт;n;travel
-terminal;термінал;m;travel
-odprawa;реєстрація;f;travel
-bagaż;багаж;m;travel
-walizka;валіза;f;travel
-paszport;паспорт;m;travel
-wiza;віза;f;travel
-bilet elektroniczny;електронний квиток;m;travel
-karta pokładowa;посадковий талон;f;travel
-miejsce;місце;n;travel
-klasa ekonomiczna;економ-клас;f;travel
-klasa biznes;бізнес-клас;f;travel
-lot bezpośredni;прямий рейс;m;travel
-przesiadka;пересадка;f;travel
-opóźnienie;затримка;n;travel
-odwołanie;скасування;n;travel
-hotel;готель;m;travel
-pokój;номер;m;travel
-rezerwować;бронювати;;travel
-zameldowanie;реєстрація;n;travel
-wymeldowanie;виселення;n;travel
-recepcja;рецепція;f;travel
-klucz;ключ;m;travel
-karta hotelowa;картка готелю;f;travel
-śniadanie;сніданок;n;travel
-wyżywienie;харчування;n;travel
-basen;басейн;m;travel
-parking;парковка;m;travel
-Wi-Fi;вай-фай;n;travel
-klimatyzacja;кондиціонер;f;travel
-łazienka;ванна;f;travel
-ręcznik;рушник;m;travel
-mydło;мило;n;travel
-szampon;шампунь;m;travel
-suszarka do włosów;фен;f;travel
-sejf;сейф;m;travel
-bagaż podręczny;ручна поклажа;m;travel
-limit bagażu;норма багажу;m;travel
-nadbagaż;надлишковий багаж;m;travel
-opłata;оплата;f;travel
-ubezpieczenie podróżne;страхування подорожей;n;travel
-biuro podróży;туристичне агентство;n;travel
-przewodnik;гід;m;travel
-wycieczka;екскурсія;f;travel
-zwiedzanie;огляд;n;travel
-cena;ціна;f;travel
-zabytek;пам'ятка;m;travel
-muzeum;музей;n;travel
-kościół;костел;m;travel
-katedra;катедра;f;travel
-zamek;замок;m;travel
-pałac;палац;m;travel
-rynek;ринок;m;travel
-starówka;старе місто;f;travel
-punkt widokowy;оглядовий майданчик;m;travel
-pomnik;пам'ятник;m;travel
-plac;площа;m;travel
-ulica;вулиця;f;travel
-aleja;алея;f;travel
-park;парк;m;travel
-ogród;сад;m;travel
-fontanna;фонтан;f;travel
-most;міст;m;travel
-wieża;вежа;f;travel
-brama;ворота;f;travel
-mur;мур;m;travel
-ruiny;руїни;pl;travel
-przewodnik;гід;m;travel
-wycieczka;екскурсія;f;travel
-bilet;квиток;m;travel
-kasa;каса;f;travel
-rozkład;розклад;m;travel
-mapa;мапа;f;travel
-informacja turystyczna;туристична інформація;f;travel
-zwiedzanie;огляд пам'яток;n;travel
-trasa;маршрут;f;travel
-szlak;шлях;m;travel
-panorama;панорама;f;travel
-widok;вид;m;travel
-wystawa;виставка;f;travel
-kolekcja;колекція;f;travel
-dzieło sztuki;витвір мистецтва;n;travel
-obraz;картина;m;travel
-rzeźba;скульптура;f;travel
-architektura;архітектура;f;travel
-styl;стиль;m;travel
-fasada;фасад;f;travel
-kopuła;купол;f;travel
-witraż;вітраж;m;travel
-dziedziniec;внутрішній двір;m;travel
-krużganek;клуатр;m;travel
-krypta;крипта;f;travel
-wieża widokowa;оглядова вежа;f;travel
-taras widokowy;оглядовий майданчик;m;travel
-kolejka linowa;канатна дорога;f;travel
-autokar;автобус;m;travel
-bagaż;багаж;m;travel
-walizka;валіза;f;travel
-plecak;рюкзак;m;travel
-torba;сумка;f;travel
-torba podróżna;дорожня сумка;f;travel
-saszetka;поясна сумка;f;travel
-aktówka;портфель;f;travel
-pokrowiec;чохол;m;travel
-paszport;паспорт;m;travel
-bilet;квиток;m;travel
-karta pokładowa;посадковий талон;f;travel
-wiza;віза;f;travel
-ubezpieczenie podróżne;туристичне страхування;n;travel
-mapa;карта;f;travel
-przewodnik;путівник;m;travel
-ładowarka;зарядний пристрій;f;travel
-adapter;адаптер;m;travel
-aparat fotograficzny;фотоапарат;m;travel
-telefon komórkowy;мобільний телефон;m;travel
-słuchawki;навушники;pl;travel
-okulary przeciwsłoneczne;сонцезахисні окуляри;pl;travel
-parasol;парасолька;m;travel
-apteczka;аптечка;f;travel
-lek;ліки;m;travel
-pieniądze;гроші;pl;travel
-karta kredytowa;кредитна картка;f;travel
-kłódka;замок;f;travel
-kosmetyczka;косметичка;f;travel
-szczoteczka do zębów;зубна щітка;f;travel
-pasta do zębów;зубна паста;f;travel
-szampon;шампунь;m;travel
-mydło;мило;n;travel
-maszynka do golenia;бритва;f;travel
-ręcznik;рушник;m;travel
-strój kąpielowy;купальний костюм;m;travel
-klapki;шльопанці;pl;travel
-sandał;сандалі;m;travel
-but;черевик;m;travel
-skarpetka;шкарпетка;f;travel
-koszula;сорочка;f;travel
-spodnie;штани;pl;travel
-sukienka;сукня;f;travel
-kurtka;куртка;f;travel
-sweter;светр;m;travel
-bielizna;білизна;f;travel
-piżama;піжама;f;travel
-szorty;шорти;pl;travel
-czapka;шапка;f;travel
-szalik;шарф;m;travel
-rękawiczka;рукавичка;f;travel
+autobus;автобус;автобуси (чоловічий);travel;autobus;автобус;noun
+tramwaj;трамвай;трамваї (чоловічий);travel;tramwaj;трамвай;noun
+przystanek;зупинка;зупинки (жіночий);travel;przystanek;зупинка;noun
+bilet;квиток;квитки (чоловічий);travel;bilet;квиток;noun
+kasa;каса;каси (жіночий);travel;kasa;каса;noun
+automat biletowy;автомат квитковий;автомати квиткові (чоловічий);travel;automat biletowy;автомат квитковий;noun
+kasownik;компостер;компостери (чоловічий);travel;kasownik;компостер;noun
+rozkład jazdy;розклад руху;розклади руху (чоловічий);travel;rozkład jazdy;розклад руху;noun
+peron;перон;перони (чоловічий);travel;peron;перон;noun
+dworzec;вокзал;вокзали (чоловічий);travel;dworzec;вокзал;noun
+pociąg;поїзд;поїзди (чоловічий);travel;pociąg;поїзд;noun
+metro;метро;(середній);travel;metro;метро;noun
+kolej;залізниця;залізниці (жіночий);travel;kolej;залізниця;noun
+stacja;станція;станції (жіночий);travel;stacja;станція;noun
+postój taksówek;стоянка таксі;стоянки таксі (жіночий);travel;postój taksówek;стоянка таксі;noun
+kontroler;контролер;контролери (чоловічий);travel;kontroler;контролер;noun
+pasażer;пасажир;пасажири (чоловічий);travel;pasażer;пасажир;noun
+podróżny;подорожній;подорожні (чоловічий);travel;podróżny;подорожній;noun
+podróż;подорож;подорожі (жіночий);travel;podróż;подорож;noun
+bilet ulgowy;пільговий квиток;пільгові квитки (чоловічий);travel;bilet ulgowy;пільговий квиток;noun
+bilet normalny;звичайний квиток;звичайні квитки (чоловічий);travel;bilet normalny;звичайний квиток;noun
+opłata;оплата;оплати (жіночий);travel;opłata;оплата;noun
+bilet miesięczny;місячний проїзний;місячні проїзні (чоловічий);travel;bilet miesięczny;місячний проїзний;noun
+zniżka;знижка;знижки (жіночий);travel;zniżka;знижка;noun
+godziny szczytu;години пік;години пік (жіночий);travel;godziny szczytu;години пік;noun
+rozkład;розклад;розклади (чоловічий);travel;rozkład;розклад;noun
+linia;лінія;лінії (жіночий);travel;linia;лінія;noun
+autobus nocny;нічний автобус;нічні автобуси (чоловічий);travel;autobus nocny;нічний автобус;noun
+tramwaj nocny;нічний трамвай;нічні трамваї (чоловічий);travel;tramwaj nocny;нічний трамвай;noun
+przejazd;проїзд;проїзди (чоловічий);travel;przejazd;проїзд;noun
+przesiadka;пересадка;пересадки (жіночий);travel;przesiadka;пересадка;noun
+wagon;вагон;вагони (чоловічий);travel;wagon;вагон;noun
+konduktor;кондуктор;кондуктори (чоловічий);travel;konduktor;кондуктор;noun
+kierowca;водій;водії (чоловічий);travel;kierowca;водій;noun
+tor;колія;колії (жіночий);travel;tor;колія;noun
+sieć;мережа;мережі (жіночий);travel;sieć;мережа;noun
+połączenie;сполучення;сполучення (середній);travel;połączenie;сполучення;noun
+wejście;вхід;входи (чоловічий);travel;wejście;вхід;noun
+wyjście;вихід;виходи (чоловічий);travel;wyjście;вихід;noun
+bilet jednorazowy;одноразовий квиток;одноразові квитки (чоловічий);travel;bilet jednorazowy;одноразовий квиток;noun
+jechać;їхати;;travel;jechać;їхати;verb
+podróżować;подорожувати;;travel;podróżować;подорожувати;verb
+wsiadać;сідати;;travel;wsiadać;сідати;verb
+wysiadać;виходити;;travel;wysiadać;виходити;verb
+przesiadać się;пересідати;;travel;przesiadać się;пересідати;verb
+dojeżdżać;доїжджати;;travel;dojeżdżać;доїжджати;verb
+odjeżdżać;від'їжджати;;travel;odjeżdżać;від'їжджати;verb
+przyjeżdżać;приїжджати;;travel;przyjeżdżać;приїжджати;verb
+zatłoczony;переповнений;;travel;zatłoczony;переповнений;adj
+wygodny;зручний;;travel;wygodny;зручний;adj
+rezerwować;бронювати;;travel;rezerwować;бронювати;verb
+bilet;квиток;bilety (męski);travel;bilet;квиток;noun
+lot;рейс;loty (męski);travel;lot;рейс;noun
+hotel;готель;hotele (męski);travel;hotel;готель;noun
+pokój;номер;pokoje (męski);travel;pokój;номер;noun
+rezerwacja;бронювання;rezerwacje (nijaki);travel;rezerwacja;бронювання;noun
+potwierdzenie;підтвердження;potwierdzenia (nijaki);travel;potwierdzenie;підтвердження;noun
+odwołać;скасувати;;travel;odwołać;скасувати;verb
+zmienić;змінити;;travel;zmienić;змінити;verb
+data;дата;daty (żeński);travel;data;дата;noun
+paszport;паспорт;paszporty (męski);travel;paszport;паспорт;noun
+wiza;віза;wizy (żeński);travel;wiza;віза;noun
+odprawa;реєстрація;odprawy (żeński);travel;odprawa;реєстрація;noun
+bagaż;багаж; (męski);travel;bagaż;багаж;noun
+walizka;валіза;walizki (żeński);travel;walizka;валіза;noun
+miejsce;місце;miejsca (nijaki);travel;miejsce;місце;noun
+klasa;клас;klasy (męski);travel;klasa;клас;noun
+lotnisko;аеропорт;lotniska (męski);travel;lotnisko;аеропорт;noun
+przylot;приліт;przyloty (męski);travel;przylot;приліт;noun
+odlot;виліт;odloty (męski);travel;odlot;виліт;noun
+opóźnienie;затримка;opóźnienia (żeński);travel;opóźnienie;затримка;noun
+dostępny;доступний;;travel;dostępny;доступний;adj
+zarezerwowany;заброньований;;travel;zarezerwowany;заброньований;adj
+cena;ціна;ceny (żeński);travel;cena;ціна;noun
+zniżka;знижка;zniżki (żeński);travel;zniżka;знижка;noun
+opłata;плата;opłaty (żeński);travel;opłata;плата;noun
+ubezpieczenie;страхування;ubezpieczenia (nijaki);travel;ubezpieczenie;страхування;noun
+wyżywienie;харчування; (nijaki);travel;wyżywienie;харчування;noun
+śniadanie;сніданок;śniadania (męski);travel;śniadanie;сніданок;noun
+pokój jednoosobowy;одномісний номер;pokoje jednoosobowe (męski);travel;pokój jednoosobowy;одномісний номер;noun
+łazienka;ванна кімната;łazienki (żeński);travel;łazienka;ванна кімната;noun
+klimatyzacja;кондиціонер;klimatyzacje (męski);travel;klimatyzacja;кондиціонер;noun
+balkon;балкон;balkony (męski);travel;balkon;балкон;noun
+widok;вид;widoki (męski);travel;widok;вид;noun
+zameldowanie;реєстрація;zameldowania (żeński);travel;zameldowanie;реєстрація;noun
+wymeldowanie;виселення;wymeldowania (nijaki);travel;wymeldowanie;виселення;noun
+klucz;ключ;klucze (męski);travel;klucz;ключ;noun
+karta pokojowa;картка-ключ;karty pokojowe (żeński);travel;karta pokojowa;картка-ключ;noun
+obsługa hotelowa;обслуговування номерів; (nijaki);travel;obsługa hotelowa;обслуговування номерів;noun
+parter;перший поверх;partery (męski);travel;parter;перший поверх;noun
+piętro;поверх;piętra (męski);travel;piętro;поверх;noun
+winda;ліфт;windy (męski);travel;winda;ліфт;noun
+basen;басейн;baseny (męski);travel;basen;басейн;noun
+siłownia;тренажерний зал;siłownie (męski);travel;siłownia;тренажерний зал;noun
+restauracja;ресторан;restauracje (męski);travel;restauracja;ресторан;noun
+bar;бар;bary (męski);travel;bar;бар;noun
+rachunek;рахунок;rachunki (męski);travel;rachunek;рахунок;noun
+płacić;платити;;travel;płacić;платити;verb
+gotówka;готівка; (żeński);travel;gotówka;готівка;noun
+karta kredytowa;кредитна картка;karty kredytowe (żeński);travel;karta kredytowa;кредитна картка;noun
+zabytek;пам'ятка;пам'ятки (żeński);travel;zabytek;пам'ятка;noun
+muzeum;музей;музеї (męski);travel;muzeum;музей;noun
+katedra;собор;собори (męski);travel;katedra;собор;noun
+zamek;замок;замки (męski);travel;zamek;замок;noun
+pomnik;пам'ятник;пам'ятники (męski);travel;pomnik;пам'ятник;noun
+plac;площа;площі (żeński);travel;plac;площа;noun
+ulica;вулиця;вулиці (żeński);travel;ulica;вулиця;noun
+most;міст;мости (męski);travel;most;міст;noun
+punkt widokowy;оглядовий майданчик;оглядові майданчики (męski);travel;punkt widokowy;оглядовий майданчик;noun
+przewodnik;путівник;путівники (męski);travel;przewodnik;путівник;noun
+przewodnik;гід;гіди (męski);travel;przewodnik;гід;noun
+turysta;турист;туристи (męski);travel;turysta;турист;noun
+turystka;туристка;туристки (żeński);travel;turystka;туристка;noun
+wycieczka;екскурсія;екскурсії (żeński);travel;wycieczka;екскурсія;noun
+zwiedzać;оглядати;;travel;zwiedzać;оглядати;verb
+odwiedzać;відвідувати;;travel;odwiedzać;відвідувати;verb
+atrakcja turystyczna;туристична атракція;туристичні атракції (żeński);travel;atrakcja turystyczna;туристична атракція;noun
+panorama;панорама;панорами (żeński);travel;panorama;панорама;noun
+widok;вид;види (męski);travel;widok;вид;noun
+krajobraz;ландшафт;ландшафти (męski);travel;krajobraz;ландшафт;noun
+zdjęcie;світлина;світлини (żeński);travel;zdjęcie;світлина;noun
+aparat fotograficzny;фотоапарат;фотоапарати (męski);travel;aparat fotograficzny;фотоапарат;noun
+bilet;квиток;квитки (męski);travel;bilet;квиток;noun
+wejściówka;вхідний квиток;вхідні квитки (męski);travel;wejściówka;вхідний квиток;noun
+godziny otwarcia;години роботи;;travel;godziny otwarcia;години роботи;noun
+plan miasta;план міста;плани міста (męski);travel;plan miasta;план міста;noun
+trasa;маршрут;маршрути (męski);travel;trasa;маршрут;noun
+szlak turystyczny;туристичний шлях;туристичні шляхи (męski);travel;szlak turystyczny;туристичний шлях;noun
+punkt informacji turystycznej;туристичний інформаційний пункт;туристичні інформаційні пункти (męski);travel;punkt informacji turystycznej;туристичний інформаційний пункт;noun
+pamiątka;сувенір;сувеніри (męski);travel;pamiątka;сувенір;noun
+kasa biletowa;каса;каси (żeński);travel;kasa biletowa;каса;noun
+kolejka;черга;черги (żeński);travel;kolejka;черга;noun
+schody;сходи;;travel;schody;сходи;noun
+taras widokowy;оглядова тераса;оглядові тераси (żeński);travel;taras widokowy;оглядова тераса;noun
+fontanna;фонтан;фонтани (męski);travel;fontanna;фонтан;noun
+ogród botaniczny;ботанічний сад;ботанічні сади (męski);travel;ogród botaniczny;ботанічний сад;noun
+park;парк;парки (męski);travel;park;парк;noun
+placówka;установа;установи (żeński);travel;placówka;установа;noun
+ruina;руїна;руїни (żeński);travel;ruina;руїна;noun
+kolumna;колона;колони (żeński);travel;kolumna;колона;noun
+posąg;статуя;статуї (żeński);travel;posąg;статуя;noun
+rzeźba;скульптура;скульптури (żeński);travel;rzeźba;скульптура;noun
+fresk;фреска;фрески (żeński);travel;fresk;фреска;noun
+wystawa;виставка;виставки (żeński);travel;wystawa;виставка;noun
+galeria;галерея;галереї (żeński);travel;galeria;галерея;noun
+muzealny;музейний;;travel;muzealny;музейний;adj
+historyczny;історичний;;travel;historyczny;історичний;adj
+architektoniczny;архітектурний;;travel;architektoniczny;архітектурний;adj
+podziwiać;милуватися;;travel;podziwiać;милуватися;verb
+fotografować;фотографувати;;travel;fotografować;фотографувати;verb
+walizka;валіза;валізи (жіночий);travel;walizka;валіза;noun
+plecak;рюкзак;рюкзаки (чоловічий);travel;plecak;рюкзак;noun
+torba;сумка;сумки (жіночий);travel;torba;сумка;noun
+kufer;кофр;кофри (чоловічий);travel;kufer;кофр;noun
+bagaż;багаж;;travel;bagaż;багаж;noun
+pakować;пакувати;;travel;pakować;пакувати;verb
+spakować;спакувати;;travel;spakować;спакувати;verb
+rozpakować;розпакувати;;travel;rozpakować;розпакувати;verb
+walizeczka;валізка;валізки (жіночий);travel;walizeczka;валізка;noun
+kosmetyczka;косметичка;косметички (жіночий);travel;kosmetyczka;косметичка;noun
+paszport;паспорт;паспорти (чоловічий);travel;paszport;паспорт;noun
+dokument;документ;документи (чоловічий);travel;dokument;документ;noun
+bilet;квиток;квитки (чоловічий);travel;bilet;квиток;noun
+karta pokładowa;посадковий талон;посадкові талони (чоловічий);travel;karta pokładowa;посадковий талон;noun phrase
+bagaż podręczny;ручна поклажа;;travel;bagaż podręczny;ручна поклажа;noun phrase
+waga;вага;ваги (жіночий);travel;waga;вага;noun
+limit bagażu;норма багажу;норми багажу (жіночий);travel;limit bagażu;норма багажу;noun phrase
+nadbagaż;надбагаж;надбагажі (чоловічий);travel;nadbagaż;надбагаж;noun
+suwak;блискавка;блискавки (жіночий);travel;suwak;блискавка;noun
+kłódka;навісний замок;навісні замки (чоловічий);travel;kłódka;навісний замок;noun
+etykieta bagażowa;багажна бирка;багажні бирки (жіночий);travel;etykieta bagażowa;багажна бирка;noun phrase
+przywieszka;бирка;бирки (жіночий);travel;przywieszka;бирка;noun
+pasek;ремінь;ремені (чоловічий);travel;pasek;ремінь;noun
+sprzączka;пряжка;пряжки (жіночий);travel;sprzączka;пряжка;noun
+kieszeń;кишеня;кишені (жіночий);travel;kieszeń;кишеня;noun
+przegródka;відділення;відділення (середній);travel;przegródka;відділення;noun
+ubranie;предмет одягу;предмети одягу (чоловічий);travel;ubranie;предмет одягу;noun
+but;черевик;черевики (чоловічий);travel;but;черевик;noun
+sandał;сандаля;сандалі (жіночий);travel;sandał;сандаля;noun
+kapelusz;капелюх;капелюхи (чоловічий);travel;kapelusz;капелюх;noun
+okulary przeciwsłoneczne;сонцезахисні окуляри;окуляри;;travel;okulary przeciwsłoneczne;сонцезахисні окуляри;noun phrase
+krem do opalania;сонцезахисний крем;;travel;krem do opalania;сонцезахисний крем;noun phrase
+ręcznik;рушник;рушники (чоловічий);travel;ręcznik;рушник;noun
+klapek;шльопанець;шльопанці (чоловічий);travel;klapek;шльопанець;noun
+piżama;піжама;піжами (жіночий);travel;piżama;піжама;noun
+szlafrok;халат;халати (чоловічий);travel;szlafrok;халат;noun
+koszula;сорочка;сорочки (жіночий);travel;koszula;сорочка;noun
+spodnie;штани;штани;;travel;spodnie;штани;noun phrase
+spódnica;спідниця;спідниці (жіночий);travel;spódnica;спідниця;noun
+sweter;светр;светри (чоловічий);travel;sweter;светр;noun
+kurtka;куртка;куртки (жіночий);travel;kurtka;куртка;noun
+płaszcz;пальто;пальта (середній);travel;płaszcz;пальто;noun
+bielizna;білизна;;travel;bielizna;білизна;noun
+skarpetka;шкарпетка;шкарпетки (жіночий);travel;skarpetka;шкарпетка;noun
+zegarek;годинник;годинники (чоловічий);travel;zegarek;годинник;noun
+ładowarka;зарядний пристрій;зарядні пристрої (чоловічий);travel;ładowarka;зарядний пристрій;noun
+adapter;адаптер;адаптери (чоловічий);travel;adapter;адаптер;noun
+parasol;парасоля;парасолі (жіночий);travel;parasol;парасоля;noun
+torba termiczna;термосумка;термосумки (жіночий);travel;torba termiczna;термосумка;noun phrase

@@ -1,200 +1,209 @@
-die Größe;розмір;die Größen;shopping
-die Schuhgröße;розмір взуття;die Schuhgrößen;shopping
-die Körpergröße;зріст;die Körpergrößen;shopping
-die Anprobe;примірка;die Anproben;shopping
-die Umkleidekabine;примірочна кабінка;die Umkleidekabinen;shopping
-der Spiegel;дзеркало;die Spiegel;shopping
-die Hose;штани;die Hosen;shopping
-das Hemd;сорочка;die Hemden;shopping
-das T-Shirt;футболка;die T-Shirts;shopping
-die Bluse;блузка;die Blusen;shopping
-der Rock;спідниця;die Röcke;shopping
-das Kleid;сукня;die Kleider;shopping
-der Anzug;костюм;die Anzüge;shopping
-die Jacke;куртка;die Jacken;shopping
-der Mantel;пальто;die Mäntel;shopping
-der Pullover;светр;die Pullover;shopping
-die Weste;жилет;die Westen;shopping
-die Shorts;шорти;die Shorts;shopping
-die Socke;шкарпетка;die Socken;shopping
-der Schuh;черевик;die Schuhe;shopping
-der Stiefel;чобіт;die Stiefel;shopping
-die Sandale;сандалія;die Sandalen;shopping
-der Hausschuh;домашній тапочок;die Hausschuhe;shopping
-der Badeanzug;купальник;die Badeanzüge;shopping
-die Badehose;плавки;die Badehosen;shopping
-der Bikini;бікіні;die Bikinis;shopping
-die Unterwäsche;нижня білизна;;shopping
-der BH;бюстгальтер;die BHs;shopping
-der Slip;труси;die Slips;shopping
-das Nachthemd;нічна сорочка;die Nachthemden;shopping
-die Strumpfhose;колготи;die Strumpfhosen;shopping
-die Krawatte;краватка;die Krawatten;shopping
-der Schal;шарф;die Schals;shopping
-die Mütze;шапка;die Mützen;shopping
-der Hut;капелюх;die Hüte;shopping
-die Kappe;кепка;die Kappen;shopping
-die Handschuhe;рукавички;die Handschuhe;shopping
-der Gürtel;ремінь;die Gürtel;shopping
-die Tasche;сумка;die Taschen;shopping
-der Rucksack;рюкзак;die Rucksäcke;shopping
-die Sonnenbrille;сонцезахисні окуляри;die Sonnenbrillen;shopping
-die Brille;окуляри;die Brillen;shopping
-der Schmuck;прикраса;;shopping
-die Uhr;годинник;die Uhren;shopping
-die Kette;намисто;die Ketten;shopping
-der Ring;каблучка;die Ringe;shopping
-der Ohrring;сережка;die Ohrringe;shopping
-der Stoff;тканина;die Stoffe;shopping
-die Baumwolle;бавовна;;shopping
-die Wolle;вовна;;shopping
-der Supermarkt;супермаркет;die Supermärkte;shopping
-der Einkauf;покупка;die Einkäufe;shopping
-einkaufen;робити покупки;;shopping
-der Kunde;покупець;die Kunden;shopping
-die Kundin;покупчиня;die Kundinnen;shopping
-der Einkaufswagen;візок для покупок;die Einkaufswagen;shopping
-der Einkaufskorb;кошик для покупок;die Einkaufskörbe;shopping
-die Kasse;каса;die Kassen;shopping
-der Kassenzettel;чек;die Kassenzettel;shopping
-die Quittung;квитанція;die Quittungen;shopping
-das Regal;полиця;die Regale;shopping
-die Ware;товар;die Waren;shopping
-der Preis;ціна;die Preise;shopping
-das Sonderangebot;спеціальна пропозиція;die Sonderangebote;shopping
-der Rabatt;знижка;die Rabatte;shopping
-die Tiefkühltruhe;морозильна камера;die Tiefkühltruhen;shopping
-das Tiefkühlprodukt;заморожений продукт;die Tiefkühlprodukte;shopping
-das Kühlregal;холодильна полиця;die Kühlregale;shopping
-die Milchprodukte;молочні продукти;;shopping
-das Brot;хліб;die Brote;shopping
-das Brötchen;булочка;die Brötchen;shopping
-die Butter;масло;;shopping
-der Käse;сир;die Käse;shopping
-die Wurst;ковбаса;die Würste;shopping
-der Schinken;шинка;die Schinken;shopping
-das Fleisch;м'ясо;;shopping
-das Obst;фрукти;;shopping
-das Gemüse;овочі;;shopping
-der Apfel;яблуко;die Äpfel;shopping
-die Banane;банан;die Bananen;shopping
-die Tomate;помідор;die Tomaten;shopping
-die Gurke;огірок;die Gurken;shopping
-die Zwiebel;цибуля;die Zwiebeln;shopping
-der Knoblauch;часник;;shopping
-die Kartoffel;картопля;die Kartoffeln;shopping
-die Nudeln;макарони;;shopping
-der Reis;рис;;shopping
-das Mehl;борошно;;shopping
-der Zucker;цукор;;shopping
-das Salz;сіль;;shopping
-das Öl;олія;die Öle;shopping
-der Essig;оцет;;shopping
-die Seife;мило;;shopping
-das Shampoo;шампунь;die Shampoos;shopping
-die Zahnpasta;зубна паста;;shopping
-das Klopapier;туалетний папір;;shopping
-die Windel;підгузок;die Windeln;shopping
-das Waschmittel;пральний порошок;die Waschmittel;shopping
-der Einkaufszettel;список покупок;die Einkaufszettel;shopping
-die Tüte;пакет;die Tüten;shopping
-die Barzahlung;оплата готівкою;die Barzahlungen;shopping
-das Bargeld;готівка;;shopping
-die Kreditkarte;кредитна картка;die Kreditkarten;shopping
-die Bankkarte;банківська картка;die Bankkarten;shopping
-die EC-Karte;EC-картка;die EC-Karten;shopping
-die Girokarte;дебетова картка;die Girokarten;shopping
-die Geldkarte;грошова картка;die Geldkarten;shopping
-der Geldschein;банкнота;die Geldscheine;shopping
-die Münze;монета;die Münzen;shopping
-das Kleingeld;дрібні гроші;;shopping
-der Betrag;сума;die Beträge;shopping
-die Rechnung;рахунок;die Rechnungen;shopping
-die Quittung;квитанція;die Quittungen;shopping
-der Kassenbon;касовий чек;die Kassenbons;shopping
-die Zahlungsart;вид оплати;die Zahlungsarten;shopping
-die Zahlungsmöglichkeit;можливість оплати;die Zahlungsmöglichkeiten;shopping
-die Überweisung;банківський переказ;die Überweisungen;shopping
-die Lastschrift;списання з рахунку;die Lastschriften;shopping
-der Dauerauftrag;постійне доручення;die Daueraufträge;shopping
-die Online-Banking-Überweisung;онлайн-переказ;die Online-Banking-Überweisungen;shopping
-der Bezahlvorgang;процес оплати;die Bezahlvorgänge;shopping
-der Beleg;чек / квитанція;die Belege;shopping
-der Kassenzettel;касовий чек;die Kassenzettel;shopping
-das Portemonnaie;гаманець;die Portemonnaies;shopping
-der Geldbeutel;гаманець;die Geldbeutel;shopping
-der Einkaufswagen;візок для покупок;die Einkaufswagen;shopping
-die Pfandflasche;пляшка під заставу;die Pfandflaschen;shopping
-der Rabatt;знижка;die Rabatte;shopping
-das Sonderangebot;спеціальна пропозиція;die Sonderangebote;shopping
-der Ausverkauf;розпродаж;die Ausverkäufe;shopping
-die Ermäßigung;знижка;die Ermäßigungen;shopping
-der Gutschein;ваучер;die Gutscheine;shopping
-der Coupon;купон;die Coupons;shopping
-die Kundenkarte;картка клієнта;die Kundenkarten;shopping
-der Treuepunkt;бонусний бал;die Treuepunkte;shopping
-die PayPal-Zahlung;платіж через PayPal;die PayPal-Zahlungen;shopping
-die Kontaktloszahlung;безконтактна оплата;die Kontaktloszahlungen;shopping
-der QR-Code;QR-код;die QR-Codes;shopping
-die Mobile-Payment-App;додаток для мобільних платежів;die Mobile-Payment-Apps;shopping
-die Karte;картка;die Karten;shopping
-der PIN;PIN-код;die PINs;shopping
-die Transaktion;транзакція;die Transaktionen;shopping
-die Mehrwertsteuer;податок на додану вартість;;shopping
-die Währung;валюта;die Währungen;shopping
-das Wechselgeld;здача;;shopping
-der Wechselkurs;обмінний курс;die Wechselkurse;shopping
-die Ratenzahlung;оплата частинами;die Ratenzahlungen;shopping
-die Anzahlung;завдаток;die Anzahlungen;shopping
-der Kredit;кредит;die Kredite;shopping
-bezahlen;платити;;shopping
-die Reklamation;рекламація;die Reklamationen;shopping
-die Beschwerde;скарга;die Beschwerden;shopping
-der Umtausch;обмін;die Umtausche;shopping
-die Rückgabe;повернення;die Rückgaben;shopping
-die Rückerstattung;відшкодування;die Rückerstattungen;shopping
-die Garantie;гарантія;die Garantien;shopping
-die Gewährleistung;гарантійне зобов’язання;die Gewährleistungen;shopping
-der Kassenzettel;касовий чек;die Kassenzettel;shopping
-der Kassenbon;касовий чек;die Kassenbons;shopping
-die Quittung;квитанція;die Quittungen;shopping
-der Kaufbeleg;товарний чек;die Kaufbelege;shopping
-der Mangel;дефект;die Mängel;shopping
-der Defekt;дефект;die Defekte;shopping
-die Falschlieferung;помилкова доставка;die Falschlieferungen;shopping
-die Fehlbestellung;помилкове замовлення;die Fehlbestellungen;shopping
-die Retoure;повернення товару;die Retouren;shopping
-das Rücksendeetikett;етикетка повернення;die Rücksendeetiketten;shopping
-der Widerruf;відкликання договору;die Widerrufe;shopping
-das Widerrufsrecht;право на відкликання;;shopping
-die Reklamationsabteilung;відділ рекламацій;die Reklamationsabteilungen;shopping
-der Kundendienst;служба підтримки клієнтів;die Kundendienste;shopping
-der Verkäufer;продавець;die Verkäufer;shopping
-die Verkäuferin;продавчиня;die Verkäuferinnen;shopping
-der Hersteller;виробник;die Hersteller;shopping
-die Gutschrift;кредит-нота;die Gutschriften;shopping
-der Gutschein;ваучер;die Gutscheine;shopping
-die Entschuldigung;вибачення;die Entschuldigungen;shopping
-der Schaden;пошкодження;die Schäden;shopping
-die Beschädigung;пошкодження;die Beschädigungen;shopping
-kaputt;зламаний;;shopping
-defekt;дефектний;;shopping
-falsch;неправильний;;shopping
-fehlerhaft;з дефектом;;shopping
-unvollständig;неповний;;shopping
-reklamieren;рекламувати;;shopping
-zurückgeben;повертати;;shopping
-umtauschen;обмінювати;;shopping
-erstatten;відшкодовувати;;shopping
-sich beschweren;скаржитися;;shopping
-die Reklamationsfrist;термін подачі рекламації;die Reklamationsfristen;shopping
-die Rückgabefrist;термін повернення;die Rückgabefristen;shopping
-das Paket;посилка;die Pakete;shopping
-die Verpackung;упаковка;die Verpackungen;shopping
-der Originalzustand;оригінальний стан;;shopping
-das Etikett;етикетка;die Etiketten;shopping
-die Frist;термін;die Fristen;shopping
-die Beschwerdestelle;пункт прийому скарг;die Beschwerdestellen;shopping
-die Erstattung;відшкодування;die Erstattungen;shopping
-der Betrag;сума;die Beträge;shopping
-die Rechnung;рахунок;die Rechnungen;shopping
+die Hose;штани;штани (weiblich);shopping;Hose;штани;noun
+das T-Shirt;футболка;футболки (weiblich);shopping;T-Shirt;футболка;noun
+der Pullover;светр;светри (männlich);shopping;Pullover;светр;noun
+die Jacke;куртка;куртки (weiblich);shopping;Jacke;куртка;noun
+das Kleid;сукня;сукні (weiblich);shopping;Kleid;сукня;noun
+der Rock;спідниця;спідниці (weiblich);shopping;Rock;спідниця;noun
+die Bluse;блуза;блузи (weiblich);shopping;Bluse;блуза;noun
+das Hemd;сорочка;сорочки (weiblich);shopping;Hemd;сорочка;noun
+der Anzug;костюм;костюми (männlich);shopping;Anzug;костюм;noun
+der Schuh;черевик;черевики (männlich);shopping;Schuh;черевик;noun
+der Stiefel;чобіт;чоботи (männlich);shopping;Stiefel;чобіт;noun
+die Sandale;сандаля;сандалі (weiblich);shopping;Sandale;сандаля;noun
+die Socke;шкарпетка;шкарпетки (weiblich);shopping;Socke;шкарпетка;noun
+die Strumpfhose;колготки;колготки (weiblich);shopping;Strumpfhose;колготки;noun
+die Unterwäsche;білизна;(weiblich);shopping;Unterwäsche;білизна;noun
+der BH;бюстгальтер;бюстгальтери (männlich);shopping;BH;бюстгальтер;noun
+das Unterhemd;майка;майки (weiblich);shopping;Unterhemd;майка;noun
+der Slip;труси;труси (männlich);shopping;Slip;труси;noun
+der Badeanzug;купальник;купальники (männlich);shopping;Badeanzug;купальник;noun
+die Badehose;плавки;плавки (männlich);shopping;Badehose;плавки;noun
+der Schal;шарф;шарфи (männlich);shopping;Schal;шарф;noun
+die Mütze;шапка;шапки (weiblich);shopping;Mütze;шапка;noun
+der Hut;капелюх;капелюхи (männlich);shopping;Hut;капелюх;noun
+der Handschuh;рукавичка;рукавички (weiblich);shopping;Handschuh;рукавичка;noun
+der Gürtel;ремінь;ремені (männlich);shopping;Gürtel;ремінь;noun
+die Krawatte;краватка;краватки (weiblich);shopping;Krawatte;краватка;noun
+die Tasche;сумка;сумки (weiblich);shopping;Tasche;сумка;noun
+der Rucksack;рюкзак;рюкзаки (männlich);shopping;Rucksack;рюкзак;noun
+die Größe;розмір;розміри (männlich);shopping;Größe;розмір;noun
+die Anprobe;примірка;примірки (weiblich);shopping;Anprobe;примірка;noun
+die Umkleidekabine;примірочна;примірочні (weiblich);shopping;Umkleidekabine;примірочна;noun
+der Rabatt;знижка;знижки (weiblich);shopping;Rabatt;знижка;noun
+der Preis;ціна;ціни (weiblich);shopping;Preis;ціна;noun
+die Kasse;каса;каси (weiblich);shopping;Kasse;каса;noun
+der Einkaufswagen;візок;візки (männlich);shopping;Einkaufswagen;візок;noun
+der Kunde;покупець;покупці (männlich);shopping;Kunde;покупець;noun
+die Kundin;покупниця;покупниці (weiblich);shopping;Kundin;покупниця;noun
+die Quittung;чек;чеки (männlich);shopping;Quittung;чек;noun
+das Etikett;етикетка;етикетки (weiblich);shopping;Etikett;етикетка;noun
+der Stoff;тканина;тканини (weiblich);shopping;Stoff;тканина;noun
+die Baumwolle;бавовна;(weiblich);shopping;Baumwolle;бавовна;noun
+die Wolle;вовна;(weiblich);shopping;Wolle;вовна;noun
+das Leder;шкіра;(weiblich);shopping;Leder;шкіра;noun
+eng;вузький;;shopping;eng;вузький;adj
+weit;широкий;;shopping;weit;широкий;adj
+lang;довгий;;shopping;lang;довгий;adj
+kurz;короткий;;shopping;kurz;короткий;adj
+groß;великий;;shopping;groß;великий;adj
+klein;малий;;shopping;klein;малий;adj
+bequem;зручний;;shopping;bequem;зручний;adj
+der Supermarkt;супермаркет;die Supermärkte (männlich);shopping;Supermarkt;супермаркет;noun
+die Kasse;каса;die Kassen (weiblich);shopping;Kasse;каса;noun
+das Regal;полиця;die Regale (weiblich);shopping;Regal;полиця;noun
+die Tüte;пакет;die Tüten (männlich);shopping;Tüte;пакет;noun
+der Einkaufswagen;візок для покупок;die Einkaufswagen (männlich);shopping;Einkaufswagen;візок для покупок;noun
+das Sonderangebot;спеціальна пропозиція;die Sonderangebote (weiblich);shopping;Sonderangebot;спеціальна пропозиція;noun
+die Flasche;пляшка;die Flaschen (weiblich);shopping;Flasche;пляшка;noun
+die Dose;консервна банка;die Dosen (weiblich);shopping;Dose;консервна банка;noun
+die Packung;упаковка;die Packungen (weiblich);shopping;Packung;упаковка;noun
+das Pfand;застава;die Pfänder (жіночий рід);shopping;Pfand;застава;noun
+der Kunde;клієнт;die Kunden (männlich);shopping;Kunde;клієнт;noun
+die Kundin;клієнтка;die Kundinnen (weiblich);shopping;Kundin;клієнтка;noun
+die Schlange;черга;die Schlangen (weiblich);shopping;Schlange;черга;noun
+der Kassenzettel;чек;die Kassenzettel (männlich);shopping;Kassenzettel;чек;noun
+die Quittung;квитанція;die Quittungen (weiblich);shopping;Quittung;квитанція;noun
+der Rabatt;знижка;die Rabatte (weiblich);shopping;Rabatt;знижка;noun
+die Ware;товар;die Waren (männlich);shopping;Ware;товар;noun
+das Produkt;продукт;die Produkte (männlich);shopping;Produkt;продукт;noun
+die Milch;молоко;;shopping;Milch;молоко;noun
+das Brot;хліб;die Brote (männlich);shopping;Brot;хліб;noun
+der Käse;сир;die Käse (männlich);shopping;Käse;сир;noun
+die Wurst;ковбаса;die Würste (weiblich);shopping;Wurst;ковбаса;noun
+das Fleisch;м'ясо;;shopping;Fleisch;м'ясо;noun
+das Gemüse;овочі;;shopping;Gemüse;овочі;noun
+das Obst;фрукти;;shopping;Obst;фрукти;noun
+die Tiefkühlkost;заморожені продукти;;shopping;Tiefkühlkost;заморожені продукти;noun
+die Süßigkeiten;солодощі;die Süßigkeiten;shopping;Süßigkeit;солодощ;noun
+der Joghurt;йогурт;die Joghurts (männlich);shopping;Joghurt;йогурт;noun
+die Butter;масло;;shopping;Butter;масло;noun
+das Öl;олія;die Öle (weiblich);shopping;Öl;олія;noun
+die Nudeln;локшина;die Nudeln (weiblich);shopping;Nudel;локшина;noun
+der Reis;рис;;shopping;Reis;рис;noun
+das Mehl;борошно;;shopping;Mehl;борошно;noun
+der Zucker;цукор;;shopping;Zucker;цукор;noun
+das Salz;сіль;;shopping;Salz;сіль;noun
+die Tiefkühltruhe;морозильна скриня;die Tiefkühltruhen (weiblich);shopping;Tiefkühltruhe;морозильна скриня;noun
+der Kühlschrank;холодильник;die Kühlschränke (männlich);shopping;Kühlschrank;холодильник;noun
+die Waage;ваги;die Waagen (weiblich);shopping;Waage;ваги;noun
+das Kleingeld;дрібні гроші;;shopping;Kleingeld;дрібні гроші;noun
+der Geldbeutel;гаманець;die Geldbeutel (männlich);shopping;Geldbeutel;гаманець;noun
+die EC-Karte;банківська картка;die EC-Karten (weiblich);shopping;EC-Karte;банківська картка;noun
+der Pfandautomat;автомат для приймання тари;die Pfandautomaten (männlich);shopping;Pfandautomat;автомат для приймання тари;noun
+der Scanner;сканер;die Scanner (männlich);shopping;Scanner;сканер;noun
+das Etikett;етикетка;die Etiketten (weiblich);shopping;Etikett;етикетка;noun
+die Verpackung;упаковка;die Verpackungen (weiblich);shopping;Verpackung;упаковка;noun
+der Artikel;товар;die Artikel (männlich);shopping;Artikel;товар;noun
+das Mindesthaltbarkeitsdatum;термін придатності;die Mindesthaltbarkeitsdaten (männlich);shopping;Mindesthaltbarkeitsdatum;термін придатності;noun
+die Zutatenliste;список інгредієнтів;die Zutatenlisten (männlich);shopping;Zutatenliste;список інгредієнтів;noun
+das Preisschild;цінник;die Preisschilder (männlich);shopping;Preisschild;цінник;noun
+die Selbstbedienungskasse;каса самообслуговування;die Selbstbedienungskassen (weiblich);shopping;Selbstbedienungskasse;каса самообслуговування;noun
+die Leerflasche;порожня пляшка;die Leerflaschen (weiblich);shopping;Leerflasche;порожня пляшка;noun
+die Plastiktüte;поліетиленовий пакет;die Plastiktüten (männlich);shopping;Plastiktüte;поліетиленовий пакет;noun
+der Stoffbeutel;тканинна сумка;die Stoffbeutel (weiblich);shopping;Stoffbeutel;тканинна сумка;noun
+die Frischware;свіжі продукти;;shopping;Frischware;свіжі продукти;noun
+die Kühltheke;охолоджувальний прилавок;die Kühltheken (männlich);shopping;Kühltheke;охолоджувальний прилавок;noun
+die Backwaren;хлібобулочні вироби;die Backwaren;shopping;Backware;хлібобулочний виріб;noun
+das Getränk;напій;die Getränke (männlich);shopping;Getränk;напій;noun
+die Tiefkühlpizza;заморожена піца;die Tiefkühlpizzen (weiblich);shopping;Tiefkühlpizza;заморожена піца;noun
+der Einkaufskorb;корзина для покупок;die Einkaufskörbe (weiblich);shopping;Einkaufskorb;корзина для покупок;noun
+die Zahlung;платіж;платежі (männlich);shopping;Zahlung;платіж;noun
+die Barzahlung;готівковий платіж;готівкові платежі (männlich);shopping;Barzahlung;готівковий платіж;noun
+die Kreditkarte;кредитна картка;кредитні картки (weiblich);shopping;Kreditkarte;кредитна картка;noun
+die Debitkarte;дебетова картка;дебетові картки (weiblich);shopping;Debitkarte;дебетова картка;noun
+die EC-Karte;картка EC;картки EC (weiblich);shopping;EC-Karte;картка EC;noun
+die Banküberweisung;банківський переказ;банківські перекази (männlich);shopping;Banküberweisung;банківський переказ;noun
+der Dauerauftrag;постійне доручення;постійні доручення (sächlich);shopping;Dauerauftrag;постійне доручення;noun
+die Lastschrift;дебетове списання;дебетові списання (sächlich);shopping;Lastschrift;дебетове списання;noun
+die Rechnung;рахунок;рахунки (männlich);shopping;Rechnung;рахунок;noun
+der Kassenbon;касовий чек;касові чеки (männlich);shopping;Kassenbon;касовий чек;noun
+die Quittung;квитанція;квитанції (weiblich);shopping;Quittung;квитанція;noun
+der Beleg;чек;чеки (männlich);shopping;Beleg;чек;noun
+das Wechselgeld;решта;;shopping;Wechselgeld;решта;noun
+der Geldbeutel;гаманець;гаманці (männlich);shopping;Geldbeutel;гаманець;noun
+die Geldbörse;гаманець;гаманці (männlich);shopping;Geldbörse;гаманець;noun
+der Geldautomat;банкомат;банкомати (männlich);shopping;Geldautomat;банкомат;noun
+der Kontoauszug;банківська виписка;банківські виписки (weiblich);shopping;Kontoauszug;банківська виписка;noun
+der Kontostand;залишок на рахунку;залишки на рахунку (männlich);shopping;Kontostand;залишок на рахунку;noun
+die Überweisung;переказ;перекази (männlich);shopping;Überweisung;переказ;noun
+der Zahlschein;платіжне доручення;платіжні доручення (sächlich);shopping;Zahlschein;платіжне доручення;noun
+die Einzahlung;внесок;внески (männlich);shopping;Einzahlung;внесок;noun
+die Auszahlung;виплата;виплати (weiblich);shopping;Auszahlung;виплата;noun
+das Bargeld;готівка;;shopping;Bargeld;готівка;noun
+die Münze;монета;монети (weiblich);shopping;Münze;монета;noun
+der Geldschein;банкнота;банкноти (weiblich);shopping;Geldschein;банкнота;noun
+der Rabatt;знижка;знижки (weiblich);shopping;Rabatt;знижка;noun
+die Ermäßigung;пільга;пільги (weiblich);shopping;Ermäßigung;пільга;noun
+der Gutschein;ваучер;ваучери (männlich);shopping;Gutschein;ваучер;noun
+der Kauf;покупка;покупки (weiblich);shopping;Kauf;покупка;noun
+der Einkauf;закупівля;закупівлі (weiblich);shopping;Einkauf;закупівля;noun
+der Scheck;чек;чеки (männlich);shopping;Scheck;чек;noun
+die Karte;картка;картки (weiblich);shopping;Karte;картка;noun
+die PIN;ПІН-код;ПІН-коди (männlich);shopping;PIN;ПІН-код;noun
+die kontaktlose Zahlung;безконтактний платіж;безконтактні платежі (männlich);shopping;kontaktlose Zahlung;безконтактний платіж;noun
+das mobile Bezahlen;мобільний платіж;мобільні платежі (männlich);shopping;mobiles Bezahlen;мобільний платіж;noun
+die Online-Überweisung;онлайн-переказ;онлайн-перекази (männlich);shopping;Online-Überweisung;онлайн-переказ;noun
+der Online-Kauf;онлайн-покупка;онлайн-покупки (weiblich);shopping;Online-Kauf;онлайн-покупка;noun
+das PayPal-Konto;рахунок PayPal;рахунки PayPal (männlich);shopping;PayPal-Konto;рахунок PayPal;noun
+die Kryptowährung;криптовалюта;криптовалюти (weiblich);shopping;Kryptowährung;криптовалюта;noun
+die Zahlungsmethode;спосіб оплати;способи оплати (männlich);shopping;Zahlungsmethode;спосіб оплати;noun
+die Zahlungsart;вид оплати;види оплати (männlich);shopping;Zahlungsart;вид оплати;noun
+der Betrag;сума;суми (weiblich);shopping;Betrag;сума;noun
+die Währung;валюта;валюти (weiblich);shopping;Währung;валюта;noun
+der Wechselkurs;обмінний курс;обмінні курси (männlich);shopping;Wechselkurs;обмінний курс;noun
+die Gebühr;комісія;комісії (weiblich);shopping;Gebühr;комісія;noun
+die Transaktion;транзакція;транзакції (weiblich);shopping;Transaktion;транзакція;noun
+die TAN;TAN-код;TAN-коди (männlich);shopping;TAN;TAN-код;noun
+die Sicherheitszahl;захисний код;захисні коди (männlich);shopping;Sicherheitszahl;захисний код;noun
+die Abbuchung;списання;списання (sächlich);shopping;Abbuchung;списання;noun
+das Portemonnaie;портмоне;портмоне (sächlich);shopping;Portemonnaie;портмоне;noun
+die Reklamation;рекламація;Reklamationen (weiblich);shopping;die Reklamation;рекламація;noun
+der Umtausch;обмін;Umtausche (männlich);shopping;der Umtausch;обмін;noun
+die Rückgabe;повернення;Rückgaben (weiblich);shopping;die Rückgabe;повернення;noun
+der Mangel;дефект;Mängel (männlich);shopping;der Mangel;дефект;noun
+der Kassenbon;касовий чек;Kassenbons (männlich);shopping;der Kassenbon;касовий чек;noun
+die Garantie;гарантія;Garantien (weiblich);shopping;die Garantie;гарантія;noun
+der Gutschein;подарунковий сертифікат;Gutscheine (männlich);shopping;der Gutschein;подарунковий сертифікат;noun
+die Beschwerde;скарга;Beschwerden (weiblich);shopping;die Beschwerde;скарга;noun
+der Austausch;заміна;Austausche (männlich);shopping;der Austausch;заміна;noun
+die Reparatur;ремонт;Reparaturen (weiblich);shopping;die Reparatur;ремонт;noun
+die Erstattung;відшкодування;Erstattungen (weiblich);shopping;die Erstattung;відшкодування;noun
+der Fehler;помилка;Fehler (männlich);shopping;der Fehler;помилка;noun
+die Quittung;квитанція;Quittungen (weiblich);shopping;die Quittung;квитанція;noun
+der Schaden;пошкодження;Schäden (männlich);shopping;der Schaden;пошкодження;noun
+die Rechnung;рахунок;Rechnungen (weiblich);shopping;die Rechnung;рахунок;noun
+der Kassenbeleg;чек;Kassenbelege (männlich);shopping;der Kassenbeleg;чек;noun
+der Kundendienst;служба підтримки клієнтів;Kundendienste (männlich);shopping;der Kundendienst;служба підтримки клієнтів;noun
+die Rückerstattung;повернення коштів;Rückerstattungen (weiblich);shopping;die Rückerstattung;повернення коштів;noun
+der Verkäufer;продавець;Verkäufer (männlich);shopping;der Verkäufer;продавець;noun
+die Verkäuferin;продавчиня;Verkäuferinnen (weiblich);shopping;die Verkäuferin;продавчиня;noun
+der Kunde;клієнт;Kunden (männlich);shopping;der Kunde;клієнт;noun
+die Kundin;клієнтка;Kundinnen (weiblich);shopping;die Kundin;клієнтка;noun
+das Produkt;продукт;Produkte (sächlich);shopping;das Produkt;продукт;noun
+der Artikel;товар;Artikel (männlich);shopping;der Artikel;товар;noun
+die Ware;товар;Waren (weiblich);shopping;die Ware;товар;noun
+der Karton;коробка;Kartons (männlich);shopping;der Karton;коробка;noun
+die Verpackung;упаковка;Verpackungen (weiblich);shopping;die Verpackung;упаковка;noun
+das Etikett;етикетка;Etiketten (sächlich);shopping;das Etikett;етикетка;noun
+der Preis;ціна;Preise (männlich);shopping;der Preis;ціна;noun
+die Ermäßigung;знижка;Ermäßigungen (weiblich);shopping;die Ermäßigung;знижка;noun
+der Rabatt;знижка;Rabatte (männlich);shopping;der Rabatt;знижка;noun
+der Abverkauf;розпродаж;Abverkäufe (männlich);shopping;der Abverkauf;розпродаж;noun
+die Retoure;повернення товару;Retouren (weiblich);shopping;die Retoure;повернення товару;noun
+das Umtauschrecht;право на обмін;Umtauschrechte (sächlich);shopping;das Umtauschrecht;право на обмін;noun
+die Gewährleistung;гарантійне зобов'язання;Gewährleistungen (weiblich);shopping;die Gewährleistung;гарантійне зобов'язання;noun
+der Produktfehler;дефект продукту;Produktfehler (männlich);shopping;der Produktfehler;дефект продукту;noun
+die Transportschaden;транспортне пошкодження;Transportschäden (weiblich);shopping;der Transportschaden;транспортне пошкодження;noun
+die Frist;термін;Fristen (weiblich);shopping;die Frist;термін;noun
+die Kulanz;люб'язність; (weiblich);shopping;die Kulanz;люб'язність;noun
+der Widerruf;відкликання;Widerrufe (männlich);shopping;der Widerruf;відкликання;noun
+das Rückgaberecht;право на повернення;Rückgaberechte (sächlich);shopping;das Rückgaberecht;право на повернення;noun
+die Beanstandung;претензія;Beanstandungen (weiblich);shopping;die Beanstandung;претензія;noun
+der Beleg;підтвердження;Belege (männlich);shopping;der Beleg;підтвердження;noun
+der Gutscheincode;промокод;Gutscheincodes (männlich);shopping;der Gutscheincode;промокод;noun
+die Stornierung;скасування;Stornierungen (weiblich);shopping;die Stornierung;скасування;noun
+der Ersatz;заміна; (männlich);shopping;der Ersatz;заміна;noun
+die Entschädigung;компенсація;Entschädigungen (weiblich);shopping;die Entschädigung;компенсація;noun
+die Reklamationsabteilung;відділ рекламацій;Reklamationsabteilungen (weiblich);shopping;die Reklamationsabteilung;відділ рекламацій;noun
+der Musterbrief;шаблон листа;Musterbriefe (männlich);shopping;der Musterbrief;шаблон листа;noun
+die Kundenbeschwerde;скарга клієнта;Kundenbeschwerden (weiblich);shopping;die Kundenbeschwerde;скарга клієнта;noun
