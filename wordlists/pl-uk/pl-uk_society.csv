@@ -1,200 +1,152 @@
-gazeta;газета;газети (żeński);society;gazeta;газета;noun
-czasopismo;журнал;журнали (męski);society;czasopismo;журнал;noun
-artykuł;стаття;статті (żeński);society;artykuł;стаття;noun
-wiadomość;новина;новини (żeński);society;wiadomość;новина;noun
-radio;радіо;;society;radio;радіо;noun
-telewizja;телебачення;;society;telewizja;телебачення;noun
-kanał;канал;канали (męski);society;kanał;канал;noun
-program;програма;програми (żeński);society;program;програма;noun
-reporter;репортер;репортери (męski);society;reporter;репортер;noun
-dziennikarz;журналіст;журналісти (męski);society;dziennikarz;журналіст;noun
-wywiad;інтерв'ю;інтерв'ю (nijaki);society;wywiad;інтерв'ю;noun
-reklama;реклама;реклами (żeński);society;reklama;реклама;noun
-prasa;преса;;society;prasa;преса;noun
-nagłówek;заголовок;заголовки (męski);society;nagłówek;заголовок;noun
-korespondent;кореспондент;кореспонденти (męski);society;korespondent;кореспондент;noun
-felieton;фейлетон;фейлетони (męski);society;felieton;фейлетон;noun
-recenzja;рецензія;рецензії (żeński);society;recenzja;рецензія;noun
-redaktor;редактор;редактори (męski);society;redaktor;редактор;noun
-czytelnik;читач;читачі (męski);society;czytelnik;читач;noun
-subskrypcja;підписка;підписки (żeński);society;subskrypcja;підписка;noun
-antena;антена;антени (żeński);society;antena;антена;noun
-transmisja;трансляція;трансляції (żeński);society;transmisja;трансляція;noun
-nadawać;транслювати;;society;nadawać;транслювати;verb
-słuchać;слухати;;society;słuchać;слухати;verb
-oglądać;дивитися;;society;oglądać;дивитися;verb
-czytanie;читання;;society;czytanie;читання;noun
-informacja;інформація;;society;informacja;інформація;noun
-serwis informacyjny;інформаційна служба;інформаційні служби (żeński);society;serwis informacyjny;інформаційна служба;noun
-komentarz;коментар;коментарі (męski);society;komentarz;коментар;noun
-reportaż;репортаж;репортажі (męski);society;reportaż;репортаж;noun
-korespondencja;листування;;society;korespondencja;листування;noun
-publicystyka;публіцистика;;society;publicystyka;публіцистика;noun
-media;медіа;медіа (nijaki);society;medium;медіум;noun
-plotka;чутка;чутки (żeński);society;plotka;чутка;noun
-opublikować;опублікувати;;society;opublikować;опублікувати;verb
-wydanie;видання;видання (nijaki);society;wydanie;видання;noun
-nakład;наклад;наклади (męski);society;nakład;наклад;noun
-prenumerata;передплата;передплати (żeński);society;prenumerata;передплата;noun
-tygodnik;тижневик;тижневики (męski);society;tygodnik;тижневик;noun
-miesięcznik;щомісячник;щомісячники (męski);society;miesięcznik;щомісячник;noun
-wydawca;видавець;видавці (męski);society;wydawca;видавець;noun
-dziennikarstwo;журналістика;;society;dziennikarstwo;журналістика;noun
-portal informacyjny;інформаційний портал;інформаційні портали (męski);society;portal informacyjny;інформаційний портал;noun
-komentować;коментувати;;society;komentować;коментувати;verb
-publikować;публікувати;;society;publikować;публікувати;verb
-przegląd;огляд;огляди (męski);society;przegląd;огляд;noun
-SMS;SMS;SMS-и (męski);society;SMS;SMS;noun
-nagranie;запис;записи (męski);society;nagranie;запис;noun
-transmisja na żywo;пряма трансляція;прямі трансляції (żeński);society;transmisja na żywo;пряма трансляція;noun
-komentator;коментатор;коментатори (męski);society;komentator;коментатор;noun
-wybory;вибори;вибори (чоловічий);society;wybory;вибори;noun
-głos;голос;голоси (чоловічий);society;głos;голос;noun
-głosowanie;голосування;голосування (середній);society;głosowanie;голосування;noun
-kandydat;кандидат;кандидати (чоловічий);society;kandydat;кандидат;noun
-kandydatka;кандидатка;кандидатки (жіночий);society;kandydatka;кандидатка;noun
-partia;партія;партії (жіночий);society;partia;партія;noun
-polityk;політик;політики (чоловічий);society;polityk;політик;noun
-polityka;політика;;society;polityka;політика;noun
-rząd;уряд;уряди (чоловічий);society;rząd;уряд;noun
-prezydent;президент;президенти (чоловічий);society;prezydent;президент;noun
-parlament;парламент;парламенти (чоловічий);society;parlament;парламент;noun
-prawo;право;права (середній);society;prawo;право;noun
-obywatel;громадянин;громадяни (чоловічий);society;obywatel;громадянин;noun
-obywatelka;громадянка;громадянки (жіночий);society;obywatelka;громадянка;noun
-demokracja;демократія;;society;demokracja;демократія;noun
-wyborca;виборець;виборці (чоловічий);society;wyborca;виборець;noun
-wyborczyni;виборниця;виборниці (жіночий);society;wyborczyni;виборниця;noun
-kampania;кампанія;кампанії (жіночий);society;kampania;кампанія;noun
-urna;урна;урни (жіночий);society;urna;урна;noun
-karta do głosowania;виборчий бюлетень;бюлетені (чоловічий);society;karta do głosowania;виборчий бюлетень;noun
-debata;дебати;дебати (чоловічий);society;debata;дебати;noun
-opozycja;опозиція;;society;opozycja;опозиція;noun
-koalicja;коаліція;коаліції (жіночий);society;koalicja;коаліція;noun
-referendum;референдум;референдуми (чоловічий);society;referendum;референдум;noun
-konstytucja;конституція;конституції (жіночий);society;konstytucja;конституція;noun
-sondaż;опитування;опитування (середній);society;sondaż;опитування;noun
-frekwencja;явка;явки (жіночий);society;frekwencja;явка;noun
-głosować;голосувати;;society;głosować;голосувати;verb
-kandydować;балотуватися;;society;kandydować;балотуватися;verb
-wybierać;обирати;;society;wybierać;обирати;verb
-rządzić;правити;;society;rządzić;правити;verb
-decydować;вирішувати;;society;decydować;вирішувати;verb
-obiecywać;обіцяти;;society;obiecywać;обіцяти;verb
-wygrać;перемогти;;society;wygrać;перемогти;verb
-przegrać;програти;;society;przegrać;програти;verb
-wybory parlamentarne;парламентські вибори;парламентські вибори (чоловічий);society;wybory parlamentarne;парламентські вибори;noun
-wybory prezydenckie;президентські вибори;президентські вибори (чоловічий);society;wybory prezydenckie;президентські вибори;noun
-cisza wyborcza;тиша виборча;тиші виборчі (жіночий);society;cisza wyborcza;тиша виборча;noun
-komisja wyborcza;виборча комісія;виборчі комісії (жіночий);society;komisja wyborcza;виборча комісія;noun
-lokal wyborczy;виборча дільниця;виборчі дільниці (жіночий);society;lokal wyborczy;виборча дільниця;noun
-ordynacja wyborcza;виборча система;виборчі системи (жіночий);society;ordynacja wyborcza;виборча система;noun
-próg wyborczy;прохідний бар'єр;прохідні бар'єри (чоловічий);society;próg wyborczy;прохідний бар'єр;noun
-mandat;мандат;мандати (чоловічий);society;mandat;мандат;noun
-kadencja;каденція;каденції (жіночий);society;kadencja;каденція;noun
-większość;більшість;більшості (жіночий);society;większość;більшість;noun
-mniejszość;меншість;меншості (жіночий);society;mniejszość;меншість;noun
-zwycięzca;переможець;переможці (чоловічий);society;zwycięzca;переможець;noun
-przegrany;переможений;переможені (чоловічий);society;przegrany;переможений;noun
-polityczny;політичний;;society;polityczny;політичний;adj
-demokratyczny;демократичний;;society;demokratyczny;демократичний;adj
-przestępstwo;злочин;злочини (męski);society;przestępstwo;злочин;noun
-kara;кара;кари (żeński);society;kara;кара;noun
-sąd;суд;суди (męski);society;sąd;суд;noun
-sędzia;суддя;судді (męski);society;sędzia;суддя;noun
-policja;поліція;поліції (żeński);society;policja;поліція;noun
-policjant;поліцейський;поліцейські (męski);society;policjant;поліцейський;noun
-więzienie;в'язниця;в'язниці (żeński);society;więzienie;в'язниця;noun
-areszt;арешт;арешти (męski);society;areszt;арешт;noun
-śledztwo;розслідування;розслідування (nijaki);society;śledztwo;розслідування;noun
-dowód;доказ;докази (męski);society;dowód;доказ;noun
-ofiara;жертва;жертви (żeński);society;ofiara;жертва;noun
-przestępca;злочинець;злочинці (męski);society;przestępca;злочинець;noun
-podejrzany;підозрюваний;підозрювані (męski);society;podejrzany;підозрюваний;noun
-świadek;свідок;свідки (męski);society;świadek;свідок;noun
-adwokat;адвокат;адвокати (męski);society;adwokat;адвокат;noun
-prokurator;прокурор;прокурори (męski);society;prokurator;прокурор;noun
-proces;процес;процеси (męski);society;proces;процес;noun
-wyrok;вирок;вироки (męski);society;wyrok;вирок;noun
-apelacja;апеляція;апеляції (żeński);society;apelacja;апеляція;noun
-grzywna;штраф;штрафи (męski);society;grzywna;штраф;noun
-mandat;штраф;штрафи (męski);society;mandat;штраф;noun
-więzień;в'язень;в'язні (męski);society;więzień;в'язень;noun
-cela;камера;камери (żeński);society;cela;камера;noun
-ucieczka;втеча;втечі (żeński);society;ucieczka;втеча;noun
-kradzież;крадіжка;крадіжки (żeński);society;kradzież;крадіжка;noun
-rozbój;грабіж;грабежі (męski);society;rozbój;грабіж;noun
-włamanie;злам;злами (męski);society;włamanie;злам;noun
-morderstwo;вбивство;вбивства (nijaki);society;morderstwo;вбивство;noun
-zabójstwo;вбивство;вбивства (nijaki);society;zabójstwo;вбивство;noun
-gwałt;зґвалтування;зґвалтування (nijaki);society;gwałt;зґвалтування;noun
-oszustwo;шахрайство;шахрайства (nijaki);society;oszustwo;шахрайство;noun
-fałszerstwo;підробка;підробки (żeński);society;fałszerstwo;підробка;noun
-korupcja;корупція;корупції (żeński);society;korupcja;корупція;noun
-szantaż;шантаж;шантажі (męski);society;szantaż;шантаж;noun
-porwanie;викрадення;викрадення (nijaki);society;porwanie;викрадення;noun
-przemyt;контрабанда;контрабанди (żeński);society;przemyt;контрабанда;noun
-nielegalny;нелегальний;;society;nielegalny;нелегальний;adj
-legalny;легальний;;society;legalny;легальний;adj
-sądzić;судити;;society;sądzić;судити;verb
-oskarżać;звинувачувати;;society;oskarżać;звинувачувати;verb
-bronić;захищати;;society;bronić;захищати;verb
-skazać;засудити;;society;skazać;засудити;verb
-uniewinnić;виправдати;;society;uniewinnić;виправдати;verb
-przyznać się;зізнатися;;society;przyznać się;зізнатися;verb
-ukarać;покарати;;society;ukarać;покарати;verb
-zeznawać;свідчити;;society;zeznawać;свідчити;verb
-aresztować;арештувати;;society;aresztować;арештувати;verb
-śledzić;розслідувати;;society;śledzić;розслідувати;verb
-kara śmierci;смертна кара;смертні кари (żeński);society;kara śmierci;смертна кара;noun
-handel narkotykami;наркоторгівля;наркоторгівлі (żeński);society;handel narkotykami;наркоторгівля;noun
-komputer;комп'ютер;комп'ютери (чоловічий);society;komputer;комп'ютер;noun
-laptop;ноутбук;ноутбуки (чоловічий);society;laptop;ноутбук;noun
-smartfon;смартфон;смартфони (чоловічий);society;smartfon;смартфон;noun
-internet;інтернет;(чоловічий);society;internet;інтернет;noun
-strona internetowa;веб-сторінка;веб-сторінки (жіночий);society;strona;сторінка;noun
-przeglądarka;браузер;браузери (чоловічий);society;przeglądarka;браузер;noun
-wyszukiwarka;пошукова система;пошукові системи (жіночий);society;wyszukiwarka;пошукова система;noun
-hasło;пароль;паролі (чоловічий);society;hasło;пароль;noun
-konto;акаунт;акаунти (чоловічий);society;konto;акаунт;noun
-e-mail;імейл;імейли (чоловічий);society;e-mail;імейл;noun
-załącznik;вкладення;вкладення (середній);society;załącznik;вкладення;noun
-plik;файл;файли (чоловічий);society;plik;файл;noun
-folder;папка;папки (жіночий);society;folder;папка;noun
-program;програма;програми (жіночий);society;program;програма;noun
-aplikacja;додаток;додатки (чоловічий);society;aplikacja;додаток;noun
-system operacyjny;операційна система;операційні системи (жіночий);society;system;система;noun
-aktualizacja;оновлення;оновлення (середній);society;aktualizacja;оновлення;noun
-wirus;вірус;віруси (чоловічий);society;wirus;вірус;noun
-bezpieczeństwo;безпека;(жіночий);society;bezpieczeństwo;безпека;noun
-dane;дані;дані;;society;dane;дані;noun
-chmura;хмара;хмари (жіночий);society;chmura;хмара;noun
-media społecznościowe;соціальні мережі;;;society;media społecznościowe;соціальні мережі;noun
-portal społecznościowy;соціальна мережа;соціальні мережі (жіночий);society;portal;портал;noun
-post;пост;пости (чоловічий);society;post;пост;noun
-komentarz;коментар;коментарі (чоловічий);society;komentarz;коментар;noun
-polubienie;лайк;лайки (чоловічий);society;polubienie;лайк;noun
-udostępniać;ділитися;;;society;udostępniać;ділитися;verb
-czat;чат;чати (чоловічий);society;czat;чат;noun
-wideorozmowa;відеодзвінок;відеодзвінки (чоловічий);society;wideorozmowa;відеодзвінок;noun
-kamera internetowa;веб-камера;веб-камери (жіночий);society;kamera;камера;noun
-mikrofon;мікрофон;мікрофони (чоловічий);society;mikrofon;мікрофон;noun
-słuchawki;навушники;навушники;;society;słuchawka;навушник;noun
-głośnik;колонка;колонки (жіночий);society;głośnik;колонка;noun
-ekran;екран;екрани (чоловічий);society;ekran;екран;noun
-klawiatura;клавіатура;клавіатури (жіночий);society;klawiatura;клавіатура;noun
-mysz;миша;миші (жіночий);society;mysz;миша;noun
-drukarka;принтер;принтери (чоловічий);society;drukarka;принтер;noun
-skaner;сканер;сканери (чоловічий);society;skaner;сканер;noun
-router;роутер;роутери (чоловічий);society;router;роутер;noun
-modem;модем;модеми (чоловічий);society;modem;модем;noun
-sieć społecznościowa;соціальна мережа;соціальні мережі (жіночий);society;sieć;мережа;noun
-blog;блог;блоги (чоловічий);society;blog;блог;noun
-vlog;влог;влоги (чоловічий);society;vlog;влог;noun
-influencer;інфлюенсер;інфлюенсери (чоловічий);society;influencer;інфлюенсер;noun
-subskrypcja;підписка;підписки (жіночий);society;subskrypcja;підписка;noun
-pobierać;завантажувати;;;society;pobierać;завантажувати;verb
-instalować;встановлювати;;;society;instalować;встановлювати;verb
-usuwać;видаляти;;;society;usuwać;видаляти;verb
-kopiować;копіювати;;;society;kopiować;копіювати;verb
-wklejać;вставляти;;;society;wklejać;вставляти;verb
+gazeta;газета;gazety;society;gazeta;газета;noun;
+czasopismo;журнал;czasopisma;society;czasopismo;журнал;noun;
+artykuł;стаття;artykuły;society;artykuł;стаття;noun;
+nagłówek;заголовок;nagłówki;society;nagłówek;заголовок;noun;
+informacja;інформація;informacje;society;informacja;інформація;noun;
+reporter;репортер;reporterzy;society;reporter;репортер;noun;
+dziennikarz;журналіст;dziennikarze;society;dziennikarz;журналіст;noun;
+redaktor;редактор;redaktorzy;society;redaktor;редактор;noun;
+czytelnik;читач;czytelnicy;society;czytelnik;читач;noun;
+prenumerata;передплата;prenumeraty;society;prenumerata;передплата;noun;
+wydanie;видання;wydania;society;wydanie;видання;noun;
+kanał;канал;kanały;society;kanał;канал;noun;
+prasa;преса;;society;prasa;преса;noun;
+wywiad;інтерв'ю;wywiady;society;wywiad;інтерв'ю;noun;
+reportaż;репортаж;reportaże;society;reportaż;репортаж;noun;
+komentarz;коментар;komentarze;society;komentarz;коментар;noun;
+fakt;факт;fakty;society;fakt;факт;noun;
+plotka;плітка;plotki;society;plotka;плітка;noun;
+reklama;реклама;reklamy;society;reklama;реклама;noun;
+transmisja;трансляція;transmisje;society;transmisja;трансляція;noun;
+nagranie;запис;nagrania;society;nagranie;запис;noun;
+cenzura;цензура;;society;cenzura;цензура;noun;
+wolność słowa;свобода слова;;society;wolność słowa;свобода слова;noun;
+dziennik telewizyjny;теленовини;dzienniki telewizyjne;society;dziennik telewizyjny;теленовини;noun;
+serwis informacyjny;інформаційна служба;serwisy informacyjne;society;serwis informacyjny;інформаційна служба;noun;
+korespondent;кореспондент;korespondenci;society;korespondent;кореспондент;noun;
+wydawca;видавець;wydawcy;society;wydawca;видавець;noun;
+słuchacz;слухач;słuchacze;society;słuchacz;слухач;noun;
+wysłuchać;вислухати;;society;wysłuchać;вислухати;verb (perfective);
+informować;інформувати;;society;informować;інформувати;verb (imperfective);
+publikować;публікувати;;society;publikować;публікувати;verb (imperfective);
+relacjonować;висвітлювати;;society;relacjonować;висвітлювати;verb (imperfective);
+nadawać;транслювати;;society;nadawać;транслювати;verb (imperfective);
+wybory;вибори;;society;wybory;вибори;noun;
+głosować;голосувати;;society;głosować;голосувати;verb (imperfective);
+zagłosować;проголосувати;;society;zagłosować;проголосувати;verb (perfective);
+partia;партія;partie;society;partia;партія;noun;
+rząd;уряд;rządy;society;rząd;уряд;noun;
+parlament;парламент;parlamenty;society;parlament;парламент;noun;
+ustawa;закон;ustawy;society;ustawa;закон;noun;
+konstytucja;конституція;konstytucje;society;konstytucja;конституція;noun;
+referendum;референдум;referenda;society;referendum;референдум;noun;
+demokracja;демократія;demokracje;society;demokracja;демократія;noun;
+obywatel;громадянин;obywatele;society;obywatel;громадянин;noun;
+wyborca;виборець;wyborcy;society;wyborca;виборець;noun;
+polityk;політик;politycy;society;polityk;політик;noun;
+prezydent;президент;prezydenci;society;prezydent;президент;noun;
+premier;прем'єр-міністр;premierzy;society;premier;прем'єр-міністр;noun;
+minister;міністр;ministrowie;society;minister;міністр;noun;
+poseł;депутат;posłowie;society;poseł;депутат;noun;
+senat;сенат;senaty;society;senat;сенат;noun;
+kampania;кампанія;kampanie;society;kampania;кампанія;noun;
+debata;дебати;debaty;society;debata;дебати;noun;
+większość;більшість;większości;society;większość;більшість;noun;
+mniejszość;меншість;mniejszości;society;mniejszość;меншість;noun;
+opozycja;опозиція;opozycje;society;opozycja;опозиція;noun;
+koalicja;коаліція;koalicje;society;koalicja;коаліція;noun;
+głosowanie;голосування;głosowania;society;głosowanie;голосування;noun;
+sondaż;опитування;sondaże;society;sondaż;опитування;noun;
+kadencja;каденція;kadencje;society;kadencja;каденція;noun;
+sejm;сейм;sejmy;society;sejm;сейм;noun;
+władza;влада;władze;society;władza;влада;noun;
+obywatelka;громадянка;obywatelki;society;obywatelka;громадянка;noun;
+wyborczyni;виборниця;wyborczynie;society;wyborczyni;виборниця;noun;
+polityczka;політикиня;polityczki;society;polityczka;політикиня;noun;
+frekwencja;явка;frekwencje;society;frekwencja;явка;noun;
+demokratyczny;демократичний;;society;demokratyczny;демократичний;adj;
+polityczny;політичний;;society;polityczny;політичний;adj;
+wyborczy;виборчий;;society;wyborczy;виборчий;adj;
+konstytucyjny;конституційний;;society;konstytucyjny;конституційний;adj;
+rządowy;урядовий;;society;rządowy;урядовий;adj;
+publiczny;публічний;;society;publiczny;публічний;adj;
+tajny;таємний;;society;tajny;таємний;adj;
+większościowy;мажоритарний;;society;większościowy;мажоритарний;adj;
+prawy;правий;;society;prawy;правий;adj;
+lewy;лівий;;society;lewy;лівий;adj;
+wybierać;обирати;;society;wybierać;обирати;verb (imperfective);
+wybrać;обрати;;society;wybrać;обрати;verb (perfective);
+kandydować;балотуватися;;society;kandydować;балотуватися;verb (imperfective);
+rządzić;управляти;;society;rządzić;управляти;verb (imperfective);
+demokratycznie;демократично;;society;demokratycznie;демократично;adv;
+kara;покарання;kary;society;kara;покарання;noun;
+sąd;суд;sądy;society;sąd;суд;noun;
+zbrodnia;тяжкий злочин;zbrodnie;society;zbrodnia;тяжкий злочин;noun;
+wykroczenie;правопорушення;wykroczenia;society;wykroczenie;правопорушення;noun;
+oskarżony;обвинувачений;oskarżeni;society;oskarżony;обвинувачений;noun;
+przestępca;злочинець;przestępcy;society;przestępca;злочинець;noun;
+adwokat;адвокат;adwokaci;society;adwokat;адвокат;noun;
+prokurator;прокурор;prokuratorzy;society;prokurator;прокурор;noun;
+śledztwo;слідство;śledztwa;society;śledztwo;слідство;noun;
+wyrok;вирок;wyroki;society;wyrok;вирок;noun;
+apelacja;апеляція;apelacje;society;apelacja;апеляція;noun;
+uniewinnienie;виправдання;uniewinnienia;society;uniewinnienie;виправдання;noun;
+skazanie;засудження;skazania;society;skazanie;засудження;noun;
+warunkowe zwolnienie;умовне звільнення;warunkowe zwolnienia;society;warunkowe zwolnienie;умовне звільнення;noun;
+grzywna;штраф;grzywny;society;grzywna;штраф;noun;
+zakaz;заборона;zakazy;society;zakaz;заборона;noun;
+rozbój;грабіж;rozboje;society;rozbój;грабіж;noun;
+oszustwo;шахрайство;oszustwa;society;oszustwo;шахрайство;noun;
+fałszerstwo;підробка;fałszerstwa;society;fałszerstwo;підробка;noun;
+porwanie;викрадення;porwania;society;porwanie;викрадення;noun;
+morderstwo;вбивство;morderstwa;society;morderstwo;вбивство;noun;
+zabójstwo;вбивство;zabójstwa;society;zabójstwo;вбивство;noun;
+gwałt;зґвалтування;gwałty;society;gwałt;зґвалтування;noun;
+przemoc domowa;домашнє насильство;;society;przemoc domowa;домашнє насильство;noun;
+narkotyk;наркотик;narkotyki;society;narkotyk;наркотик;noun;
+przemyt;контрабанда;;society;przemyt;контрабанда;noun;
+korupcja;корупція;;society;korupcja;корупція;noun;
+łapówka;хабар;łapówki;society;łapówka;хабар;noun;
+kara śmierci;смертна кара;;society;kara śmierci;смертна кара;noun;
+dożywocie;довічне ув'язнення;dożywocia;society;dożywocie;довічне ув'язнення;noun;
+proces;судовий процес;procesy;society;proces;судовий процес;noun;
+skazać;засудити;;society;skazać;засудити;verb (perfective);
+uniewinniać;виправдовувати;;society;uniewinniać;виправдовувати;verb (imperfective);
+smartfon;смартфон;smartfony;society;smartfon;смартфон;noun;
+strona internetowa;веб-сайт;strony internetowe;society;strona internetowa;веб-сайт;noun;
+sieć społecznościowa;соціальна мережа;sieci społecznościowe;society;sieć społecznościowa;соціальна мережа;noun;
+hasło;пароль;hasła;society;hasło;пароль;noun;
+link;посилання;linki;society;link;посилання;noun;
+wi-fi;вай-фай;;society;wi-fi;вай-фай;noun;
+wyszukiwarka;пошукова система;wyszukiwarki;society;wyszukiwarka;пошукова система;noun;
+przeglądarka;браузер;przeglądarki;society;przeglądarka;браузер;noun;
+wirus;вірус;wirusy;society;wirus;вірус;noun;
+haker;хакер;hakerzy;society;haker;хакер;noun;
+aktualizacja;оновлення;aktualizacje;society;aktualizacja;оновлення;noun;
+oprogramowanie;програмне забезпечення;;society;oprogramowanie;програмне забезпечення;noun;
+sprzęt;апаратне забезпечення;;society;sprzęt;апаратне забезпечення;noun;
+login;логін;loginy;society;login;логін;noun;
+czat;чат;czaty;society;czat;чат;noun;
+rozmowa wideo;відеодзвінок;rozmowy wideo;society;rozmowa wideo;відеодзвінок;noun;
+selfie;селфі;selfie;society;selfie;селфі;noun;
+emoji;емодзі;emoji;society;emoji;емодзі;noun;
+blog;блог;blogi;society;blog;блог;noun;
+post;пост;posty;society;post;пост;noun;
+powiadomienie;сповіщення;powiadomienia;society;powiadomienie;сповіщення;noun;
+ustawienie;налаштування;ustawienia;society;ustawienie;налаштування;noun;
+dane;дані;;society;dane;дані;noun;
+cyfrowy;цифровий;;society;cyfrowy;цифровий;adj;
+wirtualny;віртуальний;;society;wirtualny;віртуальний;adj;
+online;онлайн;;society;online;онлайн;adv;
+offline;офлайн;;society;offline;офлайн;adv;
+pobierać;завантажувати;;society;pobierać;завантажувати;verb (imperfective);
+pobrać;завантажити;;society;pobrać;завантажити;verb (perfective);
+klikać;клацати;;society;klikać;клацати;verb (imperfective);
+kliknąć;клацнути;;society;kliknąć;клацнути;verb (perfective);
+przewijać;прокручувати;;society;przewijać;прокручувати;verb (imperfective);
+przewinąć;прокрутити;;society;przewinąć;прокрутити;verb (perfective);
+aktualizować;оновлювати;;society;aktualizować;оновлювати;verb (imperfective);
+zaktualizować;оновити;;society;zaktualizować;оновити;verb (perfective);
+udostępniać;поширювати;;society;udostępniać;поширювати;verb (imperfective);
+udostępnić;поширити;;society;udostępnić;поширити;verb (perfective);
+subskrybować;підписуватися;;society;subskrybować;підписуватися;verb (imperfective);

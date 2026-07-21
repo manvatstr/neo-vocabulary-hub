@@ -1,199 +1,169 @@
-rzeczownik;іменник;іменники (męski);language;rzeczownik;іменник;noun
-czasownik;дієслово;дієслова (nijaki);language;czasownik;дієслово;noun
-przymiotnik;прикметник;прикметники (męski);language;przymiotnik;прикметник;noun
-przysłówek;прислівник;прислівники (męski);language;przysłówek;прислівник;noun
-zaimek;займенник;займенники (męski);language;zaimek;займенник;noun
-przyimek;прийменник;прийменники (męski);language;przyimek;прийменник;noun
-spójnik;сполучник;сполучники (męski);language;spójnik;сполучник;noun
-wykrzyknik;вигук;вигуки (męski);language;wykrzyknik;вигук;noun
-liczebnik;числівник;числівники (męski);language;liczebnik;числівник;noun
-rodzajnik;артикль;артиклі (męski);language;rodzajnik;артикль;noun
-podmiot;підмет;підмети (męski);language;podmiot;підмет;noun
-orzeczenie;присудок;присудки (męski);language;orzeczenie;присудок;noun
-dopełnienie;додаток;додатки (męski);language;dopełnienie;додаток;noun
-zdanie;речення;речення (nijaki);language;zdanie;речення;noun
-wyrażenie;словосполучення;словосполучення (nijaki);language;wyrażenie;словосполучення;noun
-słowo;слово;слова (nijaki);language;słowo;слово;noun
-litera;літера;літери (żeński);language;litera;літера;noun
-alfabet;алфавіт;алфавіти (męski);language;alfabet;алфавіт;noun
-spółgłoska;приголосна;приголосні (żeński);language;spółgłoska;приголосна;noun
-samogłoska;голосна;голосні (żeński);language;samogłoska;голосна;noun
-sylaba;склад;склади (męski);language;sylaba;склад;noun
-akcent;наголос;наголоси (męski);language;akcent;наголос;noun
-interpunkcja;пунктуація;пунктуації (żeński);language;interpunkcja;пунктуація;noun
-przecinek;кома;коми (żeński);language;przecinek;кома;noun
-kropka;крапка;крапки (żeński);language;kropka;крапка;noun
-znak zapytania;знак питання;знаки питання (męski);language;znak zapytania;знак питання;noun
-znak wykrzyknienia;знак оклику;знаки оклику (męski);language;znak wykrzyknienia;знак оклику;noun
-myślnik;тире;тире (nijaki);language;myślnik;тире;noun
-łącznik;дефіс;дефіси (męski);language;łącznik;дефіс;noun
-dwukropek;двокрапка;двокрапки (żeński);language;dwukropek;двокрапка;noun
-średnik;середник;середники (męski);language;średnik;середник;noun
-nawias;дужка;дужки (żeński);language;nawias;дужка;noun
-cudzysłów;лапка;лапки (żeński);language;cudzysłów;лапка;noun
-wielka litera;велика літера;великі літери (żeński);language;wielka litera;велика літера;noun
-mała litera;мала літера;малі літери (żeński);language;mała litera;мала літера;noun
-liczba pojedyncza;однина;однини (żeński);language;liczba pojedyncza;однина;noun
-liczba mnoga;множина;множини (żeński);language;liczba mnoga;множина;noun
-rodzaj;рід;роди (męski);language;rodzaj;рід;noun
-przypadek;відмінок;відмінки (męski);language;przypadek;відмінок;noun
-mianownik;називний відмінок;називні відмінки (męski);language;mianownik;називний відмінок;noun
-dopełniacz;родовий відмінок;родові відмінки (męski);language;dopełniacz;родовий відмінок;noun
-celownik;давальний відмінок;давальні відмінки (męski);language;celownik;давальний відмінок;noun
-biernik;знахідний відмінок;знахідні відмінки (męski);language;biernik;знахідний відмінок;noun
-narzędnik;орудний відмінок;орудні відмінки (męski);language;narzędnik;орудний відмінок;noun
-miejscownik;місцевий відмінок;місцеві відмінки (męski);language;miejscownik;місцевий відмінок;noun
-wołacz;кличний відмінок;кличні відмінки (męski);language;wołacz;кличний відмінок;noun
-czas;час;часи (męski);language;czas;час;noun
-teraźniejszy;теперішній;;language;teraźniejszy;теперішній;adj
-przeszły;минулий;;language;przeszły;минулий;adj
-przyszły;майбутній;;language;przyszły;майбутній;adj
-bariera;бар'єр;бар'єри (чоловічий);language;bariera;бар'єр;rzeczownik
-nieporozumienie;непорозуміння;непорозуміння (середній);language;nieporozumienie;непорозуміння;rzeczownik
-konflikt;конфлікт;конфлікти (чоловічий);language;konflikt;конфлікт;rzeczownik
-hałas;шум;шуми (чоловічий);language;hałas;шум;rzeczownik
-przeszkoda;перешкода;перешкоди (жіночий);language;przeszkoda;перешкода;rzeczownik
-problem;проблема;проблеми (жіночий);language;problem;проблема;rzeczownik
-niejasność;неясність;неясності (жіночий);language;niejasność;неясність;rzeczownik
-zakłócenie;завада;завади (жіночий);language;zakłócenie;завада;rzeczownik
-cisza;тиша;;language;cisza;тиша;rzeczownik
-szum;гул;гули (чоловічий);language;szum;гул;rzeczownik
-krzyk;крик;крики (чоловічий);language;krzyk;крик;rzeczownik
-szept;шепіт;шепоти (чоловічий);language;szept;шепіт;rzeczownik
-ton;тон;тони (чоловічий);language;ton;тон;rzeczownik
-głos;голос;голоси (чоловічий);language;głos;голос;rzeczownik
-akcent;акцент;акценти (чоловічий);language;akcent;акцент;rzeczownik
-dialekt;діалект;діалекти (чоловічий);language;dialekt;діалект;rzeczownik
-slang;сленг;сленги (чоловічий);language;slang;сленг;rzeczownik
-żargon;жаргон;жаргони (чоловічий);language;żargon;жаргон;rzeczownik
-wyrażenie;висловлювання;висловлювання (середній);language;wyrażenie;висловлювання;rzeczownik
-zdanie;речення;речення (середній);language;zdanie;речення;rzeczownik
-odpowiedź;відповідь;відповіді (жіночий);language;odpowiedź;відповідь;rzeczownik
-pytanie;питання;питання (середній);language;pytanie;питання;rzeczownik
-prośba;просьба;просьби (жіночий);language;prośba;просьба;rzeczownik
-tłumaczenie;переклад;переклади (чоловічий);language;tłumaczenie;переклад;rzeczownik
-wyjaśnienie;пояснення;пояснення (середній);language;wyjaśnienie;пояснення;rzeczownik
-niepewność;невпевненість;невпевненості (жіночий);language;niepewność;невпевненість;rzeczownik
-strach;страх;страхи (чоловічий);language;strach;страх;rzeczownik
-wstyd;сором;;language;wstyd;сором;rzeczownik
-zrozumieć;зрозуміти;;language;zrozumieć;зрозуміти;czasownik
-słyszeć;чути;;language;słyszeć;чути;czasownik
-mówić;говорити;;language;mówić;говорити;czasownik
-słuchać;слухати;;language;słuchać;слухати;czasownik
-tłumaczyć;перекладати;;language;tłumaczyć;перекладати;czasownik
-wyjaśniać;пояснювати;;language;wyjaśniać;пояснювати;czasownik
-pytać;питати;;language;pytać;питати;czasownik
-odpowiadać;відповідати;;language;odpowiadać;відповідати;czasownik
-powtarzać;повторювати;;language;powtarzać;повторювати;czasownik
-przerywać;переривати;;language;przerywać;переривати;czasownik
-jąkać się;заїкатися;;language;jąkać się;заїкатися;czasownik
-milczeć;мовчати;;language;milczeć;мовчати;czasownik
-ignorować;ігнорувати;;language;ignorować;ігнорувати;czasownik
-mylić się;помилятися;;language;mylić się;помилятися;czasownik
-niejasny;неясний;;language;niejasny;неясний;przymiotnik
-głośny;гучний;;language;głośny;гучний;przymiotnik
-cichy;тихий;;language;cichy;тихий;przymiotnik
-powolny;повільний;;language;powolny;повільний;przymiotnik
-szybki;швидкий;;language;szybki;швидкий;przymiotnik
-trudny;важкий;;language;trudny;важкий;przymiotnik
-łatwy;легкий;;language;łatwy;легкий;przymiotnik
-opinia;думка;думки (жіночий);language;opinia;думка;noun
-zdanie;думка;думки (жіночий);language;zdanie;думка;noun
-pogląd;погляд;погляди (чоловічий);language;pogląd;погляд;noun
-punkt widzenia;точка зору;точки зору (жіночий);language;punkt widzenia;точка зору;noun
-argument;аргумент;аргументи (чоловічий);language;argument;аргумент;noun
-kontrargument;контраргумент;контраргументи (чоловічий);language;kontrargument;контраргумент;noun
-wątpliwość;сумнів;сумніви (чоловічий);language;wątpliwość;сумнів;noun
-zgoda;згода;;language;zgoda;згода;noun
-niezgoda;незгода;;language;niezgoda;незгода;noun
-dyskusja;дискусія;дискусії (жіночий);language;dyskusja;дискусія;noun
-spór;суперечка;суперечки (жіночий);language;spór;суперечка;noun
-konflikt;конфлікт;конфлікти (чоловічий);language;konflikt;конфлікт;noun
-stanowisko;позиція;позиції (жіночий);language;stanowisko;позиція;noun
-wniosek;висновок;висновки (чоловічий);language;wniosek;висновок;noun
-uzasadnienie;обґрунтування;обґрунтування (середній);language;uzasadnienie;обґрунтування;noun
-dowód;доказ;докази (чоловічий);language;dowód;доказ;noun
-sprzeciw;заперечення;заперечення (середній);language;sprzeciw;заперечення;noun
-zastrzeżenie;застереження;застереження (середній);language;zastrzeżenie;застереження;noun
-uwaga;увага;уваги (жіночий);language;uwaga;увага;noun
-krytyka;критика;;language;krytyka;критика;noun
-aprobata;схвалення;;language;aprobata;схвалення;noun
-akceptacja;прийняття;;language;akceptacja;прийняття;noun
-odrzucenie;відхилення;відхилення (середній);language;odrzucenie;відхилення;noun
-polemika;полеміка;полеміки (жіночий);language;polemika;полеміка;noun
-temat;тема;теми (жіночий);language;temat;тема;noun
-teza;теза;тези (жіночий);language;teza;теза;noun
-hipoteza;гіпотеза;гіпотези (жіночий);language;hipoteza;гіпотеза;noun
-zgadzać się;погоджуватися;;language;zgadzać się;погоджуватися;verb
-nie zgadzać się;не погоджуватися;;language;nie zgadzać się;не погоджуватися;verb
-uważać;вважати;;language;uważać;вважати;verb
-sądzić;вважати;;language;sądzić;вважати;verb
-myśleć;думати;;language;myśleć;думати;verb
-wierzyć;вірити;;language;wierzyć;вірити;verb
-twierdzić;стверджувати;;language;twierdzić;стверджувати;verb
-podkreślać;підкреслювати;;language;podkreślać;підкреслювати;verb
-podsumować;підсумовувати;;language;podsumować;підсумовувати;verb
-przekonywać;переконувати;;language;przekonywać;переконувати;verb
-argumentować;аргументувати;;language;argumentować;аргументувати;verb
-dyskutować;дискутувати;;language;dyskutować;дискутувати;verb
-debatować;дебатувати;;language;debatować;дебатувати;verb
-przekonujący;переконливий;;language;przekonujący;переконливий;adj
-nieprzekonujący;непереконливий;;language;nieprzekonujący;непереконливий;adj
-logiczny;логічний;;language;logiczny;логічний;adj
-nielogiczny;нелогічний;;language;nielogiczny;нелогічний;adj
-słuszny;слушний;;language;słuszny;слушний;adj
-niesłuszny;неслушний;;language;niesłuszny;неслушний;adj
-prawdziwy;правдивий;;language;prawdziwy;правдивий;adj
-fałszywy;фальшивий;;language;fałszywy;фальшивий;adj
-obiektywny;об'єктивний;;language;obiektywny;об'єктивний;adj
-subiektywny;суб'єктивний;;language;subiektywny;суб'єктивний;adj
-idiom;ідіома;ідіоми (żeński);language;idiom;ідіома;noun
-slang;сленг;;language;slang;сленг;noun
-powiedzenie;приказка;приказки (żeński);language;powiedzenie;приказка;noun
-przysłowie;прислів'я;прислів'я (nijaki);language;przysłowie;прислів'я;noun
-frazeologizm;фразеологізм;фразеологізми (męski);language;frazeologizm;фразеологізм;noun
-zwrot;зворот;звороти (męski);language;zwrot;зворот;noun
-wyrażenie;вираз;вирази (męski);language;wyrażenie;вираз;noun
-metafora;метафора;метафори (żeński);language;metafora;метафора;noun
-porównanie;порівняння;порівняння (nijaki);language;porównanie;порівняння;noun
-kolokwializm;колоквіалізм;колоквіалізми (męski);language;kolokwializm;колоквіалізм;noun
-gwara;говірка;говірки (żeński);language;gwara;говірка;noun
-dialekt;діалект;діалекти (męski);language;dialekt;діалект;noun
-żargon;жаргон;жаргони (męski);language;żargon;жаргон;noun
-argot;арго;;language;argot;арго;noun
-wulgaryzm;вульгаризм;вульгаризми (męski);language;wulgaryzm;вульгаризм;noun
-neologizm;неологізм;неологізми (męski);language;neologizm;неологізм;noun
-archaizm;архаїзм;архаїзми (męski);language;archaizm;архаїзм;noun
-eufemizm;евфемізм;евфемізми (męski);language;eufemizm;евфемізм;noun
-hiperbola;гіпербола;гіперболи (żeński);language;hiperbola;гіпербола;noun
-ironia;іронія;;language;ironia;іронія;noun
-sarkazm;сарказм;;language;sarkazm;сарказм;noun
-kalambur;каламбур;каламбури (męski);language;kalambur;каламбур;noun
-gra słów;гра слів;ігри слів (żeński);language;gra słów;гра слів;noun
-powiedzonko;примовка;примовки (żeński);language;powiedzonko;примовка;noun
-znaczenie przenośne;переносне значення;переносні значення (nijaki);language;znaczenie przenośne;переносне значення;noun
-znaczenie dosłowne;буквальне значення;буквальні значення (nijaki);language;znaczenie dosłowne;буквальне значення;noun
-kontekst;контекст;контексти (męski);language;kontekst;контекст;noun
-tłumaczenie idiomów;переклад ідіом;;language;tłumaczenie idiomów;переклад ідіом;noun
-język potoczny;розмовна мова;розмовні мови (żeński);language;język potoczny;розмовна мова;noun
-slang młodzieżowy;молодіжний сленг;;language;slang młodzieżowy;молодіжний сленг;noun
-mowa ulicy;вулична мова;;language;mowa ulicy;вулична мова;noun
-wyrażenie slangowe;сленговий вираз;сленгові вирази (męski);language;wyrażenie slangowe;сленговий вираз;noun
-idiomatyczny;ідіоматичний;;language;idiomatyczny;ідіоматичний;adj
-slangowy;сленговий;;language;slangowy;сленговий;adj
-potoczny;розмовний;;language;potoczny;розмовний;adj
-kolokwialny;колоквіальний;;language;kolokwialny;колоквіальний;adj
-przenośny;переносний;;language;przenośny;переносний;adj
-dosłowny;буквальний;;language;dosłowny;буквальний;adj
-ironiczny;іронічний;;language;ironiczny;іронічний;adj
-sarkastyczny;саркастичний;;language;sarkastyczny;саркастичний;adj
-mówić potocznie;розмовляти розмовно;;language;mówić potocznie;розмовляти розмовно;verb
-używać slangu;використовувати сленг;;language;używać slangu;використовувати сленг;verb
-wyrażać się;висловлюватися;;language;wyrażać się;висловлюватися;verb
-rozumieć idiom;розуміти ідіому;;language;rozumieć idiom;розуміти ідіому;verb
-tłumaczyć idiom;перекладати ідіому;;language;tłumaczyć idiom;перекладати ідіому;verb
-tworzyć neologizmy;створювати неологізми;;language;tworzyć neologizmy;створювати неологізми;verb
-uogólniać;узагальнювати;;language;uogólniać;узагальнювати;verb
-przesadzać;перебільшувати;;language;przesadzać;перебільшувати;verb
-ironizować;іронізувати;;language;ironizować;іронізувати;verb
-żartować językowo;жартувати мовно;;language;żartować językowo;жартувати мовно;verb
+rzeczownik;іменник;rzeczowniki;language;rzeczownik;іменник;noun;
+czasownik;дієслово;czasowniki;language;czasownik;дієслово;noun;
+przymiotnik;прикметник;przymiotniki;language;przymiotnik;прикметник;noun;
+przysłówek;прислівник;przysłówki;language;przysłówek;прислівник;noun;
+zaimek;займенник;zaimki;language;zaimek;займенник;noun;
+liczebnik;числівник;liczebniki;language;liczebnik;числівник;noun;
+przyimek;прийменник;przyimki;language;przyimek;прийменник;noun;
+spójnik;сполучник;spójniki;language;spójnik;сполучник;noun;
+wykrzyknik;вигук;wykrzykniki;language;wykrzyknik;вигук;noun;
+partykuła;частка;partykuły;language;partykuła;частка;noun;
+mianownik;називний відмінок;mianowniki;language;mianownik;називний відмінок;noun;
+dopełniacz;родовий відмінок;dopełniacze;language;dopełniacz;родовий відмінок;noun;
+celownik;давальний відмінок;celowniki;language;celownik;давальний відмінок;noun;
+biernik;знахідний відмінок;bierniki;language;biernik;знахідний відмінок;noun;
+narzędnik;орудний відмінок;narzędniki;language;narzędnik;орудний відмінок;noun;
+miejscownik;місцевий відмінок;miejscowniki;language;miejscownik;місцевий відмінок;noun;
+wołacz;кличний відмінок;wołacze;language;wołacz;кличний відмінок;noun;
+czas teraźniejszy;теперішній час;;language;czas teraźniejszy;теперішній час;noun;
+czas przeszły;минулий час;;language;czas przeszły;минулий час;noun;
+czas przyszły;майбутній час;;language;czas przyszły;майбутній час;noun;
+tryb oznajmujący;дійсний спосіб;;language;tryb oznajmujący;дійсний спосіб;noun;
+tryb rozkazujący;наказовий спосіб;;language;tryb rozkazujący;наказовий спосіб;noun;
+tryb przypuszczający;умовний спосіб;;language;tryb przypuszczający;умовний спосіб;noun;
+aspekt dokonany;доконаний вид;;language;aspekt dokonany;доконаний вид;noun;
+aspekt niedokonany;недоконаний вид;;language;aspekt niedokonany;недоконаний вид;noun;
+podmiot;підмет;podmioty;language;podmiot;підмет;noun;
+orzeczenie;присудок;orzeczenia;language;orzeczenie;присудок;noun;
+dopełnienie;додаток;dopełnienia;language;dopełnienie;додаток;noun;
+okolicznik;обставина;okoliczniki;language;okolicznik;обставина;noun;
+przydawka;означення;przydawki;language;przydawka;означення;noun;
+zdanie pojedyncze;просте речення;;language;zdanie pojedyncze;просте речення;noun;
+zdanie złożone;складне речення;;language;zdanie złożone;складне речення;noun;
+przeczenie;заперечення;przeczenia;language;przeczenie;заперечення;noun;
+głoska;звук;głoski;language;głoska;звук;noun;
+sylaba;склад;sylaby;language;sylaba;склад;noun;
+samogłoska;голосний звук;samogłoski;language;samogłoska;голосний звук;noun;
+spółgłoska;приголосний звук;spółgłoski;language;spółgłoska;приголосний звук;noun;
+intonacja;інтонація;intonacje;language;intonacja;інтонація;noun;
+interpunkcja;пунктуація;interpunkcje;language;interpunkcja;пунктуація;noun;
+kropka;крапка;kropki;language;kropka;крапка;noun;
+przecinek;кома;przecinki;language;przecinek;кома;noun;
+dwukropek;двокрапка;dwukropki;language;dwukropek;двокрапка;noun;
+średnik;крапка з комою;średniki;language;średnik;крапка з комою;noun;
+pytajnik;знак питання;pytajniki;language;pytajnik;знак питання;noun;
+bariera;бар'єр;bariery;language;bariera;бар'єр;noun;
+szum;шум;szumy;language;szum;шум;noun;
+dialekt;діалект;dialekty;language;dialekt;діалект;noun;
+słownictwo;словниковий запас;;language;słownictwo;словниковий запас;noun;
+pomyłka;помилка;pomyłki;language;pomyłka;помилка;noun;
+literówka;друкарська помилка;literówki;language;literówka;друкарська помилка;noun;
+przejęzyczenie;обмовка;przejęzyczenia;language;przejęzyczenie;обмовка;noun;
+jąkanie;заїкання;;language;jąkanie;заїкання;noun;
+seplenienie;шепелявість;;language;seplenienie;шепелявість;noun;
+nieśmiałość;сором'язливість;;language;nieśmiałość;сором'язливість;noun;
+trema;страх сцени;;language;trema;страх сцени;noun;
+gest;жест;gesty;language;gest;жест;noun;
+mimika;міміка;;language;mimika;міміка;noun;
+język ciała;мова тіла;;language;język ciała;мова тіла;noun;
+niedosłyszenie;недочування;;language;niedosłyszenie;недочування;noun;
+głuchota;глухота;;language;głuchota;глухота;noun;
+niemota;німота;;language;niemota;німота;noun;
+dysleksja;дислексія;;language;dysleksja;дислексія;noun;
+mamrotać;бурмотіти;;language;mamrotać;бурмотіти;verb (imperfective);
+bełkotać;белькотати;;language;bełkotać;белькотати;verb (imperfective);
+przekrzykiwać;перекрикувати;;language;przekrzykiwać;перекрикувати;verb (imperfective);
+przekrzyczeć;перекричати;;language;przekrzyczeć;перекричати;verb (perfective);
+niedomówienie;недомовка;niedomówienia;language;niedomówienie;недомовка;noun;
+dwuznaczność;двозначність;dwuznaczności;language;dwuznaczność;двозначність;noun;
+niejasność;неясність;niejasności;language;niejasność;неясність;noun;
+niedopowiedzenie;недомовленість;niedopowiedzenia;language;niedopowiedzenie;недомовленість;noun;
+milczenie;мовчання;;language;milczenie;мовчання;noun;
+słyszeć;чути;;language;słyszeć;чути;verb (imperfective);
+usłyszeć;почути;;language;usłyszeć;почути;verb (perfective);
+przeszkadzać;заважати;;language;przeszkadzać;заважати;verb (imperfective);
+przeszkodzić;завадити;;language;przeszkodzić;завадити;verb (perfective);
+przekręcać;перекручувати;;language;przekręcać;перекручувати;verb (imperfective);
+przekręcić;перекрутити;;language;przekręcić;перекрутити;verb (perfective);
+głośny;гучний;;language;głośny;гучний;adj;
+wyraźny;виразний;;language;wyraźny;виразний;adj;
+niewyraźny;невиразний;;language;niewyraźny;невиразний;adj;
+myśleć;думати;;language;myśleć;думати;verb (imperfective);
+pomyśleć;подумати;;language;pomyśleć;подумати;verb (perfective);
+uważać;вважати;;language;uważać;вважати;verb (imperfective);
+sądzić;судити;;language;sądzić;судити;verb (imperfective);
+przypuszczać;припускати;;language;przypuszczać;припускати;verb (imperfective);
+wierzyć;вірити;;language;wierzyć;вірити;verb (imperfective);
+twierdzić;стверджувати;;language;twierdzić;стверджувати;verb (imperfective);
+wyrażać;виражати;;language;wyrażać;виражати;verb (imperfective);
+wyrazić;виразити;;language;wyrazić;виразити;verb (perfective);
+sugerować;пропонувати;;language;sugerować;пропонувати;verb (imperfective);
+aprobować;схвалювати;;language;aprobować;схвалювати;verb (imperfective);
+negować;заперечувати;;language;negować;заперечувати;verb (imperfective);
+wątpić;сумніватися;;language;wątpić;сумніватися;verb (imperfective);
+przekonywać;переконувати;;language;przekonywać;переконувати;verb (imperfective);
+przekonać;переконати;;language;przekonać;переконати;verb (perfective);
+przyznawać;визнавати;;language;przyznawać;визнавати;verb (imperfective);
+przyznać;визнати;;language;przyznać;визнати;verb (perfective);
+popierać;підтримувати;;language;popierać;підтримувати;verb (imperfective);
+poprzeć;підтримати;;language;poprzeć;підтримати;verb (perfective);
+protestować;протестувати;;language;protestować;протестувати;verb (imperfective);
+pogląd;погляд;poglądy;language;pogląd;погляд;noun;
+argument;аргумент;argumenty;language;argument;аргумент;noun;
+kontrargument;контраргумент;kontrargumenty;language;kontrargument;контраргумент;noun;
+teza;теза;tezy;language;teza;теза;noun;
+hipoteza;гіпотеза;hipotezy;language;hipoteza;гіпотеза;noun;
+przesłanka;передумова;przesłanki;language;przesłanka;передумова;noun;
+racja;рація;racje;language;racja;рація;noun;
+wątpliwość;сумнів;wątpliwości;language;wątpliwość;сумнів;noun;
+przekonanie;переконання;przekonania;language;przekonanie;переконання;noun;
+spór;суперечка;spory;language;spór;суперечка;noun;
+słuszny;слушний;;language;słuszny;слушний;adj;
+błędny;помилковий;;language;błędny;помилковий;adj;
+subiektywny;суб'єктивний;;language;subiektywny;суб'єктивний;adj;
+obiektywny;об'єктивний;;language;obiektywny;об'єктивний;adj;
+kontrowersyjny;контроверсійний;;language;kontrowersyjny;контроверсійний;adj;
+oczywisty;очевидний;;language;oczywisty;очевидний;adj;
+wątpliwy;сумнівний;;language;wątpliwy;сумнівний;adj;
+słusznie;слушно;;language;słusznie;слушно;adv;
+błędnie;помилково;;language;błędnie;помилково;adv;
+raczej;радше;;language;raczej;радше;adv;
+chyba;мабуть;;language;chyba;мабуть;adv;
+oczywiście;звичайно;;language;oczywiście;звичайно;adv;
+idiom;ідіома;idiomy;language;idiom;ідіома;noun;
+slang;сленг;slangi;language;slang;сленг;noun;
+żargon;жаргон;żargony;language;żargon;жаргон;noun;
+kolokwializm;колоквіалізм;kolokwializmy;language;kolokwializm;колоквіалізм;noun;
+powiedzenie;приказка;powiedzenia;language;powiedzenie;приказка;noun;
+przysłowie;прислів'я;przysłowia;language;przysłowie;прислів'я;noun;
+wyrażenie;вираз;wyrażenia;language;wyrażenie;вираз;noun;
+fraza;фраза;frazy;language;fraza;фраза;noun;
+metafora;метафора;metafory;language;metafora;метафора;noun;
+porównanie;порівняння;porównania;language;porównanie;порівняння;noun;
+epitet;епітет;epitety;language;epitet;епітет;noun;
+hiperbola;гіпербола;hiperbole;language;hiperbola;гіпербола;noun;
+eufemizm;евфемізм;eufemizmy;language;eufemizm;евфемізм;noun;
+ironia;іронія;ironie;language;ironia;іронія;noun;
+sarkazm;сарказм;sarkazmy;language;sarkazm;сарказм;noun;
+dowcip;дотеп;dowcipy;language;dowcip;дотеп;noun;
+kalambur;каламбур;kalambury;language;kalambur;каламбур;noun;
+gra słów;гра слів;;language;gra słów;гра слів;noun;
+powiedzonko;примовка;powiedzonka;language;powiedzonko;примовка;noun;
+slogan;слоган;slogany;language;slogan;слоган;noun;
+aforyzm;афоризм;aforyzmy;language;aforyzm;афоризм;noun;
+maksyma;максима;maksymy;language;maksyma;максима;noun;
+adagium;адагій;adagia;language;adagium;адагій;noun;
+porzekadło;приповідка;porzekadła;language;porzekadło;приповідка;noun;
+neologizm;неологізм;neologizmy;language;neologizm;неологізм;noun;
+archaizm;архаїзм;archaizmy;language;archaizm;архаїзм;noun;
+gwara;говірка;gwary;language;gwara;говірка;noun;
+slang młodzieżowy;молодіжний сленг;;language;slang młodzieżowy;молодіжний сленг;noun;
+wulgaryzm;вульгаризм;wulgaryzmy;language;wulgaryzm;вульгаризм;noun;
+przekleństwo;лайка;przekleństwa;language;przekleństwo;лайка;noun;
+frazeologizm;фразеологізм;frazeologizmy;language;frazeologizm;фразеологізм;noun;
+związek frazeologiczny;фразеологічний зворот;;language;związek frazeologiczny;фразеологічний зворот;noun;
+komunał;штамп;komunały;language;komunał;штамп;noun;
+banał;банальність;banały;language;banał;банальність;noun;
+truizm;трюїзм;truizmy;language;truizm;трюїзм;noun;
+potoczne słowo;просторічне слово;;language;potoczne słowo;просторічне слово;noun;
+język potoczny;розмовна мова;;language;język potoczny;розмовна мова;noun;
+idiomatyczny;ідіоматичний;;language;idiomatyczny;ідіоматичний;adj;
+slangowy;сленговий;;language;slangowy;сленговий;adj;
+kolokwialny;розмовний;;language;kolokwialny;розмовний;adj;
+potoczny;просторічний;;language;potoczny;просторічний;adj;
+przenośny;переносний;;language;przenośny;переносний;adj;
+dosłowny;дослівний;;language;dosłowny;дослівний;adj;
+obrazowy;образний;;language;obrazowy;образний;adj;
+alegoria;алегорія;alegorie;language;alegoria;алегорія;noun;
+przypowieść;притча;przypowieści;language;przypowieść;притча;noun;
+anegdota;анекдот;anegdoty;language;anegdota;анекдот;noun;

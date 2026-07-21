@@ -1,200 +1,158 @@
-die Bank;банк;die Banken (männlich);services;Bank;банк;noun
-das Konto;рахунок;die Konten (männlich);services;Konto;рахунок;noun
-das Geld;гроші;;(Plural);services;Geld;гроші;noun
-die Banknote;банкнота;die Banknoten (weiblich);services;Banknote;банкнота;noun
-die Münze;монета;die Münzen (weiblich);services;Münze;монета;noun
-der Wechselkurs;обмінний курс;die Wechselkurse (männlich);services;Wechselkurs;обмінний курс;noun
-das Wechselgeld;решта;;(weiblich);services;Wechselgeld;решта;noun
-die Überweisung;переказ;die Überweisungen (männlich);services;Überweisung;переказ;noun
-der Dauerauftrag;постійне доручення;die Daueraufträge (sächlich);services;Dauerauftrag;постійне доручення;noun
-die Lastschrift;прямий дебет;die Lastschriften (männlich);services;Lastschrift;прямий дебет;noun
-die Bankkarte;банківська картка;die Bankkarten (weiblich);services;Bankkarte;банківська картка;noun
-die Kreditkarte;кредитна картка;die Kreditkarten (weiblich);services;Kreditkarte;кредитна картка;noun
-die PIN;ПІН-код;die PINs (männlich);services;PIN;ПІН-код;noun
-der Geldautomat;банкомат;die Geldautomaten (männlich);services;Geldautomat;банкомат;noun
-das Sparbuch;ощадна книжка;die Sparbücher (weiblich);services;Sparbuch;ощадна книжка;noun
-die Zinsen;відсотки;die Zinsen (Plural);services;Zins;відсоток;noun
-der Zinssatz;процентна ставка;die Zinssätze (weiblich);services;Zinssatz;процентна ставка;noun
-das Darlehen;позика;die Darlehen (weiblich);services;Darlehen;позика;noun
-die Hypothek;іпотека;die Hypotheken (weiblich);services;Hypothek;іпотека;noun
-der Kredit;кредит;die Kredite (männlich);services;Kredit;кредит;noun
-das Girokonto;поточний рахунок;die Girokonten (männlich);services;Girokonto;поточний рахунок;noun
-die Filiale;філія;die Filialen (weiblich);services;Filiale;філія;noun
-der Schalter;каса;die Schalter (weiblich);services;Schalter;каса;noun
-die Warteschlange;черга;die Warteschlangen (weiblich);services;Warteschlange;черга;noun
-der Kontoauszug;виписка з рахунку;die Kontoauszüge (weiblich);services;Kontoauszug;виписка;noun
-überweisen;переказувати;;services;überweisen;переказувати;verb
-einzahlen;вносити;;services;einzahlen;вносити;verb
-abheben;знімати;;services;abheben;знімати;verb
-beantragen;подавати заявку;;services;beantragen;подавати заявку;verb
-eröffnen;відкривати;;services;eröffnen;відкривати;verb
-schließen;закривати;;services;schließen;закривати;verb
-unterschreiben;підписувати;;services;unterschreiben;підписувати;verb
-die Unterschrift;підпис;die Unterschriften (männlich);services;Unterschrift;підпис;noun
-die Post;пошта;;(weiblich);services;Post;пошта;noun
-das Postamt;поштове відділення;die Postämter (sächlich);services;Postamt;поштове відділення;noun
-der Brief;лист;die Briefe (männlich);services;Brief;лист;noun
-die Postkarte;листівка;die Postkarten (weiblich);services;Postkarte;листівка;noun
-das Paket;посилка;die Pakete (weiblich);services;Paket;посилка;noun
-der Briefumschlag;конверт;die Briefumschläge (männlich);services;Briefumschlag;конверт;noun
-die Briefmarke;поштова марка;die Briefmarken (weiblich);services;Briefmarke;поштова марка;noun
-der Absender;відправник;die Absender (männlich);services;Absender;відправник;noun
-der Empfänger;отримувач;die Empfänger (männlich);services;Empfänger;отримувач;noun
-die Adresse;адреса;die Adressen (weiblich);services;Adresse;адреса;noun
-das Porto;поштові витрати;;(Plural);services;Porto;поштові витрати;noun
-das Einschreiben;рекомендований лист;die Einschreiben (männlich);services;Einschreiben;рекомендований лист;noun
-der Nachsendeauftrag;переадресація;die Nachsendeaufträge (weiblich);services;Nachsendeauftrag;переадресація;noun
-das Postfach;поштова скринька;die Postfächer (weiblich);services;Postfach;поштова скринька;noun
-der Briefträger;листоноша;die Briefträger (männlich);services;Briefträger;листоноша;noun
-die Postleitzahl;поштовий індекс;die Postleitzahlen (männlich);services;Postleitzahl;поштовий індекс;noun
-senden;надсилати;;services;senden;надсилати;verb
-der Friseur;перукар;перукарі (männlich);services;Friseur;перукар;noun
-die Friseuse;перукарка;перукарки (weiblich);services;Friseuse;перукарка;noun
-der Haarschnitt;стрижка;стрижки (weiblich);services;Haarschnitt;стрижка;noun
-die Frisur;зачіска;зачіски (weiblich);services;Frisur;зачіска;noun
-das Haar;волосся;(sächlich);services;Haar;волосся;noun
-der Kamm;гребінець;гребінці (männlich);services;Kamm;гребінець;noun
-die Schere;ножиці;ножиці (weiblich);services;Schere;ножиці;noun
-die Bürste;щітка;щітки (weiblich);services;Bürste;щітка;noun
-das Shampoo;шампунь;шампуні (männlich);services;Shampoo;шампунь;noun
-die Spülung;кондиціонер;кондиціонери (männlich);services;Spülung;кондиціонер;noun
-das Haargel;гель для волосся;гелі для волосся (männlich);services;Haargel;гель для волосся;noun
-das Haarspray;лак для волосся;лаки для волосся (männlich);services;Haarspray;лак для волосся;noun
-der Föhn;фен;фени (männlich);services;Föhn;фен;noun
-die Haarfarbe;фарба для волосся;фарби для волосся (weiblich);services;Haarfarbe;фарба для волосся;noun
-die Strähne;пасмо;пасма (sächlich);services;Strähne;пасмо;noun
-der Ansatz;відростання;(sächlich);services;Ansatz;відростання;noun
-die Dauerwelle;завивка;завивки (weiblich);services;Dauerwelle;завивка;noun
-der Lockenstab;плойка;плойки (weiblich);services;Lockenstab;плойка;noun
-das Glätteisen;праска для волосся;праски для волосся (weiblich);services;Glätteisen;праска для волосся;noun
-die Locke;локон;локони (männlich);services;Locke;локон;noun
-der Zopf;коса;коси (weiblich);services;Zopf;коса;noun
-der Scheitel;проділ;проділи (männlich);services;Scheitel;проділ;noun
-die Stufe;шар;шари (männlich);services;Stufe;шар;noun
-der Pony;чубчик;чубчики (männlich);services;Pony;чубчик;noun
-die Tönung;тонування;(sächlich);services;Tönung;тонування;noun
-die Blondierung;освітлення;(sächlich);services;Blondierung;освітлення;noun
-die Haarkur;маска для волосся;маски для волосся (weiblich);services;Haarkur;маска для волосся;noun
-die Kopfmassage;масаж голови;масажі голови (männlich);services;Kopfmassage;масаж голови;noun
-die Augenbraue;брова;брови (weiblich);services;Augenbraue;брова;noun
-die Wimper;вія;вії (weiblich);services;Wimper;вія;noun
-der Termin;запис;записи (männlich);services;Termin;запис;noun
-der Salon;салон;салони (männlich);services;Salon;салон;noun
-der Spiegel;дзеркало;дзеркала (sächlich);services;Spiegel;дзеркало;noun
-der Umhang;накидка;накидки (weiblich);services;Umhang;накидка;noun
-das Handtuch;рушник;рушники (männlich);services;Handtuch;рушник;noun
-die Haarklammer;шпилька;шпильки (weiblich);services;Haarklammer;шпилька;noun
-der Haarreif;обруч;обручі (männlich);services;Haarreif;обруч;noun
-das Haarband;гумка для волосся;гумки для волосся (weiblich);services;Haarband;гумка для волосся;noun
-die Stecknadel;невидимка;невидимки (weiblich);services;Stecknadel;невидимка;noun
-die Warmluftbürste;фен-щітка;фен-щітки (weiblich);services;Warmluftbürste;фен-щітка;noun
-der Kundenstuhl;крісло;крісла (sächlich);services;Kundenstuhl;крісло;noun
-das Waschbecken;мийка;мийки (weiblich);services;Waschbecken;мийка;noun
-das Haaröl;олія для волосся;олії для волосся (weiblich);services;Haaröl;олія для волосся;noun
-der Herrenhaarschnitt;чоловіча стрижка;чоловічі стрижки (weiblich);services;Herrenhaarschnitt;чоловіча стрижка;noun
-der Damenhaarschnitt;жіноча стрижка;жіночі стрижки (weiblich);services;Damenhaarschnitt;жіноча стрижка;noun
-der Kinderhaarschnitt;дитяча стрижка;дитячі стрижки (weiblich);services;Kinderhaarschnitt;дитяча стрижка;noun
-schneiden;стригти;;services;schneiden;стригти;verb
-föhnen;сушити феном;;services;föhnen;сушити феном;verb
-färben;фарбувати;;services;färben;фарбувати;verb
-waschen;мити;;services;waschen;мити;verb
-die Werkstatt;майстерня;майстерні (weiblich);services;Werkstatt;майстерня;noun
-der Mechaniker;механік;механіки (männlich);services;Mechaniker;механік;noun
-der Reifen;шина;шини (weiblich);services;Reifen;шина;noun
-der Ölwechsel;заміна масла;заміни масла (weiblich);services;Ölwechsel;заміна масла;noun
-das Ersatzteil;запчастина;запчастини (weiblich);services;Ersatzteil;запчастина;noun
-die Batterie;акумулятор;акумулятори (männlich);services;Batterie;акумулятор;noun
-der Motor;двигун;двигуни (männlich);services;Motor;двигун;noun
-die Zündkerze;свічка запалювання;свічки запалювання (weiblich);services;Zündkerze;свічка запалювання;noun
-der Kühler;радіатор;радіатори (männlich);services;Kühler;радіатор;noun
-die Bremse;гальмо;гальма (sächlich);services;Bremse;гальмо;noun
-die Kupplung;зчеплення;зчеплення (sächlich);services;Kupplung;зчеплення;noun
-das Getriebe;коробка передач;коробки передач (weiblich);services;Getriebe;коробка передач;noun
-der Auspuff;вихлопна труба;вихлопні труби (weiblich);services;Auspuff;вихлопна труба;noun
-die Servolenkung;гідропідсилювач керма;гідропідсилювачі керма (männlich);services;Servolenkung;гідропідсилювач керма;noun
-die Klimaanlage;кондиціонер;кондиціонери (männlich);services;Klimaanlage;кондиціонер;noun
-die Stoßstange;бампер;бампери (männlich);services;Stoßstange;бампер;noun
-der Scheinwerfer;фара;фари (weiblich);services;Scheinwerfer;фара;noun
-das Rücklicht;задній ліхтар;задні ліхтарі (männlich);services;Rücklicht;задній ліхтар;noun
-die Wartung;технічне обслуговування;технічні обслуговування (sächlich);services;Wartung;технічне обслуговування;noun
-der Reifendruck;тиск у шинах;(männlich);services;Reifendruck;тиск у шинах;noun
-die Achse;вісь;осі (weiblich);services;Achse;вісь;noun
-der Stoßdämpfer;амортизатор;амортизатори (männlich);services;Stoßdämpfer;амортизатор;noun
-die Federung;підвіска;підвіски (weiblich);services;Federung;підвіска;noun
-das Lenkrad;кермо;керма (sächlich);services;Lenkrad;кермо;noun
-der Sitz;сидіння;сидіння (sächlich);services;Sitz;сидіння;noun
-der Sensor;датчик;датчики (männlich);services;Sensor;датчик;noun
-die Diagnose;діагностика;діагностики (weiblich);services;Diagnose;діагностика;noun
-die Probefahrt;тест-драйв;тест-драйви (männlich);services;Probefahrt;тест-драйв;noun
-die Reparatur;ремонт;ремонти (männlich);services;Reparatur;ремонт;noun
-die Garantie;гарантія;гарантії (weiblich);services;Garantie;гарантія;noun
-die Inspektion;техогляд;техогляди (männlich);services;Inspektion;техогляд;noun
-die Panne;поломка;поломки (weiblich);services;Panne;поломка;noun
-der Abschleppdienst;евакуатор;евакуатори (männlich);services;Abschleppdienst;евакуатор;noun
-der Kotflügel;крило;крила (sächlich);services;Kotflügel;крило;noun
-der Kraftstofffilter;паливний фільтр;паливні фільтри (männlich);services;Kraftstofffilter;паливний фільтр;noun
-der Luftfilter;повітряний фільтр;повітряні фільтри (männlich);services;Luftfilter;повітряний фільтр;noun
-der Keilriemen;клиновий ремінь;клинові ремені (männlich);services;Keilriemen;клиновий ремінь;noun
-die Wasserpumpe;водяний насос;водяні насоси (männlich);services;Wasserpumpe;водяний насос;noun
-das Frostschutzmittel;антифриз;антифризи (männlich);services;Frostschutzmittel;антифриз;noun
-der Scheibenwischer;склоочисник;склоочисники (männlich);services;Scheibenwischer;склоочисник;noun
-reparieren;ремонтувати;;services;reparieren;ремонтувати;verb
-wechseln;міняти;;services;wechseln;міняти;verb
-einbauen;встановлювати;;services;einbauen;встановлювати;verb
-prüfen;перевіряти;;services;prüfen;перевіряти;verb
-austauschen;замінювати;;services;austauschen;замінювати;verb
-warten;обслуговувати;;services;warten;обслуговувати;verb
-abschleppen;евакуювати;;services;abschleppen;евакуювати;verb
-lackieren;фарбувати;;services;lackieren;фарбувати;verb
-defekt;несправний;;services;defekt;несправний;adj
-kaputt;зламаний;;services;kaputt;зламаний;adj
-die Polizei;поліція;(weiblich);services;Polizei;поліція;noun
-der Polizist;поліцейський;поліцейські (männlich);services;Polizist;поліцейський;noun
-die Polizistin;поліцейська;поліцейські (weiblich);services;Polizistin;поліцейська;noun
-der Notruf;номер екстреної допомоги;номери екстреної допомоги (männlich);services;Notruf;номер екстреної допомоги;noun
-die Feuerwehr;пожежна охорона;(weiblich);services;Feuerwehr;пожежна охорона;noun
-der Krankenwagen;автомобіль швидкої допомоги;автомобілі швидкої допомоги (männlich);services;Krankenwagen;автомобіль швидкої допомоги;noun
-der Rettungswagen;машина швидкої допомоги;машини швидкої допомоги (weiblich);services;Rettungswagen;машина швидкої допомоги;noun
-der Unfall;нещасний випадок;нещасні випадки (männlich);services;Unfall;нещасний випадок;noun
-die Hilfe;допомога;(weiblich);services;Hilfe;допомога;noun
-das Verbrechen;злочин;злочини (männlich);services;Verbrechen;злочин;noun
-der Dieb;злодій;злодії (männlich);services;Dieb;злодій;noun
-die Waffe;зброя;зброї (weiblich);services;Waffe;зброя;noun
-die Verletzung;поранення;поранення (sächlich);services;Verletzung;поранення;noun
-das Opfer;жертва;жертви (weiblich);services;Opfer;жертва;noun
-die Rettung;рятування;(sächlich);services;Rettung;рятування;noun
-der Zeuge;свідок;свідки (männlich);services;Zeuge;свідок;noun
-die Aussage;свідчення;свідчення (sächlich);services;Aussage;свідчення;noun
-die Untersuchung;розслідування;розслідування (sächlich);services;Untersuchung;розслідування;noun
-das Feuer;вогонь;вогні (männlich);services;Feuer;вогонь;noun
-die Explosion;вибух;вибухи (männlich);services;Explosion;вибух;noun
-der Alarm;тривога;тривоги (weiblich);services;Alarm;тривога;noun
-die Sicherheit;безпека;(weiblich);services;Sicherheit;безпека;noun
-der Notarzt;лікар швидкої допомоги;лікарі швидкої допомоги (männlich);services;Notarzt;лікар швидкої допомоги;noun
-der Diebstahl;крадіжка;крадіжки (weiblich);services;Diebstahl;крадіжка;noun
-der Einbruch;злом;зломи (männlich);services;Einbruch;злом;noun
-der Raub;пограбування;пограбування (sächlich);services;Raub;пограбування;noun
-die Bedrohung;загроза;загрози (weiblich);services;Bedrohung;загроза;noun
-die Festnahme;затримання;затримання (sächlich);services;Festnahme;затримання;noun
-der Verdächtige;підозрюваний;підозрювані (männlich);services;Verdächtige;підозрюваний;noun
-die Spur;слід;сліди (männlich);services;Spur;слід;noun
-der Hinweis;підказка;підказки (weiblich);services;Hinweis;підказка;noun
-die Tat;діяння;діяння (sächlich);services;Tat;діяння;noun
-das Alibi;алібі;алібі (sächlich);services;Alibi;алібі;noun
-der Täter;злочинець;злочинці (männlich);services;Täter;злочинець;noun
-das Geständnis;зізнання;зізнання (sächlich);services;Geständnis;зізнання;noun
-die Flucht;втеча;втечі (weiblich);services;Flucht;втеча;noun
-die Gefahr;небезпека;небезпеки (weiblich);services;Gefahr;небезпека;noun
-der Rettungsdienst;служба порятунку;служби порятунку (weiblich);services;Rettungsdienst;служба порятунку;noun
-der Brand;пожежа;пожежі (weiblich);services;Brand;пожежа;noun
-die Evakuierung;евакуація;евакуації (weiblich);services;Evakuierung;евакуація;noun
-der Feuerwehrmann;пожежник;пожежники (männlich);services;Feuerwehrmann;пожежник;noun
-die Feuerwehrfrau;пожежниця;пожежниці (weiblich);services;Feuerwehrfrau;пожежниця;noun
-der Rettungshubschrauber;рятувальний гелікоптер;рятувальні гелікоптери (männlich);services;Rettungshubschrauber;рятувальний гелікоптер;noun
-anrufen;телефонувати;;services;anrufen;телефонувати;verb
-helfen;допомагати;;services;helfen;допомагати;verb
-retten;рятувати;;services;retten;рятувати;verb
-verletzen;поранити;;services;verletzen;поранити;verb
-festnehmen;заарештовувати;;services;festnehmen;заарештовувати;verb
-fliehen;тікати;;services;fliehen;тікати;verb
-gefährlich;небезпечний;;services;gefährlich;небезпечний;adj
+der Dauerauftrag;постійне доручення;die Daueraufträge;services;Dauer + Auftrag;постійне доручення;noun;
+der Kredit;кредит;die Kredite;services;Kredit;кредит;noun;
+der Scheck;чек;die Schecks;services;Scheck;чек;noun;
+das Sparbuch;ощадна книжка;die Sparbücher;services;Spar + Buch;ощадна книжка;noun;
+die Filiale;філія;die Filialen;services;Filiale;філія;noun;
+der Schalter;віконце;die Schalter;services;Schalter;віконце;noun;
+das Formular;бланк;die Formulare;services;Formular;бланк;noun;
+der Einzahlungsbeleg;квитанція про внесення;die Einzahlungsbelege;services;Einzahlung + Beleg;квитанція про внесення;noun;
+die Auszahlung;виплата;die Auszahlungen;services;Auszahlung;виплата;noun;
+das Girokonto;поточний рахунок;die Girokonten;services;Giro + Konto;поточний рахунок;noun;
+der Kontoauszug;виписка з рахунку;die Kontoauszüge;services;Konto + Auszug;виписка з рахунку;noun;
+die Bankleitzahl;банківський код;die Bankleitzahlen;services;Bank + Leit + Zahl;банківський код;noun;
+der Dispokredit;овердрафт;die Dispokredite;services;Dispo + Kredit;овердрафт;noun;
+die Einzahlung;внесок;die Einzahlungen;services;Einzahlung;внесок;noun;
+der Zinssatz;процентна ставка;die Zinssätze;services;Zins + Satz;процентна ставка;noun;
+der Sparer;вкладник;die Sparer;services;Sparer;вкладник;noun;
+das Schließfach;сейфова скринька;die Schließfächer;services;schließen + Fach;сейфова скринька;noun;
+der Tresor;сейф;die Tresore;services;Tresor;сейф;noun;
+die Post;пошта;;services;Post;пошта;noun;
+die Briefmarke;поштова марка;die Briefmarken;services;Brief + Marke;поштова марка;noun;
+das Paket;посилка;die Pakete;services;Paket;посилка;noun;
+die Postkarte;листівка;die Postkarten;services;Post + Karte;листівка;noun;
+das Einschreiben;рекомендований лист;die Einschreiben;services;Einschreiben;рекомендований лист;noun;
+der Absender;відправник;die Absender;services;Absender;відправник;noun;
+der Empfänger;одержувач;die Empfänger;services;Empfänger;одержувач;noun;
+die Zustellung;доставка;die Zustellungen;services;Zustellung;доставка;noun;
+der Briefkasten;поштова скринька;die Briefkästen;services;Brief + Kasten;поштова скринька;noun;
+das Porto;поштовий збір;die Portos;services;Porto;поштовий збір;noun;
+die Postleitzahl;поштовий індекс;die Postleitzahlen;services;Post + Leit + Zahl;поштовий індекс;noun;
+der Postbote;листоноша;die Postboten;services;Post + Bote;листоноша;noun;
+die Friseuse;перукарка;die Friseusen;services;Friseuse;перукарка;noun;
+der Haarschnitt;стрижка;die Haarschnitte;services;Haar + Schnitt;стрижка;noun;
+die Spülung;кондиціонер для волосся;die Spülungen;services;Spülung;кондиціонер для волосся;noun;
+die Schere;ножиці;die Scheren;services;Schere;ножиці;noun;
+die Bürste;щітка;die Bürsten;services;Bürste;щітка;noun;
+der Föhn;фен;die Föhne;services;Föhn;фен;noun;
+der Umhang;накидка;die Umhänge;services;Umhang;накидка;noun;
+die Dauerwelle;хімічна завивка;die Dauerwellen;services;Dauer + Welle;хімічна завивка;noun;
+die Haarfarbe;фарба для волосся;die Haarfarben;services;Haar + Farbe;фарба для волосся;noun;
+der Ansatz;коріння волосся;die Ansätze;services;Ansatz;коріння волосся;noun;
+die Strähne;пасмо;die Strähnen;services;Strähne;пасмо;noun;
+der Pony;чубчик;die Ponys;services;Pony;чубчик;noun;
+der Scheitel;проділ;die Scheitel;services;Scheitel;проділ;noun;
+das Glätteisen;праска для волосся;die Glätteisen;services;Glätte + Eisen;праска для волосся;noun;
+der Lockenstab;плойка;die Lockenstäbe;services;Locken + Stab;плойка;noun;
+die Coloration;фарбування;die Colorationen;services;Coloration;фарбування;noun;
+die Tönung;тонування;die Tönungen;services;Tönung;тонування;noun;
+das Volumen;об'єм;;services;Volumen;об'єм;noun;
+der Schnitt;стрижка;die Schnitte;services;Schnitt;стрижка;noun;
+das Styling;укладка;die Stylings;services;Styling;укладка;noun;
+die Pflege;догляд;;services;Pflege;догляд;noun;
+die Haarwäsche;миття голови;die Haarwäschen;services;Haar + Wäsche;миття голови;noun;
+das Haarspray;лак для волосся;die Haarsprays;services;Haar + Spray;лак для волосся;noun;
+das Gel;гель для волосся;die Gele;services;Gel;гель для волосся;noun;
+der Schaumfestiger;мус для волосся;die Schaumfestiger;services;Schaum + Festiger;мус для волосся;noun;
+die Haarklammer;шпилька для волосся;die Haarklammern;services;Haar + Klammer;шпилька для волосся;noun;
+das Haargummi;гумка для волосся;die Haargummis;services;Haar + Gummi;гумка для волосся;noun;
+die Locke;локон;die Locken;services;Locke;локон;noun;
+die Welle;хвиля;die Wellen;services;Welle;хвиля;noun;
+der Zopf;коса;die Zöpfe;services;Zopf;коса;noun;
+der Dutt;пучок;die Dutts;services;Dutt;пучок;noun;
+die Trockenhaube;сушарка;die Trockenhauben;services;Trocken + Haube;сушарка;noun;
+der Haartrockner;фен;die Haartrockner;services;Haar + Trockner;фен;noun;
+die Haarspange;шпилька-затискач;die Haarspangen;services;Haar + Spange;шпилька-затискач;noun;
+rasieren;голити;;services;rasieren;голити;verb (weak);
+föhnen;сушити феном;;services;föhnen;сушити феном;verb (weak);
+kämmen;розчісувати;;services;kämmen;розчісувати;verb (weak);
+färben;фарбувати;;services;färben;фарбувати;verb (weak);
+stylen;укладати;;services;stylen;укладати;verb (weak);
+eindrehen;накручувати на бігуді;;services;eindrehen (zu drehen);накручувати на бігуді;verb (separable);
+die Werkstatt;автомайстерня;die Werkstätten;services;Werkstatt;автомайстерня;noun;
+der Motor;двигун;die Motoren;services;Motor;двигун;noun;
+die Karosserie;кузов;die Karosserien;services;Karosserie;кузов;noun;
+der Reifen;шина;die Reifen;services;Reifen;шина;noun;
+die Bremse;гальмо;die Bremsen;services;Bremse;гальмо;noun;
+das Lenkrad;кермо;die Lenkräder;services;Lenk + Rad;кермо;noun;
+der Scheibenwischer;склоочисник;die Scheibenwischer;services;Scheibe + Wischer;склоочисник;noun;
+der Auspuff;вихлопна труба;die Auspuffe;services;Auspuff;вихлопна труба;noun;
+die Zündkerze;свічка запалювання;die Zündkerzen;services;Zünd + Kerze;свічка запалювання;noun;
+der Ölwechsel;заміна мастила;die Ölwechsel;services;Öl + Wechsel;заміна мастила;noun;
+die Inspektion;техогляд;die Inspektionen;services;Inspektion;техогляд;noun;
+die Stoßstange;бампер;die Stoßstangen;services;Stoß + Stange;бампер;noun;
+der Kotflügel;крило;die Kotflügel;services;Kot + Flügel;крило;noun;
+die Motorhaube;капот;die Motorhauben;services;Motor + Haube;капот;noun;
+der Kofferraum;багажник;die Kofferräume;services;Koffer + Raum;багажник;noun;
+das Getriebe;коробка передач;die Getriebe;services;Getriebe;коробка передач;noun;
+die Kupplung;зчеплення;die Kupplungen;services;Kupplung;зчеплення;noun;
+der Keilriemen;клиновий ремінь;die Keilriemen;services;Keil + Riemen;клиновий ремінь;noun;
+die Batterie;акумулятор;die Batterien;services;Batterie;акумулятор;noun;
+der Scheinwerfer;фара;die Scheinwerfer;services;Schein + Werfer;фара;noun;
+das Rücklicht;задній ліхтар;die Rücklichter;services;Rück + Licht;задній ліхтар;noun;
+der Blinker;поворотник;die Blinker;services;Blinker;поворотник;noun;
+das Warndreieck;попереджувальний трикутник;die Warndreiecke;services;Warn + Dreieck;попереджувальний трикутник;noun;
+der Wagenheber;домкрат;die Wagenheber;services;Wagen + Heber;домкрат;noun;
+der Schraubenschlüssel;гайковий ключ;die Schraubenschlüssel;services;Schrauben + Schlüssel;гайковий ключ;noun;
+der Schraubenzieher;викрутка;die Schraubenzieher;services;Schrauben + Zieher;викрутка;noun;
+die Hebebühne;підйомник;die Hebebühnen;services;Hebe + Bühne;підйомник;noun;
+das Ersatzteil;запчастина;die Ersatzteile;services;Ersatz + Teil;запчастина;noun;
+der Reifendruck;тиск у шинах;die Reifendrücke;services;Reifen + Druck;тиск у шинах;noun;
+die Reifenpanne;прокол шини;die Reifenpannen;services;Reifen + Panne;прокол шини;noun;
+der Unfall;аварія;die Unfälle;services;Unfall;аварія;noun;
+der Schaden;пошкодження;die Schäden;services;Schaden;пошкодження;noun;
+die Versicherung;страховка;die Versicherungen;services;Versicherung;страховка;noun;
+die Werkstattrechnung;рахунок за ремонт;die Werkstattrechnungen;services;Werkstatt + Rechnung;рахунок за ремонт;noun;
+der Kostenvoranschlag;кошторис;die Kostenvoranschläge;services;Kosten + Voranschlag;кошторис;noun;
+die Reparaturdauer;тривалість ремонту;;services;Reparatur + Dauer;тривалість ремонту;noun;
+wechseln;міняти;;services;wechseln;міняти;verb (weak);
+abschleppen;буксирувати;;services;abschleppen (zu schleppen);буксирувати;verb (separable);
+überprüfen;перевіряти;;services;überprüfen;перевіряти;verb (weak);
+einbauen;встановлювати;;services;einbauen (zu bauen);встановлювати;verb (separable);
+ausbauen;демонтувати;;services;ausbauen (zu bauen);демонтувати;verb (separable);
+tanken;заправляти;;services;tanken;заправляти;verb (weak);
+die Tankstelle;заправна станція;die Tankstellen;services;Tank + Stelle;заправна станція;noun;
+der Kraftstoff;пальне;die Kraftstoffe;services;Kraft + Stoff;пальне;noun;
+die Fehlerdiagnose;діагностика несправностей;die Fehlerdiagnosen;services;Fehler + Diagnose;діагностика несправностей;noun;
+der Notruf;екстрений виклик;die Notrufe;services;Notruf;екстрений виклик;noun;
+die Polizei;поліція;die Polizeien;services;Polizei;поліція;noun;
+die Feuerwehr;пожежна охорона;die Feuerwehren;services;Feuerwehr;пожежна охорона;noun;
+der Krankenwagen;швидка допомога;die Krankenwagen;services;krank + Wagen;швидка допомога;noun;
+der Rettungswagen;рятувальний автомобіль;die Rettungswagen;services;Rettung + Wagen;рятувальний автомобіль;noun;
+der Rettungsdienst;служба порятунку;die Rettungsdienste;services;Rettung + Dienst;служба порятунку;noun;
+der Notfall;надзвичайна ситуація;die Notfälle;services;Not + Fall;надзвичайна ситуація;noun;
+die Notaufnahme;відділення невідкладної допомоги;die Notaufnahmen;services;Not + Aufnahme;відділення невідкладної допомоги;noun;
+die Rettung;рятування;;services;Rettung;рятування;noun;
+der Feueralarm;пожежна тривога;die Feueralarme;services;Feuer + Alarm;пожежна тривога;noun;
+der Rauchmelder;димовий сповіщувач;die Rauchmelder;services;Rauch + Melder;димовий сповіщувач;noun;
+der Diebstahl;крадіжка;die Diebstähle;services;Diebstahl;крадіжка;noun;
+der Einbruch;злам;die Einbrüche;services;Einbruch;злам;noun;
+der Überfall;напад;die Überfälle;services;über + Fall;напад;noun;
+der Betrug;шахрайство;;services;Betrug;шахрайство;noun;
+die Gewalt;насильство;;services;Gewalt;насильство;noun;
+der Täter;злочинець;die Täter;services;Täter;злочинець;noun;
+das Opfer;жертва;die Opfer;services;Opfer;жертва;noun;
+der Zeuge;свідок;die Zeugen;services;Zeuge;свідок;noun;
+die Zeugin;свідок (жін.);die Zeuginnen;services;Zeugin;свідок (жін.);noun;
+die Aussage;показання;die Aussagen;services;Aussage;показання;noun;
+der Anwalt;адвокат;die Anwälte;services;Anwalt;адвокат;noun;
+die Anwältin;адвокатка;die Anwältinnen;services;Anwältin;адвокатка;noun;
+das Gericht;суд;die Gerichte;services;Gericht;суд;noun;
+der Richter;суддя;die Richter;services;Richter;суддя;noun;
+die Richterin;суддя (жін.);die Richterinnen;services;Richterin;суддя (жін.);noun;
+die Strafe;покарання;die Strafen;services;Strafe;покарання;noun;
+das Verbrechen;злочин;die Verbrechen;services;Verbrechen;злочин;noun;
+der Verbrecher;злочинець;die Verbrecher;services;Verbrecher;злочинець;noun;
+die Verbrecherin;злочинниця;die Verbrecherinnen;services;Verbrecherin;злочинниця;noun;
+die Festnahme;арешт;die Festnahmen;services;fest + Nahme;арешт;noun;
+die Handschellen;наручники;;services;Hand + Schelle;наручники;noun;
+die Waffe;зброя;die Waffen;services;Waffe;зброя;noun;
+die Schusswaffe;вогнепальна зброя;die Schusswaffen;services;Schuss + Waffe;вогнепальна зброя;noun;
+der Schuss;постріл;die Schüsse;services;Schuss;постріл;noun;
+schießen;стріляти;;services;schießen;стріляти;verb (strong);
+verletzen;поранити;;services;verletzen;поранити;verb (weak);
+verletzt;поранений;;services;verletzt;поранений;adj;
+betrunken;п'яний;;services;betrunken;п'яний;adj;
+fliehen;тікати;;services;fliehen;тікати;verb (strong);
+flüchten;втікати;;services;flüchten;втікати;verb (weak);
+retten;рятувати;;services;retten;рятувати;verb (weak);
+die Gefahr;небезпека;die Gefahren;services;Gefahr;небезпека;noun;

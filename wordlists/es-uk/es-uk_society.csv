@@ -1,200 +1,142 @@
-el periódico;газета;газети (femenino);society;periódico;газета;noun
-la revista;журнал;журнали (masculino);society;revista;журнал;noun
-la noticia;новина;новини (femenino);society;noticia;новина;noun
-el artículo;стаття;статті (femenino);society;artículo;стаття;noun
-el reportaje;репортаж;репортажі (masculino);society;reportaje;репортаж;noun
-la entrevista;інтерв'ю;інтерв'ю (neutro);society;entrevista;інтерв'ю;noun
-el titular;заголовок;заголовки (masculino);society;titular;заголовок;noun
-la columna;колонка;колонки (femenino);society;columna;колонка;noun
-el editorial;передовиця;передовиці (femenino);society;editorial;передовиця;noun
-el lector;читач;читачі (masculino);society;lector;читач;noun
-el periodista;журналіст;журналісти (masculino);society;periodista;журналіст;noun
-el reportero;репортер;репортери (masculino);society;reportero;репортер;noun
-el corresponsal;кореспондент;кореспонденти (masculino);society;corresponsal;кореспондент;noun
-la prensa;преса; (femenino);society;prensa;преса;noun
-la radio;радіо; (neutro);society;radio;радіо;noun
-la televisión;телебачення; (neutro);society;televisión;телебачення;noun
-el canal;канал;канали (masculino);society;canal;канал;noun
-la emisora;радіостанція;радіостанції (femenino);society;emisora;радіостанція;noun
-el programa;програма;програми (femenino);society;programa;програма;noun
-el noticiero;випуск новин;випуски новин (masculino);society;noticiero;випуск новин;noun
-el boletín;бюлетень;бюлетені (masculino);society;boletín;бюлетень;noun
-el informativo;інформаційний випуск;інформаційні випуски (masculino);society;informativo;інформаційний випуск;noun
-el documental;документальний фільм;документальні фільми (masculino);society;documental;документальний фільм;noun
-el redactor;редактор;редактори (masculino);society;redactor;редактор;noun
-el fotógrafo;фотограф;фотографи (masculino);society;fotógrafo;фотограф;noun
-la cámara;камера;камери (femenino);society;cámara;камера;noun
-el micrófono;мікрофон;мікрофони (masculino);society;micrófono;мікрофон;noun
-el estudio;студія;студії (femenino);society;estudio;студія;noun
-la fuente;джерело;джерела (neutro);society;fuente;джерело;noun
-el rumor;чутка;чутки (femenino);society;rumor;чутка;noun
-la censura;цензура; (femenino);society;censura;цензура;noun
-la libertad de prensa;свобода преси; (femenino);society;libertad de prensa;свобода преси;noun
-la opinión;думка;думки (femenino);society;opinión;думка;noun
-la desinformación;дезінформація; (femenino);society;desinformación;дезінформація;noun
-la verdad;правда; (femenino);society;verdad;правда;noun
-la mentira;брехня;брехні (femenino);society;mentira;брехня;noun
-publicar;публікувати;;society;publicar;публікувати;verb
-emitir;випускати;;society;emitir;випускати;verb
-transmitir;транслювати;;society;transmitir;транслювати;verb
-informar;інформувати;;society;informar;інформувати;verb
-reportar;повідомляти;;society;reportar;повідомляти;verb
-cubrir;висвітлювати;;society;cubrir;висвітлювати;verb
-leer;читати;;society;leer;читати;verb
-escuchar;слухати;;society;escuchar;слухати;verb
-ver;дивитися;;society;ver;дивитися;verb
-verificar;перевіряти;;society;verificar;перевіряти;verb
-manipular;маніпулювати;;society;manipular;маніпулювати;verb
-desinformar;дезінформувати;;society;desinformar;дезінформувати;verb
-difundir;поширювати;;society;difundir;поширювати;verb
-redactar;складати;;society;redactar;складати;verb
-votar;голосувати;;society;votar;голосувати;verb
-voto;голос;голоси (masculino);society;voto;голос;noun
-elección;вибори;вибори;society;elección;вибори;noun
-candidato;кандидат;кандидати (masculino);society;candidato;кандидат;noun
-partido;партія;партії (femenino);society;partido;партія;noun
-gobierno;уряд;уряди (masculino);society;gobierno;уряд;noun
-parlamento;парламент;парламенти (masculino);society;parlamento;парламент;noun
-ley;закон;закони (masculino);society;ley;закон;noun
-urna;урна;урни (femenino);society;urna;урна;noun
-campaña;кампанія;кампанії (femenino);society;campaña;кампанія;noun
-debate;дебати;дебати;society;debate;дебати;noun
-derecho;право;права (neutro);society;derecho;право;noun
-ciudadano;громадянин;громадяни (masculino);society;ciudadano;громадянин;noun
-constitución;конституція;конституції (femenino);society;constitución;конституція;noun
-democracia;демократія;демократії (femenino);society;democracia;демократія;noun
-diputado;депутат;депутати (masculino);society;diputado;депутат;noun
-ministro;міністр;міністри (masculino);society;ministro;міністр;noun
-presidente;президент;президенти (masculino);society;presidente;президент;noun
-senado;сенат;сенати (masculino);society;senado;сенат;noun
-congreso;конгрес;конгреси (masculino);society;congreso;конгрес;noun
-alcalde;мер;мери (masculino);society;alcalde;мер;noun
-ayuntamiento;муніципалітет;муніципалітети (masculino);society;ayuntamiento;муніципалітет;noun
-política;політика;;society;política;політика;noun
-referéndum;референдум;референдуми (masculino);society;referéndum;референдум;noun
-sufragio;голосування;голосування (neutro);society;sufragio;голосування;noun
-abstención;утримання;утримання (neutro);society;abstención;утримання;noun
-mayoría;більшість;більшості (femenino);society;mayoría;більшість;noun
-oposición;опозиція;опозиції (femenino);society;oposición;опозиція;noun
-coalición;коаліція;коаліції (femenino);society;coalición;коаліція;noun
-poder;влада;;society;poder;влада;noun
-estado;держава;держави (femenino);society;estado;держава;noun
-nación;нація;нації (femenino);society;nación;нація;noun
-soberanía;суверенітет;суверенітети (masculino);society;soberanía;суверенітет;noun
-legislación;законодавство;;society;legislación;законодавство;noun
-decreto;указ;укази (masculino);society;decreto;указ;noun
-reforma;реформа;реформи (femenino);society;reforma;реформа;noun
-impuesto;податок;податки (masculino);society;impuesto;податок;noun
-presupuesto;бюджет;бюджети (masculino);society;presupuesto;бюджет;noun
-papeleta;бюлетень;бюлетені (masculino);society;papeleta;бюлетень;noun
-ideología;ідеологія;ідеології (femenino);society;ideología;ідеологія;noun
-izquierda;ліві;ліві;society;izquierda;ліві;noun
-derecha;праві;праві;society;derecha;праві;noun
-centro;центр;центри (masculino);society;centro;центр;noun
-elegir;обирати;;society;elegir;обирати;verb
-gobernar;управляти;;society;gobernar;управляти;verb
-legislar;законодавствувати;;society;legislar;законодавствувати;verb
-aprobar;затверджувати;;society;aprobar;затверджувати;verb
-derogar;скасовувати;;society;derogar;скасовувати;verb
-reformar;реформувати;;society;reformar;реформувати;verb
-resultado;результат;результати (masculino);society;resultado;результат;noun
-crimen;злочин;злочини (masculino);society;crimen;злочин;noun
-delito;правопорушення;правопорушення (neutro);society;delito;правопорушення;noun
-robo;крадіжка;крадіжки (femenino);society;robo;крадіжка;noun
-asesinato;вбивство;вбивства (neutro);society;asesinato;вбивство;noun
-secuestro;викрадення;викрадення (neutro);society;secuestro;викрадення;noun
-víctima;жертва;жертви (femenino);society;víctima;жертва;noun
-testigo;свідок;свідки (masculino);society;testigo;свідок;noun
-juez;суддя;судді (masculino);society;juez;суддя;noun
-abogado;адвокат;адвокати (masculino);society;abogado;адвокат;noun
-fiscal;прокурор;прокурори (masculino);society;fiscal;прокурор;noun
-acusado;обвинувачений;обвинувачені (masculino);society;acusado;обвинувачений;noun
-condenado;засуджений;засуджені (masculino);society;condenado;засуджений;noun
-prisión;в'язниця;в'язниці (femenino);society;prisión;в'язниця;noun
-cárcel;тюрма;тюрми (femenino);society;cárcel;тюрма;noun
-celda;камера;камери (femenino);society;celda;камера;noun
-policía;поліцейський;поліцейські (masculino);society;policía;поліцейський;noun
-detective;детектив;детективи (masculino);society;detective;детектив;noun
-investigación;розслідування;розслідування (neutro);society;investigación;розслідування;noun
-prueba;доказ;докази (masculino);society;prueba;доказ;noun
-coartada;алібі; (neutro);society;coartada;алібі;noun
-sentencia;вирок;вироки (masculino);society;sentencia;вирок;noun
-condena;засудження;засудження (neutro);society;condena;засудження;noun
-multa;штраф;штрафи (masculino);society;multa;штраф;noun
-libertad condicional;умовно-дострокове звільнення; (neutro);society;libertad condicional;умовно-дострокове звільнення;noun
-juicio;суд;суди (masculino);society;juicio;суд;noun
-tribunal;трибунал;трибунали (masculino);society;tribunal;трибунал;noun
-ley;закон;закони (masculino);society;ley;закон;noun
-código penal;кримінальний кодекс;кримінальні кодекси (masculino);society;código penal;кримінальний кодекс;noun
-denuncia;заява;заяви (femenino);society;denuncia;заява;noun
-arresto;арешт;арешти (masculino);society;arresto;арешт;noun
-detención;затримання;затримання (neutro);society;detención;затримання;noun
-interrogatorio;допит;допити (masculino);society;interrogatorio;допит;noun
-culpable;винний;;society;culpable;винний;adj
-inocente;невинний;;society;inocente;невинний;adj
-testificar;свідчити;;society;testificar;свідчити;verb
-condenar;засуджувати;;society;condenar;засуджувати;verb
-absolver;виправдовувати;;society;absolver;виправдовувати;verb
-arrestar;заарештовувати;;society;arrestar;заарештовувати;verb
-investigar;розслідувати;;society;investigar;розслідувати;verb
-cometer un crimen;скоїти злочин;;society;cometer un crimen;скоїти злочин;verb
-delinquir;вчиняти злочин;;society;delinquir;вчиняти злочин;verb
-soborno;хабар;хабарі (masculino);society;soborno;хабар;noun
-extorsión;вимагання;вимагання (neutro);society;extorsión;вимагання;noun
-fraude;шахрайство;шахрайства (neutro);society;fraude;шахрайство;noun
-falsificación;підробка;підробки (femenino);society;falsificación;підробка;noun
-violencia doméstica;домашнє насильство; (neutro);society;violencia doméstica;домашнє насильство;noun
-robo a mano armada;збройне пограбування;збройні пограбування (neutro);society;robo a mano armada;збройне пограбування;noun
-atraco;напад;напади (masculino);society;atraco;напад;noun
-pista;слід;сліди (masculino);society;pista;слід;noun
-castigo;покарання;покарання (neutro);society;castigo;покарання;noun
-la tecnología;технологія;технології (femenino);society;tecnología;технологія;noun
-el ordenador;комп'ютер;комп'ютери (masculino);society;ordenador;комп'ютер;noun
-el portátil;ноутбук;ноутбуки (masculino);society;portátil;ноутбук;noun
-la tableta;планшет;планшети (masculino);society;tableta;планшет;noun
-el teléfono inteligente;смартфон;смартфони (masculino);society;teléfono inteligente;смартфон;noun
-la aplicación;додаток;додатки (masculino);society;aplicación;додаток;noun
-el software;програмне забезпечення;(neutro);society;software;програмне забезпечення;noun
-el hardware;апаратне забезпечення;(neutro);society;hardware;апаратне забезпечення;noun
-el internet;інтернет;(masculino);society;internet;інтернет;noun
-la red;мережа;мережі (femenino);society;red;мережа;noun
-el sitio web;веб-сайт;веб-сайти (masculino);society;sitio web;веб-сайт;noun
-la página web;веб-сторінка;веб-сторінки (femenino);society;página web;веб-сторінка;noun
-el enlace;посилання;посилання (neutro);society;enlace;посилання;noun
-el correo electrónico;електронна пошта;(femenino);society;correo electrónico;електронна пошта;noun
-la contraseña;пароль;паролі (masculino);society;contraseña;пароль;noun
-el usuario;користувач;користувачі (masculino);society;usuario;користувач;noun
-la cuenta;обліковий запис;облікові записи (masculino);society;cuenta;обліковий запис;noun
-el archivo;файл;файли (masculino);society;archivo;файл;noun
-la carpeta;папка;папки (femenino);society;carpeta;папка;noun
-el documento;документ;документи (masculino);society;documento;документ;noun
-la descarga;завантаження;завантаження (neutro);society;descarga;завантаження;noun
-la subida;вивантаження;вивантаження (neutro);society;subida;вивантаження;noun
-el wifi;вай-фай;(masculino);society;wifi;вай-фай;noun
-el bluetooth;блютуз;(masculino);society;bluetooth;блютуз;noun
-el ratón;миша;миші (femenino);society;ratón;миша;noun
-el teclado;клавіатура;клавіатури (femenino);society;teclado;клавіатура;noun
-la pantalla;екран;екрани (masculino);society;pantalla;екран;noun
-la impresora;принтер;принтери (masculino);society;impresora;принтер;noun
-el altavoz;динамік;динаміки (masculino);society;altavoz;динамік;noun
-los auriculares;навушники;навушники (masculino);society;auricular;навушник;noun
-el micrófono;мікрофон;мікрофони (masculino);society;micrófono;мікрофон;noun
-la cámara;камера;камери (femenino);society;cámara;камера;noun
-el cargador;зарядний пристрій;зарядні пристрої (masculino);society;cargador;зарядний пристрій;noun
-la batería;акумулятор;акумулятори (masculino);society;batería;акумулятор;noun
-el mensaje;повідомлення;повідомлення (neutro);society;mensaje;повідомлення;noun
-el chat;чат;чати (masculino);society;chat;чат;noun
-la videollamada;відеодзвінок;відеодзвінки (masculino);society;videollamada;відеодзвінок;noun
-la red social;соціальна мережа;соціальні мережі (femenino);society;red social;соціальна мережа;noun
-el perfil;профіль;профілі (masculino);society;perfil;профіль;noun
-el blog;блог;блоги (masculino);society;blog;блог;noun
-el comentario;коментар;коментарі (masculino);society;comentario;коментар;noun
-el me gusta;лайк;лайки (masculino);society;me gusta;лайк;noun
-compartir;ділитися;;society;compartir;ділитися;verb
-publicar;публікувати;;society;publicar;публікувати;verb
-navegar;переглядати;;society;navegar;переглядати;verb
-buscar;шукати;;society;buscar;шукати;verb
-descargar;завантажувати;;society;descargar;завантажувати;verb
-subir;вивантажувати;;society;subir;вивантажувати;verb
-chatear;чатитися;;society;chatear;чатитися;verb
-conectar;підключати;;society;conectar;підключати;verb
+la noticia;новина;las noticias;society;noticia;новина;noun;
+el periódico;газета;los periódicos;society;periódico;газета;noun;
+la revista;журнал;las revistas;society;revista;журнал;noun;
+el titular;заголовок;los titulares;society;titular;заголовок;noun;
+la prensa;преса;;society;prensa;преса;noun;
+el canal;канал;los canales;society;canal;канал;noun;
+el programa;програма;los programas;society;programa;програма;noun;
+el reportaje;репортаж;los reportajes;society;reportaje;репортаж;noun;
+el lector;читач;los lectores;society;lector;читач;noun;
+la audiencia;аудиторія;las audiencias;society;audiencia;аудиторія;noun;
+la información;інформація;;society;información;інформація;noun;
+el editorial;передовиця;los editoriales;society;editorial;передовиця;noun;
+el reportero;репортер;los reporteros;society;reportero;репортер;noun;
+la publicación;публікація;las publicaciones;society;publicación;публікація;noun;
+la agencia;агенція;las agencias;society;agencia;агенція;noun;
+el corresponsal;кореспондент;los corresponsales;society;corresponsal;кореспондент;noun;
+la suscripción;підписка;las suscripciones;society;suscripción;підписка;noun;
+el noticiero;випуск новин;los noticieros;society;noticiero;випуск новин;noun;
+el blog;блог;los blogs;society;blog;блог;noun;
+la red;мережа;las redes;society;red;мережа;noun;
+la cobertura;висвітлення;las coberturas;society;cobertura;висвітлення;noun;
+informar;інформувати;;society;informar;інформувати;verb (-ar);
+publicar;публікувати;;society;publicar;публікувати;verb (-ar);
+transmitir;транслювати;;society;transmitir;транслювати;verb (-ir);
+suscribir;підписувати;;society;suscribir;підписувати;verb (-ir);
+informativo;інформативний;;society;informativo;інформативний;adj;
+sensacionalista;сенсаційний;;society;sensacionalista;сенсаційний;adj;
+veraz;правдивий;;society;veraz;правдивий;adj;
+objetivo;об'єктивний;;society;objetivo;об'єктивний;adj;
+digital;цифровий;;society;digital;цифровий;adj;
+impreso;друкований;;society;impreso;друкований;adj;
+directo;прямий;;society;directo;прямий;adj;
+actualmente;наразі;;society;actualmente;наразі;adv;
+recientemente;нещодавно;;society;recientemente;нещодавно;adv;
+diariamente;щодня;;society;diariamente;щодня;adv;
+el voto;голос;los votos;society;voto;голос;noun;
+la urna;урна;las urnas;society;urna;урна;noun;
+el partido político;політична партія;los partidos políticos;society;partido político;політична партія;noun;
+la campaña electoral;виборча кампанія;las campañas electorales;society;campaña electoral;виборча кампанія;noun;
+el gobierno;уряд;los gobiernos;society;gobierno;уряд;noun;
+la elección;вибори;las elecciones;society;elección;вибори;noun;
+la democracia;демократія;las democracias;society;democracia;демократія;noun;
+el referéndum;референдум;los referéndums;society;referéndum;референдум;noun;
+la ley;закон;las leyes;society;ley;закон;noun;
+la constitución;конституція;las constituciones;society;constitución;конституція;noun;
+el parlamento;парламент;los parlamentos;society;parlamento;парламент;noun;
+el senado;сенат;los senados;society;senado;сенат;noun;
+el diputado;депутат;los diputados;society;diputado;депутат;noun;
+el presidente;президент;los presidentes;society;presidente;президент;noun;
+el primer ministro;прем'єр-міністр;los primeros ministros;society;primer ministro;прем'єр-міністр;noun;
+el poder ejecutivo;виконавча влада;los poderes ejecutivos;society;poder ejecutivo;виконавча влада;noun;
+la oposición;опозиція;las oposiciones;society;oposición;опозиція;noun;
+la coalición;коаліція;las coaliciones;society;coalición;коаліція;noun;
+la papeleta;бюлетень;las papeletas;society;papeleta;бюлетень;noun;
+el escaño;місце в парламенті;los escaños;society;escaño;місце в парламенті;noun;
+la mayoría;більшість;las mayorías;society;mayoría;більшість;noun;
+la minoría;меншість;las minorías;society;minoría;меншість;noun;
+el sufragio;голосування;los sufragios;society;sufragio;голосування;noun;
+el mandato;мандат;los mandatos;society;mandato;мандат;noun;
+el ciudadano;громадянин;los ciudadanos;society;ciudadano;громадянин;noun;
+el estado;держава;los estados;society;estado;держава;noun;
+votar;голосувати;;society;votar;голосувати;verb (-ar);
+elegir;обирати;;society;elegir;обирати;verb (-ir);
+gobernar;керувати;;society;gobernar;керувати;verb (-ar);
+legislar;законодавствувати;;society;legislar;законодавствувати;verb (-ar);
+postularse;балотуватися;;society;postularse;балотуватися;verb (-ar);
+abstenerse;утримуватися;;society;abstenerse;утримуватися;verb (-er);
+político;політичний;;society;político;політичний;adj;
+democrático;демократичний;;society;democrático;демократичний;adj;
+electoral;виборчий;;society;electoral;виборчий;adj;
+legislativo;законодавчий;;society;legislativo;законодавчий;adj;
+ejecutivo;виконавчий;;society;ejecutivo;виконавчий;adj;
+judicial;судовий;;society;judicial;судовий;adj;
+constitucional;конституційний;;society;constitucional;конституційний;adj;
+parlamentario;парламентський;;society;parlamentario;парламентський;adj;
+nacional;національний;;society;nacional;національний;adj;
+público;громадський;;society;público;громадський;adj;
+el delito;правопорушення;los delitos;society;delito;правопорушення;noun;
+el juez;суддя;los jueces;society;juez;суддя;noun;
+el fiscal;прокурор;los fiscales;society;fiscal;прокурор;noun;
+el acusado;обвинувачений;los acusados;society;acusado;обвинувачений;noun;
+la sentencia;вирок;las sentencias;society;sentencia;вирок;noun;
+la cárcel;в'язниця;las cárceles;society;cárcel;в'язниця;noun;
+la prisión;тюрма;las prisiones;society;prisión;тюрма;noun;
+el preso;в'язень;los presos;society;preso;в'язень;noun;
+el tribunal;суд;los tribunales;society;tribunal;суд;noun;
+la evidencia;доказ;las evidencias;society;evidencia;доказ;noun;
+la coartada;алібі;las coartadas;society;coartada;алібі;noun;
+el veredicto;вердикт;los veredictos;society;veredicto;вердикт;noun;
+la condena;вирок;las condenas;society;condena;вирок;noun;
+el castigo;покарання;los castigos;society;castigo;покарання;noun;
+el hurto;крадіжка;los hurtos;society;hurto;крадіжка;noun;
+el asesinato;вбивство;los asesinatos;society;asesinato;вбивство;noun;
+el homicidio;вбивство;los homicidios;society;homicidio;вбивство;noun;
+el fraude;шахрайство;los fraudes;society;fraude;шахрайство;noun;
+el soborno;хабар;los sobornos;society;soborno;хабар;noun;
+la violencia;насильство;las violencias;society;violencia;насильство;noun;
+el culpable;винний;los culpables;society;culpable;винний;noun;
+el inocente;невинний;los inocentes;society;inocente;невинний;noun;
+robar;красти;;society;robar;красти;verb (-ar);
+matar;вбивати;;society;matar;вбивати;verb (-ar);
+arrestar;арештовувати;;society;arrestar;арештовувати;verb (-ar);
+juzgar;судити;;society;juzgar;судити;verb (-ar);
+condenar;засуджувати;;society;condenar;засуджувати;verb (-ar);
+absolver;виправдовувати;;society;absolver;виправдовувати;verb (-er);
+declarar;свідчити;;society;declarar;свідчити;verb (-ar);
+acusar;звинувачувати;;society;acusar;звинувачувати;verb (-ar);
+el ordenador;комп'ютер;los ordenadores;society;ordenador;комп'ютер;noun;
+el portátil;ноутбук;los portátiles;society;portátil;ноутбук;noun;
+la tableta;планшет;las tabletas;society;tableta;планшет;noun;
+el móvil;мобільний телефон;los móviles;society;móvil;мобільний телефон;noun;
+el altavoz;динамік;los altavoces;society;altavoz;динамік;noun;
+el auricular;навушник;los auriculares;society;auricular;навушник;noun;
+el micrófono;мікрофон;los micrófonos;society;micrófono;мікрофон;noun;
+la cámara web;веб-камера;las cámaras web;society;cámara web;веб-камера;noun;
+el software;програмне забезпечення;;society;software;програмне забезпечення;noun;
+el hardware;апаратне забезпечення;;society;hardware;апаратне забезпечення;noun;
+la aplicación;додаток;las aplicaciones;society;aplicación;додаток;noun;
+el enlace;посилання;los enlaces;society;enlace;посилання;noun;
+la página web;веб-сторінка;las páginas web;society;página web;веб-сторінка;noun;
+el sitio web;веб-сайт;los sitios web;society;sitio web;веб-сайт;noun;
+el navegador;браузер;los navegadores;society;navegador;браузер;noun;
+el buscador;пошукова система;los buscadores;society;buscador;пошукова система;noun;
+el usuario;користувач;los usuarios;society;usuario;користувач;noun;
+la red social;соціальна мережа;las redes sociales;society;red social;соціальна мережа;noun;
+el chat;чат;los chats;society;chat;чат;noun;
+la videollamada;відеодзвінок;las videollamadas;society;videollamada;відеодзвінок;noun;
+el wifi;вай-фай;;society;wifi;вай-фай;noun;
+la conexión;з'єднання;las conexiones;society;conexión;з'єднання;noun;
+la descarga;завантаження;las descargas;society;descarga;завантаження;noun;
+la subida;вивантаження;las subidas;society;subida;вивантаження;noun;
+el virus;вірус;los virus;society;virus;вірус;noun;
+el antivirus;антивірус;los antivirus;society;antivirus;антивірус;noun;
+el cortafuegos;брандмауер;los cortafuegos;society;cortafuegos;брандмауер;noun;
+el hacker;хакер;los hackers;society;hacker;хакер;noun;
+el pirata informático;комп'ютерний пірат;los piratas informáticos;society;pirata informático;комп'ютерний пірат;noun;
+la privacidad;приватність;;society;privacidad;приватність;noun;
+el dispositivo;пристрій;los dispositivos;society;dispositivo;пристрій;noun;
+el perfil;профіль;los perfiles;society;perfil;профіль;noun;
+navegar;переглядати;;society;navegar;переглядати;verb (-ar);
+chatear;спілкуватися в чаті;;society;chatear;спілкуватися в чаті;verb (-ar);
+descargar;завантажувати;;society;descargar;завантажувати;verb (-ar);

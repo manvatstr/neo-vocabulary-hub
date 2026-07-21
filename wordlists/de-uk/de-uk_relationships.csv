@@ -1,199 +1,132 @@
-der Freund;друг;die Freunde (männlich);relationships;Freund;друг;noun
-die Freundin;подруга;die Freundinnen (weiblich);relationships;Freundin;подруга;noun
-die Freundschaft;дружба;die Freundschaften (weiblich);relationships;Freundschaft;дружба;noun
-der Kumpel;приятель;die Kumpel (männlich);relationships;Kumpel;приятель;noun
-die Kumpelin;приятелька;die Kumpelinnen (weiblich);relationships;Kumpelin;приятелька;noun
-der Bekannte;знайомий;die Bekannten (männlich);relationships;Bekannte;знайомий;noun
-die Bekannte;знайома;die Bekannten (weiblich);relationships;Bekannte;знайома;noun
-die Clique;компанія;die Cliquen (weiblich);relationships;Clique;компанія;noun
-das Treffen;зустріч;die Treffen (weiblich);relationships;Treffen;зустріч;noun
-die Verabredung;побачення;die Verabredungen (sächlich);relationships;Verabredung;побачення;noun
-das Vertrauen;довіра;;relationships;Vertrauen;довіра;noun
-die Ehrlichkeit;чесність;;relationships;Ehrlichkeit;чесність;noun
-die Treue;вірність;;relationships;Treue;вірність;noun
-der Streit;суперечка;die Streite (weiblich);relationships;Streit;суперечка;noun
-die Versöhnung;примирення;die Versöhnungen (sächlich);relationships;Versöhnung;примирення;noun
-die Unterstützung;підтримка;;relationships;Unterstützung;підтримка;noun
-das Geheimnis;таємниця;die Geheimnisse (weiblich);relationships;Geheimnis;таємниця;noun
-die Mitteilung;повідомлення;die Mitteilungen (sächlich);relationships;Mitteilung;повідомлення;noun
-das Geschenk;подарунок;die Geschenke (männlich);relationships;Geschenk;подарунок;noun
-die Feier;вечірка;die Feiern (weiblich);relationships;Feier;вечірка;noun
-die Einladung;запрошення;die Einladungen (sächlich);relationships;Einladung;запрошення;noun
-der Gast;гість;die Gäste (männlich);relationships;Gast;гість;noun
-die Gastgeberin;господиня;die Gastgeberinnen (weiblich);relationships;Gastgeberin;господиня;noun
-das Versprechen;обіцянка;die Versprechen (weiblich);relationships;Versprechen;обіцянка;noun
-der Zusammenhalt;згуртованість;;relationships;Zusammenhalt;згуртованість;noun
-das Verständnis;розуміння;;relationships;Verständnis;розуміння;noun
-der Respekt;повага;;relationships;Respekt;повага;noun
-der Kontakt;контакт;die Kontakte (männlich);relationships;Kontakt;контакт;noun
-vertrauen;довіряти;;relationships;vertrauen;довіряти;verb
-sich streiten;сваритися;;relationships;streiten;сваритися;verb
-sich versöhnen;миритися;;relationships;versöhnen;миритися;verb
-helfen;допомагати;;relationships;helfen;допомагати;verb
-unterstützen;підтримувати;;relationships;unterstützen;підтримувати;verb
-teilen;ділитися;;relationships;teilen;ділитися;verb
-zuhören;слухати;;relationships;zuhören;слухати;verb
-einladen;запрошувати;;relationships;einladen;запрошувати;verb
-feiern;святкувати;;relationships;feiern;святкувати;verb
-sich treffen;зустрічатися;;relationships;treffen;зустрічатися;verb
-verzeihen;прощати;;relationships;verzeihen;прощати;verb
-lachen;сміятися;;relationships;lachen;сміятися;verb
-Spaß haben;веселитися;;relationships;Spaß haben;веселитися;verb
-treu;вірний;;relationships;treu;вірний;adj
-ehrlich;чесний;;relationships;ehrlich;чесний;adj
-zuverlässig;надійний;;relationships;zuverlässig;надійний;adj
-verständnisvoll;чуйний;;relationships;verständnisvoll;чуйний;adj
-humorvoll;гумористичний;;relationships;humorvoll;гумористичний;adj
-aufmerksam;уважний;;relationships;aufmerksam;уважний;adj
-nett;милий;;relationships;nett;милий;adj
-freundschaftlich;дружній;;relationships;freundschaftlich;дружній;adj
-sich kennenlernen;знайомитися;;relationships;kennenlernen;знайомитися;verb
-der Gast;гість;гості (männlich);relationships;Gast;гість;noun
-die Gastgeberin;господиня;господині (weiblich);relationships;Gastgeberin;господиня;noun
-die Einladung;запрошення;запрошення (sächlich);relationships;Einladung;запрошення;noun
-die Party;вечірка;вечірки (weiblich);relationships;Party;вечірка;noun
-die Feier;свято;свята (sächlich);relationships;Feier;свято;noun
-der Geburtstag;день народження;дні народження (männlich);relationships;Geburtstag;день народження;noun
-die Überraschung;сюрприз;сюрпризи (männlich);relationships;Überraschung;сюрприз;noun
-das Geschenk;подарунок;подарунки (männlich);relationships;Geschenk;подарунок;noun
-die Flasche;пляшка;пляшки (weiblich);relationships;Flasche;пляшка;noun
-der Wein;вино;;relationships;Wein;вино;noun
-das Bier;пиво;;relationships;Bier;пиво;noun
-der Saft;сік;соки (männlich);relationships;Saft;сік;noun
-die Musik;музика;;relationships;Musik;музика;noun
-der Tanz;танець;танці (männlich);relationships;Tanz;танець;noun
-tanzen;танцювати;;relationships;tanzen;танцювати;verb
-feiern;святкувати;;relationships;feiern;святкувати;verb
-sich unterhalten;спілкуватися;;relationships;unterhalten;спілкуватися;verb
-kennenlernen;знайомитися;;relationships;kennenlernen;знайомитися;verb
-die Bekanntschaft;знайомство;знайомства (sächlich);relationships;Bekanntschaft;знайомство;noun
-der Freund;друг;друзі (männlich);relationships;Freund;друг;noun
-die Freundin;подруга;подруги (weiblich);relationships;Freundin;подруга;noun
-die Clique;компанія;компанії (weiblich);relationships;Clique;компанія;noun
-verabreden;домовлятися про зустріч;;relationships;verabreden;домовлятися про зустріч;verb
-die Verabredung;зустріч;зустрічі (weiblich);relationships;Verabredung;зустріч;noun
-das Treffen;зустріч;зустрічі (weiblich);relationships;Treffen;зустріч;noun
-einladen;запрошувати;;relationships;einladen;запрошувати;verb
-der Gastgeber;господар;господарі (männlich);relationships;Gastgeber;господар;noun
-die Dekoration;прикраса;прикраси (weiblich);relationships;Dekoration;прикраса;noun
-der Ballon;повітряна кулька;повітряні кульки (weiblich);relationships;Ballon;повітряна кулька;noun
-die Kerze;свічка;свічки (weiblich);relationships;Kerze;свічка;noun
-der Kuchen;торт;торти (männlich);relationships;Kuchen;торт;noun
-das Essen;їжа;;relationships;Essen;їжа;noun
-das Getränk;напій;напої (männlich);relationships;Getränk;напій;noun
-die Stimmung;настрій;настрої (männlich);relationships;Stimmung;настрій;noun
-der Spaß;веселощі;;relationships;Spaß;веселощі;noun
-lustig;веселий;;relationships;lustig;веселий;adj
-langweilig;нудний;;relationships;langweilig;нудний;adj
-sich amüsieren;розважатися;;relationships;amüsieren;розважатися;verb
-der Witz;жарт;жарти (männlich);relationships;Witz;жарт;noun
-lachen;сміятися;;relationships;lachen;сміятися;verb
-sich treffen;зустрічатися;;relationships;treffen;зустрічатися;verb
-ausgehen;виходити;;relationships;ausgehen;виходити;verb
-die Kneipe;бар;бари (männlich);relationships;Kneipe;бар;noun
-das Restaurant;ресторан;ресторани (männlich);relationships;Restaurant;ресторан;noun
-der Club;клуб;клуби (männlich);relationships;Club;клуб;noun
-die Disko;дискотека;дискотеки (weiblich);relationships;Disko;дискотека;noun
-der Abend;вечір;вечори (männlich);relationships;Abend;вечір;noun
-die Freundschaft;дружба;;relationships;Freundschaft;дружба;noun
-die Nacht;ніч;ночі (weiblich);relationships;Nacht;ніч;noun
-der Streit;сварка;die Streite (weiblich);relationships;Streit;сварка;noun
-der Konflikt;конфлікт;die Konflikte (männlich);relationships;Konflikt;конфлікт;noun
-die Auseinandersetzung;суперечка;die Auseinandersetzungen (weiblich);relationships;Auseinandersetzung;суперечка;noun
-der Vorwurf;докір;die Vorwürfe (männlich);relationships;Vorwurf;докір;noun
-die Beleidigung;образа;die Beleidigungen (weiblich);relationships;Beleidigung;образа;noun
-das Missverständnis;непорозуміння;die Missverständnisse (sächlich);relationships;Missverständnis;непорозуміння;noun
-die Entschuldigung;вибачення;die Entschuldigungen (sächlich);relationships;Entschuldigung;вибачення;noun
-die Versöhnung;примирення;die Versöhnungen (sächlich);relationships;Versöhnung;примирення;noun
-die Wut;гнів;;relationships;Wut;гнів;noun
-die Eifersucht;ревнощі;;relationships;Eifersucht;ревнощі;noun
-die Kritik;критика;die Kritiken (weiblich);relationships;Kritik;критика;noun
-der Fehler;помилка;die Fehler (weiblich);relationships;Fehler;помилка;noun
-die Schuld;провина;;relationships;Schuld;провина;noun
-die Vergebung;прощення;;relationships;Vergebung;прощення;noun
-die Reue;каяття;;relationships;Reue;каяття;noun
-das Bedauern;жаль;;relationships;Bedauern;жаль;noun
-die Enttäuschung;розчарування;die Enttäuschungen (sächlich);relationships;Enttäuschung;розчарування;noun
-der Kompromiss;компроміс;die Kompromisse (männlich);relationships;Kompromiss;компроміс;noun
-die Lösung;рішення;die Lösungen (sächlich);relationships;Lösung;рішення;noun
-die Lüge;брехня;die Lügen (weiblich);relationships;Lüge;брехня;noun
-die Wahrheit;правда;;relationships;Wahrheit;правда;noun
-das Vertrauen;довіра;;relationships;Vertrauen;довіра;noun
-der Respekt;повага;;relationships;Respekt;повага;noun
-die Grenze;межа;die Grenzen (weiblich);relationships;Grenze;межа;noun
-die Aggression;агресія;;relationships;Aggression;агресія;noun
-sich streiten;сваритися;;relationships;streiten;сваритися;verb
-kämpfen;боротися;;relationships;kämpfen;боротися;verb
-schreien;кричати;;relationships;schreien;кричати;verb
-weinen;плакати;;relationships;weinen;плакати;verb
-beleidigen;ображати;;relationships;beleidigen;ображати;verb
-vorwerfen;дорікати;;relationships;vorwerfen;дорікати;verb
-sich entschuldigen;вибачатися;;relationships;entschuldigen;вибачатися;verb
-verzeihen;прощати;;relationships;verzeihen;прощати;verb
-vergeben;пробачати;;relationships;vergeben;пробачати;verb
-bereuen;каятися;;relationships;bereuen;каятися;verb
-bedauern;шкодувати;;relationships;bedauern;шкодувати;verb
-nachgeben;поступатися;;relationships;nachgeben;поступатися;verb
-sich einigen;домовлятися;;relationships;einigen;домовлятися;verb
-schlichten;залагоджувати;;relationships;schlichten;залагоджувати;verb
-klären;з'ясовувати;;relationships;klären;з'ясовувати;verb
-lügen;брехати;;relationships;lügen;брехати;verb
-vertrauen;довіряти;;relationships;vertrauen;довіряти;verb
-respektieren;поважати;;relationships;respektieren;поважати;verb
-wütend;розлючений;;relationships;wütend;розлючений;adj
-sauer;сердитий;;relationships;sauer;сердитий;adj
-verletzt;ображений;;relationships;verletzt;ображений;adj
-eifersüchtig;ревнивий;;relationships;eifersüchtig;ревнивий;adj
-enttäuscht;розчарований;;relationships;enttäuscht;розчарований;adj
-schuldig;винний;;relationships;schuldig;винний;adj
-aggressiv;агресивний;;relationships;aggressiv;агресивний;adj
-die Liebe;кохання; (sächlich);relationships;Liebe;кохання;noun
-der Kuss;поцілунок;die Küsse (männlich);relationships;Kuss;поцілунок;noun
-die Beziehung;стосунки;die Beziehungen (männlich);relationships;Beziehung;стосунки;noun
-das Date;побачення;die Dates (sächlich);relationships;Date;побачення;noun
-das Paar;пара;die Paare (weiblich);relationships;Paar;пара;noun
-der Freund;друг;die Freunde (männlich);relationships;Freund;друг;noun
-die Freundin;подруга;die Freundinnen (weiblich);relationships;Freundin;подруга;noun
-verliebt;закоханий;;relationships;verliebt;закоханий;adj
-flirten;фліртувати;;relationships;flirten;фліртувати;verb
-sich verlieben;закохатися;;relationships;sich verlieben;закохатися;verb
-zusammen;разом;;relationships;zusammen;разом;adv
-getrennt;окремо;;relationships;getrennt;окремо;adj
-Single;одинак;die Singles (männlich);relationships;Single;одинак;noun
-heiraten;одружитися;;relationships;heiraten;одружитися;verb
-die Hochzeit;весілля;die Hochzeiten (sächlich);relationships;Hochzeit;весілля;noun
-der Verlobte;наречений;die Verlobten (männlich);relationships;Verlobte;наречений;noun
-die Verlobte;наречена;die Verlobten (weiblich);relationships;Verlobte;наречена;noun
-die Ehe;шлюб;die Ehen (männlich);relationships;Ehe;шлюб;noun
-der Partner;партнер;die Partner (männlich);relationships;Partner;партнер;noun
-die Partnerin;партнерка;die Partnerinnen (weiblich);relationships;Partnerin;партнерка;noun
-sich treffen;зустрічатися;;relationships;sich treffen;зустрічатися;verb
-das Treffen;зустріч;die Treffen (weiblich);relationships;Treffen;зустріч;noun
-ausgehen;ходити на побачення;;relationships;ausgehen;ходити на побачення;verb
-romantisch;романтичний;;relationships;romantisch;романтичний;adj
-das Herz;серце;die Herzen (sächlich);relationships;Herz;серце;noun
-der Valentinstag;День святого Валентина;die Valentinstage (männlich);relationships;Valentinstag;День святого Валентина;noun
-das Geschenk;подарунок;die Geschenke (männlich);relationships;Geschenk;подарунок;noun
-die Blumen;квіти;die Blumen (weiblich);relationships;Blume;квітка;noun
-die Schokolade;шоколад; (weiblich);relationships;Schokolade;шоколад;noun
-der Antrag;пропозиція;die Anträge (weiblich);relationships;Antrag;пропозиція;noun
-die Verabredung;побачення;die Verabredungen (sächlich);relationships;Verabredung;побачення;noun
-die Zuneigung;прихильність; (weiblich);relationships;Zuneigung;прихильність;noun
-die Leidenschaft;пристрасть;die Leidenschaften (weiblich);relationships;Leidenschaft;пристрасть;noun
-die Eifersucht;ревнощі; (weiblich);relationships;Eifersucht;ревнощі;noun
-der Streit;суперечка;die Streite (weiblich);relationships;Streit;суперечка;noun
-die Versöhnung;примирення;die Versöhnungen (sächlich);relationships;Versöhnung;примирення;noun
-der Flirt;флірт;die Flirts (männlich);relationships;Flirt;флірт;noun
-das Kompliment;комплімент;die Komplimente (männlich);relationships;Kompliment;комплімент;noun
-die Umarmung;обійми;die Umarmungen (weiblich);relationships;Umarmung;обійми;noun
-das Händchenhalten;тримання за руки; (sächlich);relationships;Händchenhalten;тримання за руки;noun
-küssen;цілувати;;relationships;küssen;цілувати;verb
-der Heiratsantrag;пропозиція одруження;die Heiratsanträge (weiblich);relationships;Heiratsantrag;пропозиція одруження;noun
-der Traummann;чоловік мрії;die Traummänner (männlich);relationships;Traummann;чоловік мрії;noun
-die Traumfrau;жінка мрії;die Traumfrauen (weiblich);relationships;Traumfrau;жінка мрії;noun
-der Liebesbrief;любовний лист;die Liebesbriefe (männlich);relationships;Liebesbrief;любовний лист;noun
-das Liebeslied;любовна пісня;die Liebeslieder (weiblich);relationships;Liebeslied;любовна пісня;noun
-die Treue;вірність; (weiblich);relationships;Treue;вірність;noun
-die Untreue;невірність; (weiblich);relationships;Untreue;невірність;noun
-der Seitensprung;зрада;die Seitensprünge (weiblich);relationships;Seitensprung;зрада;noun
-die Eiferszene;сцена ревнощів;die Eiferszenen (weiblich);relationships;Eiferszene;сцена ревнощів;noun
+die Freundschaft;дружба;die Freundschaften;relationships;Freundschaft;дружба;noun;
+das Vertrauen;довіра;;relationships;Vertrauen;довіра;noun;
+die Hilfe;допомога;die Hilfen;relationships;Hilfe;допомога;noun;
+teilen;ділитися;;relationships;teilen;ділитися;verb (weak);
+die Treue;вірність;;relationships;Treue;вірність;noun;
+treu;вірний;;relationships;treu;вірний;adj;
+kennenlernen;знайомитися;;relationships;kennenlernen (zu lernen);знайомитися;verb (separable);
+die Bekanntschaft;знайомство;die Bekanntschaften;relationships;Bekanntschaft;знайомство;noun;
+kennen;знати;;relationships;kennen;знати;verb (mixed);
+sich verstehen;ладити;;relationships;verstehen;ладити;verb (strong);
+der Streit;сварка;die Streite;relationships;Streit;сварка;noun;
+streiten;сваритися;;relationships;streiten;сваритися;verb (strong);
+sich versöhnen;миритися;;relationships;versöhnen;миритися;verb (weak);
+die Versöhnung;примирення;die Versöhnungen;relationships;Versöhnung;примирення;noun;
+der Kumpel;приятель;die Kumpels;relationships;Kumpel;приятель;noun;
+die Clique;компанія;die Cliquen;relationships;Clique;компанія;noun;
+zusammen;разом;;relationships;zusammen;разом;adv;
+die Einladung;запрошення;die Einladungen;relationships;Einladung;запрошення;noun;
+der Geburtstag;день народження;die Geburtstage;relationships;Geburtstag;день народження;noun;
+das Geschenk;подарунок;die Geschenke;relationships;Geschenk;подарунок;noun;
+schenken;дарувати;;relationships;schenken;дарувати;verb (weak);
+die Überraschung;сюрприз;die Überraschungen;relationships;Überraschung;сюрприз;noun;
+überraschen;дивувати;;relationships;überraschen;дивувати;verb (weak);
+das Geheimnis;таємниця;die Geheimnisse;relationships;Geheimnis;таємниця;noun;
+die Unterstützung;підтримка;die Unterstützungen;relationships;Unterstützung;підтримка;noun;
+unterstützen;підтримувати;;relationships;unterstützen;підтримувати;verb (weak);
+die Aufmerksamkeit;увага;;relationships;Aufmerksamkeit;увага;noun;
+die Rücksicht;повага;;relationships;Rücksicht;повага;noun;
+die Sympathie;симпатія;die Sympathien;relationships;Sympathie;симпатія;noun;
+die Gemeinsamkeit;спільність;die Gemeinsamkeiten;relationships;Gemeinsamkeit;спільність;noun;
+der Kontakt;контакт;die Kontakte;relationships;Kontakt;контакт;noun;
+in Kontakt bleiben;підтримувати зв'язок;;relationships;Kontakt bleiben;підтримувати зв'язок;verb (strong);
+die Verabredung;домовленість;die Verabredungen;relationships;Verabredung;домовленість;noun;
+sich verabreden;домовлятися;;relationships;verabreden;домовлятися;verb (weak);
+der Ratschlag;порада;die Ratschläge;relationships;Ratschlag;порада;noun;
+beraten;радити;;relationships;beraten;радити;verb (strong);
+plaudern;балакати;;relationships;plaudern;балакати;verb (weak);
+der Gast;гість;die Gäste;relationships;Gast;гість;noun;
+die Feier;святкування;die Feiern;relationships;Feier;святкування;noun;
+das Fest;свято;die Feste;relationships;Fest;свято;noun;
+der Bekannte;знайомий;die Bekannten;relationships;Bekannte;знайомий;noun;
+das Gespräch;розмова;die Gespräche;relationships;Gespräch;розмова;noun;
+das Essen;їжа;;relationships;Essen;їжа;noun;
+die Stimmung;настрій;die Stimmungen;relationships;Stimmung;настрій;noun;
+der Spaß;веселощі;;relationships;Spaß;веселощі;noun;
+der Gastgeber;господар;die Gastgeber;relationships;Gastgeber;господар;noun;
+der Treffpunkt;місце зустрічі;die Treffpunkte;relationships;Treff + Punkt;місце зустрічі;noun;
+das Bier;пиво;die Biere;relationships;Bier;пиво;noun;
+der Wein;вино;die Weine;relationships;Wein;вино;noun;
+der Kuss;поцілунок;die Küsse;relationships;Kuss;поцілунок;noun;
+unterhalten;спілкуватися;;relationships;unterhalten;спілкуватися;verb (strong);
+anstoßen;цокатися;;relationships;anstoßen (anzustoßen);цокатися;verb (separable);
+mitbringen;приносити з собою;;relationships;mitbringen (mitzubringen);приносити з собою;verb (separable);
+gratulieren;вітати;;relationships;gratulieren;вітати;verb (weak);
+lachen;сміятися;;relationships;lachen;сміятися;verb (weak);
+amüsieren;розважатися;;relationships;amüsieren;розважатися;verb (weak);
+genießen;насолоджуватися;;relationships;genießen;насолоджуватися;verb (strong);
+flirten;фліртувати;;relationships;flirten;фліртувати;verb (weak);
+lustig;веселий;;relationships;lustig;веселий;adj;
+unterhaltsam;розважальний;;relationships;unterhaltsam;розважальний;adj;
+gesellig;товариський;;relationships;gesellig;товариський;adj;
+entspannt;розслаблений;;relationships;entspannt;розслаблений;adj;
+fröhlich;життєрадісний;;relationships;fröhlich;життєрадісний;adj;
+herzlich;сердечний;;relationships;herzlich;сердечний;adj;
+peinlich;незручний;;relationships;peinlich;незручний;adj;
+Prost!;Будьмо!;;relationships;Prost;Будьмо!;interj;
+die Entschuldigung;вибачення;die Entschuldigungen;relationships;Entschuldigung;вибачення;noun;
+das Missverständnis;непорозуміння;die Missverständnisse;relationships;Miss + Verständnis;непорозуміння;noun;
+der Konflikt;конфлікт;die Konflikte;relationships;Konflikt;конфлікт;noun;
+die Auseinandersetzung;суперечка;die Auseinandersetzungen;relationships;auseinander + Setzung;суперечка;noun;
+die Beleidigung;образа;die Beleidigungen;relationships;Beleidigung;образа;noun;
+die Kritik;критика;die Kritiken;relationships;Kritik;критика;noun;
+das Problem;проблема;die Probleme;relationships;Problem;проблема;noun;
+die Lösung;рішення;die Lösungen;relationships;Lösung;рішення;noun;
+der Kompromiss;компроміс;die Kompromisse;relationships;Kompromiss;компроміс;noun;
+die Wut;гнів;;relationships;Wut;гнів;noun;
+die Traurigkeit;смуток;;relationships;Traurigkeit;смуток;noun;
+der Groll;образа;;relationships;Groll;образа;noun;
+die Reue;каяття;;relationships;Reue;каяття;noun;
+die Vergebung;прощення;;relationships;Vergebung;прощення;noun;
+der Ärger;гнів;;relationships;Ärger;гнів;noun;
+die Spannung;напруга;die Spannungen;relationships;Spannung;напруга;noun;
+das Schweigen;мовчання;;relationships;Schweigen;мовчання;noun;
+der Vorwurf;звинувачення;die Vorwürfe;relationships;Vor + Wurf;звинувачення;noun;
+die Schuld;вина;;relationships;Schuld;вина;noun;
+die Enttäuschung;розчарування;die Enttäuschungen;relationships;Enttäuschung;розчарування;noun;
+die Distanz;дистанція;die Distanzen;relationships;Distanz;дистанція;noun;
+der Rückzug;відступ;die Rückzüge;relationships;Rück + Zug;відступ;noun;
+die Klärung;з'ясування;die Klärungen;relationships;Klärung;з'ясування;noun;
+die Aussprache;розмова;die Aussprachen;relationships;Aus + Sprache;розмова;noun;
+die Träne;сльоза;die Tränen;relationships;Träne;сльоза;noun;
+die Versprechung;обіцянка;die Versprechungen;relationships;Versprechung;обіцянка;noun;
+sich entschuldigen;вибачатися;;relationships;sich entschuldigen;вибачатися;verb (weak);
+verzeihen;прощати;;relationships;verzeihen;прощати;verb (strong);
+kritisieren;критикувати;;relationships;kritisieren;критикувати;verb (weak);
+schreien;кричати;;relationships;schreien;кричати;verb (strong);
+weinen;плакати;;relationships;weinen;плакати;verb (weak);
+zugeben;визнавати;;relationships;zugeben (zu geben);визнавати;verb (separable);
+nachgeben;поступатися;;relationships;nachgeben (zu geben);поступатися;verb (separable);
+beleidigen;ображати;;relationships;beleidigen;ображати;verb (weak);
+ignorieren;ігнорувати;;relationships;ignorieren;ігнорувати;verb (weak);
+nachtragend;злопам'ятний;;relationships;nachtragend;злопам'ятний;adj;
+wütend;лютий;;relationships;wütend;лютий;adj;
+beleidigt;ображений;;relationships;beleidigt;ображений;adj;
+stur;впертий;;relationships;stur;впертий;adj;
+nachgiebig;поступливий;;relationships;nachgiebig;поступливий;adj;
+verletzend;образливий;;relationships;verletzend;образливий;adj;
+das Date;побачення;die Dates;relationships;Date;побачення;noun;
+die Umarmung;обійми;die Umarmungen;relationships;Umarmung;обійми;noun;
+der Flirt;флірт;die Flirts;relationships;Flirt;флірт;noun;
+das Kompliment;комплімент;die Komplimente;relationships;Kompliment;комплімент;noun;
+die Blume;квітка;die Blumen;relationships;Blume;квітка;noun;
+die Schokolade;шоколад;;relationships;Schokolade;шоколад;noun;
+der Ring;каблучка;die Ringe;relationships;Ring;каблучка;noun;
+der Heiratsantrag;пропозиція одруження;die Heiratsanträge;relationships;Heirat + Antrag;пропозиція одруження;noun;
+die Verlobung;заручини;die Verlobungen;relationships;Verlobung;заручини;noun;
+die Verlobte;наречена;die Verlobten;relationships;Verlobte;наречена;noun;
+der Single;одинак;die Singles;relationships;Single;одинак;noun;
+die Zuneigung;симпатія;;relationships;Zuneigung;симпатія;noun;
+die Leidenschaft;пристрасть;die Leidenschaften;relationships;Leidenschaft;пристрасть;noun;
+die Romantik;романтика;;relationships;Romantik;романтика;noun;
+die Sehnsucht;туга;;relationships;Sehnsucht;туга;noun;
+das Herz;серце;die Herzen;relationships;Herz;серце;noun;
+das Gefühl;почуття;die Gefühle;relationships;Gefühl;почуття;noun;
+sich trennen;розлучатися;;relationships;trennen;розлучатися;verb (weak);
+die Anziehung;привабливість;;relationships;Anziehung;привабливість;noun;
+die Kommunikation;спілкування;;relationships;Kommunikation;спілкування;noun;
+küssen;цілувати;;relationships;küssen;цілувати;verb (weak);
+umarmen;обіймати;;relationships;umarmen;обіймати;verb (weak);
+sich verlieben;закохуватися;;relationships;verlieben;закохуватися;verb (weak);
+ausgehen;зустрічатися;;relationships;ausgehen (zu gehen);зустрічатися;verb (separable);
+romantisch;романтичний;;relationships;romantisch;романтичний;adj;

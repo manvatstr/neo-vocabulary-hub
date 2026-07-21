@@ -1,200 +1,140 @@
-menu;меню;меню (neuter);food;menu;меню;noun
-waiter;офіціант;офіціанти (masculine);food;waiter;офіціант;noun
-waitress;офіціантка;офіціантки (feminine);food;waitress;офіціантка;noun
-bill;рахунок;рахунки (masculine);food;bill;рахунок;noun
-tip;чайові;чайові (plural);food;tip;чайові;noun
-reservation;бронювання;бронювання (neuter);food;reservation;бронювання;noun
-table;стіл;столи (masculine);food;table;стіл;noun
-chair;стілець;стільці (masculine);food;chair;стілець;noun
-napkin;серветка;серветки (feminine);food;napkin;серветка;noun
-cutlery;столові прибори;столові прибори (plural);food;cutlery;столові прибори;noun
-delicious;смачний;;food;delicious;смачний;adj
-spicy;гострий;;food;spicy;гострий;adj
-bitter;гіркий;;food;bitter;гіркий;adj
-sweet;солодкий;;food;sweet;солодкий;adj
-sour;кислий;;food;sour;кислий;adj
-salty;солоний;;food;salty;солоний;adj
-fresh;свіжий;;food;fresh;свіжий;adj
-vegetarian;вегетаріанський;;food;vegetarian;вегетаріанський;adj
-vegan;веганський;;food;vegan;веганський;adj
-gluten-free;безглютеновий;;food;gluten-free;безглютеновий;adj
-order;замовляти;;food;order;замовляти;verb
-recommend;рекомендувати;;food;recommend;рекомендувати;verb
-serve;подавати;;food;serve;подавати;verb
-bring;приносити;;food;bring;приносити;verb
-pay;платити;;food;pay;платити;verb
-taste;пробувати;;food;taste;пробувати;verb
-enjoy;насолоджуватися;;food;enjoy;насолоджуватися;verb
-book;бронювати;;food;book;бронювати;verb
-cancel;скасовувати;;food;cancel;скасовувати;verb
-complain;скаржитися;;food;complain;скаржитися;verb
-appetizer;закуска;закуски (feminine);food;appetizer;закуска;noun
-starter;перша страва;перші страви (feminine);food;starter;перша страва;noun
-main course;основна страва;основні страви (feminine);food;main course;основна страва;noun
-dessert;десерт;десерти (masculine);food;dessert;десерт;noun
-soup;суп;супи (masculine);food;soup;суп;noun
-salad;салат;салати (masculine);food;salad;салат;noun
-steak;стейк;стейки (masculine);food;steak;стейк;noun
-fish;риба;риби (feminine);food;fish;риба;noun
-chicken;курка;курки (feminine);food;chicken;курка;noun
-pasta;паста;пасти (feminine);food;pasta;паста;noun
-rice;рис;;food;rice;рис;noun
-vegetables;овочі;овочі (masculine);food;vegetables;овочі;noun
-sauce;соус;соуси (masculine);food;sauce;соус;noun
-drink;напій;напої (masculine);food;drink;напій;noun
-wine;вино;вина (neuter);food;wine;вино;noun
-beer;пиво;пива (neuter);food;beer;пиво;noun
-juice;сік;соки (masculine);food;juice;сік;noun
-water;вода;води (feminine);food;water;вода;noun
-coffee;кава;кави (feminine);food;coffee;кава;noun
-tea;чай;чаї (masculine);food;tea;чай;noun
-add;додавати;;food;add;додавати;verb
-bake;пекти;;food;bake;пекти;verb
-beat;збивати;;food;beat;збивати;verb
-blend;змішувати;;food;blend;змішувати;verb
-boil;варити;;food;boil;варити;verb
-bread;панірувати;;food;bread;панірувати;verb
-brown;підрум'янювати;;food;brown;підрум'янювати;verb
-caramelize;карамелізувати;;food;caramelize;карамелізувати;verb
-chop;нарізати;;food;chop;нарізати;verb
-coat;обвалювати;;food;coat;обвалювати;verb
-cook;готувати;;food;cook;готувати;verb
-cool;охолоджувати;;food;cool;охолоджувати;verb
-crush;розчавлювати;;food;crush;розчавлювати;verb
-cut;різати;;food;cut;різати;verb
-decorate;прикрашати;;food;decorate;прикрашати;verb
-defrost;розморожувати;;food;defrost;розморожувати;verb
-dissolve;розчиняти;;food;dissolve;розчиняти;verb
-drain;зливати;;food;drain;зливати;verb
-drizzle;збризкувати;;food;drizzle;збризкувати;verb
-dry;сушити;;food;dry;сушити;verb
-fillet;філетувати;;food;fillet;філетувати;verb
-flavor;приправляти;;food;flavor;приправляти;verb
-freeze;заморожувати;;food;freeze;заморожувати;verb
-fry;смажити;;food;fry;смажити;verb
-garnish;гарнірувати;;food;garnish;гарнірувати;verb
-grate;терти;;food;grate;терти;verb
-grease;змащувати;;food;grease;змащувати;verb
-grill;грилювати;;food;grill;грилювати;verb
-grind;молоти;;food;grind;молоти;verb
-heat;нагрівати;;food;heat;нагрівати;verb
-knead;місити;;food;knead;місити;verb
-marinate;маринувати;;food;marinate;маринувати;verb
-mash;розминати;;food;mash;розминати;verb
-melt;розтоплювати;;food;melt;розтоплювати;verb
-mix;змішувати;;food;mix;змішувати;verb
-peel;чистити;;food;peel;чистити;verb
-pour;наливати;;food;pour;наливати;verb
-reheat;розігрівати;;food;reheat;розігрівати;verb
-rinse;прополіскувати;;food;rinse;прополіскувати;verb
-roast;запікати;;food;roast;запікати;verb
-sauté;пасерувати;;food;sauté;пасерувати;verb
-season;приправляти;;food;season;приправляти;verb
-simmer;томити;;food;simmer;томити;verb
-slice;нарізати скибочками;;food;slice;нарізати скибочками;verb
-soak;замочувати;;food;soak;замочувати;verb
-spread;намазувати;;food;spread;намазувати;verb
-squeeze;вичавлювати;;food;squeeze;вичавлювати;verb
-steam;парити;;food;steam;парити;verb
-stew;тушкувати;;food;stew;тушкувати;verb
-stir;перемішувати;;food;stir;перемішувати;verb
-flour;борошно;(neuter);food;flour;борошно;noun
-sugar;цукор;(masculine);food;sugar;цукор;noun
-salt;сіль;(feminine);food;salt;сіль;noun
-pepper;перець;(masculine);food;pepper;перець;noun
-oil;олія;(feminine);food;oil;олія;noun
-butter;масло;(neuter);food;butter;масло;noun
-egg;яйце;яйця (neuter);food;egg;яйце;noun
-milk;молоко;(neuter);food;milk;молоко;noun
-cheese;сир;(masculine);food;cheese;сир;noun
-bread;хліб;(masculine);food;bread;хліб;noun
-rice;рис;(masculine);food;rice;рис;noun
-pasta;макарони;макарони (plural);food;pasta;макарони;noun
-tomato;помідор;помідори (masculine);food;tomato;помідор;noun
-onion;цибуля;цибулі (feminine);food;onion;цибуля;noun
-garlic;часник;(masculine);food;garlic;часник;noun
-carrot;морква;моркви (feminine);food;carrot;морква;noun
-potato;картопля;(feminine);food;potato;картопля;noun
-chicken;курятина;(feminine);food;chicken;курятина;noun
-beef;яловичина;(feminine);food;beef;яловичина;noun
-pork;свинина;(feminine);food;pork;свинина;noun
-fish;риба;(feminine);food;fish;риба;noun
-apple;яблуко;яблука (neuter);food;apple;яблуко;noun
-banana;банан;банани (masculine);food;banana;банан;noun
-orange;апельсин;апельсини (masculine);food;orange;апельсин;noun
-lemon;лимон;лимони (masculine);food;lemon;лимон;noun
-grape;виноград;(masculine);food;grape;виноград;noun
-strawberry;полуниця;полуниці (feminine);food;strawberry;полуниця;noun
-chocolate;шоколад;(masculine);food;chocolate;шоколад;noun
-vanilla;ваніль;(feminine);food;vanilla;ваніль;noun
-cinnamon;кориця;(feminine);food;cinnamon;кориця;noun
-ginger;імбир;(masculine);food;ginger;імбир;noun
-nutmeg;мускатний горіх;мускатні горіхи (masculine);food;nutmeg;мускатний горіх;noun
-basil;базилік;(masculine);food;basil;базилік;noun
-oregano;орегано;(neuter);food;oregano;орегано;noun
-parsley;петрушка;(feminine);food;parsley;петрушка;noun
-dill;кріп;(masculine);food;dill;кріп;noun
-cumin;кмин;(masculine);food;cumin;кмин;noun
-coriander;коріандр;(masculine);food;coriander;коріандр;noun
-paprika;паприка;(feminine);food;paprika;паприка;noun
-chili;чилі;(neuter);food;chili;чилі;noun
-soy sauce;соєвий соус;(masculine);food;soy sauce;соєвий соус;noun
-vinegar;оцет;(masculine);food;vinegar;оцет;noun
-honey;мед;(masculine);food;honey;мед;noun
-jam;варення;(neuter);food;jam;варення;noun
-yeast;дріжджі;дріжджі (plural);food;yeast;дріжджі;noun
-baking powder;розпушувач;(masculine);food;baking powder;розпушувач;noun
-baking soda;харчова сода;(feminine);food;baking soda;харчова сода;noun
-cream;вершки;вершки (plural);food;cream;вершки;noun
-yogurt;йогурт;(masculine);food;yogurt;йогурт;noun
-lettuce;салат;салати (masculine);food;lettuce;салат;noun
-diet;дієта;дієти (feminine);food;diet;дієта;noun
-nutrition;харчування;;food;nutrition;харчування;noun
-calorie;калорія;калорії (feminine);food;calorie;калорія;noun
-protein;білок;;food;protein;білок;noun
-carbohydrate;вуглевод;вуглеводи (masculine);food;carbohydrate;вуглевод;noun
-fat;жир;;food;fat;жир;noun
-vitamin;вітамін;вітаміни (masculine);food;vitamin;вітамін;noun
-mineral;мінерал;мінерали (masculine);food;mineral;мінерал;noun
-fiber;клітковина;;food;fiber;клітковина;noun
-sugar;цукор;;food;sugar;цукор;noun
-salt;сіль;;food;salt;сіль;noun
-fatty;жирний;;food;fatty;жирний;adj
-healthy;здоровий;;food;healthy;здоровий;adj
-unhealthy;нездоровий;;food;unhealthy;нездоровий;adj
-balanced;збалансований;;food;balanced;збалансований;adj
-vegetarian;вегетаріанський;;food;vegetarian;вегетаріанський;adj
-vegan;веганський;;food;vegan;веганський;adj
-organic;органічний;;food;organic;органічний;adj
-fresh;свіжий;;food;fresh;свіжий;adj
-processed;оброблений;;food;processed;оброблений;adj
-whole grain;цільнозерновий;;food;whole grain;цільнозерновий;adj
-dairy;молочний;;food;dairy;молочний;adj
-gluten-free;безглютеновий;;food;gluten-free;безглютеновий;adj
-low-calorie;низькокалорійний;;food;low-calorie;низькокалорійний;adj
-high-protein;високобілковий;;food;high-protein;високобілковий;adj
-eat;їсти;;food;eat;їсти;verb
-drink;пити;;food;drink;пити;verb
-cook;готувати;;food;cook;готувати;verb
-boil;варити;;food;boil;варити;verb
-fry;смажити;;food;fry;смажити;verb
-bake;пекти;;food;bake;пекти;verb
-grill;грилювати;;food;grill;грилювати;verb
-steam;готувати на парі;;food;steam;готувати на парі;verb
-roast;запікати;;food;roast;запікати;verb
-slice;нарізати;;food;slice;нарізати;verb
-ingredient;інгредієнт;інгредієнти (masculine);food;ingredient;інгредієнт;noun
-recipe;рецепт;рецепти (masculine);food;recipe;рецепт;noun
-portion;порція;порції (feminine);food;portion;порція;noun
-serving;порція;порції (feminine);food;serving;порція;noun
-meal;страва;страви (feminine);food;meal;страва;noun
-snack;перекус;перекуси (masculine);food;snack;перекус;noun
-breakfast;сніданок;сніданки (masculine);food;breakfast;сніданок;noun
-lunch;обід;обіди (masculine);food;lunch;обід;noun
-dinner;вечеря;вечері (feminine);food;dinner;вечеря;noun
-hunger;голод;;food;hunger;голод;noun
-thirst;спрага;;food;thirst;спрага;noun
-appetite;апетит;;food;appetite;апетит;noun
-food;їжа;;food;food;їжа;noun
-drink;напій;напої (masculine);food;drink;напій;noun
-water;вода;;food;water;вода;noun
+café;кафе;cafés (neuter);food;café;кафе;noun;/kæˈfeɪ/
+menu;меню;menus (neuter);food;menu;меню;noun;/ˈmɛnjuː/
+waiter;офіціант;waiters (masculine);food;waiter;офіціант;noun;/ˈweɪtər/
+waitress;офіціантка;waitresses (feminine);food;waitress;офіціантка;noun;/ˈweɪtrəs/
+tip;чайові;tips (plural);food;tip;чайові;noun;/tɪp/
+cutlery;столові прибори;uncountable (plural);food;cutlery;столові прибори;noun;/ˈkʌtləri/
+fork;виделка;forks (feminine);food;fork;виделка;noun;/fɔːrk/
+knife;ніж;knives (masculine);food;knife;ніж;noun;/naɪf/
+spoon;ложка;spoons (feminine);food;spoon;ложка;noun;/spuːn/
+plate;тарілка;plates (feminine);food;plate;тарілка;noun;/pleɪt/
+glass;склянка;glasses (feminine);food;glass;склянка;noun;/ɡlɑːs/
+cup;чашка;cups (feminine);food;cup;чашка;noun;/kʌp/
+napkin;серветка;napkins (feminine);food;napkin;серветка;noun;/ˈnæpkɪn/
+starter;закуска;starters (feminine);food;starter;закуска;noun;/ˈstɑːrtər/
+main course;основна страва;main courses (feminine);food;main course;основна страва;noun;/meɪn kɔːrs/
+dessert;десерт;desserts (masculine);food;dessert;десерт;noun;/dɪˈzɜːrt/
+drink;напій;drinks (masculine);food;drink;напій;noun;/drɪŋk/
+tea;чай;teas (masculine);food;tea;чай;noun;/tiː/
+soup;суп;soups (masculine);food;soup;суп;noun;/suːp/
+salad;салат;salads (masculine);food;salad;салат;noun;/ˈsæləd/
+chicken;курка;chickens (feminine);food;chicken;курка;noun;/ˈtʃɪkɪn/
+dish;страва;dishes (feminine);food;dish;страва;noun;/dɪʃ/
+vegetarian;вегетаріанець;vegetarians (masculine);food;vegetarian;вегетаріанець;noun;/ˌvɛdʒɪˈtɛəriən/
+order;замовляти;;food;order;замовляти (imperfective);verb;/ˈɔːrdər/
+recommend;рекомендувати;;food;recommend;рекомендувати (imperfective/perfective);verb;/ˌrɛkəˈmɛnd/
+bring;приносити;;food;bring;приносити (imperfective);verb;/brɪŋ/
+eat;їсти;;food;eat;їсти (imperfective);verb;/iːt/
+delicious;смачний;;food;delicious;смачний;adj;/dɪˈlɪʃəs/
+spicy;гострий;;food;spicy;гострий;adj;/ˈspaɪsi/
+boil;варити;;food;boil;варити (imperfective);verb;/bɔɪl/
+fry;смажити;;food;fry;смажити (imperfective);verb;/fraɪ/
+roast;запікати;;food;roast;запікати (imperfective);verb;/roʊst/
+grill;грилювати;;food;grill;грилювати (imperfective);verb;/ɡrɪl/
+steam;парувати;;food;steam;парувати (imperfective);verb;/stiːm/
+stew;тушкувати;;food;stew;тушкувати (imperfective);verb;/stuː/
+sauté;пасерувати;;food;sauté;пасерувати (imperfective);verb;/soʊˈteɪ/
+simmer;томити;;food;simmer;томити (imperfective);verb;/ˈsɪmər/
+blanch;бланшувати;;food;blanch;бланшувати (imperfective);verb;/blæntʃ/
+poach;пашотувати;;food;poach;пашотувати (imperfective);verb;/poʊtʃ/
+scald;обшпарювати;;food;scald;обшпарювати (imperfective);verb;/skɔːld/
+sear;обсмажувати;;food;sear;обсмажувати (imperfective);verb;/sɪr/
+slice;нарізати;;food;slice;нарізати (imperfective);verb;/slaɪs/
+dice;кубикувати;;food;dice;кубикувати (imperfective);verb;/daɪs/
+chop;кришити;;food;chop;кришити (imperfective);verb;/tʃɒp/
+mince;молоти;;food;mince;молоти (imperfective);verb;/mɪns/
+grate;терти;;food;grate;терти (imperfective);verb;/ɡreɪt/
+shred;шаткувати;;food;shred;шаткувати (imperfective);verb;/ʃred/
+julienne;жульєнувати;;food;julienne;жульєнувати (imperfective);verb;/ˌdʒuːliˈɛn/
+peel;чистити;;food;peel;чистити (imperfective);verb;/piːl/
+core;вирізувати серцевину;;food;core;вирізувати серцевину (imperfective);verb;/kɔːr/
+pit;видаляти кісточку;;food;pit;видаляти кісточку (imperfective);verb;/pɪt/
+zest;знімати цедру;;food;zest;знімати цедру (imperfective);verb;/zest/
+knead;місити;;food;knead;місити (imperfective);verb;/niːd/
+stir;помішувати;;food;stir;помішувати (imperfective);verb;/stɜːr/
+mix;змішувати;;food;mix;змішувати (imperfective);verb;/mɪks/
+whisk;збивати;;food;whisk;збивати (imperfective);verb;/wɪsk/
+beat;бити;;food;beat;бити (imperfective);verb;/biːt/
+blend;блендувати;;food;blend;блендувати (imperfective);verb;/blend/
+cream;розтирати;;food;cream;розтирати (imperfective);verb;/kriːm/
+melt;розтоплювати;;food;melt;розтоплювати (imperfective);verb;/melt/
+dissolve;розчиняти;;food;dissolve;розчиняти (imperfective);verb;/dɪˈzɒlv/
+thaw;розморожувати;;food;thaw;розморожувати (imperfective);verb;/θɔː/
+freeze;заморожувати;;food;freeze;заморожувати (imperfective);verb;/friːz/
+refrigerate;охолоджувати;;food;refrigerate;охолоджувати (imperfective);verb;/rɪˈfrɪdʒəreɪt/
+marinate;маринувати;;food;marinate;маринувати (imperfective);verb;/ˈmærɪneɪt/
+season;приправляти;;food;season;приправляти (imperfective);verb;/ˈsiːzən/
+taste;куштувати;;food;taste;куштувати (imperfective);verb;/teɪst/
+garnish;прикрашати;;food;garnish;прикрашати (imperfective);verb;/ˈɡɑːrnɪʃ/
+pour;наливати;;food;pour;наливати (imperfective);verb;/pɔːr/
+drain;зливати;;food;drain;зливати (imperfective);verb;/dreɪn/
+rinse;промивати;;food;rinse;промивати (imperfective);verb;/rɪns/
+soak;замочувати;;food;soak;замочувати (imperfective);verb;/soʊk/
+sift;просівати;;food;sift;просівати (imperfective);verb;/sɪft/
+measure;відміряти;;food;measure;відміряти (imperfective);verb;/ˈmɛʒər/
+pepper;перець;pepper (uncountable);food;pepper;перець;noun;/ˈpɛpər/
+onion;цибуля;onions (feminine);food;onion;цибуля;noun;/ˈʌnjən/
+garlic;часник;garlic (uncountable);food;garlic;часник;noun;/ˈɡɑːrlɪk/
+tomato;помідор;tomatoes (masculine);food;tomato;помідор;noun;/təˈmeɪtoʊ/
+potato;картопля;potatoes (feminine);food;potato;картопля;noun;/pəˈteɪtoʊ/
+carrot;морква;carrots (feminine);food;carrot;морква;noun;/ˈkærət/
+apple;яблуко;apples (neuter);food;apple;яблуко;noun;/ˈæpəl/
+banana;банан;bananas (masculine);food;banana;банан;noun;/bəˈnænə/
+orange;апельсин;oranges (masculine);food;orange;апельсин;noun;/ˈɔːrɪndʒ/
+lemon;лимон;lemons (masculine);food;lemon;лимон;noun;/ˈlɛmən/
+grape;виноград;grapes (masculine);food;grape;виноград;noun;/ɡreɪp/
+strawberry;полуниця;strawberries (feminine);food;strawberry;полуниця;noun;/ˈstrɔːbɛri/
+watermelon;кавун;watermelons (masculine);food;watermelon;кавун;noun;/ˈwɔːtərmɛlən/
+cucumber;огірок;cucumbers (masculine);food;cucumber;огірок;noun;/ˈkjuːkʌmbər/
+lettuce;салат;lettuces (masculine);food;lettuce;салат;noun;/ˈlɛtɪs/
+cabbage;капуста;cabbages (feminine);food;cabbage;капуста;noun;/ˈkæbɪdʒ/
+bean;квасоля;beans (feminine);food;bean;квасоля;noun;/biːn/
+pea;горох;peas (masculine);food;pea;горох;noun;/piː/
+corn;кукурудза;corn (uncountable);food;corn;кукурудза;noun;/kɔːrn/
+oat;овес;oats (masculine);food;oat;овес;noun;/oʊt/
+barley;ячмінь;barley (uncountable);food;barley;ячмінь;noun;/ˈbɑːrli/
+rye;жито;rye (uncountable);food;rye;жито;noun;/raɪ/
+cinnamon;кориця;cinnamon (uncountable);food;cinnamon;кориця;noun;/ˈsɪnəmən/
+vanilla;ваніль;vanilla (uncountable);food;vanilla;ваніль;noun;/vəˈnɪlə/
+nutmeg;мускатний горіх;nutmegs (masculine);food;nutmeg;мускатний горіх;noun;/ˈnʌtmɛɡ/
+ginger;імбир;ginger (uncountable);food;ginger;імбир;noun;/ˈdʒɪndʒər/
+clove;гвоздика;cloves (feminine);food;clove;гвоздика;noun;/kloʊv/
+basil;базилік;basil (uncountable);food;basil;базилік;noun;/ˈbæzəl/
+oregano;орегано;oregano (uncountable);food;oregano;орегано;noun;/əˈrɛɡənoʊ/
+thyme;чебрець;thyme (uncountable);food;thyme;чебрець;noun;/taɪm/
+rosemary;розмарин;rosemary (uncountable);food;rosemary;розмарин;noun;/ˈroʊzmɛri/
+dill;кріп;dill (uncountable);food;dill;кріп;noun;/dɪl/
+parsley;петрушка;parsley (uncountable);food;parsley;петрушка;noun;/ˈpɑːrsli/
+mint;м'ята;mint (uncountable);food;mint;м'ята;noun;/mɪnt/
+chili;перець чилі;chilies (masculine);food;chili;перець чилі;noun;/ˈtʃɪli/
+paprika;паприка;paprika (uncountable);food;paprika;паприка;noun;/pəˈpriːkə/
+nutrient;поживна речовина;nutrients (feminine);food;nutrient;поживна речовина;noun;/ˈnuːtriənt/
+gluten;глютен;gluten (uncountable);food;gluten;глютен;noun;/ˈɡluːtən/
+lactose;лактоза;lactose (uncountable);food;lactose;лактоза;noun;/ˈlæktoʊs/
+vegetarianism;вегетаріанство;vegetarianism (uncountable);food;vegetarianism;вегетаріанство;noun;/ˌvedʒəˈteriənɪzəm/
+veganism;веганство;veganism (uncountable);food;veganism;веганство;noun;/ˈviːɡənɪzəm/
+metabolism;метаболізм;metabolism (uncountable);food;metabolism;метаболізм;noun;/məˈtæbəlɪzəm/
+appetite;апетит;appetite (uncountable);food;appetite;апетит;noun;/ˈæpɪtaɪt/
+portion;порція;portions (feminine);food;portion;порція;noun;/ˈpɔːrʃən/
+ingredient;інгредієнт;ingredients (masculine);food;ingredient;інгредієнт;noun;/ɪnˈɡriːdiənt/
+recipe;рецепт;recipes (masculine);food;recipe;рецепт;noun;/ˈresɪpi/
+supplement;біодобавка;supplements (feminine);food;supplement;біодобавка;noun;/ˈsʌplɪmənt/
+additive;харчова добавка;additives (feminine);food;additive;харчова добавка;noun;/ˈædɪtɪv/
+preservative;консервант;preservatives (masculine);food;preservative;консервант;noun;/prɪˈzɜːrvətɪv/
+antioxidant;антиоксидант;antioxidants (masculine);food;antioxidant;антиоксидант;noun;/ˌæntiˈɒksɪdənt/
+macronutrient;макронутрієнт;macronutrients (masculine);food;macronutrient;макронутрієнт;noun;/ˌmækroʊˈnuːtriənt/
+micronutrient;мікронутрієнт;micronutrients (masculine);food;micronutrient;мікронутрієнт;noun;/ˌmaɪkroʊˈnuːtriənt/
+whole-grain;цільнозерновий;;food;whole-grain;цільнозерновий;adj;/ˌhoʊl ˈɡreɪn/
+dehydration;зневоднення;dehydration (uncountable);food;dehydration;зневоднення;noun;/ˌdiːhaɪˈdreɪʃən/
+fasting;голодування;fasting (uncountable);food;fasting;голодування;noun;/ˈfæstɪŋ/
+detox;детокс;detox (uncountable);food;detox;детокс;noun;/ˈdiːtɒks/
+breakfast;сніданок;breakfasts (masculine);food;breakfast;сніданок;noun;/ˈbrekfəst/
+dinner;вечеря;dinners (feminine);food;dinner;вечеря;noun;/ˈdɪnər/
+digest;перетравлювати;;food;digest;перетравлювати (imperfective);verb;/daɪˈdʒest/
+absorb;поглинати;;food;absorb;поглинати (imperfective);verb;/əbˈzɔːrb/
+consume;споживати;;food;consume;споживати (imperfective);verb;/kənˈsuːm/
+fast;постити;;food;fast;постити (imperfective);verb;/fæst/
+nutritious;поживний;;food;nutritious;поживний;adj;/nuːˈtrɪʃəs/
+organic;органічний;;food;organic;органічний;adj;/ɔːrˈɡænɪk/
+vegan;веганський;;food;vegan;веганський;adj;/ˈviːɡən/
+fresh;свіжий;;food;fresh;свіжий;adj;/freʃ/

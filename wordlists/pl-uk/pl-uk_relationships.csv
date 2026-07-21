@@ -1,200 +1,142 @@
-przyjaciel;друг;друзі (męski);relationships;przyjaciel;друг;noun
-przyjaciółka;подруга;подруги (żeński);relationships;przyjaciółka;подруга;noun
-kolega;колега;колеги (męski);relationships;kolega;колега;noun
-koleżanka;колежанка;колежанки (żeński);relationships;koleżanka;колежанка;noun
-znajomy;знайомий;знайомі (męski);relationships;znajomy;знайомий;noun
-znajoma;знайома;знайомі (żeński);relationships;znajoma;знайома;noun
-przyjaźń;дружба;дружби (żeński);relationships;przyjaźń;дружба;noun
-zaufanie;довіра;;relationships;zaufanie;довіра;noun
-lojalność;вірність;вірності (żeński);relationships;lojalność;вірність;noun
-szczerość;щирість;щирості (żeński);relationships;szczerość;щирість;noun
-wsparcie;підтримка;;relationships;wsparcie;підтримка;noun
-sekret;секрет;секрети (męski);relationships;sekret;секрет;noun
-tajemnica;таємниця;таємниці (żeński);relationships;tajemnica;таємниця;noun
-pomoc;допомога;;relationships;pomoc;допомога;noun
-rozmowa;розмова;розмови (żeński);relationships;rozmowa;розмова;noun
-spotkanie;зустріч;зустрічі (nijaki);relationships;spotkanie;зустріч;noun
-śmiech;сміх;;relationships;śmiech;сміх;noun
-żart;жарт;жарти (męski);relationships;żart;жарт;noun
-kłótnia;сварка;сварки (żeński);relationships;kłótnia;сварка;noun
-przeprosiny;вибачення;вибачення (nijaki, liczba mnoga);relationships;przeprosiny;вибачення;noun
-zgoda;згода;;relationships;zgoda;згода;noun
-wybaczenie;прощення;;relationships;wybaczenie;прощення;noun
-oddanie;відданість;відданості (żeński);relationships;oddanie;відданість;noun
-sympatia;симпатія;симпатії (żeński);relationships;sympatia;симпатія;noun
-bliskość;близькість;близькості (żeński);relationships;bliskość;близькість;noun
-zaufany;довірений;;relationships;zaufany;довірений;adj
-lojalny;вірний;;relationships;lojalny;вірний;adj
-szczery;щирий;;relationships;szczery;щирий;adj
-pomocny;корисний;;relationships;pomocny;корисний;adj
-życzliwy;доброзичливий;;relationships;życzliwy;доброзичливий;adj
-wierny;вірний;;relationships;wierny;вірний;adj
-troskliwy;турботливий;;relationships;troskliwy;турботливий;adj
-otwarty;відкритий;;relationships;otwarty;відкритий;adj
-wspierać;підтримувати;;relationships;wspierać;підтримувати;verb
-ufać;довіряти;;relationships;ufać;довіряти;verb
-pomagać;допомагати;;relationships;pomagać;допомагати;verb
-spotykać się;зустрічатися;;relationships;spotykać się;зустрічатися;verb
-rozmawiać;розмовляти;;relationships;rozmawiać;розмовляти;verb
-żartować;жартувати;;relationships;żartować;жартувати;verb
-śmiać się;сміятися;;relationships;śmiać się;сміятися;verb
-przepraszać;вибачатися;;relationships;przepraszać;вибачатися;verb
-godzić się;миритися;;relationships;godzić się;миритися;verb
-dzielić się;ділитися;;relationships;dzielić się;ділитися;verb
-zapraszać;запрошувати;;relationships;zapraszać;запрошувати;verb
-odwiedzać;відвідувати;;relationships;odwiedzać;відвідувати;verb
-dotrzymywać słowa;тримати слово;;relationships;dotrzymywać;тримати слово;verb
-okazywać uczucia;виявляти почуття;;relationships;okazywać;виявляти почуття;verb
-szanować;поважати;;relationships;szanować;поважати;verb
-rozumieć;розуміти;;relationships;rozumieć;розуміти;verb
-doradzać;радити;;relationships;doradzać;радити;verb
-impreza;вечірка;вечірки (żeński);relationships;impreza;вечірка;noun
-przyjęcie;прийом;прийоми (męski);relationships;przyjęcie;прийом;noun
-gość;гість;гості (męski);relationships;gość;гість;noun
-zaproszenie;запрошення;запрошення (nijaki);relationships;zaproszenie;запрошення;noun
-spotkanie;зустріч;зустрічі (żeński);relationships;spotkanie;зустріч;noun
-randka;побачення;побачення (nijaki);relationships;randka;побачення;noun
-przyjaciel;друг;друзі (męski);relationships;przyjaciel;друг;noun
-przyjaciółka;подруга;подруги (żeński);relationships;przyjaciółka;подруга;noun
-kolega;колега;колеги (męski);relationships;kolega;колега;noun
-znajomy;знайомий;знайомі (męski);relationships;znajomy;знайомий;noun
-znajoma;знайома;знайомі (żeński);relationships;znajoma;знайома;noun
-rozmowa;розмова;розмови (żeński);relationships;rozmowa;розмова;noun
-plotka;плітка;плітки (żeński);relationships;plotka;плітка;noun
-bawić się;розважатися;;relationships;bawić się;розважатися;verb
-tańczyć;танцювати;;relationships;tańczyć;танцювати;verb
-śpiewać;співати;;relationships;śpiewać;співати;verb
-pić;пити;;relationships;pić;пити;verb
-jeść;їсти;;relationships;jeść;їсти;verb
-rozmawiać;розмовляти;;relationships;rozmawiać;розмовляти;verb
-śmiać się;сміятися;;relationships;śmiać się;сміятися;verb
-żartować;жартувати;;relationships;żartować;жартувати;verb
-spotykać się;зустрічатися;;relationships;spotykać się;зустрічатися;verb
-zapraszać;запрошувати;;relationships;zapraszać;запрошувати;verb
-odwiedzać;відвідувати;;relationships;odwiedzać;відвідувати;verb
-obchodzić;святкувати;;relationships;obchodzić;святкувати;verb
-urodziny;день народження;дні народження (męski);relationships;urodziny;день народження;noun
-wesele;весілля;весілля (nijaki);relationships;wesele;весілля;noun
-zabawa;забава;забави (żeński);relationships;zabawa;забава;noun
-dyskoteka;дискотека;дискотеки (żeński);relationships;dyskoteka;дискотека;noun
-klub;клуб;клуби (męski);relationships;klub;клуб;noun
-bar;бар;бари (męski);relationships;bar;бар;noun
-restauracja;ресторан;ресторани (męski);relationships;restauracja;ресторан;noun
-kawiarnia;кав'ярня;кав'ярні (żeński);relationships;kawiarnia;кав'ярня;noun
-piknik;пікнік;пікніки (męski);relationships;piknik;пікнік;noun
-grill;гриль;грилі (męski);relationships;grill;гриль;noun
-toast;тост;тости (męski);relationships;toast;тост;noun
-prezent;подарунок;подарунки (męski);relationships;prezent;подарунок;noun
-kwiaty;квіти;квіти (żeński);relationships;kwiat;квітка;noun
-ciasto;торт;торти (męski);relationships;ciasto;торт;noun
-napój;напій;напої (męski);relationships;napój;напій;noun
-alkohol;алкоголь;алкоголі (męski);relationships;alkohol;алкоголь;noun
-muzyka;музика;;relationships;muzyka;музика;noun
-piosenka;пісня;пісні (żeński);relationships;piosenka;пісня;noun
-święto;свято;свята (nijaki);relationships;święto;свято;noun
-uśmiech;усмішка;усмішки (żeński);relationships;uśmiech;усмішка;noun
-komplement;комплімент;компліменти (męski);relationships;komplement;комплімент;noun
-żart;жарт;жарти (męski);relationships;żart;жарт;noun
-koleżanka;колежанка;колежанки (żeński);relationships;koleżanka;колежанка;noun
-romans;роман;романи (męski);relationships;romans;роман;noun
-flirt;флірт;флірти (męski);relationships;flirt;флірт;noun
-kłótnia;сварка;kłótnie (żeński);relationships;kłótnia;сварка;noun
-konflikt;конфлікт;konflikty (męski);relationships;konflikt;конфлікт;noun
-sprzeczka;суперечка;sprzeczki (żeński);relationships;sprzeczka;суперечка;noun
-nieporozumienie;непорозуміння;nieporozumienia (nijaki);relationships;nieporozumienie;непорозуміння;noun
-awantura;скандал;awantury (żeński);relationships;awantura;скандал;noun
-spór;суперечка;spory (męski);relationships;spór;суперечка;noun
-gniew;гнів;(męski);relationships;gniew;гнів;noun
-złość;злість;(żeński);relationships;złość;злість;noun
-obraza;образа;obrazy (żeński);relationships;obraza;образа;noun
-pretensja;претензія;pretensje (żeński);relationships;pretensja;претензія;noun
-żal;жаль;(męski);relationships;żal;жаль;noun
-wyrzut;докір;wyrzuty (męski);relationships;wyrzut;докір;noun
-skrucha;каяття;(żeński);relationships;skrucha;каяття;noun
-przebaczenie;прощення;(nijaki);relationships;przebaczenie;прощення;noun
-przeprosiny;вибачення;przeprosiny;relationships;przeprosiny;вибачення;noun
-wina;вина;winy (żeński);relationships;wina;вина;noun
-kompromis;компроміс;kompromisy (męski);relationships;kompromis;компроміс;noun
-zgoda;згода;zgody (żeński);relationships;zgoda;згода;noun
-rozłam;розкол;rozłamy (męski);relationships;rozłam;розкол;noun
-krytyka;критика;krytyki (żeński);relationships;krytyka;критика;noun
-atak;атака;ataki (męski);relationships;atak;атака;noun
-ignorowanie;ігнорування;(nijaki);relationships;ignorowanie;ігнорування;noun
-milczenie;мовчання;(nijaki);relationships;milczenie;мовчання;noun
-przeproszenie;вибачення;przeproszenia (nijaki);relationships;przeproszenie;вибачення;noun
-pojednanie;примирення;pojednania (nijaki);relationships;pojednanie;примирення;noun
-rozwiązanie;вирішення;rozwiązania (nijaki);relationships;rozwiązanie;вирішення;noun
-ofiara;жертва;ofiary (żeński);relationships;ofiara;жертва;noun
-agresor;агресор;agresorzy (męski);relationships;agresor;агресор;noun
-winowajca;винуватець;winowajcy (męski);relationships;winowajca;винуватець;noun
-mediator;медіатор;mediatorzy (męski);relationships;mediator;медіатор;noun
-kłócić się;сваритися;;relationships;kłócić się;сваритися;verb
-pokłócić się;посваритися;;relationships;pokłócić się;посваритися;verb
-sprzeczać się;сперечатися;;relationships;sprzeczać się;сперечатися;verb
-dyskutować;дискутувати;;relationships;dyskutować;дискутувати;verb
-awanturować się;скандалити;;relationships;awanturować się;скандалити;verb
-obrażać;ображати;;relationships;obrażać;ображати;verb
-obrazić;образити;;relationships;obrazić;образити;verb
-wybaczać;прощати;;relationships;wybaczać;прощати;verb
-wybaczyć;простити;;relationships;wybaczyć;простити;verb
-przepraszać;вибачатися;;relationships;przepraszać;вибачатися;verb
-przeprosić;вибачитися;;relationships;przeprosić;вибачитися;verb
-gniewać się;гніватися;;relationships;gniewać się;гніватися;verb
-godzić się;миритися;;relationships;godzić się;миритися;verb
-pogodzić się;помиритися;;relationships;pogodzić się;помиритися;verb
-przyznawać się;признаватися;;relationships;przyznawać się;признаватися;verb
-obwiniać;звинувачувати;;relationships;obwiniać;звинувачувати;verb
-krytykować;критикувати;;relationships;krytykować;критикувати;verb
-atakować;атакувати;;relationships;atakować;атакувати;verb
-ignorować;ігнорувати;;relationships;ignorować;ігнорувати;verb
-wyjaśniać;пояснювати;;relationships;wyjaśniać;пояснювати;verb
-miłość;любов;любові (żeński);relationships;miłość;любов;noun
-zakochać się;закохатися;;relationships;zakochać się;закохатися;verb
-randka;побачення;побачення (nijaki);relationships;randka;побачення;noun
-całować;цілувати;;relationships;całować;цілувати;verb
-pocałunek;поцілунок;поцілунки (męski);relationships;pocałunek;поцілунок;noun
-przytulać;обіймати;;relationships;przytulać;обіймати;verb
-związek;стосунок;стосунки (męski);relationships;związek;стосунок;noun
-partner;партнер;партнери (męski);relationships;partner;партнер;noun
-partnerka;партнерка;партнерки (żeński);relationships;partnerka;партнерка;noun
-narzeczony;наречений;наречені (męski);relationships;narzeczony;наречений;noun
-narzeczona;наречена;наречені (żeński);relationships;narzeczona;наречена;noun
-ślub;весілля;весілля (nijaki);relationships;ślub;весілля;noun
-małżeństwo;шлюб;шлюби (męski);relationships;małżeństwo;шлюб;noun
-rozwód;розлучення;розлучення (nijaki);relationships;rozwód;розлучення;noun
-kłótnia;сварка;сварки (żeński);relationships;kłótnia;сварка;noun
-przepraszać;вибачатися;;relationships;przepraszać;вибачатися;verb
-wybaczać;прощати;;relationships;wybaczać;прощати;verb
-zazdrosny;ревнивий;;relationships;zazdrosny;ревнивий;adj
-wierny;вірний;;relationships;wierny;вірний;adj
-zdrada;зрада;зради (żeński);relationships;zdrada;зрада;noun
-rozstanie;розставання;розставання (nijaki);relationships;rozstanie;розставання;noun
-tęsknić;сумувати;;relationships;tęsknić;сумувати;verb
-spotykać się;зустрічатися;;relationships;spotykać się;зустрічатися;verb
-flirtować;фліртувати;;relationships;flirtować;фліртувати;verb
-podkochiwać się;закохуватися;;relationships;podkochiwać się;закохуватися;verb
-sympatia;симпатія;симпатії (żeński);relationships;sympatia;симпатія;noun
-uścisk;обійм;обійми (męski);relationships;uścisk;обійм;noun
-trzymać się za ręce;триматися за руки;;relationships;trzymać się za ręce;триматися за руки;verb
-zaręczyny;заручини;заручини (żeński);relationships;zaręczyny;заручини;noun
-pierścionek zaręczynowy;обручка;обручки (żeński);relationships;pierścionek zaręczynowy;обручка;noun
-walentynki;валентинки;валентинки (żeński);relationships;walentynki;валентинки;noun
-bukiet;букет;букети (męski);relationships;bukiet;букет;noun
-kwiat;квітка;квітки (żeński);relationships;kwiat;квітка;noun
-romantyczny;романтичний;;relationships;romantyczny;романтичний;adj
-kolacja;вечеря;вечері (żeński);relationships;kolacja;вечеря;noun
-świeca;свічка;свічки (żeński);relationships;świeca;свічка;noun
-komplement;комплімент;компліменти (męski);relationships;komplement;комплімент;noun
-czuły;ніжний;;relationships;czuły;ніжний;adj
-namiętność;пристрасть;пристрасті (żeński);relationships;namiętność;пристрасть;noun
-intymność;інтимність;інтимності (żeński);relationships;intymność;інтимність;noun
-pierwsza randka;перше побачення;перші побачення (nijaki);relationships;pierwsza randka;перше побачення;noun
-odrzucenie;відмова;відмови (żeński);relationships;odrzucenie;відмова;noun
-samotność;самотність;самотності (żeński);relationships;samotność;самотність;noun
-singiel;одинак;одинаки (męski);relationships;singiel;одинак;noun
-zakochanie;закоханість;закоханості (żeński);relationships;zakochanie;закоханість;noun
-przyjaźń;дружба;дружби (żeński);relationships;przyjaźń;дружба;noun
-miłość od pierwszego wejrzenia;кохання з першого погляду;;relationships;miłość od pierwszego wejrzenia;кохання з першого погляду;noun
-podrywać;залицятися;;relationships;podrywać;залицятися;verb
-adorator;шанувальник;шанувальники (męski);relationships;adorator;шанувальник;noun
-złamane serce;розбите серце;розбиті серця (nijaki);relationships;złamane serce;розбите серце;noun
+znajomy;знайомий;znajomi;relationships;znajomy;знайомий;noun;
+zaufanie;довіра;;relationships;zaufanie;довіра;noun;
+wsparcie;підтримка;;relationships;wsparcie;підтримка;noun;
+lojalność;лояльність;;relationships;lojalność;лояльність;noun;
+szczerość;щирість;;relationships;szczerość;щирість;noun;
+tajemnica;таємниця;tajemnice;relationships;tajemnica;таємниця;noun;
+kłótnia;сварка;kłótnie;relationships;kłótnia;сварка;noun;
+pomoc;допомога;;relationships;pomoc;допомога;noun;
+prezent;подарунок;prezenty;relationships;prezent;подарунок;noun;
+przebaczenie;прощення;;relationships;przebaczenie;прощення;noun;
+wierność;вірність;;relationships;wierność;вірність;noun;
+ufać;довіряти;;relationships;ufać;довіряти;verb (imperfective);
+zaufać;довірити;;relationships;zaufać;довірити;verb (perfective);
+spotykać;зустрічати;;relationships;spotykać;зустрічати;verb (imperfective);
+spotkać;зустріти;;relationships;spotkać;зустріти;verb (perfective);
+kłócić się;сваритися;;relationships;kłócić się;сваритися;verb (imperfective);
+pokłócić się;посваритися;;relationships;pokłócić się;посваритися;verb (perfective);
+przebaczać;прощати;;relationships;przebaczać;прощати;verb (imperfective);
+przebaczyć;простити;;relationships;przebaczyć;простити;verb (perfective);
+pomagać;допомагати;;relationships;pomagać;допомагати;verb (imperfective);
+pomóc;допомогти;;relationships;pomóc;допомогти;verb (perfective);
+dzielić się;ділитися;;relationships;dzielić się;ділитися;verb (imperfective);
+podzielić się;поділитися;;relationships;podzielić się;поділитися;verb (perfective);
+świętować;святкувати;;relationships;świętować;святкувати;verb (imperfective);
+przyjacielski;дружній;;relationships;przyjacielski;дружній;adj;
+bliski;близький;;relationships;bliski;близький;adj;
+życzliwy;доброзичливий;;relationships;życzliwy;доброзичливий;adj;
+ufny;довірливий;;relationships;ufny;довірливий;adj;
+zabawny;смішний;;relationships;zabawny;смішний;adj;
+pomocny;помічний;;relationships;pomocny;помічний;adj;
+razem;разом;;relationships;razem;разом;adv;
+często;часто;;relationships;często;часто;adv;
+szczerze;щиро;;relationships;szczerze;щиро;adv;
+impreza;вечірка;imprezy;relationships;impreza;вечірка;noun;
+gość;гість;goście;relationships;gość;гість;noun;
+zaproszenie;запрошення;zaproszenia;relationships;zaproszenie;запрошення;noun;
+toast;тост;toasty;relationships;toast;тост;noun;
+szampan;шампанське;szampany;relationships;szampan;шампанське;noun;
+balonik;кулька;baloniki;relationships;balonik;кулька;noun;
+tort;торт;torty;relationships;tort;торт;noun;
+urodziny;день народження;;relationships;urodziny;день народження;noun;
+wesele;весілля;wesela;relationships;wesele;весілля;noun;
+para;пара;pary;relationships;para;пара;noun;
+przyjęcie;вечірка;przyjęcia;relationships;przyjęcie;вечірка;noun;
+gościnny;гостинний;;relationships;gościnny;гостинний;adj;
+hałaśliwy;шумний;;relationships;hałaśliwy;шумний;adj;
+bawić się;веселитися;;relationships;bawić się;веселитися;verb (imperfective);
+śmiech;сміх;śmiechy;relationships;śmiech;сміх;noun;
+żart;жарт;żarty;relationships;żart;жарт;noun;
+opowiadać;розповідати;;relationships;opowiadać;розповідати;verb (imperfective);
+potańcówka;танцювальна вечірка;potańcówki;relationships;potańcówka;танцювальна вечірка;noun;
+karnawał;карнавал;karnawały;relationships;karnawał;карнавал;noun;
+sylwester;новорічна вечірка;sylwestry;relationships;sylwester;новорічна вечірка;noun;
+fajerwerk;феєрверк;fajerwerki;relationships;fajerwerk;феєрверк;noun;
+bal;бал;bale;relationships;bal;бал;noun;
+konfetti;конфеті;;relationships;konfetti;конфеті;noun;
+serpentyn;серпантин;serpentyny;relationships;serpentyn;серпантин;noun;
+dekoracja;прикраса;dekoracje;relationships;dekoracja;прикраса;noun;
+alkohol;алкоголь;;relationships;alkohol;алкоголь;noun;
+piwo;пиво;piwa;relationships;piwo;пиво;noun;
+wino;вино;wina;relationships;wino;вино;noun;
+sok;сік;soki;relationships;sok;сік;noun;
+ciasto;тістечко;ciasta;relationships;ciasto;тістечко;noun;
+kanapka;бутерброд;kanapki;relationships;kanapka;бутерброд;noun;
+sałatka;салат;sałatki;relationships;sałatka;салат;noun;
+gościć;приймати;;relationships;gościć;приймати;verb (imperfective);
+zapraszać;запрошувати;;relationships;zapraszać;запрошувати;verb (imperfective);
+przychodzić;приходити;;relationships;przychodzić;приходити;verb (imperfective);
+punktualnie;пунктуально;;relationships;punktualnie;пунктуально;adv;
+rzadko;рідко;;relationships;rzadko;рідко;adv;
+dlaczego;чому;;relationships;dlaczego;чому;adv;
+konflikt;конфлікт;konflikty;relationships;konflikt;конфлікт;noun;
+sprzeczka;суперечка;sprzeczki;relationships;sprzeczka;суперечка;noun;
+nieporozumienie;непорозуміння;nieporozumienia;relationships;nieporozumienie;непорозуміння;noun;
+pojednanie;примирення;;relationships;pojednanie;примирення;noun;
+przeprosiny;вибачення;;relationships;przeprosiny;вибачення;noun;
+wybaczenie;прощення;;relationships;wybaczenie;прощення;noun;
+obraza;образа;obrazy;relationships;obraza;образа;noun;
+pretensja;претензія;pretensje;relationships;pretensja;претензія;noun;
+żal;жаль;;relationships;żal;жаль;noun;
+krytyka;критика;;relationships;krytyka;критика;noun;
+oskarżenie;звинувачення;oskarżenia;relationships;oskarżenie;звинувачення;noun;
+kompromis;компроміс;kompromisy;relationships;kompromis;компроміс;noun;
+dyskusja;дискусія;dyskusje;relationships;dyskusja;дискусія;noun;
+negocjacje;переговори;;relationships;negocjacje;переговори;noun;
+wina;вина;;relationships;wina;вина;noun;
+gniew;гнів;;relationships;gniew;гнів;noun;
+frustracja;фрустрація;frustracje;relationships;frustracja;фрустрація;noun;
+napięcie;напруга;napięcia;relationships;napięcie;напруга;noun;
+przepraszać;перепрошувати;;relationships;przepraszać;перепрошувати;verb (imperfective);
+przeprosić;перепросити;;relationships;przeprosić;перепросити;verb (perfective);
+wybaczać;прощати;;relationships;wybaczać;прощати;verb (imperfective);
+wybaczyć;простити;;relationships;wybaczyć;простити;verb (perfective);
+godzić się;миритися;;relationships;godzić się;миритися;verb (imperfective);
+pogodzić się;помиритися;;relationships;pogodzić się;помиритися;verb (perfective);
+obrażać;ображати;;relationships;obrażać;ображати;verb (imperfective);
+obrazić;образити;;relationships;obrazić;образити;verb (perfective);
+żałować;жалкувати;;relationships;żałować;жалкувати;verb (imperfective);
+pożałować;пожалкувати;;relationships;pożałować;пожалкувати;verb (perfective);
+oskarżać;звинувачувати;;relationships;oskarżać;звинувачувати;verb (imperfective);
+oskarżyć;звинуватити;;relationships;oskarżyć;звинуватити;verb (perfective);
+krytykować;критикувати;;relationships;krytykować;критикувати;verb (imperfective);
+skrytykować;розкритикувати;;relationships;skrytykować;розкритикувати;verb (perfective);
+usprawiedliwiać;виправдовувати;;relationships;usprawiedliwiać;виправдовувати;verb (imperfective);
+usprawiedliwić;виправдати;;relationships;usprawiedliwić;виправдати;verb (perfective);
+przyznawać się;зізнаватися;;relationships;przyznawać się;зізнаватися;verb (imperfective);
+przyznać się;зізнатися;;relationships;przyznać się;зізнатися;verb (perfective);
+obwiniać;звинувачувати;;relationships;obwiniać;звинувачувати;verb (imperfective);
+obwinić;звинуватити;;relationships;obwinić;звинуватити;verb (perfective);
+tłumaczyć;пояснювати;;relationships;tłumaczyć;пояснювати;verb (imperfective);
+wytłumaczyć;пояснити;;relationships;wytłumaczyć;пояснити;verb (perfective);
+zły;злий;;relationships;zły;злий;adj;
+obrażony;ображений;;relationships;obrażony;ображений;adj;
+winny;винний;;relationships;winny;винний;adj;
+randka;побачення;randki;relationships;randka;побачення;noun;
+pocałunek;поцілунок;pocałunki;relationships;pocałunek;поцілунок;noun;
+zaręczyny;заручини;;relationships;zaręczyny;заручини;noun;
+randkować;зустрічатися;;relationships;randkować;зустрічатися;verb (imperfective);
+zakochiwać się;закохуватися;;relationships;zakochiwać się;закохуватися;verb (imperfective);
+całować;цілувати;;relationships;całować;цілувати;verb (imperfective);
+przytulać;обнімати;;relationships;przytulać;обнімати;verb (imperfective);
+spotykać się;зустрічатися;;relationships;spotykać się;зустрічатися;verb (imperfective);
+rozstać się;розлучитися;;relationships;rozstać się;розлучитися;verb (perfective);
+zdradzać;зраджувати;;relationships;zdradzać;зраджувати;verb (imperfective);
+tęsknić;сумувати;;relationships;tęsknić;сумувати;verb (imperfective);
+flirtować;фліртувати;;relationships;flirtować;фліртувати;verb (imperfective);
+podkochiwać się;сохнути;;relationships;podkochiwać się;сохнути;verb (imperfective);
+oświadczyć się;освідчитися;;relationships;oświadczyć się;освідчитися;verb (perfective);
+umawiać się;домовлятися;;relationships;umawiać się;домовлятися;verb (imperfective);
+adorować;обожнювати;;relationships;adorować;обожнювати;verb (imperfective);
+czuły;ніжний;;relationships;czuły;ніжний;adj;
+romantyczny;романтичний;;relationships;romantyczny;романтичний;adj;
+szczęśliwy;щасливий;;relationships;szczęśliwy;щасливий;adj;
+samotny;самотній;;relationships;samotny;самотній;adj;
+zakochany;закоханий;;relationships;zakochany;закоханий;adj;
+kochanek;коханець;kochankowie;relationships;kochanek;коханець;noun;
+kochanka;коханка;kochanki;relationships;kochanka;коханка;noun;
+sympatia;симпатія;sympatie;relationships;sympatia;симпатія;noun;
+adorator;залицяльник;adoratorzy;relationships;adorator;залицяльник;noun;
+walentynki;валентинки;;relationships;walentynki;валентинки;noun;
+komplement;комплімент;komplementy;relationships;komplement;комплімент;noun;
+bukiet;букет;bukiety;relationships;bukiet;букет;noun;

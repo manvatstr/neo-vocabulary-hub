@@ -1,200 +1,151 @@
-el pasatiempo;хобі;хобі (neutro);free_time;pasatiempo;хобі;noun
-la lectura;читання;;free_time;lectura;читання;noun
-el libro;книга;книги (femenino);free_time;libro;книга;noun
-la música;музика;;free_time;música;музика;noun
-la canción;пісня;пісні (femenino);free_time;canción;пісня;noun
-el cine;кіно;;free_time;cine;кіно;noun
-la película;фільм;фільми (masculino);free_time;película;фільм;noun
-el teatro;театр;театри (masculino);free_time;teatro;театр;noun
-el concierto;концерт;концерти (masculino);free_time;concierto;концерт;noun
-el museo;музей;музеї (masculino);free_time;museo;музей;noun
-el arte;мистецтво;;free_time;arte;мистецтво;noun
-el dibujo;малюнок;малюнки (masculino);free_time;dibujo;малюнок;noun
-la fotografía;фотографія;фотографії (femenino);free_time;fotografía;фотографія;noun
-la guitarra;гітара;гітари (femenino);free_time;guitarra;гітара;noun
-el piano;піаніно;піаніно (neutro);free_time;piano;піаніно;noun
-el deporte;спорт;;free_time;deporte;спорт;noun
-el fútbol;футбол;;free_time;fútbol;футбол;noun
-el tenis;теніс;;free_time;tenis;теніс;noun
-la natación;плавання;;free_time;natación;плавання;noun
-el senderismo;піший туризм;;free_time;senderismo;піший туризм;noun
-la jardinería;садівництво;;free_time;jardinería;садівництво;noun
-la cocina;кулінарія;;free_time;cocina;кулінарія;noun
-la costura;шиття;;free_time;costura;шиття;noun
-el bricolaje;саморобка;саморобки (femenino);free_time;bricolaje;саморобка;noun
-la colección;колекція;колекції (femenino);free_time;colección;колекція;noun
-el videojuego;відеогра;відеоігри (femenino);free_time;videojuego;відеогра;noun
-el juego de mesa;настільна гра;настільні ігри (femenino);free_time;juego de mesa;настільна гра;noun
-el ajedrez;шахи;шахи (masculino);free_time;ajedrez;шахи;noun
-las cartas;карти;карти (femenino);free_time;carta;карта;noun
-el rompecabezas;пазл;пазли (masculino);free_time;rompecabezas;пазл;noun
-leer;читати;;free_time;leer;читати;verb
-pintar;фарбувати;;free_time;pintar;фарбувати;verb
-dibujar;малювати;;free_time;dibujar;малювати;verb
-tocar;грати;;free_time;tocar;грати;verb
-bailar;танцювати;;free_time;bailar;танцювати;verb
-cantar;співати;;free_time;cantar;співати;verb
-cocinar;готувати;;free_time;cocinar;готувати;verb
-fotografiar;фотографувати;;free_time;fotografiar;фотографувати;verb
-viajar;подорожувати;;free_time;viajar;подорожувати;verb
-jugar;грати;;free_time;jugar;грати;verb
-coleccionar;колекціонувати;;free_time;coleccionar;колекціонувати;verb
-caminar;гуляти;;free_time;caminar;гуляти;verb
-correr;бігати;;free_time;correr;бігати;verb
-nadar;плавати;;free_time;nadar;плавати;verb
-esquiar;кататися на лижах;;free_time;esquiar;кататися на лижах;verb
-patinar;кататися на ковзанах;;free_time;patinar;кататися на ковзанах;verb
-tejer;в'язати;;free_time;tejer;в'язати;verb
-bordar;вишивати;;free_time;bordar;вишивати;verb
-esculpir;ліпити;;free_time;esculpir;ліпити;verb
-practicar yoga;практикувати йогу;;free_time;practicar yoga;практикувати йогу;verb
-película;фільм;фільми (masculino);free_time;película;фільм;noun
-cine;кінотеатр;кінотеатри (masculino);free_time;cine;кінотеатр;noun
-teatro;театр;театри (masculino);free_time;teatro;театр;noun
-obra;вистава;вистави (femenino);free_time;obra;вистава;noun
-actor;актор;актори (masculino);free_time;actor;актор;noun
-actriz;акторка;акторки (femenino);free_time;actriz;акторка;noun
-director;режисер;режисери (masculino);free_time;director;режисер;noun
-butaca;крісло;крісла (neutro);free_time;butaca;крісло;noun
-entrada;квиток;квитки (masculino);free_time;entrada;квиток;noun
-taquilla;каса;каси (femenino);free_time;taquilla;каса;noun
-estreno;прем'єра;прем'єри (femenino);free_time;estreno;прем'єра;noun
-pantalla;екран;екрани (masculino);free_time;pantalla;екран;noun
-guion;сценарій;сценарії (masculino);free_time;guion;сценарій;noun
-escena;сцена;сцени (femenino);free_time;escena;сцена;noun
-decorado;декорація;декорації (femenino);free_time;decorado;декорація;noun
-vestuario;костюм;костюми (masculino);free_time;vestuario;костюм;noun
-programa;програма;програми (femenino);free_time;programa;програма;noun
-fila;ряд;ряди (masculino);free_time;fila;ряд;noun
-palco;ложа;ложі (femenino);free_time;palco;ложа;noun
-escenario;сцена;сцени (femenino);free_time;escenario;сцена;noun
-función;вистава;вистави (femenino);free_time;función;вистава;noun
-espectador;глядач;глядачі (masculino);free_time;espectador;глядач;noun
-crítica;рецензія;рецензії (femenino);free_time;crítica;рецензія;noun
-crítico;критик;критики (masculino);free_time;crítico;критик;noun
-cartel;афіша;афіші (femenino);free_time;cartel;афіша;noun
-tráiler;трейлер;трейлери (masculino);free_time;tráiler;трейлер;noun
-subtítulo;субтитр;субтитри (masculino);free_time;subtítulo;субтитр;noun
-comedia;комедія;комедії (femenino);free_time;comedia;комедія;noun
-drama;драма;драми (femenino);free_time;drama;драма;noun
-musical;мюзикл;мюзикли (masculino);free_time;musical;мюзикл;noun
-tragedia;трагедія;трагедії (femenino);free_time;tragedia;трагедія;noun
-ensayo;репетиція;репетиції (femenino);free_time;ensayo;репетиція;noun
-intermedio;антракт;антракти (masculino);free_time;intermedio;антракт;noun
-sesión;сеанс;сеанси (masculino);free_time;sesión;сеанс;noun
-aplauso;оплеск;оплески (masculino);free_time;aplauso;оплеск;noun
-telón;завіса;завіси (femenino);free_time;telón;завіса;noun
-proyector;проєктор;проєктори (masculino);free_time;proyector;проєктор;noun
-grabación;запис;записи (masculino);free_time;grabación;запис;noun
-rodaje;зйомка;зйомки (femenino);free_time;rodaje;зйомка;noun
-personaje;персонаж;персонажі (masculino);free_time;personaje;персонаж;noun
-papel;роль;ролі (femenino);free_time;papel;роль;noun
-actuación;гра;гри (femenino);free_time;actuación;гра;noun
-sala;зал;зали (masculino);free_time;sala;зал;noun
-acomodador;білетер;білетери (masculino);free_time;acomodador;білетер;noun
-boleto;квиток;квитки (masculino);free_time;boleto;квиток;noun
-localidad;місце;місця (neutro);free_time;localidad;місце;noun
-guionista;сценарист;сценаристи (masculino);free_time;guionista;сценарист;noun
-cineasta;кінематографіст;кінематографісти (masculino);free_time;cineasta;кінематографіст;noun
-productora;кінокомпанія;кінокомпанії (femenino);free_time;productora;кінокомпанія;noun
-cineclub;кіноклуб;кіноклуби (masculino);free_time;cineclub;кіноклуб;noun
-el fútbol;футбол;футболи (чоловічий);free_time;fútbol;футбол;noun
-el baloncesto;баскетбол;баскетболи (чоловічий);free_time;baloncesto;баскетбол;noun
-el tenis;теніс;теніси (чоловічий);free_time;tenis;теніс;noun
-la natación;плавання;(середній);free_time;natación;плавання;noun
-el ciclismo;велоспорт;велоспорти (чоловічий);free_time;ciclismo;велоспорт;noun
-el atletismo;легка атлетика;легкі атлетики (жіночий);free_time;atletismo;легка атлетика;noun
-el voleibol;волейбол;волейболи (чоловічий);free_time;voleibol;волейбол;noun
-el béisbol;бейсбол;бейсболи (чоловічий);free_time;béisbol;бейсбол;noun
-el golf;гольф;гольфи (чоловічий);free_time;golf;гольф;noun
-el hockey;хокей;хокеї (чоловічий);free_time;hockey;хокей;noun
-el esquí;лижний спорт;(чоловічий);free_time;esquí;лижний спорт;noun
-el snowboard;сноуборд;сноуборди (чоловічий);free_time;snowboard;сноуборд;noun
-el surf;серфінг;серфінги (чоловічий);free_time;surf;серфінг;noun
-el boxeo;бокс;бокси (чоловічий);free_time;boxeo;бокс;noun
-la lucha;боротьба;(жіночий);free_time;lucha;боротьба;noun
-el ajedrez;шахи;шахи (чоловічий);free_time;ajedrez;шахи;noun
-las cartas;карти;карти (жіночий);free_time;carta;карти;noun
-los dados;кубики;кубики (чоловічий);free_time;dado;кубики;noun
-el dominó;доміно;(середній);free_time;dominó;доміно;noun
-el billar;більярд;більярди (чоловічий);free_time;billar;більярд;noun
-los bolos;боулінг;боулінги (чоловічий);free_time;bolo;боулінг;noun
-el patinaje sobre hielo;фігурне катання;(середній);free_time;patinaje sobre hielo;фігурне катання;noun
-el patinaje en línea;катання на роликах;(середній);free_time;patinaje en línea;катання на роликах;noun
-el monopatín;скейтбординг;скейтбординги (чоловічий);free_time;monopatín;скейтбординг;noun
-la gimnasia;гімнастика;(жіночий);free_time;gimnasia;гімнастика;noun
-el yoga;йога;(жіночий);free_time;yoga;йога;noun
-el pilates;пілатес;(чоловічий);free_time;pilates;пілатес;noun
-correr;бігти;;free_time;correr;бігти;verb
-saltar;стрибати;;free_time;saltar;стрибати;verb
-lanzar;кидати;;free_time;lanzar;кидати;verb
-nadar;плавати;;free_time;nadar;плавати;verb
-jugar;грати;;free_time;jugar;грати;verb
-ganar;вигравати;;free_time;ganar;вигравати;verb
-perder;програвати;;free_time;perder;програвати;verb
-competir;змагатися;;free_time;competir;змагатися;verb
-el partido;матч;матчі (чоловічий);free_time;partido;матч;noun
-el campeonato;чемпіонат;чемпіонати (чоловічий);free_time;campeonato;чемпіонат;noun
-el torneo;турнір;турніри (чоловічий);free_time;torneo;турнір;noun
-el equipo;команда;команди (жіночий);free_time;equipo;команда;noun
-el jugador;гравець;гравці (чоловічий);free_time;jugador;гравець;noun
-la jugadora;гравчиня;гравчині (жіночий);free_time;jugadora;гравчиня;noun
-el entrenador;тренер;тренери (чоловічий);free_time;entrenador;тренер;noun
-el árbitro;арбітр;арбітри (чоловічий);free_time;árbitro;арбітр;noun
-el estadio;стадіон;стадіони (чоловічий);free_time;estadio;стадіон;noun
-la pista;корт;корти (чоловічий);free_time;pista;корт;noun
-el gimnasio;спортзал;спортзали (чоловічий);free_time;gimnasio;спортзал;noun
-la pelota;м'яч;м'ячі (чоловічий);free_time;pelota;м'яч;noun
-la raqueta;ракетка;ракетки (жіночий);free_time;raqueta;ракетка;noun
-la portería;ворота;ворота (середній);free_time;portería;ворота;noun
-el gol;гол;голи (чоловічий);free_time;gol;гол;noun
-música;музика;(жіночий);free_time;música;музика;noun
-canción;пісня;пісні (жіночий);free_time;canción;пісня;noun
-concierto;концерт;концерти (чоловічий);free_time;concierto;концерт;noun
-banda;гурт;гурти (чоловічий);free_time;banda;гурт;noun
-grupo;група;групи (жіночий);free_time;grupo;група;noun
-cantante;співак;співаки (чоловічий);free_time;cantante;співак;noun
-instrumento;інструмент;інструменти (чоловічий);free_time;instrumento;інструмент;noun
-guitarra;гітара;гітари (жіночий);free_time;guitarra;гітара;noun
-piano;піаніно;піаніно (середній);free_time;piano;піаніно;noun
-violín;скрипка;скрипки (жіночий);free_time;violín;скрипка;noun
-flauta;флейта;флейти (жіночий);free_time;flauta;флейта;noun
-tambor;барабан;барабани (чоловічий);free_time;tambor;барабан;noun
-arte;мистецтво;(середній);free_time;arte;мистецтво;noun
-pintura;картина;картини (жіночий);free_time;pintura;картина;noun
-dibujo;малюнок;малюнки (чоловічий);free_time;dibujo;малюнок;noun
-escultura;скульптура;скульптури (жіночий);free_time;escultura;скульптура;noun
-museo;музей;музеї (чоловічий);free_time;museo;музей;noun
-exposición;виставка;виставки (жіночий);free_time;exposición;виставка;noun
-galería;галерея;галереї (жіночий);free_time;galería;галерея;noun
-teatro;театр;театри (чоловічий);free_time;teatro;театр;noun
-cine;кінотеатр;кінотеатри (чоловічий);free_time;cine;кінотеатр;noun
-película;фільм;фільми (чоловічий);free_time;película;фільм;noun
-actor;актор;актори (чоловічий);free_time;actor;актор;noun
-actriz;актриса;актриси (жіночий);free_time;actriz;актриса;noun
-bailar;танцювати;;free_time;bailar;танцювати;verb
-baile;танець;танці (чоловічий);free_time;baile;танець;noun
-cantar;співати;;free_time;cantar;співати;verb
-tocar;грати;;free_time;tocar;грати;verb
-pintar;малювати;;free_time;pintar;малювати;verb
-dibujar;малювати;;free_time;dibujar;малювати;verb
-esculpir;ліпити;;free_time;esculpir;ліпити;verb
-escuchar;слухати;;free_time;escuchar;слухати;verb
-mirar;дивитися;;free_time;mirar;дивитися;verb
-artista;художник;художники (чоловічий);free_time;artista;художник;noun
-músico;музикант;музиканти (чоловічий);free_time;músico;музикант;noun
-compositor;композитор;композитори (чоловічий);free_time;compositor;композитор;noun
-orquesta;оркестр;оркестри (чоловічий);free_time;orquesta;оркестр;noun
-coro;хор;хори (чоловічий);free_time;coro;хор;noun
-espectáculo;вистава;вистави (жіночий);free_time;espectáculo;вистава;noun
-entrada;квиток;квитки (чоловічий);free_time;entrada;квиток;noun
-aplaudir;аплодувати;;free_time;aplaudir;аплодувати;verb
-festival;фестиваль;фестивалі (чоловічий);free_time;festival;фестиваль;noun
-ensayo;репетиція;репетиції (жіночий);free_time;ensayo;репетиція;noun
-partitura;партитура;партитури (жіночий);free_time;partitura;партитура;noun
-micrófono;мікрофон;мікрофони (чоловічий);free_time;micrófono;мікрофон;noun
-escenario;сцена;сцени (жіночий);free_time;escenario;сцена;noun
-taller;майстерня;майстерні (жіночий);free_time;taller;майстерня;noun
-melodía;мелодія;мелодії (жіночий);free_time;melodía;мелодія;noun
-ritmo;ритм;ритми (чоловічий);free_time;ritmo;ритм;noun
-armonía;гармонія;гармонії (жіночий);free_time;armonía;гармонія;noun
+la lectura;читання;;free_time;lectura;читання;noun;
+la música;музика;;free_time;música;музика;noun;
+la fotografía;фотографія;;free_time;fotografía;фотографія;noun;
+el baile;танець;los bailes;free_time;baile;танець;noun;
+la jardinería;садівництво;;free_time;jardinería;садівництво;noun;
+la pintura;живопис;;free_time;pintura;живопис;noun;
+el dibujo;малювання;;free_time;dibujo;малювання;noun;
+el deporte;спорт;los deportes;free_time;deporte;спорт;noun;
+el fútbol;футбол;;free_time;fútbol;футбол;noun;
+el baloncesto;баскетбол;;free_time;baloncesto;баскетбол;noun;
+el tenis;теніс;;free_time;tenis;теніс;noun;
+la natación;плавання;;free_time;natación;плавання;noun;
+el ciclismo;велоспорт;;free_time;ciclismo;велоспорт;noun;
+el senderismo;піший туризм;;free_time;senderismo;піший туризм;noun;
+el viaje;подорож;los viajes;free_time;viaje;подорож;noun;
+la excursión;екскурсія;las excursiones;free_time;excursión;екскурсія;noun;
+el campamento;кемпінг;los campamentos;free_time;campamento;кемпінг;noun;
+la pesca;риболовля;;free_time;pesca;риболовля;noun;
+el ajedrez;шахи;;free_time;ajedrez;шахи;noun;
+las cartas;карти;las cartas;free_time;carta;карта;noun;
+los videojuegos;відеоігри;los videojuegos;free_time;videojuego;відеоігри;noun;
+la televisión;телебачення;;free_time;televisión;телебачення;noun;
+la radio;радіо;;free_time;radio;радіо;noun;
+el crucigrama;кросворд;los crucigramas;free_time;crucigrama;кросворд;noun;
+el rompecabezas;пазл;los rompecabezas;free_time;rompecabezas;пазл;noun;
+el yoga;йога;;free_time;yoga;йога;noun;
+la meditación;медитація;;free_time;meditación;медитація;noun;
+el hobby;хобі;los hobbies;free_time;hobby;хобі;noun;
+el pasatiempo;розвага;los pasatiempos;free_time;pasatiempo;розвага;noun;
+la afición;захоплення;las aficiones;free_time;afición;захоплення;noun;
+bailar;танцювати;;free_time;bailar;танцювати;verb (-ar);
+cantar;співати;;free_time;cantar;співати;verb (-ar);
+tocar;грати;;free_time;tocar;грати;verb (-ar);
+dibujar;малювати;;free_time;dibujar;малювати;verb (-ar);
+cocinar;готувати;;free_time;cocinar;готувати;verb (-ar);
+viajar;подорожувати;;free_time;viajar;подорожувати;verb (-ar);
+jugar;грати;;free_time;jugar;грати;verb (-ar);
+interesante;цікавий;;free_time;interesante;цікавий;adj;
+relajante;розслаблюючий;;free_time;relajante;розслаблюючий;adj;
+creativo;творчий;;free_time;creativo;творчий;adj;
+entretenido;розважальний;;free_time;entretenido;розважальний;adj;
+la película;фільм;las películas;free_time;película;фільм;noun;
+el actor;актор;los actores;free_time;actor;актор;noun;
+la actriz;акторка;las actrices;free_time;actriz;акторка;noun;
+el director;режисер;los directores;free_time;director;режисер;noun;
+el guion;сценарій;los guiones;free_time;guion;сценарій;noun;
+el estreno;прем'єра;los estrenos;free_time;estreno;прем'єра;noun;
+la taquilla;каса;las taquillas;free_time;taquilla;каса;noun;
+la pantalla;екран;las pantallas;free_time;pantalla;екран;noun;
+la sala;зал;las salas;free_time;sala;зал;noun;
+el asiento;місце;los asientos;free_time;asiento;місце;noun;
+el espectador;глядач;los espectadores;free_time;espectador;глядач;noun;
+la función;сеанс;las funciones;free_time;función;сеанс;noun;
+el documental;документальний фільм;los documentales;free_time;documental;документальний фільм;noun;
+la comedia;комедія;las comedias;free_time;comedia;комедія;noun;
+el drama;драма;los dramas;free_time;drama;драма;noun;
+el musical;мюзикл;los musicales;free_time;musical;мюзикл;noun;
+el personaje;персонаж;los personajes;free_time;personaje;персонаж;noun;
+la escena;сцена;las escenas;free_time;escena;сцена;noun;
+el argumento;сюжет;los argumentos;free_time;argumento;сюжет;noun;
+el protagonista;головний герой;los protagonistas;free_time;protagonista;головний герой;noun;
+la obra;п'єса;las obras;free_time;obra;п'єса;noun;
+el escenario;сцена;los escenarios;free_time;escenario;сцена;noun;
+el telón;завіса;los telones;free_time;telón;завіса;noun;
+el dramaturgo;драматург;los dramaturgos;free_time;dramaturgo;драматург;noun;
+la tragedia;трагедія;las tragedias;free_time;tragedia;трагедія;noun;
+el ensayo;репетиція;los ensayos;free_time;ensayo;репетиція;noun;
+el aplauso;оплески;los aplausos;free_time;aplauso;оплески;noun;
+la crítica;рецензія;las críticas;free_time;crítica;рецензія;noun;
+la cartelera;афіша;las carteleras;free_time;cartelera;афіша;noun;
+el precio;ціна;los precios;free_time;precio;ціна;noun;
+la fila;ряд;las filas;free_time;fila;ряд;noun;
+ver;дивитися;;free_time;ver;дивитися;verb (-er);
+actuar;грати;;free_time;actuar;грати;verb (-ar);
+representar;виконувати роль;;free_time;representar;виконувати роль;verb (-ar);
+estrenar;випускати;;free_time;estrenar;випускати;verb (-ar);
+aplaudir;аплодувати;;free_time;aplaudir;аплодувати;verb (-ir);
+dirigir;режисерувати;;free_time;dirigir;режисерувати;verb (-ir);
+rodar;знімати;;free_time;rodar;знімати;verb (-ar);
+ensayar;репетирувати;;free_time;ensayar;репетирувати;verb (-ar);
+emocionante;захопливий;;free_time;emocionante;захопливий;adj;
+trágico;трагічний;;free_time;trágico;трагічний;adj;
+cómico;комічний;;free_time;cómico;комічний;adj;
+el atletismo;легка атлетика;;free_time;atletismo;легка атлетика;noun;
+el voleibol;волейбол;;free_time;voleibol;волейбол;noun;
+el béisbol;бейсбол;;free_time;béisbol;бейсбол;noun;
+el golf;гольф;;free_time;golf;гольф;noun;
+el esquí;лижний спорт;;free_time;esquí;лижний спорт;noun;
+el hockey;хокей;;free_time;hockey;хокей;noun;
+el rugby;регбі;;free_time;rugby;регбі;noun;
+el boxeo;бокс;;free_time;boxeo;бокс;noun;
+la gimnasia;гімнастика;;free_time;gimnasia;гімнастика;noun;
+la equitación;верхова їзда;;free_time;equitación;верхова їзда;noun;
+el bowling;боулінг;;free_time;bowling;боулінг;noun;
+el ping-pong;настільний теніс;;free_time;ping-pong;настільний теніс;noun;
+el bádminton;бадмінтон;;free_time;bádminton;бадмінтон;noun;
+el surf;серфінг;;free_time;surf;серфінг;noun;
+la vela;вітрильний спорт;;free_time;vela;вітрильний спорт;noun;
+el patinaje;катання на ковзанах;;free_time;patinaje;катання на ковзанах;noun;
+el buceo;дайвінг;;free_time;buceo;дайвінг;noun;
+la escalada;скелелазіння;;free_time;escalada;скелелазіння;noun;
+el kárate;карате;;free_time;kárate;карате;noun;
+el judo;дзюдо;;free_time;judo;дзюдо;noun;
+el tiro con arco;стрільба з лука;;free_time;tiro con arco;стрільба з лука;noun;
+la esgrima;фехтування;;free_time;esgrima;фехтування;noun;
+el juego de mesa;настільна гра;los juegos de mesa;free_time;juego de mesa;настільна гра;noun;
+el dominó;доміно;;free_time;dominó;доміно;noun;
+el billar;більярд;;free_time;billar;більярд;noun;
+los dardos;дартс;los dardos;free_time;dardo;дротик;noun;
+el balón;м'яч;los balones;free_time;balón;м'яч;noun;
+la pelota;м'яч;las pelotas;free_time;pelota;м'яч;noun;
+la raqueta;ракетка;las raquetas;free_time;raqueta;ракетка;noun;
+el casco;шолом;los cascos;free_time;casco;шолом;noun;
+los patines;ковзани;los patines;free_time;patín;ковзан;noun;
+la bicicleta;велосипед;las bicicletas;free_time;bicicleta;велосипед;noun;
+el estadio;стадіон;los estadios;free_time;estadio;стадіон;noun;
+la cancha;майданчик;las canchas;free_time;cancha;майданчик;noun;
+el jugador;гравець;los jugadores;free_time;jugador;гравець;noun;
+practicar;практикувати;;free_time;practicar;практикувати;verb (-ar);
+nadar;плавати;;free_time;nadar;плавати;verb (-ar);
+ganar;вигравати;;free_time;ganar;вигравати;verb (-ar);
+la canción;пісня;las canciones;free_time;canción;пісня;noun;
+el instrumento;інструмент;los instrumentos;free_time;instrumento;інструмент;noun;
+el piano;піаніно;los pianos;free_time;piano;піаніно;noun;
+la guitarra;гітара;las guitarras;free_time;guitarra;гітара;noun;
+el violín;скрипка;los violines;free_time;violín;скрипка;noun;
+la flauta;флейта;las flautas;free_time;flauta;флейта;noun;
+la batería;ударна установка;las baterías;free_time;batería;ударна установка;noun;
+el tambor;барабан;los tambores;free_time;tambor;барабан;noun;
+la trompeta;труба;las trompetas;free_time;trompeta;труба;noun;
+el saxofón;саксофон;los saxofones;free_time;saxofón;саксофон;noun;
+el cantante;співак;los cantantes;free_time;cantante;співак;noun;
+la banda;гурт;las bandas;free_time;banda;гурт;noun;
+el concierto;концерт;los conciertos;free_time;concierto;концерт;noun;
+la orquesta;оркестр;las orquestas;free_time;orquesta;оркестр;noun;
+el coro;хор;los coros;free_time;coro;хор;noun;
+el ritmo;ритм;los ritmos;free_time;ritmo;ритм;noun;
+la melodía;мелодія;las melodías;free_time;melodía;мелодія;noun;
+la letra;текст пісні;las letras;free_time;letra;текст пісні;noun;
+la partitura;партитура;las partituras;free_time;partitura;партитура;noun;
+el compás;такт;los compases;free_time;compás;такт;noun;
+el espectáculo;вистава;los espectáculos;free_time;espectáculo;вистава;noun;
+la danza;танець;las danzas;free_time;danza;танець;noun;
+la escultura;скульптура;las esculturas;free_time;escultura;скульптура;noun;
+la galería;галерея;las galerías;free_time;galería;галерея;noun;
+el museo;музей;los museos;free_time;museo;музей;noun;
+la exposición;виставка;las exposiciones;free_time;exposición;виставка;noun;
+el artista;художник;los artistas;free_time;artista;художник;noun;
+la obra de arte;витвір мистецтва;las obras de arte;free_time;obra de arte;витвір мистецтва;noun;
+artístico;художній;;free_time;artístico;художній;adj;
+clásico;класичний;;free_time;clásico;класичний;adj;

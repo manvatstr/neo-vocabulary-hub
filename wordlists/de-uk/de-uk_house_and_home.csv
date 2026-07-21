@@ -1,200 +1,188 @@
-das Wohnzimmer;вітальня;die Wohnzimmer, вітальні (weiblich);house_and_home;Wohnzimmer;вітальня;noun
-das Schlafzimmer;спальня;die Schlafzimmer, спальні (weiblich);house_and_home;Schlafzimmer;спальня;noun
-das Badezimmer;ванна кімната;die Badezimmer, ванні кімнати (weiblich);house_and_home;Badezimmer;ванна кімната;noun
-die Küche;кухня;die Küchen, кухні (weiblich);house_and_home;Küche;кухня;noun
-das Esszimmer;їдальня;die Esszimmer, їдальні (weiblich);house_and_home;Esszimmer;їдальня;noun
-der Flur;коридор;die Flure, коридори (männlich);house_and_home;Flur;коридор;noun
-die Diele;передпокій;die Dielen, передпокої (männlich);house_and_home;Diele;передпокій;noun
-das Arbeitszimmer;кабінет;die Arbeitszimmer, кабінети (männlich);house_and_home;Arbeitszimmer;кабінет;noun
-das Gästezimmer;гостьова кімната;die Gästezimmer, гостьові кімнати (weiblich);house_and_home;Gästezimmer;гостьова кімната;noun
-der Keller;підвал;die Keller, підвали (männlich);house_and_home;Keller;підвал;noun
-der Dachboden;горище;die Dachböden, горища (sächlich);house_and_home;Dachboden;горище;noun
-die Abstellkammer;комора;die Abstellkammern, комори (weiblich);house_and_home;Abstellkammer;комора;noun
-der Balkon;балкон;die Balkone, балкони (männlich);house_and_home;Balkon;балкон;noun
-die Terrasse;тераса;die Terrassen, тераси (weiblich);house_and_home;Terrasse;тераса;noun
-der Schrank;шафа;die Schränke, шафи (weiblich);house_and_home;Schrank;шафа;noun
-die Kommode;комод;die Kommoden, комоди (männlich);house_and_home;Kommode;комод;noun
-das Regal;полиця;die Regale, полиці (weiblich);house_and_home;Regal;полиця;noun
-der Tisch;стіл;die Tische, столи (männlich);house_and_home;Tisch;стіл;noun
-der Stuhl;стілець;die Stühle, стільці (männlich);house_and_home;Stuhl;стілець;noun
-der Sessel;крісло;die Sessel, крісла (sächlich);house_and_home;Sessel;крісло;noun
-das Sofa;диван;die Sofas, дивани (männlich);house_and_home;Sofa;диван;noun
-die Couch;канапа;die Couchs, канапи (weiblich);house_and_home;Couch;канапа;noun
-das Bett;ліжко;die Betten, ліжка (sächlich);house_and_home;Bett;ліжко;noun
-der Nachttisch;нічний столик;die Nachttische, нічні столики (männlich);house_and_home;Nachttisch;нічний столик;noun
-der Schreibtisch;письмовий стіл;die Schreibtische, письмові столи (männlich);house_and_home;Schreibtisch;письмовий стіл;noun
-der Esstisch;обідній стіл;die Esstische, обідні столи (männlich);house_and_home;Esstisch;обідній стіл;noun
-die Anrichte;буфет;die Anrichten, буфети (männlich);house_and_home;Anrichte;буфет;noun
-die Vitrine;вітрина;die Vitrinen, вітрини (weiblich);house_and_home;Vitrine;вітрина;noun
-der Spiegel;дзеркало;die Spiegel, дзеркала (sächlich);house_and_home;Spiegel;дзеркало;noun
-die Lampe;лампа;die Lampen, лампи (weiblich);house_and_home;Lampe;лампа;noun
-der Teppich;килим;die Teppiche, килими (männlich);house_and_home;Teppich;килим;noun
-das Bild;картина;die Bilder, картини (weiblich);house_and_home;Bild;картина;noun
-die Gardine;занавіска;die Gardinen, занавіски (weiblich);house_and_home;Gardine;занавіска;noun
-der Vorhang;штора;die Vorhänge, штори (weiblich);house_and_home;Vorhang;штора;noun
-die Matratze;матрац;die Matratzen, матраци (männlich);house_and_home;Matratze;матрац;noun
-das Kopfkissen;подушка;die Kopfkissen, подушки (weiblich);house_and_home;Kopfkissen;подушка;noun
-die Bettdecke;ковдра;die Bettdecken, ковдри (weiblich);house_and_home;Bettdecke;ковдра;noun
-die Stehlampe;торшер;die Stehlampen, торшери (männlich);house_and_home;Stehlampe;торшер;noun
-die Deckenleuchte;стельова лампа;die Deckenleuchten, стельові лампи (weiblich);house_and_home;Deckenleuchte;стельова лампа;noun
-die Mikrowelle;мікрохвильова піч;die Mikrowellen, мікрохвильові печі (weiblich);house_and_home;Mikrowelle;мікрохвильова піч;noun
-der Kühlschrank;холодильник;die Kühlschränke, холодильники (männlich);house_and_home;Kühlschrank;холодильник;noun
-der Herd;плита;die Herde, плити (weiblich);house_and_home;Herd;плита;noun
-der Backofen;духовка;die Backöfen, духовки (weiblich);house_and_home;Backofen;духовка;noun
-die Spülmaschine;посудомийна машина;die Spülmaschinen, посудомийні машини (weiblich);house_and_home;Spülmaschine;посудомийна машина;noun
-die Waschmaschine;пральна машина;die Waschmaschinen, пральні машини (weiblich);house_and_home;Waschmaschine;пральна машина;noun
-der Trockner;сушильна машина;die Trockner, сушильні машини (weiblich);house_and_home;Trockner;сушильна машина;noun
-der Staubsauger;пилосос;die Staubsauger, пилососи (männlich);house_and_home;Staubsauger;пилосос;noun
-das Bügelbrett;прасувальна дошка;die Bügelbretter, прасувальні дошки (weiblich);house_and_home;Bügelbrett;прасувальна дошка;noun
-das Bügeleisen;праска;die Bügeleisen, праски (weiblich);house_and_home;Bügeleisen;праска;noun
-der Hocker;табурет;die Hocker, табурети (männlich);house_and_home;Hocker;табурет;noun
-die Hausarbeit;домашня робота;;house_and_home;Hausarbeit;домашня робота;noun
-putzen;прибирати;;house_and_home;putzen;прибирати;verb
-der Besen;мітла;мітли (weiblich);house_and_home;Besen;мітла;noun
-der Wischmopp;швабра;швабри (weiblich);house_and_home;Wischmopp;швабра;noun
-der Eimer;відро;відра (sächlich);house_and_home;Eimer;відро;noun
-das Tuch;ганчірка;ганчірки (weiblich);house_and_home;Tuch;ганчірка;noun
-der Lappen;ганчірка;ганчірки (weiblich);house_and_home;Lappen;ганчірка;noun
-der Staubsauger;пилосос;пилососи (männlich);house_and_home;Staubsauger;пилосос;noun
-der Staub;пил;;house_and_home;Staub;пил;noun
-staubsaugen;пилососити;;house_and_home;staubsaugen;пилососити;verb
-fegen;підмітати;;house_and_home;fegen;підмітати;verb
-wischen;витирати;;house_and_home;wischen;витирати;verb
-die Spülmaschine;посудомийна машина;посудомийні машини (weiblich);house_and_home;Spülmaschine;посудомийна машина;noun
-das Spülbecken;мийка;мийки (weiblich);house_and_home;Spülbecken;мийка;noun
-der Abfluss;злив;зливи (männlich);house_and_home;Abfluss;злив;noun
-der Müll;сміття;;house_and_home;Müll;сміття;noun
-die Mülltonne;сміттєвий бак;сміттєві баки (männlich);house_and_home;Mülltonne;сміттєвий бак;noun
-der Müllbeutel;сміттєвий пакет;сміттєві пакети (männlich);house_and_home;Müllbeutel;сміттєвий пакет;noun
-das Waschmittel;пральний засіб;пральні засоби (männlich);house_and_home;Waschmittel;пральний засіб;noun
-die Waschmaschine;пральна машина;пральні машини (weiblich);house_and_home;Waschmaschine;пральна машина;noun
-der Wäschetrockner;сушильна машина;сушильні машини (weiblich);house_and_home;Wäschetrockner;сушильна машина;noun
-die Wäsche;білизна;;house_and_home;Wäsche;білизна;noun
-aufhängen;вішати;;house_and_home;aufhängen;вішати;verb
-bügeln;прасувати;;house_and_home;bügeln;прасувати;verb
-das Bügeleisen;праска;праски (weiblich);house_and_home;Bügeleisen;праска;noun
-das Bügelbrett;прасувальна дошка;прасувальні дошки (weiblich);house_and_home;Bügelbrett;прасувальна дошка;noun
-der Putzschrank;шафа для прибирання;шафи для прибирання (weiblich);house_and_home;Putzschrank;шафа для прибирання;noun
-das Reinigungsmittel;засіб для чищення;засоби для чищення (männlich);house_and_home;Reinigungsmittel;засіб для чищення;noun
-der Schwamm;губка;губки (weiblich);house_and_home;Schwamm;губка;noun
-die Bürste;щітка;щітки (weiblich);house_and_home;Bürste;щітка;noun
-abstauben;змахувати пил;;house_and_home;abstauben;змахувати пил;verb
-entkalken;видаляти накип;;house_and_home;entkalken;видаляти накип;verb
-spülen;мити посуд;;house_and_home;spülen;мити посуд;verb
-reparieren;лагодити;;house_and_home;reparieren;лагодити;verb
-streichen;фарбувати;;house_and_home;streichen;фарбувати;verb
-tapezieren;клеїти шпалери;;house_and_home;tapezieren;клеїти шпалери;verb
-bohren;свердлити;;house_and_home;bohren;свердлити;verb
-schrauben;загвинчувати;;house_and_home;schrauben;загвинчувати;verb
-hämmern;забивати;;house_and_home;hämmern;забивати;verb
-sägen;пиляти;;house_and_home;sägen;пиляти;verb
-gießen;поливати;;house_and_home;gießen;поливати;verb
-pflanzen;садити;;house_and_home;pflanzen;садити;verb
-jäten;прополювати;;house_and_home;jäten;прополювати;verb
-der Rasenmäher;газонокосарка;газонокосарки (weiblich);house_and_home;Rasenmäher;газонокосарка;noun
-die Gießkanne;лійка;лійки (weiblich);house_and_home;Gießkanne;лійка;noun
-die Schaufel;лопата;лопати (weiblich);house_and_home;Schaufel;лопата;noun
-der Rechen;граблі;граблі (weiblich);house_and_home;Rechen;граблі;noun
-die Schere;ножиці;ножиці (weiblich);house_and_home;Schere;ножиці;noun
-der Hammer;молоток;молотки (männlich);house_and_home;Hammer;молоток;noun
-der Schraubenzieher;викрутка;викрутки (weiblich);house_and_home;Schraubenzieher;викрутка;noun
-die Miete;орендна плата;;house_and_home;Miete;орендна плата;noun
-die Kaution;завдаток;;house_and_home;Kaution;завдаток;noun
-der Mietvertrag;договір оренди;die Mietverträge (männlich);house_and_home;Mietvertrag;договір оренди;noun
-der Vermieter;орендодавець;die Vermieter (männlich);house_and_home;Vermieter;орендодавець;noun
-der Mieter;орендар;die Mieter (männlich);house_and_home;Mieter;орендар;noun
-die Wohnung;квартира;die Wohnungen (weiblich);house_and_home;Wohnung;квартира;noun
-das Haus;будинок;die Häuser (männlich);house_and_home;Haus;будинок;noun
-kaufen;купувати;;house_and_home;kaufen;купувати;verb
-verkaufen;продавати;;house_and_home;verkaufen;продавати;verb
-der Kaufpreis;ціна покупки;die Kaufpreise (männlich);house_and_home;Kaufpreis;ціна покупки;noun
-die Anzahlung;авансовий платіж;die Anzahlungen (weiblich);house_and_home;Anzahlung;авансовий платіж;noun
-die Hypothek;іпотека;die Hypotheken (weiblich);house_and_home;Hypothek;іпотека;noun
-der Kredit;кредит;die Kredite (männlich);house_and_home;Kredit;кредит;noun
-der Makler;рієлтор;die Makler (männlich);house_and_home;Makler;рієлтор;noun
-die Besichtigung;огляд;die Besichtigungen (weiblich);house_and_home;Besichtigung;огляд;noun
-der Mietpreis;орендна ціна;die Mietpreise (männlich);house_and_home;Mietpreis;орендна ціна;noun
-der Grundriss;план поверху;die Grundrisse (männlich);house_and_home;Grundriss;план поверху;noun
-die Einbauküche;вбудована кухня;die Einbauküchen (weiblich);house_and_home;Einbauküche;вбудована кухня;noun
-das Bad;ванна кімната;die Bäder (sächlich);house_and_home;Bad;ванна кімната;noun
-die Heizung;опалення;;house_and_home;Heizung;опалення;noun
-die Warmmiete;оренда з комунальними;die Warmmieten (weiblich);house_and_home;Warmmiete;оренда з комунальними;noun
-die Kaltmiete;холодна оренда;die Kaltmieten (weiblich);house_and_home;Kaltmiete;холодна оренда;noun
-der Hausmeister;комендант будинку;die Hausmeister (männlich);house_and_home;Hausmeister;комендант будинку;noun
-die Hausverwaltung;управління будинком;die Hausverwaltungen (weiblich);house_and_home;Hausverwaltung;управління будинком;noun
-die Genossenschaftswohnung;кооперативна квартира;die Genossenschaftswohnungen (weiblich);house_and_home;Genossenschaftswohnung;кооперативна квартира;noun
-der Eigentümer;власник;die Eigentümer (männlich);house_and_home;Eigentümer;власник;noun
-die Eigentumswohnung;квартира у власності;die Eigentumswohnungen (weiblich);house_and_home;Eigentumswohnung;квартира у власності;noun
-die Wohnfläche;житлова площа;die Wohnflächen (weiblich);house_and_home;Wohnfläche;житлова площа;noun
-der Balkon;балкон;die Balkone (männlich);house_and_home;Balkon;балкон;noun
-das Zimmer;кімната;die Zimmer (sächlich);house_and_home;Zimmer;кімната;noun
-das Schlafzimmer;спальня;die Schlafzimmer (sächlich);house_and_home;Schlafzimmer;спальня;noun
-das Wohnzimmer;вітальня;die Wohnzimmer (sächlich);house_and_home;Wohnzimmer;вітальня;noun
-die Küche;кухня;die Küchen (weiblich);house_and_home;Küche;кухня;noun
-das Badezimmer;ванна кімната;die Badezimmer (sächlich);house_and_home;Badezimmer;ванна кімната;noun
-das Gäste-WC;гостьовий туалет;die Gäste-WCs (sächlich);house_and_home;Gäste-WC;гостьовий туалет;noun
-der Keller;підвал;die Keller (männlich);house_and_home;Keller;підвал;noun
-der Dachboden;горище;die Dachböden (männlich);house_and_home;Dachboden;горище;noun
-umziehen;переїжджати;;house_and_home;umziehen;переїжджати;verb
-der Umzug;переїзд;die Umzüge (männlich);house_and_home;Umzug;переїзд;noun
-die Renovierung;ремонт;die Renovierungen (weiblich);house_and_home;Renovierung;ремонт;noun
-die Modernisierung;модернізація;die Modernisierungen (weiblich);house_and_home;Modernisierung;модернізація;noun
-die Instandhaltung;утримання;;house_and_home;Instandhaltung;утримання;noun
-der Energieausweis;енергетичний паспорт;die Energieausweise (männlich);house_and_home;Energieausweis;енергетичний паспорт;noun
-die Nebenkostenabrechnung;розрахунок комунальних послуг;die Nebenkostenabrechnungen (weiblich);house_and_home;Nebenkostenabrechnung;розрахунок комунальних послуг;noun
-die Schönheitsreparaturen;косметичний ремонт;die Schönheitsreparaturen (weiblich);house_and_home;Schönheitsreparatur;косметичний ремонт;noun
-der Mietspiegel;індекс орендної плати;die Mietspiegel (männlich);house_and_home;Mietspiegel;індекс орендної плати;noun
-die Kündigungsfrist;термін попередження;die Kündigungsfristen (weiblich);house_and_home;Kündigungsfrist;термін попередження;noun
-der Vertrag;договір;die Verträge (männlich);house_and_home;Vertrag;договір;noun
-die Provision;комісійна винагорода;die Provisionen (weiblich);house_and_home;Provision;комісійна винагорода;noun
-das Grundstück;земельна ділянка;die Grundstücke (sächlich);house_and_home;Grundstück;земельна ділянка;noun
-der Nachbar;сусід;сусіди (männlich);house_and_home;Nachbar;сусід;noun
-die Straße;вулиця;вулиці (weiblich);house_and_home;Straße;вулиця;noun
-der Park;парк;парки (männlich);house_and_home;Park;парк;noun
-der Supermarkt;супермаркет;супермаркети (männlich);house_and_home;Supermarkt;супермаркет;noun
-die Apotheke;аптека;аптеки (weiblich);house_and_home;Apotheke;аптека;noun
-der Spielplatz;дитячий майданчик;дитячі майданчики (männlich);house_and_home;Spielplatz;дитячий майданчик;noun
-das Café;кафе;кафе (sächlich);house_and_home;Café;кафе;noun
-die Ampel;світлофор;світлофори (männlich);house_and_home;Ampel;світлофор;noun
-das Rathaus;ратуша;ратуші (weiblich);house_and_home;Rathaus;ратуша;noun
-der Baum;дерево;дерева (sächlich);house_and_home;Baum;дерево;noun
-der Gehweg;тротуар;тротуари (männlich);house_and_home;Gehweg;тротуар;noun
-der Zebrastreifen;пішохідний перехід;пішохідні переходи (männlich);house_and_home;Zebrastreifen;пішохідний перехід;noun
-die Kreuzung;перехрестя;перехрестя (sächlich);house_and_home;Kreuzung;перехрестя;noun
-das Wohnviertel;житловий квартал;житлові квартали (männlich);house_and_home;Wohnviertel;житловий квартал;noun
-die Bank;банк;банки (männlich);house_and_home;Bank;банк;noun
-die Post;поштове відділення;поштові відділення (sächlich);house_and_home;Post;поштове відділення;noun
-die Bibliothek;бібліотека;бібліотеки (weiblich);house_and_home;Bibliothek;бібліотека;noun
-der Kindergarten;дитячий садок;дитячі садки (männlich);house_and_home;Kindergarten;дитячий садок;noun
-die Schule;школа;школи (weiblich);house_and_home;Schule;школа;noun
-die Kirche;церква;церкви (weiblich);house_and_home;Kirche;церква;noun
-der Friedhof;цвинтар;цвинтарі (männlich);house_and_home;Friedhof;цвинтар;noun
-die Bushaltestelle;автобусна зупинка;автобусні зупинки (weiblich);house_and_home;Bushaltestelle;автобусна зупинка;noun
-das Einkaufszentrum;торговий центр;торгові центри (männlich);house_and_home;Einkaufszentrum;торговий центр;noun
-das Krankenhaus;лікарня;лікарні (weiblich);house_and_home;Krankenhaus;лікарня;noun
-der Markt;ринок;ринки (männlich);house_and_home;Markt;ринок;noun
-die Tankstelle;автозаправна станція;автозаправні станції (weiblich);house_and_home;Tankstelle;автозаправна станція;noun
-der Parkplatz;парковка;парковки (weiblich);house_and_home;Parkplatz;парковка;noun
-die Garage;гараж;гаражі (männlich);house_and_home;Garage;гараж;noun
-der Kiosk;кіоск;кіоски (männlich);house_and_home;Kiosk;кіоск;noun
-die Telefonzelle;телефонна будка;телефонні будки (weiblich);house_and_home;Telefonzelle;телефонна будка;noun
-der Briefkasten;поштова скринька;поштові скриньки (weiblich);house_and_home;Briefkasten;поштова скринька;noun
-die Laterne;ліхтар;ліхтарі (männlich);house_and_home;Laterne;ліхтар;noun
-das Denkmal;пам'ятник;пам'ятники (männlich);house_and_home;Denkmal;пам'ятник;noun
-der Brunnen;фонтан;фонтани (männlich);house_and_home;Brunnen;фонтан;noun
-der Sandkasten;пісочниця;пісочниці (weiblich);house_and_home;Sandkasten;пісочниця;noun
-die Schaukel;гойдалка;гойдалки (weiblich);house_and_home;Schaukel;гойдалка;noun
-die Rutsche;гірка;гірки (weiblich);house_and_home;Rutsche;гірка;noun
-der Zaun;паркан;паркани (männlich);house_and_home;Zaun;паркан;noun
-die Hecke;живопліт;живоплоти (männlich);house_and_home;Hecke;живопліт;noun
-der Balkon;балкон;балкони (männlich);house_and_home;Balkon;балкон;noun
-die Terrasse;тераса;тераси (weiblich);house_and_home;Terrasse;тераса;noun
-der Keller;підвал;підвали (männlich);house_and_home;Keller;підвал;noun
-das Dach;дах;дахи (männlich);house_and_home;Dach;дах;noun
-der Schornstein;димар;димарі (männlich);house_and_home;Schornstein;димар;noun
-der Aufzug;ліфт;ліфти (männlich);house_and_home;Aufzug;ліфт;noun
-die Treppe;сходи;сходи (männlich);house_and_home;Treppe;сходи;noun
-das Tor;ворота;ворота (sächlich);house_and_home;Tor;ворота;noun
-die Fußgängerzone;пішохідна зона;пішохідні зони (weiblich);house_and_home;Fußgängerzone;пішохідна зона;noun
-das Schwimmbad;басейн;басейни (männlich);house_and_home;Schwimmbad;басейн;noun
-die Parkbank;паркова лавка;паркові лавки (weiblich);house_and_home;Parkbank;паркова лавка;noun
+das Wohnzimmer;вітальня;die Wohnzimmer;house_and_home;Wohnzimmer;вітальня;noun;
+das Schlafzimmer;спальня;die Schlafzimmer;house_and_home;Schlafzimmer;спальня;noun;
+die Küche;кухня;die Küchen;house_and_home;Küche;кухня;noun;
+der Flur;передпокій;die Flure;house_and_home;Flur;передпокій;noun;
+das Esszimmer;їдальня;die Esszimmer;house_and_home;Esszimmer;їдальня;noun;
+das Arbeitszimmer;робочий кабінет;die Arbeitszimmer;house_and_home;Arbeitszimmer;робочий кабінет;noun;
+das Kinderzimmer;дитяча кімната;die Kinderzimmer;house_and_home;Kinderzimmer;дитяча кімната;noun;
+der Keller;підвал;die Keller;house_and_home;Keller;підвал;noun;
+das Dachgeschoss;горище;die Dachgeschosse;house_and_home;Dachgeschoss;горище;noun;
+die Terrasse;тераса;die Terrassen;house_and_home;Terrasse;тераса;noun;
+der Balkon;балкон;die Balkone;house_and_home;Balkon;балкон;noun;
+die Toilette;туалет;die Toiletten;house_and_home;Toilette;туалет;noun;
+das Gästezimmer;гостьова кімната;die Gästezimmer;house_and_home;Gästezimmer;гостьова кімната;noun;
+die Abstellkammer;комора;die Abstellkammern;house_and_home;Abstellkammer;комора;noun;
+das Sofa;диван;die Sofas;house_and_home;Sofa;диван;noun;
+der Sessel;крісло;die Sessel;house_and_home;Sessel;крісло;noun;
+der Tisch;стіл;die Tische;house_and_home;Tisch;стіл;noun;
+der Stuhl;стілець;die Stühle;house_and_home;Stuhl;стілець;noun;
+das Doppelbett;двоспальне ліжко;die Doppelbetten;house_and_home;Doppel + Bett;двоспальне ліжко;noun;
+das Etagenbett;двоповерхове ліжко;die Etagenbetten;house_and_home;Etage + Bett;двоповерхове ліжко;noun;
+der Schrank;шафа;die Schränke;house_and_home;Schrank;шафа;noun;
+der Kleiderschrank;платтяна шафа;die Kleiderschränke;house_and_home;Kleider + Schrank;платтяна шафа;noun;
+die Kommode;комод;die Kommoden;house_and_home;Kommode;комод;noun;
+der Nachttisch;тумбочка;die Nachttische;house_and_home;Nacht + Tisch;тумбочка;noun;
+das Regal;полиця;die Regale;house_and_home;Regal;полиця;noun;
+das Bücherregal;книжкова полиця;die Bücherregale;house_and_home;Buch + Regal;книжкова полиця;noun;
+die Lampe;лампа;die Lampen;house_and_home;Lampe;лампа;noun;
+die Stehlampe;торшер;die Stehlampen;house_and_home;stehen + Lampe;торшер;noun;
+die Tischlampe;настільна лампа;die Tischlampen;house_and_home;Tisch + Lampe;настільна лампа;noun;
+der Teppich;килим;die Teppiche;house_and_home;Teppich;килим;noun;
+der Vorhang;штори;die Vorhänge;house_and_home;Vorhang;штори;noun;
+die Gardine;гардина;die Gardinen;house_and_home;Gardine;гардина;noun;
+das Fenster;вікно;die Fenster;house_and_home;Fenster;вікно;noun;
+die Tür;двері;die Türen;house_and_home;Tür;двері;noun;
+die Wand;стіна;die Wände;house_and_home;Wand;стіна;noun;
+der Boden;підлога;die Böden;house_and_home;Boden;підлога;noun;
+die Treppe;сходи;die Treppen;house_and_home;Treppe;сходи;noun;
+das Waschbecken;раковина;die Waschbecken;house_and_home;Waschbecken;раковина;noun;
+die Badewanne;ванна;die Badewannen;house_and_home;Badewanne;ванна;noun;
+die Dusche;душ;die Duschen;house_and_home;Dusche;душ;noun;
+der Wasserhahn;водопровідний кран;die Wasserhähne;house_and_home;Wasser + Hahn;водопровідний кран;noun;
+die Heizung;опалення;die Heizungen;house_and_home;Heizung;опалення;noun;
+das Bild;картина;die Bilder;house_and_home;Bild;картина;noun;
+die Pflanze;рослина;die Pflanzen;house_and_home;Pflanze;рослина;noun;
+der Fernseher;телевізор;die Fernseher;house_and_home;Fernseher;телевізор;noun;
+der Rollladen;жалюзі;die Rollläden;house_and_home;Roll + Laden;жалюзі;noun;
+der Besen;мітла;die Besen;house_and_home;Besen;мітла;noun;
+der Handfeger;щітка для підмітання;die Handfeger;house_and_home;Hand + Feger;щітка для підмітання;noun;
+die Kehrschaufel;совок;die Kehrschaufeln;house_and_home;Kehr + Schaufel;совок;noun;
+der Eimer;відро;die Eimer;house_and_home;Eimer;відро;noun;
+der Mopp;швабра;die Mopps;house_and_home;Mopp;швабра;noun;
+der Wischmopp;швабра для миття підлоги;die Wischmopps;house_and_home;Wisch + Mopp;швабра для миття підлоги;noun;
+der Staubsauger;пилосос;die Staubsauger;house_and_home;Staub + Sauger;пилосос;noun;
+das Bügeleisen;праска;die Bügeleisen;house_and_home;Bügel + Eisen;праска;noun;
+das Bügelbrett;прасувальна дошка;die Bügelbretter;house_and_home;Bügel + Brett;прасувальна дошка;noun;
+der Wäscheständer;сушильна стійка;die Wäscheständer;house_and_home;Wäsche + Ständer;сушильна стійка;noun;
+die Waschmaschine;пральна машина;die Waschmaschinen;house_and_home;Wasch + Maschine;пральна машина;noun;
+der Wäschetrockner;сушильна машина;die Wäschetrockner;house_and_home;Wäsche + Trockner;сушильна машина;noun;
+die Spülmaschine;посудомийна машина;die Spülmaschinen;house_and_home;Spül + Maschine;посудомийна машина;noun;
+das Spülmittel;мийний засіб для посуду;;house_and_home;Spül + Mittel;мийний засіб для посуду;noun;
+der Allzweckreiniger;універсальний засіб для чищення;die Allzweckreiniger;house_and_home;Allzweck + Reiniger;універсальний засіб для чищення;noun;
+das Putzmittel;засіб для прибирання;die Putzmittel;house_and_home;Putz + Mittel;засіб для прибирання;noun;
+der Lappen;ганчірка;die Lappen;house_and_home;Lappen;ганчірка;noun;
+das Microfasertuch;серветка з мікрофібри;die Microfasertücher;house_and_home;Microfaser + Tuch;серветка з мікрофібри;noun;
+der Schwamm;губка;die Schwämme;house_and_home;Schwamm;губка;noun;
+die Spülbürste;щітка для миття посуду;die Spülbürsten;house_and_home;Spül + Bürste;щітка для миття посуду;noun;
+der Müll;сміття;;house_and_home;Müll;сміття;noun;
+die Mülltonne;сміттєвий бак;die Mülltonnen;house_and_home;Müll + Tonne;сміттєвий бак;noun;
+der Müllbeutel;сміттєвий пакет;die Müllbeutel;house_and_home;Müll + Beutel;сміттєвий пакет;noun;
+die Mülltrennung;розділення сміття;;house_and_home;Müll + Trennung;розділення сміття;noun;
+der Abfall;відходи;;house_and_home;Abfall;відходи;noun;
+der Staub;пил;;house_and_home;Staub;пил;noun;
+das Staubtuch;ганчірка для пилу;die Staubtücher;house_and_home;Staub + Tuch;ганчірка для пилу;noun;
+die Wäsche;білизна;;house_and_home;Wäsche;білизна;noun;
+der Kleiderbügel;плечики для одягу;die Kleiderbügel;house_and_home;Kleider + Bügel;плечики для одягу;noun;
+das Bügelwasser;вода для прасування;;house_and_home;Bügel + Wasser;вода для прасування;noun;
+kehren;підмітати;;house_and_home;kehren;підмітати;verb (weak);
+fegen;замітати;;house_and_home;fegen;замітати;verb (weak);
+saugen;пилососити;;house_and_home;saugen;пилососити;verb (weak);
+wischen;витирати;;house_and_home;wischen;витирати;verb (weak);
+aufwischen;витирати (підлогу);;house_and_home;aufwischen (zu wischen);витирати (підлогу);verb (separable);
+abstauben;витирати пил;;house_and_home;abstauben (zu stauben);витирати пил;verb (separable);
+schrubben;шкреоти;;house_and_home;schrubben;шкреоти;verb (weak);
+abwaschen;мити посуд;;house_and_home;abwaschen (zu waschen);мити посуд;verb (separable);
+spülen;полоскати;;house_and_home;spülen;полоскати;verb (weak);
+einräumen;прибирати на місце;;house_and_home;einräumen (zu räumen);прибирати на місце;verb (separable);
+ausräumen;виймати, звільняти;;house_and_home;ausräumen (zu räumen);виймати, звільняти;verb (separable);
+aufhängen;розвішувати;;house_and_home;aufhängen (zu hängen);розвішувати;verb (separable);
+bügeln;прасувати;;house_and_home;bügeln;прасувати;verb (weak);
+waschen;прати;;house_and_home;waschen;прати;verb (strong);
+trocknen;сушити;;house_and_home;trocknen;сушити;verb (weak);
+abtrocknen;витирати насухо;;house_and_home;abtrocknen (zu trocknen);витирати насухо;verb (separable);
+reparieren;ремонтувати;;house_and_home;reparieren;ремонтувати;verb (weak);
+streichen;фарбувати;;house_and_home;streichen;фарбувати;verb (strong);
+gießen;поливати;;house_and_home;gießen;поливати;verb (strong);
+mähen;косити;;house_and_home;mähen;косити;verb (weak);
+die Miete;орендна плата;die Mieten;house_and_home;Miete;орендна плата;noun;
+der Vermieter;орендодавець;die Vermieter;house_and_home;Vermieter;орендодавець;noun;
+der Mieter;орендар;die Mieter;house_and_home;Mieter;орендар;noun;
+der Mietvertrag;договір оренди;die Mietverträge;house_and_home;Miete + Vertrag;договір оренди;noun;
+die Kaution;застава;die Kautionen;house_and_home;Kaution;застава;noun;
+die Nebenkosten;комунальні платежі;;house_and_home;neben + Kosten;комунальні платежі;noun;
+das Wasser;вода;;house_and_home;Wasser;вода;noun;
+der Strom;електроенергія;;house_and_home;Strom;електроенергія;noun;
+der Kaufpreis;вартість покупки;die Kaufpreise;house_and_home;Kauf + Preis;вартість покупки;noun;
+der Makler;рієлтор;die Makler;house_and_home;Makler;рієлтор;noun;
+der Grundriss;план поверху;die Grundrisse;house_and_home;Grund + Riss;план поверху;noun;
+die Wohnung;квартира;die Wohnungen;house_and_home;Wohnung;квартира;noun;
+das Haus;будинок;die Häuser;house_and_home;Haus;будинок;noun;
+das Einfamilienhaus;будинок на одну сім’ю;die Einfamilienhäuser;house_and_home;ein + Familie + Haus;будинок на одну сім’ю;noun;
+das Mehrfamilienhaus;багатоквартирний будинок;die Mehrfamilienhäuser;house_and_home;mehr + Familie + Haus;багатоквартирний будинок;noun;
+die Eigentumswohnung;власна квартира;die Eigentumswohnungen;house_and_home;Eigentum + Wohnung;власна квартира;noun;
+die Hypothek;іпотека;die Hypotheken;house_and_home;Hypothek;іпотека;noun;
+das Darlehen;позика;die Darlehen;house_and_home;Darlehen;позика;noun;
+der Zins;відсоток;die Zinsen;house_and_home;Zins;відсоток;noun;
+die Tilgung;погашення;die Tilgungen;house_and_home;Tilgung;погашення;noun;
+das Grundbuch;земельний реєстр;die Grundbücher;house_and_home;Grund + Buch;земельний реєстр;noun;
+der Notar;нотаріус;die Notare;house_and_home;Notar;нотаріус;noun;
+die Grunderwerbsteuer;податок на придбання нерухомості;die Grunderwerbsteuern;house_and_home;Grund + Erwerb + Steuer;податок на придбання нерухомості;noun;
+die Renovierung;ремонт;die Renovierungen;house_and_home;Renovierung;ремонт;noun;
+die Sanierung;капітальний ремонт;die Sanierungen;house_and_home;Sanierung;капітальний ремонт;noun;
+der Altbau;стара будівля;die Altbauten;house_and_home;Alt + Bau;стара будівля;noun;
+der Neubau;новобудова;die Neubauten;house_and_home;Neu + Bau;новобудова;noun;
+der Garten;сад;die Gärten;house_and_home;Garten;сад;noun;
+der Dachboden;горище;die Dachböden;house_and_home;Dach + Boden;горище;noun;
+das Stockwerk;поверх;die Stockwerke;house_and_home;Stock + Werk;поверх;noun;
+der Aufzug;ліфт;die Aufzüge;house_and_home;Auf + Zug;ліфт;noun;
+der Umzug;переїзд;die Umzüge;house_and_home;Um + Zug;переїзд;noun;
+einziehen;в’їжджати;;house_and_home;einziehen (zu ziehen);в’їжджати;verb (separable);
+kündigen;розривати договір;;house_and_home;kündigen;розривати договір;verb (weak);
+besichtigen;оглядати;;house_and_home;besichtigen;оглядати;verb (weak);
+sich bewerben;подавати заявку;;house_and_home;bewerben (sich);подавати заявку;verb (strong);
+der Einkommensnachweis;довідка про доходи;die Einkommensnachweise;house_and_home;Einkommen + Nachweis;довідка про доходи;noun;
+die Bürgschaft;порука;die Bürgschaften;house_and_home;Bürgschaft;порука;noun;
+die Wohngemeinschaft;спільна квартира;die Wohngemeinschaften;house_and_home;Wohn + Gemeinschaft;спільна квартира;noun;
+der Nachmieter;наступний орендар;die Nachmieter;house_and_home;nach + Mieter;наступний орендар;noun;
+der Vormieter;попередній орендар;die Vormieter;house_and_home;vor + Mieter;попередній орендар;noun;
+die Wohnungsbesichtigung;огляд квартири;die Wohnungsbesichtigungen;house_and_home;Wohnung + Besichtigung;огляд квартири;noun;
+der Energieausweis;енергетичний сертифікат;die Energieausweise;house_and_home;Energie + Ausweis;енергетичний сертифікат;noun;
+die Instandhaltung;технічне обслуговування;die Instandhaltungen;house_and_home;instand + Haltung;технічне обслуговування;noun;
+die Nebenkostenabrechnung;розрахунок комунальних платежів;die Nebenkostenabrechnungen;house_and_home;Nebenkosten + Abrechnung;розрахунок комунальних платежів;noun;
+der Nachbar;сусід;die Nachbarn;house_and_home;Nachbar;сусід;noun;
+die Nachbarin;сусідка;die Nachbarinnen;house_and_home;Nachbarin;сусідка;noun;
+die Nachbarschaft;сусідство;;house_and_home;Nachbar + schaft;сусідство;noun;
+das Viertel;квартал;die Viertel;house_and_home;Viertel;квартал;noun;
+die Straße;вулиця;die Straßen;house_and_home;Straße;вулиця;noun;
+der Gehweg;тротуар;die Gehwege;house_and_home;gehen + Weg;тротуар;noun;
+der Platz;площа;die Plätze;house_and_home;Platz;площа;noun;
+der Park;парк;die Parks;house_and_home;Park;парк;noun;
+der Spielplatz;дитячий майданчик;die Spielplätze;house_and_home;Spiel + Platz;дитячий майданчик;noun;
+der Hof;двір;die Höfe;house_and_home;Hof;двір;noun;
+der Zaun;паркан;die Zäune;house_and_home;Zaun;паркан;noun;
+die Einfahrt;в'їзд;die Einfahrten;house_and_home;ein + Fahrt;в'їзд;noun;
+die Garage;гараж;die Garagen;house_and_home;Garage;гараж;noun;
+der Mülleimer;смітник;die Mülleimer;house_and_home;Müll + Eimer;смітник;noun;
+die Ampel;світлофор;die Ampeln;house_and_home;Ampel;світлофор;noun;
+die Kreuzung;перехрестя;die Kreuzungen;house_and_home;Kreuzung;перехрестя;noun;
+die Bushaltestelle;автобусна зупинка;die Bushaltestellen;house_and_home;Bus + Haltestelle;автобусна зупинка;noun;
+der Supermarkt;супермаркет;die Supermärkte;house_and_home;Super + Markt;супермаркет;noun;
+die Bäckerei;пекарня;die Bäckereien;house_and_home;Bäckerei;пекарня;noun;
+die Apotheke;аптека;die Apotheken;house_and_home;Apotheke;аптека;noun;
+die Bank;банк;die Banken;house_and_home;Bank;банк;noun;
+das Café;кафе;die Cafés;house_and_home;Café;кафе;noun;
+das Restaurant;ресторан;die Restaurants;house_and_home;Restaurant;ресторан;noun;
+die Kirche;церква;die Kirchen;house_and_home;Kirche;церква;noun;
+die Schule;школа;die Schulen;house_and_home;Schule;школа;noun;
+der Kindergarten;дитячий садок;die Kindergärten;house_and_home;Kinder + Garten;дитячий садок;noun;
+die Bibliothek;бібліотека;die Bibliotheken;house_and_home;Bibliothek;бібліотека;noun;
+wohnen;жити;;house_and_home;wohnen;жити;verb (weak);
+spazieren gehen;гуляти;;house_and_home;spazieren gehen (zu spazieren gehen);гуляти;verb (separable);
+einkaufen;купувати;;house_and_home;einkaufen (zu kaufen);купувати;verb (separable);
+besuchen;відвідувати;;house_and_home;besuchen;відвідувати;verb (weak);
+treffen;зустрічати;;house_and_home;treffen;зустрічати;verb (strong);
+sich unterhalten;спілкуватися;;house_and_home;sich unterhalten;спілкуватися;verb (strong);
+helfen;допомагати;;house_and_home;helfen;допомагати;verb (strong);
+einladen;запрошувати;;house_and_home;einladen (zu laden);запрошувати;verb (separable);
+feiern;святкувати;;house_and_home;feiern;святкувати;verb (weak);
+grillen;смажити на грилі;;house_and_home;grillen;смажити на грилі;verb (weak);
+laut;гучний;;house_and_home;laut;гучний;adj;
+lebhaft;жвавий;;house_and_home;lebhaft;жвавий;adj;
+sicher;безпечний;;house_and_home;sicher;безпечний;adj;
+gefährlich;небезпечний;;house_and_home;gefährlich;небезпечний;adj;
+sauber;чистий;;house_and_home;sauber;чистий;adj;
+schmutzig;брудний;;house_and_home;schmutzig;брудний;adj;
+grün;зелений;;house_and_home;grün;зелений;adj;
+nah;близький;;house_and_home;nah;близький;adj;
+weit;далекий;;house_and_home;weit;далекий;adj;
+gemütlich;затишний;;house_and_home;gemütlich;затишний;adj;

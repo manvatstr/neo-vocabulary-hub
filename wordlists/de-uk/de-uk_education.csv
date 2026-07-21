@@ -1,202 +1,162 @@
-das Fach;предмет;die Fächer (männlich);education;Fach;предмет;noun
-die Mathematik;математика;;education;Mathematik;математика;noun
-die Biologie;біологія;;education;Biologie;біологія;noun
-die Chemie;хімія;;education;Chemie;хімія;noun
-die Physik;фізика;;education;Physik;фізика;noun
-die Geschichte;історія;;education;Geschichte;історія;noun
-die Erdkunde;географія;;education;Erdkunde;географія;noun
-die Geografie;географія;;education;Geografie;географія;noun
-die Kunst;мистецтво;;education;Kunst;мистецтво;noun
-die Musik;музика;;education;Musik;музика;noun
-der Sport;спорт;;education;Sport;спорт;noun
-die Religion;релігія;;education;Religion;релігія;noun
-die Informatik;інформатика;;education;Informatik;інформатика;noun
-die Sozialkunde;суспільствознавство;;education;Sozialkunde;суспільствознавство;noun
-die Politik;політика;;education;Politik;політика;noun
-die Wirtschaft;економіка;;education;Wirtschaft;економіка;noun
-die Philosophie;філософія;;education;Philosophie;філософія;noun
-die Psychologie;психологія;;education;Psychologie;психологія;noun
-die Literatur;література;;education;Literatur;література;noun
-die Technik;техніка;;education;Technik;техніка;noun
-das Werken;трудове навчання;;education;Werken;трудове навчання;noun
-die Hauswirtschaft;домоведення;;education;Hauswirtschaft;домоведення;noun
-die Ethik;етика;;education;Ethik;етика;noun
-das Latein;латинська мова;;education;Latein;латинська мова;noun
-das Französisch;французька мова;;education;Französisch;французька мова;noun
-das Spanisch;іспанська мова;;education;Spanisch;іспанська мова;noun
-das Russisch;російська мова;;education;Russisch;російська мова;noun
-das Englisch;англійська мова;;education;Englisch;англійська мова;noun
-das Deutsch;німецька мова;;education;Deutsch;німецька мова;noun
-die Algebra;алгебра;;education;Algebra;алгебра;noun
-die Geometrie;геометрія;;education;Geometrie;геометрія;noun
-die Trigonometrie;тригонометрія;;education;Trigonometrie;тригонометрія;noun
-die Statistik;статистика;;education;Statistik;статистика;noun
-die Astronomie;астрономія;;education;Astronomie;астрономія;noun
-die Geologie;геологія;;education;Geologie;геологія;noun
-die Ökologie;екологія;;education;Ökologie;екологія;noun
-die Soziologie;соціологія;;education;Soziologie;соціологія;noun
-die Rechtskunde;правознавство;;education;Rechtskunde;правознавство;noun
-die Pädagogik;педагогіка;;education;Pädagogik;педагогіка;noun
-das Zeichnen;малювання;;education;Zeichnen;малювання;noun
-die Musiklehre;теорія музики;;education;Musiklehre;теорія музики;noun
-die Buchhaltung;бухгалтерський облік;;education;Buchhaltung;бухгалтерський облік;noun
-das Theater;театр;;education;Theater;театр;noun
-der Chor;хор;;education;Chor;хор;noun
-das Orchester;оркестр;;education;Orchester;оркестр;noun
-die Medienkunde;медіазнавство;;education;Medienkunde;медіазнавство;noun
-die Umweltkunde;природознавство;;education;Umweltkunde;природознавство;noun
-die Robotik;робототехніка;;education;Robotik;робототехніка;noun
-das Programmieren;програмування;;education;Programmieren;програмування;noun
-die Gesundheitslehre;основи здоров'я;;education;Gesundheitslehre;основи здоров'я;noun
-der Student;студент;студенти (männlich);education;Student;студент;noun
-die Studentin;студентка;студентки (weiblich);education;Studentin;студентка;noun
-die Universität;університет;університети (männlich);education;Universität;університет;noun
-die Hochschule;вища школа;вищі школи (weiblich);education;Hochschule;вища школа;noun
-das Studium;навчання;;education;Studium;навчання;noun
-die Vorlesung;лекція;лекції (weiblich);education;Vorlesung;лекція;noun
-das Seminar;семінар;семінари (männlich);education;Seminar;семінар;noun
-die Prüfung;іспит;іспити (männlich);education;Prüfung;іспит;noun
-die Klausur;контрольна робота;контрольні роботи (weiblich);education;Klausur;контрольна робота;noun
-die Note;оцінка;оцінки (weiblich);education;Note;оцінка;noun
-das Fach;предмет;предмети (männlich);education;Fach;предмет;noun
-der Professor;професор;професори (männlich);education;Professor;професор;noun
-die Dozentin;викладачка;викладачки (weiblich);education;Dozentin;викладачка;noun
-der Dozent;викладач;викладачі (männlich);education;Dozent;викладач;noun
-die Bibliothek;бібліотека;бібліотеки (weiblich);education;Bibliothek;бібліотека;noun
-das Studentenwohnheim;студентський гуртожиток;студентські гуртожитки (männlich);education;Studentenwohnheim;студентський гуртожиток;noun
-das Stipendium;стипендія;стипендії (weiblich);education;Stipendium;стипендія;noun
-die Mensa;їдальня;їдальні (weiblich);education;Mensa;їдальня;noun
-der Hörsaal;аудиторія;аудиторії (weiblich);education;Hörsaal;аудиторія;noun
-der Semesterbeitrag;семестровий внесок;семестрові внески (männlich);education;Semesterbeitrag;семестровий внесок;noun
-die Einschreibung;реєстрація;реєстрації (weiblich);education;Einschreibung;реєстрація;noun
-die Immatrikulation;зарахування;;education;Immatrikulation;зарахування;noun
-der Studienabbruch;відрахування;;education;Studienabbruch;відрахування;noun
-das Praktikum;стажування;стажування (sächlich);education;Praktikum;стажування;noun
-die Abschlussarbeit;дипломна робота;дипломні роботи (weiblich);education;Abschlussarbeit;дипломна робота;noun
-die Bachelorarbeit;бакалаврська робота;бакалаврські роботи (weiblich);education;Bachelorarbeit;бакалаврська робота;noun
-die Masterarbeit;магістерська робота;магістерські роботи (weiblich);education;Masterarbeit;магістерська робота;noun
-die Dissertation;дисертація;дисертації (weiblich);education;Dissertation;дисертація;noun
-der Abschluss;диплом;дипломи (männlich);education;Abschluss;диплом;noun
-das Zeugnis;свідоцтво;свідоцтва (sächlich);education;Zeugnis;свідоцтво;noun
-der Kommilitone;одногрупник;одногрупники (männlich);education;Kommilitone;одногрупник;noun
-die Kommilitonin;одногрупниця;одногрупниці (weiblich);education;Kommilitonin;одногрупниця;noun
-der Stundenplan;розклад;розклади (männlich);education;Stundenplan;розклад;noun
-die Studienberatung;консультація;консультації (weiblich);education;Studienberatung;консультація;noun
-der Campus;кампус;кампуси (männlich);education;Campus;кампус;noun
-die Cafeteria;кафетерій;кафетерії (männlich);education;Cafeteria;кафетерій;noun
-das Modul;модуль;модулі (männlich);education;Modul;модуль;noun
-der Leistungspunkt;кредит;кредити (männlich);education;Leistungspunkt;кредит;noun
-die Prüfungsphase;екзаменаційна сесія;екзаменаційні сесії (weiblich);education;Prüfungsphase;екзаменаційна сесія;noun
-die Semesterferien;канікули;канікули (nur Plural);education;Semesterferien;канікули;noun
-die Vorlesungszeit;семестр;семестри (männlich);education;Vorlesungszeit;семестр;noun
-die Wiederholungsprüfung;перездача;перездачі (weiblich);education;Wiederholungsprüfung;перездача;noun
-der Tutor;тьютор;тьютори (männlich);education;Tutor;тьютор;noun
-der Studiengang;спеціальність;спеціальності (weiblich);education;Studiengang;спеціальність;noun
-der Numerus Clausus;прохідний бал;прохідні бали (männlich);education;Numerus Clausus;прохідний бал;noun
-die Zulassung;допуск;допуски (männlich);education;Zulassung;допуск;noun
-die Hausarbeit;курсова робота;курсові роботи (weiblich);education;Hausarbeit;курсова робота;noun
-die Abschlussprüfung;випускний іспит;випускні іспити (männlich);education;Abschlussprüfung;випускний іспит;noun
-die Exkursion;екскурсія;екскурсії (weiblich);education;Exkursion;екскурсія;noun
-studieren;навчатися в університеті;;education;studieren;навчатися в університеті;verb
-der Prüfung;іспит;іспити (männlich);education;Prüfung;іспит;noun
-die Note;оцінка;оцінки (weiblich);education;Note;оцінка;noun
-die Klausur;контрольна робота;контрольні роботи (weiblich);education;Klausur;контрольна робота;noun
-das Zeugnis;атестат;атестати (männlich);education;Zeugnis;атестат;noun
-die Zensur;оцінка;оцінки (weiblich);education;Zensur;оцінка;noun
-das Examen;екзамен;екзамени (männlich);education;Examen;екзамен;noun
-die mündliche Prüfung;усний іспит;усні іспити (männlich);education;mündliche Prüfung;усний іспит;noun
-die schriftliche Prüfung;письмовий іспит;письмові іспити (männlich);education;schriftliche Prüfung;письмовий іспит;noun
-die Benotung;оцінювання;оцінювання (sächlich);education;Benotung;оцінювання;noun
-die Bewertung;оцінка;оцінки (weiblich);education;Bewertung;оцінка;noun
-das Prüfungsergebnis;результат іспиту;результати іспитів (männlich);education;Prüfungsergebnis;результат іспиту;noun
-die Durchschnittsnote;середній бал;середні бали (männlich);education;Durchschnittsnote;середній бал;noun
-die Punktzahl;кількість балів;кількості балів (weiblich);education;Punktzahl;кількість балів;noun
-die Mindestpunktzahl;мінімальна кількість балів;мінімальні кількості балів (weiblich);education;Mindestpunktzahl;мінімальна кількість балів;noun
-der Fehler;помилка;помилки (weiblich);education;Fehler;помилка;noun
-die Lösung;рішення;рішення (sächlich);education;Lösung;рішення;noun
-die Aufgabe;завдання;завдання (sächlich);education;Aufgabe;завдання;noun
-das Ergebnis;результат;результати (männlich);education;Ergebnis;результат;noun
-die Wiederholungsprüfung;перескладання;перескладання (sächlich);education;Wiederholungsprüfung;перескладання;noun
-die Nachprüfung;додатковий іспит;додаткові іспити (männlich);education;Nachprüfung;додатковий іспит;noun
-die Prüfungsangst;страх перед іспитом;страхи перед іспитом (männlich);education;Prüfungsangst;страх перед іспитом;noun
-das Lernpensum;обсяг навчального матеріалу;обсяги (männlich);education;Lernpensum;обсяг навчального матеріалу;noun
-die Vorbereitung;підготовка;підготовки (weiblich);education;Vorbereitung;підготовка;noun
-die Prüfungszeit;екзаменаційний період;екзаменаційні періоди (männlich);education;Prüfungszeit;екзаменаційний період;noun
-das Zeugnisheft;табель;табелі (männlich);education;Zeugnisheft;табель;noun
-die Versetzung;переведення;переведення (sächlich);education;Versetzung;переведення;noun
-das Sitzenbleiben;другорічництво;другорічництва (sächlich);education;Sitzenbleiben;другорічництво;noun
-die Bestehensquote;показник успішності;показники успішності (männlich);education;Bestehensquote;показник успішності;noun
-die Durchfallquote;частка провалів;частки провалів (weiblich);education;Durchfallquote;частка провалів;noun
-das Bestehen;складання;складання (sächlich);education;Bestehen;складання;noun
-das Durchfallen;нескладання;нескладання (sächlich);education;Durchfallen;нескладання;noun
-die Korrektur;перевірка;перевірки (weiblich);education;Korrektur;перевірка;noun
-die Selbstbewertung;самооцінка;самооцінки (weiblich);education;Selbstbewertung;самооцінка;noun
-die Prüfungsstrategie;стратегія підготовки;стратегії підготовки (weiblich);education;Prüfungsstrategie;стратегія підготовки;noun
-der Spickzettel;шпаргалка;шпаргалки (weiblich);education;Spickzettel;шпаргалка;noun
-das Abschreiben;списування;списування (sächlich);education;Abschreiben;списування;noun
-die Täuschung;обман;обмани (männlich);education;Täuschung;обман;noun
-die Sanktion;санкція;санкції (weiblich);education;Sanktion;санкція;noun
-der Prüfer;екзаменатор;екзаменатори (männlich);education;Prüfer;екзаменатор;noun
-der Prüfling;кандидат;кандидати (männlich);education;Prüfling;кандидат;noun
-das Prüfungsamt;екзаменаційне бюро;екзаменаційні бюро (sächlich);education;Prüfungsamt;екзаменаційне бюро;noun
-bestehen;скласти (іспит);;education;bestehen;скласти;verb
-durchfallen;провалитися;;education;durchfallen;провалитися;verb
-sich vorbereiten auf;готуватися до;;education;sich vorbereiten;готуватися;verb
-lernen;вчитися;;education;lernen;вчитися;verb
-pauken;зубрити;;education;pauken;зубрити;verb
-bewerten;оцінювати;;education;bewerten;оцінювати;verb
-benoten;ставити оцінку;;education;benoten;ставити оцінку;verb
-korrigieren;виправляти;;education;korrigieren;виправляти;verb
-schummeln;шахраювати;;education;schummeln;шахраювати;verb
-mündlich;усний;;education;mündlich;усний;adj
-schriftlich;письмовий;;education;schriftlich;письмовий;adj
-die Sprache;мова;die Sprachen (weiblich);education;Sprache;мова;noun
-die Grammatik;граматика;die Grammatiken (weiblich);education;Grammatik;граматика;noun
-der Wortschatz;словниковий запас;die Wortschätze (männlich);education;Wortschatz;словниковий запас;noun
-das Wörterbuch;словник;die Wörterbücher (sächlich);education;Wörterbuch;словник;noun
-die Lektion;урок;die Lektionen (weiblich);education;Lektion;урок;noun
-die Übung;вправа;die Übungen (weiblich);education;Übung;вправа;noun
-die Aussprache;вимова;;education;Aussprache;вимова;noun
-die Übersetzung;переклад;die Übersetzungen (weiblich);education;Übersetzung;переклад;noun
-der Kurs;курс;die Kurse (männlich);education;Kurs;курс;noun
-der Lehrer;вчитель;die Lehrer (männlich);education;Lehrer;вчитель;noun
-die Lehrerin;вчителька;die Lehrerinnen (weiblich);education;Lehrerin;вчителька;noun
-der Schüler;учень;die Schüler (männlich);education;Schüler;учень;noun
-die Schülerin;учениця;die Schülerinnen (weiblich);education;Schülerin;учениця;noun
-der Student;студент;die Studenten (männlich);education;Student;студент;noun
-die Studentin;студентка;die Studentinnen (weiblich);education;Studentin;студентка;noun
-die Klasse;клас;die Klassen (weiblich);education;Klasse;клас;noun
-die Prüfung;іспит;die Prüfungen (weiblich);education;Prüfung;іспит;noun
-der Test;тест;die Tests (männlich);education;Test;тест;noun
-das Heft;зошит;die Hefte (sächlich);education;Heft;зошит;noun
-das Buch;книга;die Bücher (sächlich);education;Buch;книга;noun
-die Tafel;дошка;die Tafeln (weiblich);education;Tafel;дошка;noun
-die Note;оцінка;die Noten (weiblich);education;Note;оцінка;noun
-die Fremdsprache;іноземна мова;die Fremdsprachen (weiblich);education;Fremdsprache;іноземна мова;noun
-die Muttersprache;рідна мова;die Muttersprachen (weiblich);education;Muttersprache;рідна мова;noun
-die Vokabel;слово;die Vokabeln (weiblich);education;Vokabel;слово;noun
-lernen;вчитися;;education;lernen;вчитися;verb
-studieren;вивчати;;education;studieren;вивчати;verb
-üben;практикуватися;;education;üben;практикуватися;verb
-sprechen;говорити;;education;sprechen;говорити;verb
-lesen;читати;;education;lesen;читати;verb
-schreiben;писати;;education;schreiben;писати;verb
-hören;слухати;;education;hören;слухати;verb
-verstehen;розуміти;;education;verstehen;розуміти;verb
-übersetzen;перекладати;;education;übersetzen;перекладати;verb
-wiederholen;повторювати;;education;wiederholen;повторювати;verb
-sich merken;запам'ятовувати;;education;sich merken;запам'ятовувати;verb
-aussprechen;вимовляти;;education;aussprechen;вимовляти;verb
-erklären;пояснювати;;education;erklären;пояснювати;verb
-fragen;запитувати;;education;fragen;запитувати;verb
-antworten;відповідати;;education;antworten;відповідати;verb
-schwierig;важкий;;education;schwierig;важкий;adj
-leicht;легкий;;education;leicht;легкий;adj
-interessant;цікавий;;education;interessant;цікавий;adj
-langweilig;нудний;;education;langweilig;нудний;adj
-wichtig;важливий;;education;wichtig;важливий;adj
-fließend;вільний;;education;fließend;вільний;adj
-deutlich;чіткий;;education;deutlich;чіткий;adj
-richtig;правильний;;education;richtig;правильний;adj
-falsch;неправильний;;education;falsch;неправильний;adj
-nützlich;корисний;;education;nützlich;корисний;adj
+die Mathematik;математика;;education;Mathematik;математика;noun;
+das Deutsch;німецька мова;;education;Deutsch;німецька;noun;
+das Englisch;англійська мова;;education;Englisch;англійська;noun;
+das Französisch;французька мова;;education;Französisch;французька;noun;
+das Spanisch;іспанська мова;;education;Spanisch;іспанська;noun;
+das Latein;латинська мова;;education;Latein;латинська;noun;
+die Biologie;біологія;;education;Biologie;біологія;noun;
+die Chemie;хімія;;education;Chemie;хімія;noun;
+die Physik;фізика;;education;Physik;фізика;noun;
+die Geschichte;історія;;education;Geschichte;історія;noun;
+die Erdkunde;географія;;education;Erdkunde;географія;noun;
+die Sozialkunde;суспільствознавство;;education;Sozialkunde;суспільствознавство;noun;
+die Politik;політика;;education;Politik;політика;noun;
+die Wirtschaft;економіка;;education;Wirtschaft;економіка;noun;
+die Religion;релігія;;education;Religion;релігія;noun;
+die Ethik;етика;;education;Ethik;етика;noun;
+die Philosophie;філософія;;education;Philosophie;філософія;noun;
+die Informatik;інформатика;;education;Informatik;інформатика;noun;
+die Technik;техніка;;education;Technik;техніка;noun;
+das Werken;трудове навчання;;education;Werken;праця;noun;
+die Hauswirtschaft;домоводство;;education;Hauswirtschaft;домоводство;noun;
+das Textile Gestalten;текстильне оформлення;;education;Textil + Gestalten;текстиль + оформлення;noun;
+das Darstellende Spiel;театральне мистецтво;;education;darstellend + Spiel;виконавський + гра;noun;
+die Psychologie;психологія;;education;Psychologie;психологія;noun;
+die Astronomie;астрономія;;education;Astronomie;астрономія;noun;
+die Geologie;геологія;;education;Geologie;геологія;noun;
+die Naturwissenschaften;природничі науки;die Naturwissenschaften;education;Natur + Wissenschaft;природа + наука;noun;
+die Gesellschaftswissenschaften;суспільні науки;die Gesellschaftswissenschaften;education;Gesellschaft + Wissenschaft;суспільство + наука;noun;
+die Medienkunde;медіазнавство;;education;Medien + Kunde;медіа + знання;noun;
+die Rechtskunde;правознавство;;education;Recht + Kunde;право + знання;noun;
+die Umweltkunde;природознавство;;education;Umwelt + Kunde;довкілля + знання;noun;
+die Sachkunde;природознавство;;education;Sach + Kunde;предмет + знання;noun;
+die Heimatkunde;краєзнавство;;education;Heimat + Kunde;батьківщина + знання;noun;
+die Literatur;література;;education;Literatur;література;noun;
+der Chor;хор;;education;Chor;хор;noun;
+die Robotik;робототехніка;;education;Robotik;робототехніка;noun;
+das Programmieren;програмування;;education;Programmieren;програмування;noun;
+das Webdesign;веб-дизайн;;education;Webdesign;веб-дизайн;noun;
+die Gesundheitslehre;здоров'язнавство;;education;Gesundheitslehre;здоров'язнавство;noun;
+die Kunstgeschichte;історія мистецтва;;education;Kunst + Geschichte;мистецтво + історія;noun;
+die Universität;університет;die Universitäten;education;Universität;університет;noun;
+der Student;студент;die Studenten;education;Student;студент;noun;
+die Studentin;студентка;die Studentinnen;education;Studentin;студентка;noun;
+der Professor;професор;die Professoren;education;Professor;професор;noun;
+die Professorin;професорка;die Professorinnen;education;Professorin;професорка;noun;
+der Dozent;викладач;die Dozenten;education;Dozent;викладач;noun;
+die Dozentin;викладачка;die Dozentinnen;education;Dozentin;викладачка;noun;
+das Seminar;семінар;die Seminare;education;Seminar;семінар;noun;
+die Vorlesung;лекція;die Vorlesungen;education;Vorlesung;лекція;noun;
+die Klausur;письмовий іспит;die Klausuren;education;Klausur;письмовий іспит;noun;
+die Prüfung;іспит;die Prüfungen;education;Prüfung;іспит;noun;
+das Examen;екзамен;die Examen;education;Examen;екзамен;noun;
+der Abschluss;диплом;die Abschlüsse;education;Abschluss;диплом;noun;
+das Diplom;диплом;die Diplome;education;Diplom;диплом;noun;
+der Bachelor;бакалавр;die Bachelor;education;Bachelor;бакалавр;noun;
+der Master;магістр;die Master;education;Master;магістр;noun;
+das Studium;навчання;die Studien;education;Studium;навчання;noun;
+die Einschreibung;зарахування;die Einschreibungen;education;Einschreibung;зарахування;noun;
+der Studiengang;навчальна програма;die Studiengänge;education;Studium + Gang;навчальна програма;noun;
+das Fach;предмет;die Fächer;education;Fach;предмет;noun;
+der Stundenplan;розклад занять;die Stundenpläne;education;Stunde + Plan;розклад занять;noun;
+die Mensa;їдальня;die Mensen;education;Mensa;їдальня;noun;
+der Campus;кампус;die Campus;education;Campus;кампус;noun;
+das Studentenwohnheim;студентський гуртожиток;die Studentenwohnheime;education;Student + Wohnheim;студентський гуртожиток;noun;
+der Hörsaal;лекційна зала;die Hörsäle;education;hören + Saal;лекційна зала;noun;
+der Seminarraum;семінарська кімната;die Seminarräume;education;Seminar + Raum;семінарська кімната;noun;
+die Hausarbeit;курсова робота;die Hausarbeiten;education;Haus + Arbeit;курсова робота;noun;
+die Abschlussarbeit;дипломна робота;die Abschlussarbeiten;education;Abschluss + Arbeit;дипломна робота;noun;
+die Bachelorarbeit;бакалаврська робота;die Bachelorarbeiten;education;Bachelor + Arbeit;бакалаврська робота;noun;
+die Masterarbeit;магістерська робота;die Masterarbeiten;education;Master + Arbeit;магістерська робота;noun;
+die Promotion;докторантура;die Promotionen;education;Promotion;докторантура;noun;
+das Stipendium;стипендія;die Stipendien;education;Stipendium;стипендія;noun;
+die Fachschaft;студентська рада;die Fachschaften;education;Fach + schaft;студентська рада;noun;
+der Kommilitone;однокурсник;die Kommilitonen;education;Kommilitone;однокурсник;noun;
+das Semester;семестр;die Semester;education;Semester;семестр;noun;
+die Semesterferien;канікули;;education;Semesterferien;канікули;noun;
+die Vorlesungszeit;лекційний період;die Vorlesungszeiten;education;Vorlesung + Zeit;лекційний період;noun;
+die Prüfungsphase;екзаменаційна сесія;die Prüfungsphasen;education;Prüfung + Phase;екзаменаційна сесія;noun;
+der Schein;сертифікат;die Scheine;education;Schein;сертифікат;noun;
+die Immatrikulation;зарахування;die Immatrikulationen;education;Immatrikulation;зарахування;noun;
+schwierig;важкий;;education;schwierig;важкий;adj;
+einfach;легкий;;education;einfach;легкий;adj;
+die Zensur;бал;die Zensuren;education;Zensur;бал;noun;
+die Abschlussprüfung;випускний іспит;die Abschlussprüfungen;education;Abschluss + Prüfung;випускний іспит;noun;
+die Wiederholungsprüfung;перескладання;die Wiederholungsprüfungen;education;Wiederholung + Prüfung;перескладання;noun;
+der Test;тест;die Tests;education;Test;тест;noun;
+die Klassenarbeit;контрольна робота;die Klassenarbeiten;education;Klasse + Arbeit;контрольна робота;noun;
+die Bewertung;оцінювання;die Bewertungen;education;Bewertung;оцінювання;noun;
+der Notendurchschnitt;середній бал;die Notendurchschnitte;education;Note + Durchschnitt;середній бал;noun;
+die Bestehensgrenze;прохідний бал;die Bestehensgrenzen;education;Bestehen + Grenze;прохідний бал;noun;
+die Punktzahl;кількість балів;die Punktzahlen;education;Punkt + Zahl;кількість балів;noun;
+das Ergebnis;результат;die Ergebnisse;education;Ergebnis;результат;noun;
+der Fehler;помилка;die Fehler;education;Fehler;помилка;noun;
+die Korrektur;виправлення;die Korrekturen;education;Korrektur;виправлення;noun;
+der Prüfungsraum;аудиторія для іспиту;die Prüfungsräume;education;Prüfung + Raum;аудиторія для іспиту;noun;
+der Spickzettel;шпаргалка;die Spickzettel;education;Spick + Zettel;шпаргалка;noun;
+der Prüfling;екзаменований;die Prüflinge;education;Prüfling;екзаменований;noun;
+der Prüfer;екзаменатор;die Prüfer;education;Prüfer;екзаменатор;noun;
+die mündliche Prüfung;усний іспит;die mündlichen Prüfungen;education;mündlich + Prüfung;усний іспит;noun;
+die schriftliche Prüfung;письмовий іспит;die schriftlichen Prüfungen;education;schriftlich + Prüfung;письмовий іспит;noun;
+die Wiederholung;повторення;die Wiederholungen;education;Wiederholung;повторення;noun;
+bestehen;скласти (іспит);;education;bestehen;скласти;verb (strong);
+durchfallen;провалити;;education;durchfallen;провалити;verb (strong);
+wiederholen;повторювати;;education;wiederholen;повторювати;verb (weak);
+bewerten;оцінювати;;education;bewerten;оцінювати;verb (weak);
+korrigieren;виправляти;;education;korrigieren;виправляти;verb (weak);
+schummeln;списувати;;education;schummeln;списувати;verb (weak);
+lernen;вчити;;education;lernen;вчити;verb (weak);
+sich anmelden;зареєструватися;;education;anmelden;реєструватися;verb (separable);
+absolvieren;проходити (іспит);;education;absolvieren;проходити;verb (weak);
+erreichen;досягати;;education;erreichen;досягати;verb (weak);
+versetzen;переводити (у наступний клас);;education;versetzen;переводити;verb (weak);
+sitzenbleiben;залишатися на другий рік;;education;sitzen + bleiben;залишатися на другий рік;verb (strong);
+der Nachprüfung;переекзаменування;die Nachprüfungen;education;Nach + Prüfung;переекзаменування;noun;
+die Versetzung;переведення до наступного класу;die Versetzungen;education;Versetzung;переведення;noun;
+die Leistung;успішність;die Leistungen;education;Leistung;успішність;noun;
+die Anerkennung;визнання;die Anerkennungen;education;Anerkennung;визнання;noun;
+das Prädikat;відзнака;die Prädikate;education;Prädikat;відзнака;noun;
+das Abitur;атестат про повну середню освіту;die Abiture;education;Abitur;атестат;noun;
+die Matura;атестат зрілості (Австрія);die Maturen;education;Matura;атестат зрілості;noun;
+die Reifeprüfung;іспит на атестат зрілості;die Reifeprüfungen;education;Reife + Prüfung;іспит на атестат зрілості;noun;
+der Notenschlüssel;шкала оцінювання;die Notenschlüssel;education;Note + Schlüssel;шкала оцінювання;noun;
+der Punkt;бал;die Punkte;education;Punkt;бал;noun;
+die Höchstpunktzahl;максимальна кількість балів;die Höchstpunktzahlen;education;Höchst + Punkt + Zahl;максимальна кількість балів;noun;
+die Sprache;мова;die Sprachen;education;Sprache;мова;noun;
+die Fremdsprache;іноземна мова;die Fremdsprachen;education;Fremd + Sprache;іноземна мова;noun;
+der Sprachkurs;мовний курс;die Sprachkurse;education;Sprache + Kurs;мовний курс;noun;
+das Vokabelheft;зошит для слів;die Vokabelhefte;education;Vokabel + Heft;зошит для слів;noun;
+die Grammatik;граматика;die Grammatiken;education;Grammatik;граматика;noun;
+die Lektion;урок;die Lektionen;education;Lektion;урок;noun;
+der Text;текст;die Texte;education;Text;текст;noun;
+der Ausdruck;вираз;die Ausdrücke;education;Ausdruck;вираз;noun;
+der Wortschatz;словниковий запас;die Wortschätze;education;Wort + Schatz;словниковий запас;noun;
+die Übersetzung;переклад;die Übersetzungen;education;Übersetzung;переклад;noun;
+das Wörterbuch;словник;die Wörterbücher;education;Wörter + Buch;словник;noun;
+die Bedeutung;значення;die Bedeutungen;education;Bedeutung;значення;noun;
+die Hausaufgabe;домашнє завдання;die Hausaufgaben;education;Haus + Aufgabe;домашнє завдання;noun;
+der Schüler;учень;die Schüler;education;Schüler;учень;noun;
+die Schülerin;учениця;die Schülerinnen;education;Schülerin;учениця;noun;
+das Klassenzimmer;класна кімната;die Klassenzimmer;education;Klasse + Zimmer;класна кімната;noun;
+die Tafel;дошка;die Tafeln;education;Tafel;дошка;noun;
+der Stift;ручка;die Stifte;education;Stift;ручка;noun;
+das Heft;зошит;die Hefte;education;Heft;зошит;noun;
+das Lehrbuch;підручник;die Lehrbücher;education;Lehr + Buch;підручник;noun;
+sprechen;говорити;;education;sprechen;говорити;verb (strong);
+hören;слухати;;education;hören;слухати;verb (weak);
+übersetzen;перекладати;;education;übersetzen;перекладати;verb (weak);
+nachschlagen;шукати;;education;nachschlagen (zu schlagen);шукати;verb (separable);
+aufschreiben;записувати;;education;aufschreiben (zu schreiben);записувати;verb (separable);
+fließend;вільний;;education;fließend;вільний;adj;
+zweisprachig;двомовний;;education;zweisprachig;двомовний;adj;
+langsam;повільний;;education;langsam;повільний;adj;
+deutlich;чіткий;;education;deutlich;чіткий;adj;
+das Beispiel;приклад;die Beispiele;education;Beispiel;приклад;noun;
+die Konjugation;дієвідмінювання;die Konjugationen;education;Konjugation;дієвідмінювання;noun;
+die Deklination;відмінювання;die Deklinationen;education;Deklination;відмінювання;noun;
+das Verb;дієслово;die Verben;education;Verb;дієслово;noun;
+das Substantiv;іменник;die Substantive;education;Substantiv;іменник;noun;
+das Adjektiv;прикметник;die Adjektive;education;Adjektiv;прикметник;noun;
+das Pronomen;займенник;die Pronomen;education;Pronomen;займенник;noun;
+das Niveau;рівень;die Niveaus;education;Niveau;рівень;noun;
+die Sprachschule;мовна школа;die Sprachschulen;education;Sprache + Schule;мовна школа;noun;

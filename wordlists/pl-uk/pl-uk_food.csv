@@ -1,200 +1,142 @@
-restauracja;ресторан;ресторани (чоловічий);food;restauracja;ресторан;noun
-menu;меню;;food;menu;меню;noun
-kelner;офіціант;офіціанти (чоловічий);food;kelner;офіціант;noun
-kelnerka;офіціантка;офіціантки (жіночий);food;kelnerka;офіціантка;noun
-stolik;столик;столики (чоловічий);food;stolik;столик;noun
-krzesło;стілець;стільці (чоловічий);food;krzesło;стілець;noun
-talerz;тарілка;тарілки (жіночий);food;talerz;тарілка;noun
-widelec;виделка;виделки (жіночий);food;widelec;виделка;noun
-nóż;ніж;ножі (чоловічий);food;nóż;ніж;noun
-łyżka;ложка;ложки (жіночий);food;łyżka;ложка;noun
-szklanka;склянка;склянки (жіночий);food;szklanka;склянка;noun
-filiżanka;чашка;чашки (жіночий);food;filiżanka;чашка;noun
-rachunek;рахунок;рахунки (чоловічий);food;rachunek;рахунок;noun
-napiwek;чайові;чайові;food;napiwek;чайові;noun
-rezerwacja;бронювання;;food;rezerwacja;бронювання;noun
-zamówienie;замовлення;замовлення (середній);food;zamówienie;замовлення;noun
-przystawka;закуска;закуски (жіночий);food;przystawka;закуска;noun
-danie główne;основна страва;основні страви (жіночий);food;danie główne;основна страва;noun
-deser;десерт;десерти (чоловічий);food;deser;десерт;noun
-napój;напій;напої (чоловічий);food;napój;напій;noun
-piwo;пиво;;food;piwo;пиво;noun
-wino;вино;;food;wino;вино;noun
-woda;вода;;food;woda;вода;noun
-sok;сік;;food;sok;сік;noun
-kawa;кава;;food;kawa;кава;noun
-herbata;чай;;food;herbata;чай;noun
-zupa;суп;супи (чоловічий);food;zupa;суп;noun
-sałatka;салат;салати (чоловічий);food;sałatka;салат;noun
-stek;стейк;стейки (чоловічий);food;stek;стейк;noun
-ryba;риба;риби (жіночий);food;ryba;риба;noun
-porcja;порція;порції (жіночий);food;porcja;порція;noun
-składnik;інгредієнт;інгредієнти (чоловічий);food;składnik;інгредієнт;noun
-danie;страва;страви (жіночий);food;danie;страва;noun
-karta dań;карта страв;карти страв (жіночий);food;karta dań;карта страв;noun
-serwetka;серветка;серветки (жіночий);food;serwetka;серветка;noun
-sztućce;столові прибори;столові прибори (чоловічий);food;sztućce;столові прибори;noun
-wegetariański;вегетаріанський;;food;wegetariański;вегетаріанський;adj
-wegański;веганський;;food;wegański;веганський;adj
-bezglutenowy;безглютеновий;;food;bezglutenowy;безглютеновий;adj
-ostry;гострий;;food;ostry;гострий;adj
-słony;солоний;;food;słony;солоний;adj
-słodki;солодкий;;food;słodki;солодкий;adj
-gorzki;гіркий;;food;gorzki;гіркий;adj
-zimny;холодний;;food;zimny;холодний;adj
-gorący;гарячий;;food;gorący;гарячий;adj
-pyszny;смачний;;food;pyszny;смачний;adj
-tani;дешевий;;food;tani;дешевий;adj
-drogi;дорогий;;food;drogi;дорогий;adj
-rezerwować;бронювати;;food;rezerwować;бронювати;verb
-zamawiać;замовляти;;food;zamawiać;замовляти;verb
-gotować;варити;;food;gotować;варити;verb
-smażyć;смажити;;food;smażyć;смажити;verb
-piec;пекти;;food;piec;пекти;verb
-gotować na parze;готувати на парі;;food;gotować na parze;готувати на парі;verb
-dusić;тушкувати;;food;dusić;тушкувати;verb
-grillować;грилювати;;food;grillować;грилювати;verb
-mieszać;змішувати;;food;mieszać;змішувати;verb
-ubijać;збивати;;food;ubijać;збивати;verb
-kroić;різати;;food;kroić;різати;verb
-siekać;сікти;;food;siekać;сікти;verb
-obierać;чистити;;food;obierać;чистити;verb
-ścierać;терти;;food;ścierać;терти;verb
-wyrabiać;вимішувати;;food;wyrabiać;вимішувати;verb
-wałkować;розкачувати;;food;wałkować;розкачувати;verb
-nalewać;наливати;;food;nalewać;наливати;verb
-odcedzać;відціджувати;;food;odcedzać;відціджувати;verb
-marynować;маринувати;;food;marynować;маринувати;verb
-przyprawiać;приправляти;;food;przyprawiać;приправляти;verb
-solić;солити;;food;solić;солити;verb
-pieprzyć;перчити;;food;pieprzyć;перчити;verb
-słodzić;підсолоджувати;;food;słodzić;підсолоджувати;verb
-podgrzewać;підігрівати;;food;podgrzewać;підігрівати;verb
-zamrażać;заморожувати;;food;zamrażać;заморожувати;verb
-rozmrażać;розморожувати;;food;rozmrażać;розморожувати;verb
-gotować na wolnym ogniu;варити на повільному вогні;;food;gotować na wolnym ogniu;варити на повільному вогні;verb
-blendować;блендувати;;food;blendować;блендувати;verb
-tłuc;товкти;;food;tłuc;товкти;verb
-panierować;панірувати;;food;panierować;панірувати;verb
-obtaczać;обвалювати;;food;obtaczać;обвалювати;verb
-faszerować;фарширувати;;food;faszerować;фарширувати;verb
-dekorować;прикрашати;;food;dekorować;прикрашати;verb
-podawać;подавати;;food;podawać;подавати;verb
-kroić w plasterki;нарізати скибочками;;food;kroić w plasterki;нарізати скибочками;verb
-kroić w kostkę;нарізати кубиками;;food;kroić w kostkę;нарізати кубиками;verb
-rozdrabniać;подрібнювати;;food;rozdrabniać;подрібнювати;verb
-ucierać;розтирати;;food;ucierać;розтирати;verb
-zaparzać;заварювати;;food;zaparzać;заварювати;verb
-parzyć;бланшувати;;food;parzyć;бланшувати;verb
-zagotować;закип'ятити;;food;zagotować;закип'ятити;verb
-smażyć na głębokim oleju;смажити у фритюрі;;food;smażyć na głębokim oleju;смажити у фритюрі;verb
-dusić pod przykryciem;тушкувати під кришкою;;food;dusić pod przykryciem;тушкувати під кришкою;verb
-piec w piekarniku;запікати в духовці;;food;piec w piekarniku;запікати в духовці;verb
-opiekać;підсмажувати;;food;opiekać;підсмажувати;verb
-przypalać;підпалювати;;food;przypalać;підпалювати;verb
-chłodzić;охолоджувати;;food;chłodzić;охолоджувати;verb
-studzić;остуджувати;;food;studzić;остуджувати;verb
-mrozić;морозити;;food;mrozić;морозити;verb
-kandyzować;зацукровувати;;food;kandyzować;зацукровувати;verb
-karmelizować;карамелізувати;;food;karmelizować;карамелізувати;verb
-glazurować;глазурувати;;food;glazurować;глазурувати;verb
-mąka;борошно; (nijaki);food;mąka;борошно;noun
-cukier;цукор; (męski);food;cukier;цукор;noun
-sól;сіль; (żeński);food;sól;сіль;noun
-pieprz;перець; (męski);food;pieprz;перець;noun
-olej;олія; (żeński);food;olej;олія;noun
-masło;масло; (nijaki);food;masło;масло;noun
-jajko;яйце;яйця (nijaki);food;jajko;яйце;noun
-mleko;молоко; (nijaki);food;mleko;молоко;noun
-śmietana;сметана; (żeński);food;śmietana;сметана;noun
-ser;сир; (męski);food;ser;сир;noun
-mięso;м'ясо; (nijaki);food;mięso;м'ясо;noun
-ryba;риба;риби (żeński);food;ryba;риба;noun
-kurczak;курка;курки (żeński);food;kurczak;курка;noun
-wołowina;яловичина; (żeński);food;wołowina;яловичина;noun
-wieprzowina;свинина; (żeński);food;wieprzowina;свинина;noun
-ziemniak;картопля;картоплі (żeński);food;ziemniak;картопля;noun
-cebula;цибуля;цибулі (żeński);food;cebula;цибуля;noun
-czosnek;часник; (męski);food;czosnek;часник;noun
-marchew;морква;моркви (żeński);food;marchew;морква;noun
-pomidor;помідор;помідори (męski);food;pomidor;помідор;noun
-ogórek;огірок;огірки (męski);food;ogórek;огірок;noun
-papryka;перець;перці (męski);food;papryka;перець;noun
-kurkuma;куркума; (żeński);food;kurkuma;куркума;noun
-bazylia;базилік; (męski);food;bazylia;базилік;noun
-oregano;орегано; (nijaki);food;oregano;орегано;noun
-tymianek;чебрець; (męski);food;tymianek;чебрець;noun
-rozmaryn;розмарин; (męski);food;rozmaryn;розмарин;noun
-cynamon;кориця; (żeński);food;cynamon;кориця;noun
-imbir;імбир; (męski);food;imbir;імбир;noun
-goździk;гвоздика;гвоздики (żeński);food;goździk;гвоздика;noun
-gałka muszkatołowa;мускатний горіх;мускатні горіхи (męski);food;gałka muszkatołowa;мускатний горіх;noun
-wanilia;ваніль; (żeński);food;wanilia;ваніль;noun
-kakao;какао; (nijaki);food;kakao;какао;noun
-czekolada;шоколад; (męski);food;czekolada;шоколад;noun
-dżem;джем; (męski);food;dżem;джем;noun
-miód;мед; (męski);food;miód;мед;noun
-kasza;крупа;крупи (żeński);food;kasza;крупа;noun
-ryż;рис; (męski);food;ryż;рис;noun
-makaron;макарони; (plural only);food;makaron;макарони;noun
-naleśnik;млинець;млинці (męski);food;naleśnik;млинець;noun
-pieróg;пиріг;пироги (męski);food;pieróg;пиріг;noun
-sałatka;салат;салати (męski);food;sałatka;салат;noun
-zupa;суп;супи (męski);food;zupa;суп;noun
-sos;соус;соуси (męski);food;sos;соус;noun
-ketchup;кетчуп; (męski);food;ketchup;кетчуп;noun
-majonez;майонез; (męski);food;majonez;майонез;noun
-musztarda;гірчиця; (żeński);food;musztarda;гірчиця;noun
-ocet;оцет; (męski);food;ocet;оцет;noun
-drożdże;дріжджі; (plural only);food;drożdże;дріжджі;noun
-twaróg;творог; (męski);food;twaróg;творог;noun
-dieta;дієта;дієти (жіночий);food;dieta;дієта;noun
-odżywianie;харчування;;food;odżywianie;харчування;noun
-składnik;інгредієнт;інгредієнти (чоловічий);food;składnik;інгредієнт;noun
-białko;білок;білки (чоловічий);food;białko;білок;noun
-węglowodany;вуглеводи;вуглеводи (чоловічий);food;węglowodan;вуглевод;noun
-tłuszcz;жир;жири (чоловічий);food;tłuszcz;жир;noun
-witamina;вітамін;вітаміни (чоловічий);food;witamina;вітамін;noun
-minerał;мінерал;мінерали (чоловічий);food;minerał;мінерал;noun
-kaloria;калорія;калорії (жіночий);food;kaloria;калорія;noun
-błonnik;клітковина;;food;błonnik;клітковина;noun
-cholesterol;холестерин;;food;cholesterol;холестерин;noun
-cukier;цукор;цукри (чоловічий);food;cukier;цукор;noun
-sól;сіль;солі (жіночий);food;sól;сіль;noun
-tłuszcz nasycony;насичений жир;насичені жири (чоловічий);food;tłuszcz nasycony;насичений жир;noun
-tłuszcz nienasycony;ненасичений жир;ненасичені жири (чоловічий);food;tłuszcz nienasycony;ненасичений жир;noun
-kwas tłuszczowy;жирна кислота;жирні кислоти (жіночий);food;kwas tłuszczowy;жирна кислота;noun
-omega-3;омега-3;;food;omega-3;омега-3;noun
-przeciwutleniacz;антиоксидант;антиоксиданти (чоловічий);food;przeciwutleniacz;антиоксидант;noun
-dieta wegetariańska;вегетаріанська дієта;вегетаріанські дієти (жіночий);food;dieta wegetariańska;вегетаріанська дієта;noun
-dieta wegańska;веганська дієта;веганські дієти (жіночий);food;dieta wegańska;веганська дієта;noun
-wegetarianin;вегетаріанець;вегетаріанці (чоловічий);food;wegetarianin;вегетаріанець;noun
-weganin;веган;вегани (чоловічий);food;weganin;веган;noun
-nietolerancja pokarmowa;харчова непереносимість;;food;nietolerancja pokarmowa;харчова непереносимість;noun
-alergia pokarmowa;харчова алергія;харчові алергії (жіночий);food;alergia pokarmowa;харчова алергія;noun
-gluten;глютен;;food;gluten;глютен;noun
-laktoza;лактоза;;food;laktoza;лактоза;noun
-fruktoza;фруктоза;;food;fruktoza;фруктоза;noun
-indeks glikemiczny;глікемічний індекс;глікемічні індекси (чоловічий);food;indeks glikemiczny;глікемічний індекс;noun
-metabolizm;метаболізм;;food;metabolizm;метаболізм;noun
-trawienie;травлення;;food;trawienie;травлення;noun
-zapotrzebowanie kaloryczne;калорійна потреба;калорійні потреби (жіночий);food;zapotrzebowanie kaloryczne;калорійна потреба;noun
-anoreksja;анорексія;;food;anoreksja;анорексія;noun
-bulimia;булімія;;food;bulimia;булімія;noun
-otyłość;ожиріння;;food;otyłość;ожиріння;noun
-nadwaga;зайва вага;зайві ваги (жіночий);food;nadwaga;зайва вага;noun
-niedowaga;недостатня вага;недостатні ваги (жіночий);food;niedowaga;недостатня вага;noun
-waga;вага;ваги (жіночий);food;waga;вага;noun
-suplement diety;дієтична добавка;дієтичні добавки (жіночий);food;suplement diety;дієтична добавка;noun
-fast food;фаст-фуд;;food;fast food;фаст-фуд;noun
-zdrowe jedzenie;здорова їжа;;food;zdrowe jedzenie;здорова їжа;noun
-niezdrowe jedzenie;нездорова їжа;;food;niezdrowe jedzenie;нездорова їжа;noun
-porcja;порція;порції (жіночий);food;porcja;порція;noun
-głodówka;голодування;голодування (середній);food;głodówka;голодування;noun
-detoks;детокс;детокси (чоловічий);food;detoks;детокс;noun
-dieta niskokaloryczna;низькокалорійна дієта;низькокалорійні дієти (жіночий);food;dieta niskokaloryczna;низькокалорійна дієта;noun
-dieta wysokobiałkowa;високобілкова дієта;високобілкові дієти (жіночий);food;dieta wysokobiałkowa;високобілкова дієта;noun
-liczenie kalorii;підрахунок калорій;підрахунки калорій (чоловічий);food;liczenie kalorii;підрахунок калорій;noun
-nawadnianie;гідратація;;food;nawadnianie;гідратація;noun
-pragnienie;спрага;;food;pragnienie;спрага;noun
-apetyt;апетит;апетити (чоловічий);food;apetyt;апетит;noun
+kelnerka;офіціантка;kelnerki;food;kelnerka;офіціантка;noun;
+menu;меню;menu;food;menu;меню;noun;
+zamówienie;замовлення;zamówienia;food;zamówienie;замовлення;noun;
+stolik;столик;stoliki;food;stolik;столик;noun;
+talerz;тарілка;talerze;food;talerz;тарілка;noun;
+widelec;виделка;widelce;food;widelec;виделка;noun;
+nóż;ніж;noże;food;nóż;ніж;noun;
+łyżka;ложка;łyżki;food;łyżka;ложка;noun;
+łyżeczka;ложечка;łyżeczki;food;łyżeczka;ложечка;noun;
+szklanka;склянка;szklanki;food;szklanka;склянка;noun;
+kieliszek;келих;kieliszki;food;kieliszek;келих;noun;
+filiżanka;чашка;filiżanki;food;filiżanka;чашка;noun;
+serwetka;серветка;serwetki;food;serwetka;серветка;noun;
+obrus;скатертина;obrusy;food;obrus;скатертина;noun;
+świeczka;свічка;świeczki;food;świeczka;свічка;noun;
+danie;страва;dania;food;danie;страва;noun;
+przystawka;закуска;przystawki;food;przystawka;закуска;noun;
+zupa;суп;zupy;food;zupa;суп;noun;
+danie główne;основна страва;dania główne;food;danie główne;основна страва;noun;
+deser;десерт;desery;food;deser;десерт;noun;
+pieprz;перець;;food;pieprz;перець;noun;
+sos;соус;sosy;food;sos;соус;noun;
+ryba;риба;ryby;food;ryba;риба;noun;
+owoce morza;морепродукти;;food;owoc morza;морепродукт;noun;
+sztuciec;столовий прибор;sztućce;food;sztuciec;столовий прибор;noun;
+dzbanek;глечик;dzbanki;food;dzbanek;глечик;noun;
+popielniczka;попільничка;popielniczki;food;popielniczka;попільничка;noun;
+ugotować;зварити;;food;ugotować;зварити;verb (perfective);
+smażyć;смажити;;food;smażyć;смажити;verb (imperfective);
+usmażyć;посмажити;;food;usmażyć;посмажити;verb (perfective);
+piec;пекти;;food;piec;пекти;verb (imperfective);
+upiec;спекти;;food;upiec;спекти;verb (perfective);
+kroić;різати;;food;kroić;різати;verb (imperfective);
+pokroić;порізати;;food;pokroić;порізати;verb (perfective);
+siekać;сікти;;food;siekać;сікти;verb (imperfective);
+posiekać;посікти;;food;posiekać;посікти;verb (perfective);
+mieszać;мішати;;food;mieszać;мішати;verb (imperfective);
+wymieszać;перемішати;;food;wymieszać;перемішати;verb (perfective);
+dodawać;додавати;;food;dodawać;додавати;verb (imperfective);
+dodać;додати;;food;dodać;додати;verb (perfective);
+solić;солити;;food;solić;солити;verb (imperfective);
+posolić;посолити;;food;posolić;посолити;verb (perfective);
+pieprzyć;перчити;;food;pieprzyć;перчити;verb (imperfective);
+popieprzyć;поперчити;;food;popieprzyć;поперчити;verb (perfective);
+obtaczać;обвалювати;;food;obtaczać;обвалювати;verb (imperfective);
+obtoczyć;обваляти;;food;obtoczyć;обваляти;verb (perfective);
+panierować;панірувати;;food;panierować;панірувати;verb (imperfective);
+opanierować;запанірувати;;food;opanierować;запанірувати;verb (perfective);
+parować;парити;;food;parować;парити;verb (imperfective);
+sparować;спарити;;food;sparować;спарити;verb (perfective);
+dusić;тушкувати;;food;dusić;тушкувати;verb (imperfective);
+udusić;потушкувати;;food;udusić;потушкувати;verb (perfective);
+frytować;фритюрити;;food;frytować;фритюрити;verb (imperfective);
+ufrytować;зафритюрити;;food;ufrytować;зафритюрити;verb (perfective);
+grillować;грилювати;;food;grillować;грилювати;verb (imperfective);
+ugrillować;загрилювати;;food;ugrillować;загрилювати;verb (perfective);
+marynować;маринувати;;food;marynować;маринувати;verb (imperfective);
+zamarynować;замаринувати;;food;zamarynować;замаринувати;verb (perfective);
+obierać;чистити;;food;obierać;чистити;verb (imperfective);
+obrać;почистити;;food;obrać;почистити;verb (perfective);
+trzeć;терти;;food;trzeć;терти;verb (imperfective);
+utrzeć;потерти;;food;utrzeć;потерти;verb (perfective);
+ubijać;збивати;;food;ubijać;збивати;verb (imperfective);
+ubić;збити;;food;ubić;збити;verb (perfective);
+wałkować;розкачувати;;food;wałkować;розкачувати;verb (imperfective);
+rozwałkować;розкачати;;food;rozwałkować;розкачати;verb (perfective);
+odcedzać;відціджувати;;food;odcedzać;відціджувати;verb (imperfective);
+odcedzić;відцідити;;food;odcedzić;відцідити;verb (perfective);
+przecedzać;проціджувати;;food;przecedzać;проціджувати;verb (imperfective);
+przecedzić;процідити;;food;przecedzić;процідити;verb (perfective);
+przesiewać;просіювати;;food;przesiewać;просіювати;verb (imperfective);
+przesiać;просіяти;;food;przesiać;просіяти;verb (perfective);
+rozpuszczać;розчиняти;;food;rozpuszczać;розчиняти;verb (imperfective);
+rozpuścić;розчинити;;food;rozpuścić;розчинити;verb (perfective);
+rozmrażać;розморожувати;;food;rozmrażać;розморожувати;verb (imperfective);
+rozmrozić;розморозити;;food;rozmrozić;розморозити;verb (perfective);
+olej;олія;;food;olej;олія;noun;
+mleko;молоко;;food;mleko;молоко;noun;
+ziemniak;картопля;ziemniaki;food;ziemniak;картопля;noun;
+cebula;цибуля;cebule;food;cebula;цибуля;noun;
+marchew;морква;marchewki;food;marchew;морква;noun;
+pomidor;помідор;pomidory;food;pomidor;помідор;noun;
+ogórek;огірок;ogórki;food;ogórek;огірок;noun;
+kapusta;капуста;;food;kapusta;капуста;noun;
+czosnek;часник;;food;czosnek;часник;noun;
+koperek;кріп;;food;koperek;кріп;noun;
+pietruszka;петрушка;;food;pietruszka;петрушка;noun;
+bazylia;базилік;;food;bazylia;базилік;noun;
+oregano;орегано;;food;oregano;орегано;noun;
+cynamon;кориця;;food;cynamon;кориця;noun;
+imbir;імбир;;food;imbir;імбир;noun;
+gałka muszkatołowa;мускатний горіх;gałki muszkatołowe;food;gałka muszkatołowa;мускатний горіх;noun;
+goździk;гвоздика;goździki;food;goździk;гвоздика;noun;
+anyż;аніс;;food;anyż;аніс;noun;
+kmin rzymski;кмин;;food;kmin rzymski;кмин;noun;
+kolendra;коріандр;;food;kolendra;коріандр;noun;
+kurkuma;куркума;;food;kurkuma;куркума;noun;
+papryka;паприка;;food;papryka;паприка;noun;
+chilli;чилі;;food;chilli;чилі;noun;
+wanilia;ваніль;;food;wanilia;ваніль;noun;
+miód;мед;;food;miód;мед;noun;
+ocet;оцет;;food;ocet;оцет;noun;
+sos sojowy;соєвий соус;;food;sos sojowy;соєвий соус;noun;
+musztarda;гірчиця;;food;musztarda;гірчиця;noun;
+majonez;майонез;;food;majonez;майонез;noun;
+śmietana;сметана;;food;śmietana;сметана;noun;
+jogurt;йогурт;;food;jogurt;йогурт;noun;
+mąka pszenna;пшеничне борошно;;food;mąka pszenna;пшеничне борошно;noun;
+mąka żytnia;житнє борошно;;food;mąka żytnia;житнє борошно;noun;
+kasza;крупа;;food;kasza;крупа;noun;
+ryż;рис;;food;ryż;рис;noun;
+makaron;макарони;;food;makaron;макарони;noun;
+płatek owsiany;вівсяний пластівець;płatki owsiane;food;płatek owsiany;вівсяний пластівець;noun;
+rodzynek;родзинка;rodzynki;food;rodzynek;родзинка;noun;
+orzech;горіх;orzechy;food;orzech;горіх;noun;
+migdał;мигдаль;migdały;food;migdał;мигдаль;noun;
+sezam;кунжут;;food;sezam;кунжут;noun;
+słonecznik;соняшник;słoneczniki;food;słonecznik;соняшник;noun;
+błonnik;клітковина;;food;błonnik;клітковина;noun;
+antyoksydant;антиоксидант;antyoksydanty;food;antyoksydant;антиоксидант;noun;
+wegetarianin;вегетаріанець;wegetarianie;food;wegetarianin;вегетаріанець;noun;
+weganin;веган;weganie;food;weganin;веган;noun;
+bezglutenowy;безглютеновий;;food;bezglutenowy;безглютеновий;adj;
+laktoza;лактоза;;food;laktoza;лактоза;noun;
+zdrowy;здоровий;;food;zdrowy;здоровий;adj;
+zbilansowany;збалансований;;food;zbilansowany;збалансований;adj;
+makroskładnik;макронутрієнт;makroskładniki;food;makroskładnik;макронутрієнт;noun;
+mikroskładnik;мікронутрієнт;mikroskładniki;food;mikroskładnik;мікронутрієнт;noun;
+suplement;добавка;suplementy;food;suplement;добавка;noun;
+metabolizm;метаболізм;;food;metabolizm;метаболізм;noun;
+cholesterol;холестерин;;food;cholesterol;холестерин;noun;
+pełnoziarnisty;цільнозерновий;;food;pełnoziarnisty;цільнозерновий;adj;
+roślina strączkowa;бобова культура;rośliny strączkowe;food;roślina strączkowa;бобова культура;noun;
+nasiono;насінина;nasiona;food;nasiono;насінина;noun;
+pełnowartościowy;повноцінний;;food;pełnowartościowy;повноцінний;adj;
+organiczny;органічний;;food;organiczny;органічний;adj;
+przetworzony;оброблений;;food;przetworzony;оброблений;adj;
+niezdrowy;нездоровий;;food;niezdrowy;нездоровий;adj;
+żywność;їжа;;food;żywność;їжа;noun;
+jedzenie;їжа;;food;jedzenie;їжа;noun;
+cukierek;цукерка;cukierki;food;cukierek;цукерка;noun;
+fast food;фаст-фуд;;food;fast food;фаст-фуд;noun;

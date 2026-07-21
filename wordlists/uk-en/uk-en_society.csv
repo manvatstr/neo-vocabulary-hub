@@ -1,200 +1,156 @@
-newspaper;газета;newspapers (feminine);society;newspaper;газета;noun
-journalist;журналіст;journalists (masculine);society;journalist;журналіст;noun
-article;стаття;articles (feminine);society;article;стаття;noun
-headline;заголовок;headlines (masculine);society;headline;заголовок;noun
-broadcast;трансляція;broadcasts (feminine);society;broadcast;трансляція;noun
-channel;канал;channels (masculine);society;channel;канал;noun
-report;звіт;reports (masculine);society;report;звіт;noun
-news;новини;news (feminine);society;news;новини;noun
-media;медіа;media (neuter);society;media;медіа;noun
-interview;інтерв'ю;interviews (neuter);society;interview;інтерв'ю;noun
-press;преса;press (feminine);society;press;преса;noun
-source;джерело;sources (neuter);society;source;джерело;noun
-editor;редактор;editors (masculine);society;editor;редактор;noun
-publication;публікація;publications (feminine);society;publication;публікація;noun
-subscription;підписка;subscriptions (feminine);society;subscription;підписка;noun
-subscriber;підписник;subscribers (masculine);society;subscriber;підписник;noun
-documentary;документальний фільм;documentaries (masculine);society;documentary;документальний фільм;noun
-radio;радіо;radios (neuter);society;radio;радіо;noun
-television;телебачення;(neuter);society;television;телебачення;noun
-internet;інтернет;(masculine);society;internet;інтернет;noun
-blog;блог;blogs (masculine);society;blog;блог;noun
-podcast;подкаст;podcasts (masculine);society;podcast;подкаст;noun
-advertisement;реклама;advertisements (feminine);society;advertisement;реклама;noun
-commercial;рекламний ролик;commercials (masculine);society;commercial;рекламний ролик;noun
-censorship;цензура;(feminine);society;censorship;цензура;noun
-propaganda;пропаганда;(feminine);society;propaganda;пропаганда;noun
-bias;упередження;biases (neuter);society;bias;упередження;noun
-fact;факт;facts (masculine);society;fact;факт;noun
-opinion;думка;opinions (feminine);society;opinion;думка;noun
-debate;дебати;debates (masculine);society;debate;дебати;noun
-correspondent;кореспондент;correspondents (masculine);society;correspondent;кореспондент;noun
-publisher;видавець;publishers (masculine);society;publisher;видавець;noun
-tabloid;таблоїд;tabloids (masculine);society;tabloid;таблоїд;noun
-reporter;репортер;reporters (masculine);society;reporter;репортер;noun
-columnist;колумніст;columnists (masculine);society;columnist;колумніст;noun
-editorial;редакційна стаття;editorials (feminine);society;editorial;редакційна стаття;noun
-news agency;інформаційне агентство;news agencies (neuter);society;news agency;інформаційне агентство;noun
-press conference;прес-конференція;press conferences (feminine);society;press conference;прес-конференція;noun
-freedom of speech;свобода слова;(feminine);society;freedom of speech;свобода слова;noun
-breaking news;екстрені новини;breaking news (feminine);society;breaking news;екстрені новини;noun
-bulletin;бюлетень;bulletins (masculine);society;bulletin;бюлетень;noun
-anchor;ведучий;anchors (masculine);society;anchor;ведучий;noun
-commentator;коментатор;commentators (masculine);society;commentator;коментатор;noun
-coverage;висвітлення;(neuter);society;coverage;висвітлення;noun
-press release;прес-реліз;press releases (masculine);society;press release;прес-реліз;noun
-clickbait;клікбейт;(masculine);society;clickbait;клікбейт;noun
-misinformation;дезінформація;(feminine);society;misinformation;дезінформація;noun
-hoax;фейк;hoaxes (masculine);society;hoax;фейк;noun
-journalism;журналістика;(feminine);society;journalism;журналістика;noun
-whistleblower;інформатор;whistleblowers (masculine);society;whistleblower;інформатор;noun
-election;вибори;вибори (masculine);society;election;вибори;noun
-vote;голос;голоси (masculine);society;vote;голос;noun
-candidate;кандидат;кандидати (masculine);society;candidate;кандидат;noun
-party;партія;партії (feminine);society;party;партія;noun
-parliament;парламент;парламенти (masculine);society;parliament;парламент;noun
-government;уряд;уряди (masculine);society;government;уряд;noun
-democracy;демократія;;society;democracy;демократія;noun
-ballot;бюлетень;бюлетені (masculine);society;ballot;бюлетень;noun
-campaign;кампанія;кампанії (feminine);society;campaign;кампанія;noun
-policy;політика;політики (feminine);society;policy;політика;noun
-right;право;права (neuter);society;right;право;noun
-citizen;громадянин;громадяни (masculine);society;citizen;громадянин;noun
-law;закон;закони (masculine);society;law;закон;noun
-constitution;конституція;конституції (feminine);society;constitution;конституція;noun
-referendum;референдум;референдуми (masculine);society;referendum;референдум;noun
-majority;більшість;;society;majority;більшість;noun
-minority;меншість;;society;minority;меншість;noun
-debate;дебати;дебати (masculine);society;debate;дебати;noun
-poll;опитування;опитування (neuter);society;poll;опитування;noun
-politician;політик;політики (masculine);society;politician;політик;noun
-voter;виборець;виборці (masculine);society;voter;виборець;noun
-polling station;виборча дільниця;виборчі дільниці (feminine);society;polling station;виборча дільниця;noun
-election campaign;виборча кампанія;виборчі кампанії (feminine);society;election campaign;виборча кампанія;noun
-political party;політична партія;політичні партії (feminine);society;political party;політична партія;noun
-president;президент;президенти (masculine);society;president;президент;noun
-prime minister;прем'єр-міністр;прем'єр-міністри (masculine);society;prime minister;прем'єр-міністр;noun
-member of parliament;депутат;депутати (masculine);society;member of parliament;депутат;noun
-bill;законопроєкт;законопроєкти (masculine);society;bill;законопроєкт;noun
-vote;голосувати;;society;vote;голосувати;verb
-elect;обирати;;society;elect;обирати;verb
-campaign;агітувати;;society;campaign;агітувати;verb
-debate;обговорювати;;society;debate;обговорювати;verb
-oppose;опонувати;;society;oppose;опонувати;verb
-support;підтримувати;;society;support;підтримувати;verb
-freedom;свобода;;society;freedom;свобода;noun
-equality;рівність;;society;equality;рівність;noun
-dictatorship;диктатура;диктатури (feminine);society;dictatorship;диктатура;noun
-ideology;ідеологія;ідеології (feminine);society;ideology;ідеологія;noun
-coalition;коаліція;коаліції (feminine);society;coalition;коаліція;noun
-opposition;опозиція;;society;opposition;опозиція;noun
-regime;режим;режими (masculine);society;regime;режим;noun
-human rights;права людини;права людини (neuter);society;human rights;права людини;noun
-corruption;корупція;;society;corruption;корупція;noun
-protest;протест;протести (masculine);society;protest;протест;noun
-demonstration;демонстрація;демонстрації (feminine);society;demonstration;демонстрація;noun
-political;політичний;;society;political;політичний;adj
-democratic;демократичний;;society;democratic;демократичний;adj
-liberal;ліберальний;;society;liberal;ліберальний;adj
-conservative;консервативний;;society;conservative;консервативний;adj
-socialist;соціалістичний;;society;socialist;соціалістичний;adj
-злочин;crime;злочини (masculine);society;злочин;crime;noun
-крадіжка;theft;крадіжки (feminine);society;крадіжка;theft;noun
-грабіж;robbery;грабежі (masculine);society;грабіж;robbery;noun
-вбивство;murder;вбивства (neuter);society;вбивство;murder;noun
-вбивця;murderer;вбивці (masculine);society;вбивця;murderer;noun
-жертва;victim;жертви (feminine);society;жертва;victim;noun
-свідок;witness;свідки (masculine);society;свідок;witness;noun
-підозрюваний;suspect;підозрювані (masculine);society;підозрюваний;suspect;noun
-поліція;police;поліції (feminine);society;поліція;police;noun
-офіцер;officer;офіцери (masculine);society;офіцер;officer;noun
-суд;court;суди (masculine);society;суд;court;noun
-суддя;judge;судді (masculine);society;суддя;judge;noun
-адвокат;lawyer;адвокати (masculine);society;адвокат;lawyer;noun
-в'язниця;prison;в'язниці (feminine);society;в'язниця;prison;noun
-штраф;fine;штрафи (masculine);society;штраф;fine;noun
-вирок;sentence;вироки (masculine);society;вирок;sentence;noun
-винний;guilty;;society;винний;guilty;adj
-невинний;innocent;;society;невинний;innocent;adj
-звинувачувати;to accuse;;society;звинувачувати;to accuse;verb
-арештовувати;to arrest;;society;арештовувати;to arrest;verb
-розслідувати;to investigate;;society;розслідувати;to investigate;verb
-доказ;evidence;докази (masculine);society;доказ;evidence;noun
-алібі;alibi;алібі (neuter);society;алібі;alibi;noun
-судовий процес;trial;судові процеси (masculine);society;судовий процес;trial;noun
-вердикт;verdict;вердикти (masculine);society;вердикт;verdict;noun
-покарання;punishment;покарання (neuter);society;покарання;punishment;noun
-закон;law;закони (masculine);society;закон;law;noun
-правосуддя;justice;;society;правосуддя;justice;noun
-злочинець;criminal;злочинці (masculine);society;злочинець;criminal;noun
-правопорушник;offender;правопорушники (masculine);society;правопорушник;offender;noun
-шантаж;blackmail;шантажі (masculine);society;шантаж;blackmail;noun
-шахрайство;fraud;шахрайства (neuter);society;шахрайство;fraud;noun
-пограбування;burglary;пограбування (neuter);society;пограбування;burglary;noun
-викрадення;abduction;викрадення (neuter);society;викрадення;abduction;noun
-хабар;bribe;хабарі (masculine);society;хабар;bribe;noun
-камера;cell;камери (feminine);society;камера;cell;noun
-детектив;detective;детективи (masculine);society;детектив;detective;noun
-слідчий;investigator;слідчі (masculine);society;слідчий;investigator;noun
-прокурор;prosecutor;прокурори (masculine);society;прокурор;prosecutor;noun
-захист;defence;;society;захист;defence;noun
-присяжний;juror;присяжні (masculine);society;присяжний;juror;noun
-свідчення;testimony;свідчення (neuter);society;свідчення;testimony;noun
-допит;interrogation;допити (masculine);society;допит;interrogation;noun
-виправдання;acquittal;виправдання (neuter);society;виправдання;acquittal;noun
-громада;community;громади (feminine);society;громада;community;noun
-правило;rule;правила (neuter);society;правило;rule;noun
-громадянин;citizen;громадяни (masculine);society;громадянин;citizen;noun
-безпека;safety;;society;безпека;safety;noun
-порушення;violation;порушення (neuter);society;порушення;violation;noun
-затримання;detention;затримання (neuter);society;затримання;detention;noun
-internet;Інтернет;(чоловічий);society;internet;Інтернет;noun
-website;вебсайт;вебсайти (чоловічий);society;website;вебсайт;noun
-email;емейл;емейли (чоловічий);society;email;емейл;noun
-social media;соціальні мережі;соціальні мережі (жіночий);society;social media;соціальні мережі;noun
-profile;профіль;профілі (чоловічий);society;profile;профіль;noun
-password;пароль;паролі (чоловічий);society;password;пароль;noun
-username;логін;логіни (чоловічий);society;username;логін;noun
-link;посилання;посилання (середній);society;link;посилання;noun
-download;завантажувати;;society;download;завантажувати;verb
-upload;вивантажувати;;society;upload;вивантажувати;verb
-click;клацати;;society;click;клацати;verb
-search;шукати;;society;search;шукати;verb
-browse;переглядати;;society;browse;переглядати;verb
-computer;комп'ютер;комп'ютери (чоловічий);society;computer;комп'ютер;noun
-laptop;ноутбук;ноутбуки (чоловічий);society;laptop;ноутбук;noun
-smartphone;смартфон;смартфони (чоловічий);society;smartphone;смартфон;noun
-tablet;планшет;планшети (чоловічий);society;tablet;планшет;noun
-screen;екран;екрани (чоловічий);society;screen;екран;noun
-keyboard;клавіатура;клавіатури (жіночий);society;keyboard;клавіатура;noun
-mouse;миша;миші (жіночий);society;mouse;миша;noun
-printer;принтер;принтери (чоловічий);society;printer;принтер;noun
-webcam;веб-камера;веб-камери (жіночий);society;webcam;веб-камера;noun
-charger;зарядний пристрій;зарядні пристрої (чоловічий);society;charger;зарядний пристрій;noun
-headphones;навушники;навушники (чоловічий);society;headphones;навушники;noun
-Wi-Fi;вай-фай;(чоловічий);society;Wi-Fi;вай-фай;noun
-Bluetooth;блютуз;(чоловічий);society;Bluetooth;блютуз;noun
-app;додаток;додатки (чоловічий);society;app;додаток;noun
-software;програмне забезпечення;(середній);society;software;програмне забезпечення;noun
-hardware;апаратне забезпечення;(середній);society;hardware;апаратне забезпечення;noun
-data;дані;дані (середній);society;data;дані;noun
-file;файл;файли (чоловічий);society;file;файл;noun
-folder;папка;папки (жіночий);society;folder;папка;noun
-document;документ;документи (чоловічий);society;document;документ;noun
-video;відео;(середній);society;video;відео;noun
-audio;аудіо;(середній);society;audio;аудіо;noun
-image;зображення;зображення (середній);society;image;зображення;noun
-text;текст;тексти (чоловічий);society;text;текст;noun
-message;повідомлення;повідомлення (середній);society;message;повідомлення;noun
-chat;чат;чати (чоловічий);society;chat;чат;noun
-online;онлайн;;society;online;онлайн;adj
-digital;цифровий;;society;digital;цифровий;adj
-mobile;мобільний;;society;mobile;мобільний;adj
-virtual;віртуальний;;society;virtual;віртуальний;adj
-save;зберігати;;society;save;зберігати;verb
-share;поширювати;;society;share;поширювати;verb
-post;публікувати;;society;post;публікувати;verb
-like;вподобати;;society;like;вподобати;verb
-comment;коментувати;;society;comment;коментувати;verb
-log in;увійти;;society;log in;увійти;verb
-log out;вийти;;society;log out;вийти;verb
+новина;news;news (uncountable);society;новина;news;noun;/nɔˈvɪnɐ/
+газета;newspaper;newspapers (feminine);society;газета;newspaper;noun;/ɦɑˈzɛtɐ/
+журнал;magazine;magazines (masculine);society;журнал;magazine;noun;/ʒʊrˈnɑl/
+телебачення;television;(uncountable);society;телебачення;television;noun;/teleˈbɑt͡ʃenʲːɑ/
+радіо;radio;radios (neuter);society;радіо;radio;noun;/ˈrɑdʲio/
+інтернет;internet;(uncountable);society;інтернет;internet;noun;/inˈtɛrnet/
+журналіст;journalist;journalists (masculine);society;журналіст;journalist;noun;/ʒʊrnɐˈlʲist/
+редактор;editor;editors (masculine);society;редактор;editor;noun;/reˈdɑktor/
+стаття;article;articles (feminine);society;стаття;article;noun;/stɐˈtʲːɑ/
+заголовок;headline;headlines (masculine);society;заголовок;headline;noun;/zɐˈɦɔlowok/
+інтерв'ю;interview;interviews (neuter);society;інтерв'ю;interview;noun;/interˈvju/
+реклама;advertisement;advertisements (feminine);society;реклама;advertisement;noun;/reˈklɑmɐ/
+преса;press;(uncountable);society;преса;press;noun;/ˈprɛsɐ/
+видання;publication;publications (neuter);society;видання;publication;noun;/vɪˈdɑnʲːɑ/
+трансляція;broadcast;broadcasts (feminine);society;трансляція;broadcast;noun;/trɐnsˈlʲɑt͡sʲijɐ/
+канал;channel;channels (masculine);society;канал;channel;noun;/kɐˈnɑl/
+ведучий;host;hosts (masculine);society;ведучий;host;noun;/veˈdut͡ʃɪj/
+коментатор;commentator;commentators (masculine);society;коментатор;commentator;noun;/kɔmenˈtɑtor/
+джерело;source;sources (neuter);society;джерело;source;noun;/d͡ʒereˈlɔ/
+факт;fact;facts (masculine);society;факт;fact;noun;/fɑkt/
+чутка;rumor;rumors (feminine);society;чутка;rumor;noun;/ˈt͡ʃutkɐ/
+дезінформація;disinformation;(uncountable);society;дезінформація;disinformation;noun;/dezinfɔrˈmɑt͡sʲijɐ/
+правда;truth;truths (feminine);society;правда;truth;noun;/ˈprɑu̯dɐ/
+брехня;lie;lies (feminine);society;брехня;lie;noun;/brexˈnʲɑ/
+випуск;edition;editions (masculine);society;випуск;edition;noun;/ˈvɪpʊsk/
+бюлетень;bulletin;bulletins (masculine);society;бюлетень;bulletin;noun;/bʲuleˈtɛnʲ/
+подкаст;podcast;podcasts (masculine);society;подкаст;podcast;noun;/pɔdˈkɑst/
+відео;video;videos (neuter);society;відео;video;noun;/ˈvʲideɔ/
+читач;reader;readers (masculine);society;читач;reader;noun;/t͡ʃɪˈtɑt͡ʃ/
+глядач;viewer;viewers (masculine);society;глядач;viewer;noun;/ɦlʲɐˈdɑt͡ʃ/
+слухач;listener;listeners (masculine);society;слухач;listener;noun;/sluˈxɑt͡ʃ/
+підписник;subscriber;subscribers (masculine);society;підписник;subscriber;noun;/pʲidˈpɪsnɪk/
+сюжет;story;stories (masculine);society;сюжет;story;noun;/sʲuˈʒɛt/
+поширювати;to spread;;society;поширювати;поширювати (imperfective);verb;/pɔˈʃɪrʲuwɐtɪ/
+публікувати;to publish;;society;публікувати;публікувати (imperfective);verb;/puˈblʲikuvɐtɪ/
+висвітлювати;to cover;;society;висвітлювати;висвітлювати (imperfective);verb;/vɪˈsʲvitʲlʲuwɐtɪ/
+повідомляти;to report;;society;повідомляти;повідомляти (imperfective);verb;/povidɔmˈlʲɑtɪ/
+редагувати;to edit;;society;редагувати;редагувати (imperfective);verb;/redɑˈɦuwɐtɪ/
+друкувати;to print;;society;друкувати;друкувати (imperfective);verb;/drukuˈwɑtɪ/
+рекламувати;to advertise;;society;рекламувати;рекламувати (imperfective);verb;/reklɐmuˈwɑtɪ/
+інтерв'ювати;to interview;;society;інтерв'ювати;інтерв'ювати (imperfective);verb;/intervjuˈwɑtɪ/
+актуальний;relevant;;society;актуальний;актуальний;adj;/ɐktuˈɑlʲnej/
+сенсаційний;sensational;;society;сенсаційний;сенсаційний;adj;/sensɐˈt͡sʲijnej/
+об'єктивний;objective;;society;об'єктивний;об'єктивний;adj;/ɔbjekˈtɪu̯nej/
+фальшивий;fake;;society;фальшивий;фальшивий;adj;/fɐlʲˈʃɪvɪj/
+надійний;reliable;;society;надійний;надійний;adj;/nɐˈdʲijnej/
+суспільний;public;;society;суспільний;суспільний;adj;/suˈsʲpʲilʲnej/
+election;вибори;elections (plural, masculine);society;election;вибори;noun;/ɪˈlɛkʃən/
+vote;голос;votes (masculine);society;vote;голос;noun;/voʊt/
+ballot;бюлетень;ballots (masculine);society;ballot;бюлетень;noun;/ˈbælət/
+campaign;кампанія;campaigns (feminine);society;campaign;кампанія;noun;/kæmˈpeɪn/
+parliament;парламент;parliaments (masculine);society;parliament;парламент;noun;/ˈpɑːrləmənt/
+government;уряд;governments (masculine);society;government;уряд;noun;/ˈɡʌvərnmənt/
+president;президент;presidents (masculine);society;president;президент;noun;/ˈprɛzɪdənt/
+majority;більшість;majorities (feminine);society;majority;більшість;noun;/məˈdʒɔːrəti/
+minority;меншість;minorities (feminine);society;minority;меншість;noun;/maɪˈnɔːrəti/
+opposition;опозиція;oppositions (feminine);society;opposition;опозиція;noun;/ˌɑːpəˈzɪʃən/
+coalition;коаліція;coalitions (feminine);society;coalition;коаліція;noun;/ˌkoʊəˈlɪʃən/
+debate;дебати;debates (plural, masculine);society;debate;дебати;noun;/dɪˈbeɪt/
+constitution;конституція;constitutions (feminine);society;constitution;конституція;noun;/ˌkɑːnstɪˈtuːʃən/
+referendum;референдум;referendums (masculine);society;referendum;референдум;noun;/ˌrɛfəˈrɛndəm/
+citizen;громадянин;citizens (masculine);society;citizen;громадянин;noun;/ˈsɪtɪzən/
+freedom;свобода;freedoms (feminine);society;freedom;свобода;noun;/ˈfriːdəm/
+equality;рівність;uncountable (feminine);society;equality;рівність;noun;/iˈkwɑːləti/
+justice;справедливість;uncountable (feminine);society;justice;справедливість;noun;/ˈdʒʌstɪs/
+corruption;корупція;uncountable (feminine);society;corruption;корупція;noun;/kəˈrʌpʃən/
+demonstration;демонстрація;demonstrations (feminine);society;demonstration;демонстрація;noun;/ˌdɛmənˈstreɪʃən/
+protest;протест;protests (masculine);society;protest;протест;noun;/ˈproʊtɛst/
+politician;політик;politicians (masculine);society;politician;політик;noun;/ˌpɑːlɪˈtɪʃən/
+democracy;демократія;democracies (feminine);society;democracy;демократія;noun;/dɪˈmɑːkrəsi/
+republic;республіка;republics (feminine);society;republic;республіка;noun;/rɪˈpʌblɪk/
+monarchy;монархія;monarchies (feminine);society;monarchy;монархія;noun;/ˈmɑːnərki/
+polling station;виборча дільниця;polling stations (feminine);society;polling station;виборча дільниця;noun;/ˈpoʊlɪŋ ˈsteɪʃən/
+voter;виборець;voters (masculine);society;voter;виборець;noun;/ˈvoʊtər/
+turnout;явка;turnouts (feminine);society;turnout;явка;noun;/ˈtɜːrnaʊt/
+mandate;мандат;mandates (masculine);society;mandate;мандат;noun;/ˈmændeɪt/
+cabinet;кабінет;cabinets (masculine);society;cabinet;кабінет;noun;/ˈkæbɪnət/
+minister;міністр;ministers (masculine);society;minister;міністр;noun;/ˈmɪnɪstər/
+legislation;законодавство;uncountable (neuter);society;legislation;законодавство;noun;/ˌlɛdʒɪsˈleɪʃən/
+amendment;поправка;amendments (feminine);society;amendment;поправка;noun;/əˈmɛndmənt/
+senate;сенат;senates (masculine);society;senate;сенат;noun;/ˈsɛnət/
+congress;конгрес;congresses (masculine);society;congress;конгрес;noun;/ˈkɑːŋɡrəs/
+political;політичний;;society;political;політичний;adj;/pəˈlɪtɪkəl/
+democratic;демократичний;;society;democratic;демократичний;adj;/ˌdɛməˈkrætɪk/
+electoral;виборчий;;society;electoral;виборчий;adj;/ɪˈlɛktərəl/
+elect;обирати;;society;elect;обирати (imperfective);verb;/ɪˈlɛkt/
+nominate;висувати;;society;nominate;висувати (imperfective);verb;/ˈnɑːmɪneɪt/
+criminal;злочинець;criminals (masculine);society;criminal;злочинець;noun;/ˈkrɪmɪnəl/
+judge;суддя;judges (masculine);society;judge;суддя;noun;/dʒʌdʒ/
+lawyer;адвокат;lawyers (masculine);society;lawyer;адвокат;noun;/ˈlɔːjər/
+prosecutor;прокурор;prosecutors (masculine);society;prosecutor;прокурор;noun;/ˈprɑːsɪkjuːtər/
+defendant;підсудний;defendants (masculine);society;defendant;підсудний;noun;/dɪˈfendənt/
+plaintiff;позивач;plaintiffs (masculine);society;plaintiff;позивач;noun;/ˈpleɪntɪf/
+jail;тюрма;jails (feminine);society;jail;тюрма;noun;/dʒeɪl/
+cell;камера;cells (feminine);society;cell;камера;noun;/sɛl/
+punishment;покарання;punishments (neuter);society;punishment;покарання;noun;/ˈpʌnɪʃmənt/
+community service;громадські роботи;community service (uncountable);society;community service;громадські роботи;noun;/kəˈmjuːnəti ˈsɜːrvɪs/
+verdict;вердикт;verdicts (masculine);society;verdict;вердикт;noun;/ˈvɜːrdɪkt/
+appeal;апеляція;appeals (feminine);society;appeal;апеляція;noun;/əˈpiːl/
+parole;умовно-дострокове звільнення;parole (uncountable);society;parole;умовно-дострокове звільнення;noun;/pəˈroʊl/
+death penalty;смертна кара;death penalty (uncountable);society;death penalty;смертна кара;noun;/dɛθ ˈpɛnəlti/
+evidence;доказ;evidence (uncountable);society;evidence;доказ;noun;/ˈɛvɪdəns/
+alibi;алібі;alibis (neuter);society;alibi;алібі;noun;/ˈæləbaɪ/
+detective;детектив;detectives (masculine);society;detective;детектив;noun;/dɪˈtɛktɪv/
+policeman;поліцейський;policemen (masculine);society;policeman;поліцейський;noun;/pəˈliːsmən/
+handcuffs;наручники;handcuffs (masculine);society;handcuffs;наручники;noun;/ˈhændkʌfs/
+weapon;зброя;weapons (feminine);society;weapon;зброя;noun;/ˈwɛpən/
+assault;напад;assaults (masculine);society;assault;напад;noun;/əˈsɔːlt/
+murder;вбивство;murders (neuter);society;murder;вбивство;noun;/ˈmɜːrdər/
+manslaughter;ненавмисне вбивство;manslaughter (uncountable);society;manslaughter;ненавмисне вбивство;noun;/ˈmænslɔːtər/
+arson;підпал;arsons (masculine);society;arson;підпал;noun;/ˈɑːrsən/
+fraud;шахрайство;frauds (neuter);society;fraud;шахрайство;noun;/frɔːd/
+kidnapping;викрадення;kidnappings (neuter);society;kidnapping;викрадення;noun;/ˈkɪdnæpɪŋ/
+blackmail;шантаж;blackmail (uncountable);society;blackmail;шантаж;noun;/ˈblækmeɪl/
+smuggling;контрабанда;smuggling (uncountable);society;smuggling;контрабанда;noun;/ˈsmʌɡlɪŋ/
+bribe;хабар;bribes (masculine);society;bribe;хабар;noun;/braɪb/
+innocent;невинний;;society;innocent;невинний;adj;/ˈɪnəsənt/
+illegal;незаконний;;society;illegal;незаконний;adj;/ɪˈliːɡəl/
+internet;інтернет;internet (uncountable);society;internet;інтернет;noun;/ˈɪntərnɛt/
+smartphone;смартфон;smartphones (masculine);society;smartphone;смартфон;noun;/ˈsmɑːrtfoʊn/
+laptop;ноутбук;laptops (masculine);society;laptop;ноутбук;noun;/ˈlæptɒp/
+screen;екран;screens (masculine);society;screen;екран;noun;/skriːn/
+website;вебсайт;websites (masculine);society;website;вебсайт;noun;/ˈwɛbsaɪt/
+webpage;вебсторінка;webpages (feminine);society;webpage;вебсторінка;noun;/ˈwɛbpeɪdʒ/
+link;посилання;links (neuter);society;link;посилання;noun;/lɪŋk/
+browser;браузер;browsers (masculine);society;browser;браузер;noun;/ˈbraʊzər/
+search engine;пошукова система;search engines (feminine);society;search engine;пошукова система;noun;/ˈsɜːrtʃ ˌɛndʒɪn/
+password;пароль;passwords (masculine);society;password;пароль;noun;/ˈpæswɜːrd/
+username;ім'я користувача;usernames (neuter);society;username;ім'я користувача;noun;/ˈjuːzərneɪm/
+account;акаунт;accounts (masculine);society;account;акаунт;noun;/əˈkaʊnt/
+profile;профіль;profiles (masculine);society;profile;профіль;noun;/ˈproʊfaɪl/
+app;додаток;apps (masculine);society;app;додаток;noun;/æp/
+software;програмне забезпечення;software (uncountable);society;software;програмне забезпечення;noun;/ˈsɔːftwɛr/
+hardware;апаратне забезпечення;hardware (uncountable);society;hardware;апаратне забезпечення;noun;/ˈhɑːrdwɛr/
+data;дані;data (plural);society;data;дані;noun;/ˈdeɪtə/
+download;завантажувати;;society;download;завантажувати (imperfective);verb;/ˈdaʊnloʊd/
+upload;вивантажувати;;society;upload;вивантажувати (imperfective);verb;/ˈʌploʊd/
+install;встановлювати;;society;install;встановлювати (imperfective);verb;/ɪnˈstɔːl/
+update;оновлювати;;society;update;оновлювати (imperfective);verb;/ˈʌpdeɪt/
+delete;видаляти;;society;delete;видаляти (imperfective);verb;/dɪˈliːt/
+post;публікувати;;society;post;публікувати (imperfective);verb;/poʊst/
+comment;коментувати;;society;comment;коментувати (imperfective);verb;/ˈkɒmɛnt/
+connect;підключати;;society;connect;підключати (imperfective);verb;/kəˈnɛkt/
+disconnect;відключати;;society;disconnect;відключати (imperfective);verb;/ˌdɪskəˈnɛkt/
+network;мережа;networks (feminine);society;network;мережа;noun;/ˈnɛtwɜːrk/
+social media;соціальні мережі;social media (plural);society;social media;соціальні мережі;noun;/ˌsoʊʃəl ˈmiːdiə/
+online;онлайн;;society;online;онлайн;adj;/ˈɒnlaɪn/
+offline;офлайн;;society;offline;офлайн;adj;/ˈɒflaɪn/
+digital;цифровий;;society;digital;цифровий;adj;/ˈdɪdʒɪtl/
+antivirus;антивірус;antiviruses (masculine);society;antivirus;антивірус;noun;/ˈæntivaɪrəs/
+hacker;хакер;hackers (masculine);society;hacker;хакер;noun;/ˈhækər/
+privacy;приватність;privacy (uncountable);society;privacy;приватність;noun;/ˈprɪvəsi/
+settings;налаштування;settings (plural);society;settings;налаштування;noun;/ˈsɛtɪŋz/
+wifi;вайфай;Wi-Fi (uncountable);society;wifi;вайфай;noun;/ˈwaɪfaɪ/
+bluetooth;блютуз;Bluetooth (uncountable);society;bluetooth;блютуз;noun;/ˈbluːtuːθ/
+e-book;електронна книга;e-books (feminine);society;e-book;електронна книга;noun;/ˈiːbʊk/

@@ -1,214 +1,178 @@
-pokój;кімната;pokoje (жіночий);house_and_home;pokój;кімната;noun
-kuchnia;кухня;kuchnie (жіночий);house_and_home;kuchnia;кухня;noun
-łazienka;ванна кімната;łazienki (жіночий);house_and_home;łazienka;ванна кімната;noun
-sypialnia;спальня;sypialnie (жіночий);house_and_home;sypialnia;спальня;noun
-salon;вітальня;salony (жіночий);house_and_home;salon;вітальня;noun
-jadalnia;їдальня;jadalnie (жіночий);house_and_home;jadalnia;їдальня;noun
-przedpokój;передпокій;przedpokoje (чоловічий);house_and_home;przedpokój;передпокій;noun
-gabinet;кабінет;gabinety (чоловічий);house_and_home;gabinet;кабінет;noun
-spiżarnia;комора;spiżarnie (жіночий);house_and_home;spiżarnia;комора;noun
-strych;горище;strychy (середній);house_and_home;strych;горище;noun
-piwnica;підвал;piwnice (чоловічий);house_and_home;piwnica;підвал;noun
-balkon;балкон;balkony (чоловічий);house_and_home;balkon;балкон;noun
-taras;тераса;tarasy (жіночий);house_and_home;taras;тераса;noun
-ogród;сад;ogrody (чоловічий);house_and_home;ogród;сад;noun
-garaż;гараж;garaże (чоловічий);house_and_home;garaż;гараж;noun
-stół;стіл;stoły (чоловічий);house_and_home;stół;стіл;noun
-krzesło;стілець;krzesła (чоловічий);house_and_home;krzesło;стілець;noun
-fotel;крісло;fotele (середній);house_and_home;fotel;крісло;noun
-kanapa;диван;kanapy (чоловічий);house_and_home;kanapa;диван;noun
-szafa;шафа;szafy (жіночий);house_and_home;szafa;шафа;noun
-komoda;комод;komody (чоловічий);house_and_home;komoda;комод;noun
-łóżko;ліжко;łóżka (середній);house_and_home;łóżko;ліжко;noun
-szafka nocna;тумбочка;szafki nocne (жіночий);house_and_home;szafka nocna;тумбочка;noun
-biurko;письмовий стіл;biurka (чоловічий);house_and_home;biurko;письмовий стіл;noun
-regał;стелаж;regały (чоловічий);house_and_home;regał;стелаж;noun
-półka;полиця;półki (жіночий);house_and_home;półka;полиця;noun
-lustro;дзеркало;lustra (середній);house_and_home;lustro;дзеркало;noun
-dywan;килим;dywany (чоловічий);house_and_home;dywan;килим;noun
-wykładzina;підлогове покриття;wykładziny (середній);house_and_home;wykładzina;підлогове покриття;noun
-lampa;лампа;lampy (жіночий);house_and_home;lampa;лампа;noun
-żyrandol;люстра;żyrandole (жіночий);house_and_home;żyrandol;люстра;noun
-zasłona;штора;zasłony (жіночий);house_and_home;zasłona;штора;noun
-firanka;фіранка;firanki (жіночий);house_and_home;firanka;фіранка;noun
-roleta;жалюзі;rolety (середній);house_and_home;roleta;жалюзі;noun
-poduszka;подушка;poduszki (жіночий);house_and_home;poduszka;подушка;noun
-kołdra;ковдра;kołdry (жіночий);house_and_home;kołdra;ковдра;noun
-koc;плед;koce (чоловічий);house_and_home;koc;плед;noun
-prześcieradło;простирадло;prześcieradła (середній);house_and_home;prześcieradło;простирадло;noun
-materac;матрац;materace (чоловічий);house_and_home;materac;матрац;noun
-wanna;ванна;wanny (жіночий);house_and_home;wanna;ванна;noun
-prysznic;душ;prysznice (чоловічий);house_and_home;prysznic;душ;noun
-umywalka;умивальник;umywalki (чоловічий);house_and_home;umywalka;умивальник;noun
-toaleta;туалет;toalety (чоловічий);house_and_home;toaleta;туалет;noun
-kuchenka;плита;kuchenki (жіночий);house_and_home;kuchenka;плита;noun
-piekarnik;духовка;piekarniki (жіночий);house_and_home;piekarnik;духовка;noun
-lodówka;холодильник;lodówki (чоловічий);house_and_home;lodówka;холодильник;noun
-zamrażarka;морозильна камера;zamrażarki (жіночий);house_and_home;zamrażarka;морозильна камера;noun
-zmywarka;посудомийна машина;zmywarki (жіночий);house_and_home;zmywarka;посудомийна машина;noun
-pralka;пральна машина;pralki (жіночий);house_and_home;pralka;пральна машина;noun
-suszarka;сушарка;suszarki (жіночий);house_and_home;suszarka;сушарка;noun
-odkurzacz;пилосос;пилососи (чоловічий);house_and_home;odkurzacz;пилосос;noun
-odkurzać;пилососити;;house_and_home;odkurzać;пилососити;verb
-zamiatać;підмітати;;house_and_home;zamiatać;підмітати;verb
-ścierać kurze;витирати пил;;house_and_home;ścierać;витирати;verb
-myć podłogę;мити підлогу;;house_and_home;myć;мити;verb
-szorować;терти;;house_and_home;szorować;терти;verb
-czyścić;чистити;;house_and_home;czyścić;чистити;verb
-pranie;прання;прання (середній);house_and_home;pranie;прання;noun
-prać;прати;;house_and_home;prać;прати;verb
-prasować;прасувати;;house_and_home;prasować;прасувати;verb
-składać ubrania;складати одяг;;house_and_home;składać;складати;verb
-zmywać naczynia;мити посуд;;house_and_home;zmywać;мити;verb
-zmywarka;посудомийна машина;посудомийні машини (жіночий);house_and_home;zmywarka;посудомийна машина;noun
-kuchenka;плита;плити (жіночий);house_and_home;kuchenka;плита;noun
-piekarnik;духовка;духовки (жіночий);house_and_home;piekarnik;духовка;noun
-lodówka;холодильник;холодильники (чоловічий);house_and_home;lodówka;холодильник;noun
-zamrażarka;морозильна камера;морозильні камери (жіночий);house_and_home;zamrażarka;морозильна камера;noun
-kuchenka mikrofalowa;мікрохвильова піч;мікрохвильові печі (жіночий);house_and_home;kuchenka mikrofalowa;мікрохвильова піч;noun
-czajnik;чайник;чайники (чоловічий);house_and_home;czajnik;чайник;noun
-ekspres do kawy;кавоварка;кавоварки (жіночий);house_and_home;ekspres;кавоварка;noun
-toster;тостер;тостери (чоловічий);house_and_home;toster;тостер;noun
-mikser;міксер;міксери (чоловічий);house_and_home;mikser;міксер;noun
-suszarka do włosów;фен;фени (чоловічий);house_and_home;suszarka;фен;noun
-żelazko;праска;праски (жіночий);house_and_home;żelazko;праска;noun
-deska do prasowania;прасувальна дошка;прасувальні дошки (жіночий);house_and_home;deska;прасувальна дошка;noun
-szczotka do ubrań;щітка для одягу;щітки для одягу (жіночий);house_and_home;szczotka;щітка;noun
-miotła;мітла;мітли (жіночий);house_and_home;miotła;мітла;noun
-szufelka;совок;совки (чоловічий);house_and_home;szufelka;совок;noun
-wiadro;відро;відра (середній);house_and_home;wiadro;відро;noun
-mop;швабра;швабри (жіночий);house_and_home;mop;швабра;noun
-gąbka;губка;губки (жіночий);house_and_home;gąbka;губка;noun
-płyn do mycia naczyń;рідина для миття посуду;рідини для миття посуду (жіночий);house_and_home;płyn;рідина;noun
-proszek do prania;пральний порошок;пральні порошки (чоловічий);house_and_home;proszek;порошок;noun
-płyn do płukania;кондиціонер для білизни;кондиціонери для білизни (чоловічий);house_and_home;płyn;кондиціонер;noun
-odplamiacz;засіб для виведення плям;засоби для виведення плям (чоловічий);house_and_home;odplamiacz;засіб;noun
-śmieci;сміття;сміття (середній, збірне);house_and_home;śmieć;сміття;noun
-kosz na śmieci;сміттєвий кошик;сміттєві кошики (чоловічий);house_and_home;kosz;кошик;noun
-wyrzucać śmieci;викидати сміття;;house_and_home;wyrzucać;викидати;verb
-segregować śmieci;сортувати сміття;;house_and_home;segregować;сортувати;verb
-naprawiać;ремонтувати;;house_and_home;naprawiać;ремонтувати;verb
-majsterkować;майструвати;;house_and_home;majsterkować;майструвати;verb
-śrubokręt;викрутка;викрутки (жіночий);house_and_home;śrubokręt;викрутка;noun
-młotek;молоток;молотки (чоловічий);house_and_home;młotek;молоток;noun
-gwoźdź;цвях;цвяхи (чоловічий);house_and_home;gwóźdź;цвях;noun
-klucz francuski;розвідний ключ;розвідні ключі (чоловічий);house_and_home;klucz;ключ;noun
-wiertarka;дриль;дрилі (чоловічий);house_and_home;wiertarka;дриль;noun
-piła;пилка;пилки (жіночий);house_and_home;piła;пилка;noun
-taśma klejąca;клейка стрічка;клейкі стрічки (жіночий);house_and_home;taśma;стрічка;noun
-dbać o dom;дбати про дім;;house_and_home;dbać;дбати;verb
-remont;ремонт;ремонти (чоловічий);house_and_home;remont;ремонт;noun
-mieszkanie;квартира;квартири (жіночий);house_and_home;mieszkanie;квартира;noun
-dom;будинок;будинки (чоловічий);house_and_home;dom;будинок;noun
-wynajmować;орендувати;;house_and_home;wynajmować;орендувати;verb
-kupować;купувати;;house_and_home;kupować;купувати;verb
-sprzedawać;продавати;;house_and_home;sprzedawać;продавати;verb
-czynsz;орендна плата;(жіночий);house_and_home;czynsz;орендна плата;noun
-kaucja;застава;застави (жіночий);house_and_home;kaucja;застава;noun
-umowa;договір;договори (чоловічий);house_and_home;umowa;договір;noun
-wynajmujący;орендодавець;орендодавці (чоловічий);house_and_home;wynajmujący;орендодавець;noun
-najemca;орендар;орендарі (чоловічий);house_and_home;najemca;орендар;noun
-właściciel;власник;власники (чоловічий);house_and_home;właściciel;власник;noun
-lokator;мешканець;мешканці (чоловічий);house_and_home;lokator;мешканець;noun
-ogłoszenie;оголошення;оголошення (середній);house_and_home;ogłoszenie;оголошення;noun
-agencja;агенція;агенції (жіночий);house_and_home;agencja;агенція;noun
-nieruchomość;нерухомість;нерухомості (жіночий);house_and_home;nieruchomość;нерухомість;noun
-hipoteka;іпотека;іпотеки (жіночий);house_and_home;hipoteka;іпотека;noun
-kredyt hipoteczny;іпотечний кредит;іпотечні кредити (чоловічий);house_and_home;kredyt hipoteczny;іпотечний кредит;noun
-rata;внесок;внески (чоловічий);house_and_home;rata;внесок;noun
-opłata;плата;плати (жіночий);house_and_home;opłata;плата;noun
-pokój;кімната;кімнати (жіночий);house_and_home;pokój;кімната;noun
-sypialnia;спальня;спальні (жіночий);house_and_home;sypialnia;спальня;noun
-łazienka;ванна кімната;ванні кімнати (жіночий);house_and_home;łazienka;ванна кімната;noun
-kuchnia;кухня;кухні (жіночий);house_and_home;kuchnia;кухня;noun
-salon;вітальня;вітальні (жіночий);house_and_home;salon;вітальня;noun
-balkon;балкон;балкони (чоловічий);house_and_home;balkon;балкон;noun
-piwnica;підвал;підвали (чоловічий);house_and_home;piwnica;підвал;noun
-garaż;гараж;гаражі (чоловічий);house_and_home;garaż;гараж;noun
-ogród;сад;сади (чоловічий);house_and_home;ogród;сад;noun
-przeprowadzka;переїзд;переїзди (чоловічий);house_and_home;przeprowadzka;переїзд;noun
-meble;меблі;меблі (множина);house_and_home;meble;меблі;noun
-parter;перший поверх;перші поверхи (чоловічий);house_and_home;parter;перший поверх;noun
-piętro;поверх;поверхи (чоловічий);house_and_home;piętro;поверх;noun
-winda;ліфт;ліфти (чоловічий);house_and_home;winda;ліфт;noun
-klatka schodowa;сходова клітка;сходові клітки (жіночий);house_and_home;klatka schodowa;сходова клітка;noun
-sąsiad;сусід;сусіди (чоловічий);house_and_home;sąsiad;сусід;noun
-sąsiadka;сусідка;сусідки (жіночий);house_and_home;sąsiadka;сусідка;noun
-rynek nieruchomości;ринок нерухомості;ринки нерухомості (чоловічий);house_and_home;rynek nieruchomości;ринок нерухомості;noun
-oglądać;оглядати;;house_and_home;oglądać;оглядати;verb
-rezerwować;бронювати;;house_and_home;rezerwować;бронювати;verb
-podpisywać;підписувати;;house_and_home;podpisywać;підписувати;verb
-płacić;платити;;house_and_home;płacić;платити;verb
-negocjować;домовлятися;;house_and_home;negocjować;домовлятися;verb
-zadatek;завдаток;завдатки (чоловічий);house_and_home;zadatek;завдаток;noun
-umowa przedwstępna;попередній договір;попередні договори (чоловічий);house_and_home;umowa przedwstępna;попередній договір;noun
-akt notarialny;нотаріальний акт;нотаріальні акти (чоловічий);house_and_home;akt notarialny;нотаріальний акт;noun
-własność;власність;(жіночий);house_and_home;własność;власність;noun
-czynszowy;орендний;;house_and_home;czynszowy;орендний;adj
-kupno;купівля;купівлі (жіночий);house_and_home;kupno;купівля;noun
-sprzedaż;продаж;(чоловічий);house_and_home;sprzedaż;продаж;noun
-najem;оренда;оренди (жіночий);house_and_home;najem;оренда;noun
-sąsiedztwo;сусідство;сусідства (nijaki);house_and_home;sąsiedztwo;сусідство;noun
-sąsiad;сусід;сусіди (męski);house_and_home;sąsiad;сусід;noun
-sąsiadka;сусідка;сусідки (żeński);house_and_home;sąsiadka;сусідка;noun
-dzielnica;район;райони (męski);house_and_home;dzielnica;район;noun
-osiedle;мікрорайон;мікрорайони (męski);house_and_home;osiedle;мікрорайон;noun
-ulica;вулиця;вулиці (żeński);house_and_home;ulica;вулиця;noun
-aleja;алея;алеї (żeński);house_and_home;aleja;алея;noun
-chodnik;тротуар;тротуари (męski);house_and_home;chodnik;тротуар;noun
-skrzyżowanie;перехрестя;перехрестя (nijaki);house_and_home;skrzyżowanie;перехрестя;noun
-rondo;кільцева розв'язка;кільцеві розв'язки (żeński);house_and_home;rondo;кільцева розв'язка;noun
-sygnalizacja świetlna;світлофор;світлофори (męski);house_and_home;sygnalizacja świetlna;світлофор;noun
-przystanek autobusowy;автобусна зупинка;автобусні зупинки (żeński);house_and_home;przystanek autobusowy;автобусна зупинка;noun
-stacja metra;станція метро;станції метро (żeński);house_and_home;stacja metra;станція метро;noun
-park;парк;парки (męski);house_and_home;park;парк;noun
-plac zabaw;дитячий майданчик;дитячі майданчики (męski);house_and_home;plac zabaw;дитячий майданчик;noun
-sklep;магазин;магазини (męski);house_and_home;sklep;магазин;noun
-supermarket;супермаркет;супермаркети (męski);house_and_home;supermarket;супермаркет;noun
-piekarnia;пекарня;пекарні (żeński);house_and_home;piekarnia;пекарня;noun
-apteka;аптека;аптеки (żeński);house_and_home;apteka;аптека;noun
-kiosk;кіоск;кіоски (męski);house_and_home;kiosk;кіоск;noun
-bankomat;банкомат;банкомати (męski);house_and_home;bankomat;банкомат;noun
-poczta;пошта;пошти (żeński);house_and_home;poczta;пошта;noun
-listonosz;листоноша;листоноші (męski);house_and_home;listonosz;листоноша;noun
-śmietnik;смітник;смітники (męski);house_and_home;śmietnik;смітник;noun
-kontener na śmieci;контейнер для сміття;контейнери для сміття (męski);house_and_home;kontener na śmieci;контейнер для сміття;noun
-latarnia;ліхтар;ліхтарі (męski);house_and_home;latarnia;ліхтар;noun
-ławka;лавка;лавки (żeński);house_and_home;ławka;лавка;noun
-ogrodzenie;огорожа;огорожі (żeński);house_and_home;ogrodzenie;огорожа;noun
-brama;брама;брами (żeński);house_and_home;brama;брама;noun
-furtka;хвіртка;хвіртки (żeński);house_and_home;furtka;хвіртка;noun
-dom;будинок;будинки (męski);house_and_home;dom;будинок;noun
-blok mieszkalny;багатоквартирний будинок;багатоквартирні будинки (męski);house_and_home;blok mieszkalny;багатоквартирний будинок;noun
-wspólnota mieszkaniowa;житловий кооператив;житлові кооперативи (męski);house_and_home;wspólnota mieszkaniowa;житловий кооператив;noun
-dozorca;двірник;двірники (męski);house_and_home;dozorca;двірник;noun
-sprzątaczka;прибиральниця;прибиральниці (żeński);house_and_home;sprzątaczka;прибиральниця;noun
-mieszkaniec;мешканець;мешканці (męski);house_and_home;mieszkaniec;мешканець;noun
-mieszkanka;мешканка;мешканки (żeński);house_and_home;mieszkanka;мешканка;noun
-przechodzień;перехожий;перехожі (męski);house_and_home;przechodzień;перехожий;noun
-spacer;прогулянка;прогулянки (żeński);house_and_home;spacer;прогулянка;noun
-hałas;шум;шуми (męski);house_and_home;hałas;шум;noun
-cisza;тиша;тиші (żeński);house_and_home;cisza;тиша;noun
-bezpieczeństwo;безпека;безпеки (żeński);house_and_home;bezpieczeństwo;безпека;noun
-monitoring;відеоспостереження;відеоспостереження (nijaki);house_and_home;monitoring;відеоспостереження;noun
-kamera;камера;камери (żeński);house_and_home;kamera;камера;noun
-znak drogowy;дорожній знак;дорожні знаки (męski);house_and_home;znak drogowy;дорожній знак;noun
-przejście dla pieszych;пішохідний перехід;пішохідні переходи (męski);house_and_home;przejście dla pieszych;пішохідний перехід;noun
-ścieżka rowerowa;велодоріжка;велодоріжки (żeński);house_and_home;ścieżka rowerowa;велодоріжка;noun
-mieszkać;жити;;house_and_home;mieszkać;жити;verb
-spacerować;гуляти;;house_and_home;spacerować;гуляти;verb
-przeprowadzać się;переїжджати;;house_and_home;przeprowadzać się;переїжджати;verb
-dojeżdżać;добиратися;;house_and_home;dojeżdżać;добиратися;verb
-wyprowadzać psa;вигулювати собаку;;house_and_home;wyprowadzać psa;вигулювати собаку;verb
-sprzątać;прибирати;;house_and_home;sprzątać;прибирати;verb
-parkować;паркуватися;;house_and_home;parkować;паркуватися;verb
-blisko;близько;;house_and_home;blisko;близько;adv
-daleko;далеко;;house_and_home;daleko;далеко;adv
-wygodnie;зручно;;house_and_home;wygodnie;зручно;adv
-cicho;тихо;;house_and_home;cicho;тихо;adv
-głośno;голосно;;house_and_home;głośno;голосно;adv
-przyjazny;дружній;;house_and_home;przyjazny;дружній;adj
-spokojny;спокійний;;house_and_home;spokojny;спокійний;adj
-bezpieczny;безпечний;;house_and_home;bezpieczny;безпечний;adj
-zielony;зелений;;house_and_home;zielony;зелений;adj
-czysty;чистий;;house_and_home;czysty;чистий;adj
+pokój;кімната;pokoje;house_and_home;pokój;кімната;noun;
+kuchnia;кухня;kuchnie;house_and_home;kuchnia;кухня;noun;
+łazienka;ванна;łazienki;house_and_home;łazienka;ванна;noun;
+sypialnia;спальня;sypialnie;house_and_home;sypialnia;спальня;noun;
+salon;вітальня;salony;house_and_home;salon;вітальня;noun;
+przedpokój;передпокій;przedpokoje;house_and_home;przedpokój;передпокій;noun;
+jadalnia;їдальня;jadalnie;house_and_home;jadalnia;їдальня;noun;
+gabinet;кабінет;gabinety;house_and_home;gabinet;кабінет;noun;
+balkon;балкон;balkony;house_and_home;balkon;балкон;noun;
+taras;тераса;tarasy;house_and_home;taras;тераса;noun;
+piwnica;підвал;piwnice;house_and_home;piwnica;підвал;noun;
+strych;горище;strychy;house_and_home;strych;горище;noun;
+korytarz;коридор;korytarze;house_and_home;korytarz;коридор;noun;
+garderoba;гардероб;garderoby;house_and_home;garderoba;гардероб;noun;
+stół;стіл;stoły;house_and_home;stół;стіл;noun;
+krzesło;стілець;krzesła;house_and_home;krzesło;стілець;noun;
+fotel;крісло;fotele;house_and_home;fotel;крісло;noun;
+sofa;диван;sofy;house_and_home;sofa;диван;noun;
+kanapa;канапа;kanapy;house_and_home;kanapa;канапа;noun;
+pufa;пуф;puffy;house_and_home;pufa;пуф;noun;
+taboret;табурет;taborety;house_and_home;taboret;табурет;noun;
+materac;матрац;materace;house_and_home;materac;матрац;noun;
+koc;плед;koce;house_and_home;koc;плед;noun;
+prześcieradło;простирадло;prześcieradła;house_and_home;prześcieradło;простирадло;noun;
+szafa;шафа;szafy;house_and_home;szafa;шафа;noun;
+szafka;шафка;szafki;house_and_home;szafka;шафка;noun;
+komoda;комод;komody;house_and_home;komoda;комод;noun;
+regał;стелаж;regały;house_and_home;regał;стелаж;noun;
+półka;полиця;półki;house_and_home;półka;полиця;noun;
+szuflada;шухляда;szuflady;house_and_home;szuflada;шухляда;noun;
+tapczan;диван;tapczany;house_and_home;tapczan;диван;noun;
+lampa;лампа;lampy;house_and_home;lampa;лампа;noun;
+żyrandol;люстра;żyrandole;house_and_home;żyrandol;люстра;noun;
+kinkiet;бра;kinkiety;house_and_home;kinkiet;бра;noun;
+dywan;килим;dywany;house_and_home;dywan;килим;noun;
+chodnik;доріжка;chodniki;house_and_home;chodnik;доріжка;noun;
+zasłona;штора;zasłony;house_and_home;zasłona;штора;noun;
+karnisz;карниз;karnisze;house_and_home;karnisz;карниз;noun;
+żaluzja;жалюзі;żaluzje;house_and_home;żaluzja;жалюзі;noun;
+lustro;дзеркало;lustra;house_and_home;lustro;дзеркало;noun;
+obraz;картина;obrazy;house_and_home;obraz;картина;noun;
+parawan;ширма;parawany;house_and_home;parawan;ширма;noun;
+wazon;ваза;wazony;house_and_home;wazon;ваза;noun;
+grzejnik;батарея;grzejniki;house_and_home;grzejnik;батарея;noun;
+wanna;ванна;wanny;house_and_home;wanna;ванна;noun;
+umywalka;умивальник;umywalki;house_and_home;umywalka;умивальник;noun;
+miotła;мітла;miotły;house_and_home;miotła;мітла;noun;
+szufelka;совок;szufelki;house_and_home;szufelka;совок;noun;
+mop;швабра;mopy;house_and_home;mop;швабра;noun;
+wiadro;відро;wiadra;house_and_home;wiadro;відро;noun;
+gąbka;губка;gąbki;house_and_home;gąbka;губка;noun;
+ścierka;ганчірка;ścierki;house_and_home;ścierka;ганчірка;noun;
+detergent;мийний засіб;detergenty;house_and_home;detergent;мийний засіб;noun;
+zmywarka;посудомийна машина;zmywarki;house_and_home;zmywarka;посудомийна машина;noun;
+pralka;пральна машина;pralki;house_and_home;pralka;пральна машина;noun;
+suszarka;сушарка;suszarki;house_and_home;suszarka;сушарка;noun;
+żelazko;праска;żelazka;house_and_home;żelazko;праска;noun;
+odkurzacz;пилосос;odkurzacze;house_and_home;odkurzacz;пилосос;noun;
+śmieć;сміття;śmieci;house_and_home;śmieć;сміття;noun;
+żarówka;лампочка;żarówki;house_and_home;żarówka;лампочка;noun;
+gwóźdź;цвях;gwoździe;house_and_home;gwóźdź;цвях;noun;
+młotek;молоток;młotki;house_and_home;młotek;молоток;noun;
+śrubokręt;викрутка;śrubokręty;house_and_home;śrubokręt;викрутка;noun;
+wiertarka;дриль;wiertarki;house_and_home;wiertarka;дриль;noun;
+gniazdko;розетка;gniazdka;house_and_home;gniazdko;розетка;noun;
+bezpiecznik;запобіжник;bezpieczniki;house_and_home;bezpiecznik;запобіжник;noun;
+kran;кран;krany;house_and_home;kran;кран;noun;
+uszczelka;прокладка;uszczelki;house_and_home;uszczelka;прокладка;noun;
+filtr;фільтр;filtry;house_and_home;filtr;фільтр;noun;
+odkamieniacz;засіб для видалення накипу;odkamieniacze;house_and_home;odkamieniacz;засіб для видалення накипу;noun;
+garnek;каструля;garnki;house_and_home;garnek;каструля;noun;
+patelnia;сковорода;patelnie;house_and_home;patelnia;сковорода;noun;
+zlew;мийка;zlewy;house_and_home;zlew;мийка;noun;
+kuchenka;плита;kuchenki;house_and_home;kuchenka;плита;noun;
+piekarnik;духовка;piekarniki;house_and_home;piekarnik;духовка;noun;
+lodówka;холодильник;lodówki;house_and_home;lodówka;холодильник;noun;
+zamrażarka;морозилка;zamrażarki;house_and_home;zamrażarka;морозилка;noun;
+myć;мити;;house_and_home;myć;мити;verb (imperfective);
+umyć;помити;;house_and_home;umyć;помити;verb (perfective);
+zmywać;змивати;;house_and_home;zmywać;змивати;verb (imperfective);
+pozmywać;позмивати;;house_and_home;pozmywać;позмивати;verb (perfective);
+sprzątać;прибирати;;house_and_home;sprzątać;прибирати;verb (imperfective);
+posprzątać;прибрати;;house_and_home;posprzątać;прибрати;verb (perfective);
+zamiatać;підмітати;;house_and_home;zamiatać;підмітати;verb (imperfective);
+zamieść;підмести;;house_and_home;zamieść;підмести;verb (perfective);
+odkurzać;пилососити;;house_and_home;odkurzać;пилососити;verb (imperfective);
+odkurzyć;пропилососити;;house_and_home;odkurzyć;пропилососити;verb (perfective);
+wycierać;витирати;;house_and_home;wycierać;витирати;verb (imperfective);
+wytrzeć;витерти;;house_and_home;wytrzeć;витерти;verb (perfective);
+prać;прати;;house_and_home;prać;прати;verb (imperfective);
+uprać;випрати;;house_and_home;uprać;випрати;verb (perfective);
+prasować;прасувати;;house_and_home;prasować;прасувати;verb (imperfective);
+uprasować;випрасувати;;house_and_home;uprasować;випрасувати;verb (perfective);
+składać;складати;;house_and_home;składać;складати;verb (imperfective);
+złożyć;скласти;;house_and_home;złożyć;скласти;verb (perfective);
+wieszać;вішати;;house_and_home;wieszać;вішати;verb (imperfective);
+mieszkanie;квартира;mieszkania;house_and_home;mieszkanie;квартира;noun;
+dom;дім;domy;house_and_home;dom;дім;noun;
+wynajem;оренда;;house_and_home;wynajem;оренда;noun;
+kupno;купівля;;house_and_home;kupno;купівля;noun;
+umowa;договір;umowy;house_and_home;umowa;договір;noun;
+czynsz;орендна плата;czynsze;house_and_home;czynsz;орендна плата;noun;
+kaucja;застава;kaucje;house_and_home;kaucja;застава;noun;
+właściciel;власник;właściciele;house_and_home;właściciel;власник;noun;
+najemca;орендар;najemcy;house_and_home;najemca;орендар;noun;
+nieruchomość;нерухомість;nieruchomości;house_and_home;nieruchomość;нерухомість;noun;
+pośrednik;посередник;pośrednicy;house_and_home;pośrednik;посередник;noun;
+cena;ціна;ceny;house_and_home;cena;ціна;noun;
+oferta;пропозиція;oferty;house_and_home;oferta;пропозиція;noun;
+hipoteka;іпотека;hipoteki;house_and_home;hipoteka;іпотека;noun;
+kredyt;кредит;kredyty;house_and_home;kredyt;кредит;noun;
+metraż;метраж;metraże;house_and_home;metraż;метраж;noun;
+piętro;поверх;piętra;house_and_home;piętro;поверх;noun;
+garaż;гараж;garaże;house_and_home;garaż;гараж;noun;
+ogród;сад;ogrody;house_and_home;ogród;сад;noun;
+media;комунальні послуги;;house_and_home;media;комунальні послуги;noun;
+klucz;ключ;klucze;house_and_home;klucz;ключ;noun;
+zadatek;завдаток;zadatki;house_and_home;zadatek;завдаток;noun;
+zaliczka;аванс;zaliczki;house_and_home;zaliczka;аванс;noun;
+okolica;околиця;okolice;house_and_home;okolica;околиця;noun;
+centrum;центр;centra;house_and_home;centrum;центр;noun;
+dzielnica;район;dzielnice;house_and_home;dzielnica;район;noun;
+własność;власність;;house_and_home;własność;власність;noun;
+oglądać;оглядати;;house_and_home;oglądać;оглядати;verb (imperfective);
+obejrzeć;оглянути;;house_and_home;obejrzeć;оглянути;verb (perfective);
+wynajmować;винаймати;;house_and_home;wynajmować;винаймати;verb (imperfective);
+wynająć;винайняти;;house_and_home;wynająć;винайняти;verb (perfective);
+kupować;купувати;;house_and_home;kupować;купувати;verb (imperfective);
+kupić;купити;;house_and_home;kupić;купити;verb (perfective);
+sprzedawać;продавати;;house_and_home;sprzedawać;продавати;verb (imperfective);
+sprzedać;продати;;house_and_home;sprzedać;продати;verb (perfective);
+remontować;ремонтувати;;house_and_home;remontować;ремонтувати;verb (imperfective);
+wyremontować;відремонтувати;;house_and_home;wyremontować;відремонтувати;verb (perfective);
+umeblowany;мебльований;;house_and_home;umeblowany;мебльований;adj;
+nieumeblowany;немебльований;;house_and_home;nieumeblowany;немебльований;adj;
+przestronny;просторий;;house_and_home;przestronny;просторий;adj;
+słoneczny;сонячний;;house_and_home;słoneczny;сонячний;adj;
+ulica;вулиця;ulice;house_and_home;ulica;вулиця;noun;
+park;парк;parki;house_and_home;park;парк;noun;
+sklep;магазин;sklepy;house_and_home;sklep;магазин;noun;
+kościół;костел;kościoły;house_and_home;kościół;костел;noun;
+szkoła;школа;szkoły;house_and_home;szkoła;школа;noun;
+przystanek;зупинка;przystanki;house_and_home;przystanek;зупинка;noun;
+apteka;аптека;apteki;house_and_home;apteka;аптека;noun;
+poczta;пошта;poczty;house_and_home;poczta;пошта;noun;
+restauracja;ресторан;restauracje;house_and_home;restauracja;ресторан;noun;
+kawiarnia;кав'ярня;kawiarnie;house_and_home;kawiarnia;кав'ярня;noun;
+plac zabaw;дитячий майданчик;place zabaw;house_and_home;plac zabaw;дитячий майданчик;noun;
+osiedle;житловий масив;osiedla;house_and_home;osiedle;житловий масив;noun;
+blok;багатоквартирний будинок;bloki;house_and_home;blok;багатоквартирний будинок;noun;
+dom jednorodzinny;приватний будинок;domy jednorodzinne;house_and_home;dom jednorodzinny;приватний будинок;noun;
+płot;паркан;płoty;house_and_home;płot;паркан;noun;
+brama;брама;bramy;house_and_home;brama;брама;noun;
+śmietnik;смітник;śmietniki;house_and_home;śmietnik;смітник;noun;
+latarnia;ліхтар;latarnie;house_and_home;latarnia;ліхтар;noun;
+ławka;лавка;ławki;house_and_home;ławka;лавка;noun;
+drzewo;дерево;drzewa;house_and_home;drzewo;дерево;noun;
+krzak;кущ;krzaki;house_and_home;krzak;кущ;noun;
+kwiat;квітка;kwiaty;house_and_home;kwiat;квітка;noun;
+trawnik;газон;trawniki;house_and_home;trawnik;газон;noun;
+skrzyżowanie;перехрестя;skrzyżowania;house_and_home;skrzyżowanie;перехрестя;noun;
+sygnalizacja świetlna;світлофор;sygnalizacje świetlne;house_and_home;sygnalizacja świetlna;світлофор;noun;
+przejście dla pieszych;пішохідний перехід;przejścia dla pieszych;house_and_home;przejście dla pieszych;пішохідний перехід;noun;
+parking;парковка;parkingi;house_and_home;parking;парковка;noun;
+podwórko;подвір'я;podwórka;house_and_home;podwórko;подвір'я;noun;
+mieszkaniec;мешканець;mieszkańcy;house_and_home;mieszkaniec;мешканець;noun;
+przedmieście;передмістя;przedmieścia;house_and_home;przedmieście;передмістя;noun;
+hałas;шум;hałasy;house_and_home;hałas;шум;noun;
+cisza;тиша;cisze;house_and_home;cisza;тиша;noun;
+bezpieczny;безпечний;;house_and_home;bezpieczny;безпечний;adj;
+niebezpieczny;небезпечний;;house_and_home;niebezpieczny;небезпечний;adj;
+ruch uliczny;дорожній рух;ruchy uliczne;house_and_home;ruch uliczny;дорожній рух;noun;
+remont;ремонт;remonty;house_and_home;remont;ремонт;noun;
+budowa;будівництво;budowy;house_and_home;budowa;будівництво;noun;
+winda;ліфт;windy;house_and_home;winda;ліфт;noun;
+schody;сходи;schody;house_and_home;schody;сходи;noun;
+dzwonek do drzwi;дверний дзвінок;dzwonki do drzwi;house_and_home;dzwonek do drzwi;дверний дзвінок;noun;
+klatka schodowa;сходова клітка;klatki schodowe;house_and_home;klatka schodowa;сходова клітка;noun;

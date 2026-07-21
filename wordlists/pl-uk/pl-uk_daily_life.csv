@@ -1,199 +1,145 @@
-pracownik;працівник;працівники (чоловічий);daily_life;pracownik;працівник;noun
-praca;робота;(жіночий);daily_life;praca;робота;noun
-zawód;професія;професії (жіночий);daily_life;zawód;професія;noun
-lekarz;лікар;лікарі (чоловічий);daily_life;lekarz;лікар;noun
-pielęgniarka;медсестра;медсестри (жіночий);daily_life;pielęgniarka;медсестра;noun
-inżynier;інженер;інженери (чоловічий);daily_life;inżynier;інженер;noun
-sprzedawca;продавець;продавці (чоловічий);daily_life;sprzedawca;продавець;noun
-sprzedawczyni;продавчиня;продавчині (жіночий);daily_life;sprzedawczyni;продавчиня;noun
-kelner;офіціант;офіціанти (чоловічий);daily_life;kelner;офіціант;noun
-kelnerka;офіціантка;офіціантки (жіночий);daily_life;kelnerka;офіціантка;noun
-kucharz;кухар;кухарі (чоловічий);daily_life;kucharz;кухар;noun
-szef;шеф;шефи (чоловічий);daily_life;szef;шеф;noun
-dyrektor;директор;директори (чоловічий);daily_life;dyrektor;директор;noun
-kolega z pracy;колега;колеги (чоловічий);daily_life;kolega z pracy;колега;noun
-staż;стажування;(середній);daily_life;staż;стажування;noun
-doświadczenie;досвід;(чоловічий);daily_life;doświadczenie;досвід;noun
-umiejętność;вміння;(середній);daily_life;umiejętność;вміння;noun
-pensja;зарплата;зарплати (жіночий);daily_life;pensja;зарплата;noun
-wynagrodzenie;винагорода;винагороди (жіночий);daily_life;wynagrodzenie;винагорода;noun
-urlop;відпустка;відпустки (жіночий);daily_life;urlop;відпустка;noun
-nadgodziny;понаднормові;понаднормові;daily_life;nadgodziny;понаднормові;noun
-etat;штатна посада;штатні посади (жіночий);daily_life;etat;штатна посада;noun
-bezrobotny;безробітний;безробітні (чоловічий);daily_life;bezrobotny;безробітний;noun
-zatrudnienie;працевлаштування;(середній);daily_life;zatrudnienie;працевлаштування;noun
-emerytura;пенсія;пенсії (жіночий);daily_life;emerytura;пенсія;noun
-pracodawca;роботодавець;роботодавці (чоловічий);daily_life;pracodawca;роботодавець;noun
-pracownik biurowy;офісний працівник;офісні працівники (чоловічий);daily_life;pracownik biurowy;офісний працівник;noun
-stażysta;стажер;стажери (чоловічий);daily_life;stażysta;стажер;noun
-aplikacja o pracę;заява;заяви (жіночий);daily_life;aplikacja o pracę;заява;noun
-CV;резюме;резюме (середній);daily_life;CV;резюме;noun
-rozmowa kwalifikacyjna;співбесіда;співбесіди (жіночий);daily_life;rozmowa kwalifikacyjna;співбесіда;noun
-awans;підвищення;(середній);daily_life;awans;підвищення;noun
-zwolnienie;звільнення;(середній);daily_life;zwolnienie;звільнення;noun
-pracować;працювати;;daily_life;pracować;працювати;verb
-zarabiać;заробляти;;daily_life;zarabiać;заробляти;verb
-zatrudniać;наймати;;daily_life;zatrudniać;наймати;verb
-aplikować;подавати заявку;;daily_life;aplikować;подавати заявку;verb
-szukać pracy;шукати роботу;;daily_life;szukać;шукати;verb
-awansować;отримувати підвищення;;daily_life;awansować;отримувати підвищення;verb
-zwalniać;звільняти;;daily_life;zwalniać;звільняти;verb
-być bezrobotnym;бути безробітним;;daily_life;być;бути;verb
-praca zdalna;дистанційна робота;(жіночий);daily_life;praca zdalna;дистанційна робота;noun
-praca zmianowa;позмінна робота;(жіночий);daily_life;praca zmianowa;позмінна робота;noun
-biuro;офіс;офіси (чоловічий);daily_life;biuro;офіс;noun
-firma;фірма;фірми (жіночий);daily_life;firma;фірма;noun
-przedsiębiorstwo;підприємство;підприємства (середній);daily_life;przedsiębiorstwo;підприємство;noun
-kariera;кар'єра;кар'єри (жіночий);daily_life;kariera;кар'єра;noun
-fach;фах;фахи (чоловічий);daily_life;fach;фах;noun
-szkolenie;навчання;(середній);daily_life;szkolenie;навчання;noun
-kwalifikacje;кваліфікації;кваліфікації (жіночий);daily_life;kwalifikacja;кваліфікація;noun
-biurko;письмовий стіл;письмові столи (чоловічий);daily_life;biurko;письмовий стіл;noun
-krzesło;стілець;стільці (чоловічий);daily_life;krzesło;стілець;noun
-komputer;комп'ютер;комп'ютери (чоловічий);daily_life;komputer;комп'ютер;noun
-monitor;монітор;монітори (чоловічий);daily_life;monitor;монітор;noun
-klawiatura;клавіатура;клавіатури (жіночий);daily_life;klawiatura;клавіатура;noun
-mysz;миша;миші (жіночий);daily_life;mysz;миша;noun
-drukarka;принтер;принтери (чоловічий);daily_life;drukarka;принтер;noun
-telefon;телефон;телефони (чоловічий);daily_life;telefon;телефон;noun
-dokument;документ;документи (чоловічий);daily_life;dokument;документ;noun
-segregator;швидкозшивач;швидкозшивачі (чоловічий);daily_life;segregator;швидкозшивач;noun
-długopis;ручка;ручки (жіночий);daily_life;długopis;ручка;noun
-ołówek;олівець;олівці (чоловічий);daily_life;ołówek;олівець;noun
-zszywacz;зшивач;зшивачі (чоловічий);daily_life;zszywacz;зшивач;noun
-dziurkacz;дірокол;діроколи (чоловічий);daily_life;dziurkacz;дірокол;noun
-spinacz;скріпка;скріпки (жіночий);daily_life;spinacz;скріпка;noun
-kartka;аркуш;аркуші (чоловічий);daily_life;kartka;аркуш;noun
-notes;нотатник;нотатники (чоловічий);daily_life;notes;нотатник;noun
-kalendarz;календар;календарі (чоловічий);daily_life;kalendarz;календар;noun
-szuflada;шухляда;шухляди (жіночий);daily_life;szuflada;шухляда;noun
-szafka;шафка;шафки (жіночий);daily_life;szafka;шафка;noun
-lampa;лампа;лампи (жіночий);daily_life;lampa;лампа;noun
-okno;вікно;вікна (середній);daily_life;okno;вікно;noun
-drzwi;двері;двері (жіночий);daily_life;drzwi;двері;noun
-ściana;стіна;стіни (жіночий);daily_life;ściana;стіна;noun
-podłoga;підлога;підлоги (жіночий);daily_life;podłoga;підлога;noun
-kolega;колега;колеги (чоловічий);daily_life;kolega;колега;noun
-koleżanka;колежанка;колежанки (жіночий);daily_life;koleżanka;колежанка;noun
-szef;шеф;шефи (чоловічий);daily_life;szef;шеф;noun
-pracownik;працівник;працівники (чоловічий);daily_life;pracownik;працівник;noun
-spotkanie;зустріч;зустрічі (жіночий);daily_life;spotkanie;зустріч;noun
-zebranie;засідання;засідання (середній);daily_life;zebranie;засідання;noun
-prezentacja;презентація;презентації (жіночий);daily_life;prezentacja;презентація;noun
-raport;звіт;звіти (чоловічий);daily_life;raport;звіт;noun
-umowa;угода;угоди (жіночий);daily_life;umowa;угода;noun
-faktura;фактура;фактури (жіночий);daily_life;faktura;фактура;noun
-paragon;чек;чеки (чоловічий);daily_life;paragon;чек;noun
-kserokopiarka;ксерокс;ксерокси (чоловічий);daily_life;kserokopiarka;ксерокс;noun
-niszczarka;шредер;шредери (чоловічий);daily_life;niszczarka;шредер;noun
-skaner;сканер;сканери (чоловічий);daily_life;skaner;сканер;noun
-faks;факс;факси (чоловічий);daily_life;faks;факс;noun
-słuchawka;навушники;навушники (чоловічий);daily_life;słuchawka;навушники;noun
-głośnik;динамік;динаміки (чоловічий);daily_life;głośnik;динамік;noun
-kabel;кабель;кабелі (чоловічий);daily_life;kabel;кабель;noun
-ładowarka;зарядний пристрій;зарядні пристрої (чоловічий);daily_life;ładowarka;зарядний пристрій;noun
-bateria;батарейка;батарейки (жіночий);daily_life;bateria;батарейка;noun
-notatnik;записник;записники (чоловічий);daily_life;notatnik;записник;noun
-tablica;дошка;дошки (жіночий);daily_life;tablica;дошка;noun
-marker;маркер;маркери (чоловічий);daily_life;marker;маркер;noun
-flamaster;фломастер;фломастери (чоловічий);daily_life;flamaster;фломастер;noun
-zeszyt;зошит;зошити (чоловічий);daily_life;zeszyt;зошит;noun
-CV;резюме;резюме (середній);daily_life;CV;резюме;noun
-list motywacyjny;мотиваційний лист;мотиваційні листи (чоловічий);daily_life;list;лист;noun
-życiorys;біографія;біографії (жіночий);daily_life;życiorys;біографія;noun
-rozmowa kwalifikacyjna;співбесіда;співбесіди (жіночий);daily_life;rozmowa;розмова;noun
-pracodawca;роботодавець;роботодавці (чоловічий);daily_life;pracodawca;роботодавець;noun
-pracownik;працівник;працівники (чоловічий);daily_life;pracownik;працівник;noun
-kandydat;кандидат;кандидати (чоловічий);daily_life;kandydat;кандидат;noun
-kandydatka;кандидатка;кандидатки (жіночий);daily_life;kandydatka;кандидатка;noun
-rekruter;рекрутер;рекрутери (чоловічий);daily_life;rekruter;рекрутер;noun
-dział HR;відділ кадрів;відділи (чоловічий);daily_life;dział;відділ;noun
-oferta pracy;пропозиція роботи;пропозиції (жіночий);daily_life;oferta;пропозиція;noun
-ogłoszenie o pracę;оголошення про роботу;оголошення (середній);daily_life;ogłoszenie;оголошення;noun
-aplikacja;заявка;заявки (жіночий);daily_life;aplikacja;заявка;noun
-podanie o pracę;заява про прийом на роботу;заяви (жіночий);daily_life;podanie;заява;noun
-umowa o pracę;трудовий договір;трудові договори (чоловічий);daily_life;umowa;договір;noun
-wynagrodzenie;заробітна плата;заробітні плати (жіночий);daily_life;wynagrodzenie;заробітна плата;noun
-pensja;зарплата;зарплати (жіночий);daily_life;pensja;зарплата;noun
-brutto;брутто;;daily_life;brutto;брутто;adv
-netto;нетто;;daily_life;netto;нетто;adv
-doświadczenie zawodowe;професійний досвід;;daily_life;doświadczenie;досвід;noun
-staż;стажування;стажування (середній);daily_life;staż;стажування;noun
-praktyka;практика;практики (жіночий);daily_life;praktyka;практика;noun
-szkolenie;навчання;;daily_life;szkolenie;навчання;noun
-umiejętności;навички;навички (жіночий);daily_life;umiejętność;навичка;noun
-kwalifikacje;кваліфікації;кваліфікації (жіночий);daily_life;kwalifikacja;кваліфікація;noun
-wykształcenie;освіта;;daily_life;wykształcenie;освіта;noun
-studia;студії;студії (жіночий);daily_life;studia;студії;noun
-absolwent;випускник;випускники (чоловічий);daily_life;absolwent;випускник;noun
-bezrobotny;безробітний;безробітні (чоловічий);daily_life;bezrobotny;безробітний;noun
-zatrudnienie;працевлаштування;;daily_life;zatrudnienie;працевлаштування;noun
-rekrutacja;набір персоналу;набори (чоловічий);daily_life;rekrutacja;набір;noun
-poszukiwanie pracy;пошук роботи;пошуки (чоловічий);daily_life;poszukiwanie;пошук;noun
-aplikować;подавати заявку;;daily_life;aplikować;подавати заявку;verb
-ubiegać się o pracę;претендувати на роботу;;daily_life;ubiegać się;претендувати;verb
-składać CV;надсилати резюме;;daily_life;składać;надсилати;verb
-rozmawiać o pracę;проходити співбесіду;;daily_life;rozmawiać;проходити;verb
-zatrudnić;працевлаштувати;;daily_life;zatrudnić;працевлаштувати;verb
-zwolnić;звільнити;;daily_life;zwolnić;звільнити;verb
-otrzymać pracę;отримати роботу;;daily_life;otrzymać;отримати;verb
-pracować;працювати;;daily_life;pracować;працювати;verb
-szukać pracy;шукати роботу;;daily_life;szukać;шукати;verb
-zmiana pracy;зміна роботи;зміни (жіночий);daily_life;zmiana;зміна;noun
-awans;підвищення;підвищення (середній);daily_life;awans;підвищення;noun
-stanowisko;посада;посади (жіночий);daily_life;stanowisko;посада;noun
-wymagania;вимоги;вимоги (жіночий);daily_life;wymaganie;вимога;noun
-referencje;рекомендації;рекомендації (жіночий);daily_life;referencja;рекомендація;noun
-list polecający;рекомендаційний лист;рекомендаційні листи (чоловічий);daily_life;list;лист;noun
-udokumentowane doświadczenie;підтверджений досвід;;daily_life;doświadczenie;досвід;noun
-rozmowa telefoniczna;телефонна співбесіда;телефонні співбесіди (жіночий);daily_life;rozmowa;розмова;noun
-spotkanie;нарада;наради (rodzaj żeński);daily_life;spotkanie;зустріч;noun
-e-mail;електронний лист;електронні листи (rodzaj męski);daily_life;e-mail;електронний лист;noun
-telefon;телефон;телефони (rodzaj męski);daily_life;telefon;телефон;noun
-wiadomość;повідомлення;повідомлення (rodzaj nijaki);daily_life;wiadomość;повідомлення;noun
-raport;звіт;звіти (rodzaj męski);daily_life;raport;звіт;noun
-projekt;проєкт;проєкти (rodzaj męski);daily_life;projekt;проєкт;noun
-termin;термін;терміни (rodzaj męski);daily_life;termin;термін;noun
-zadanie;завдання;завдання (rodzaj nijaki);daily_life;zadanie;завдання;noun
-kolega;колега;колеги (rodzaj męski);daily_life;kolega;колега;noun
-szef;начальник;начальники (rodzaj męski);daily_life;szef;начальник;noun
-pracownik;працівник;працівники (rodzaj męski);daily_life;pracownik;працівник;noun
-klient;клієнт;клієнти (rodzaj męski);daily_life;klient;клієнт;noun
-zespół;команда;команди (rodzaj żeński);daily_life;zespół;команда;noun
-dyskusja;дискусія;дискусії (rodzaj żeński);daily_life;dyskusja;дискусія;noun
-prezentacja;презентація;презентації (rodzaj żeński);daily_life;prezentacja;презентація;noun
-biuro;офіс;офіси (rodzaj męski);daily_life;biuro;офіс;noun
-komputer;комп'ютер;комп'ютери (rodzaj męski);daily_life;komputer;комп'ютер;noun
-drukarka;принтер;принтери (rodzaj męski);daily_life;drukarka;принтер;noun
-plik;файл;файли (rodzaj męski);daily_life;plik;файл;noun
-harmonogram;графік;графіки (rodzaj męski);daily_life;harmonogram;графік;noun
-konferencja;конференція;конференції (rodzaj żeński);daily_life;konferencja;конференція;noun
-negocjacje;переговори;переговори (rodzaj męski);daily_life;negocjacje;переговори;noun
-umowa;договір;договори (rodzaj męski);daily_life;umowa;договір;noun
-porozumienie;угода;угоди (rodzaj żeński);daily_life;porozumienie;угода;noun
-informacja zwrotna;відгук;відгуки (rodzaj męski);daily_life;informacja zwrotna;зворотний зв'язок;noun
-sugestia;пропозиція;пропозиції (rodzaj żeński);daily_life;sugestia;пропозиція;noun
-pytanie;питання;питання (rodzaj nijaki);daily_life;pytanie;питання;noun
-odpowiedź;відповідь;відповіді (rodzaj żeński);daily_life;odpowiedź;відповідь;noun
-problem;проблема;проблеми (rodzaj żeński);daily_life;problem;проблема;noun
-rozwiązanie;рішення;рішення (rodzaj nijaki);daily_life;rozwiązanie;рішення;noun
-notatka;нотатка;нотатки (rodzaj żeński);daily_life;notatka;нотатка;noun
-protokół;протокол;протоколи (rodzaj męski);daily_life;protokół;протокол;noun
-porządek obrad;порядок денний;порядки денні (rodzaj męski);daily_life;porządek obrad;порядок денний;noun
-uczestniczyć;брати участь;;daily_life;uczestniczyć;брати участь;verb
-dyskutować;обговорювати;;daily_life;dyskutować;обговорювати;verb
-wysyłać;надсилати;;daily_life;wysyłać;надсилати;verb
-otrzymywać;отримувати;;daily_life;otrzymywać;отримувати;verb
-odpowiadać;відповідати;;daily_life;odpowiadać;відповідати;verb
-drukować;друкувати;;daily_life;drukować;друкувати;verb
-udostępniać;ділитися;;daily_life;udostępniać;ділитися;verb
-przypominać;нагадувати;;daily_life;przypominać;нагадувати;verb
-proponować;пропонувати;;daily_life;proponować;пропонувати;verb
-akceptować;приймати;;daily_life;akceptować;приймати;verb
-przekładać;переносити;;daily_life;przekładać;переносити;verb
-informować;інформувати;;daily_life;informować;інформувати;verb
-ważny;важливий;;daily_life;ważny;важливий;adj
-pilny;терміновий;;daily_life;pilny;терміновий;adj
-oficjalny;офіційний;;daily_life;oficjalny;офіційний;adj
-krótki;короткий;;daily_life;krótki;короткий;adj
-szczegółowy;детальний;;daily_life;szczegółowy;детальний;adj
+zawód;професія;zawody;daily_life;zawód;професія;noun;
+szef;шеф;szefowie;daily_life;szef;шеф;noun;
+klient;клієнт;klienci;daily_life;klient;клієнт;noun;
+spotkanie;зустріч;spotkania;daily_life;spotkanie;зустріч;noun;
+pensja;зарплата;pensje;daily_life;pensja;зарплата;noun;
+etat;штатна посада;etaty;daily_life;etat;штатна посада;noun;
+bezrobocie;безробіття;;daily_life;bezrobocie;безробіття;noun;
+kariera;кар'єра;kariery;daily_life;kariera;кар'єра;noun;
+awans;підвищення;awanse;daily_life;awans;підвищення;noun;
+zarobek;заробіток;zarobki;daily_life;zarobek;заробіток;noun;
+urlop;відпустка;urlopy;daily_life;urlop;відпустка;noun;
+emerytura;пенсія;emerytury;daily_life;emerytura;пенсія;noun;
+inżynier;інженер;inżynierowie;daily_life;inżynier;інженер;noun;
+lekarz;лікар;lekarze;daily_life;lekarz;лікар;noun;
+nauczyciel;вчитель;nauczyciele;daily_life;nauczyciel;вчитель;noun;
+pielęgniarka;медсестра;pielęgniarki;daily_life;pielęgniarka;медсестра;noun;
+prawnik;юрист;prawnicy;daily_life;prawnik;юрист;noun;
+księgowy;бухгалтер;księgowi;daily_life;księgowy;бухгалтер;noun;
+sprzedawca;продавець;sprzedawcy;daily_life;sprzedawca;продавець;noun;
+kelner;офіціант;kelnerzy;daily_life;kelner;офіціант;noun;
+kucharz;кухар;kucharze;daily_life;kucharz;кухар;noun;
+fryzjer;перукар;fryzjerzy;daily_life;fryzjer;перукар;noun;
+mechanik;механік;mechanicy;daily_life;mechanik;механік;noun;
+elektryk;електрик;elektrycy;daily_life;elektryk;електрик;noun;
+rolnik;фермер;rolnicy;daily_life;rolnik;фермер;noun;
+programista;програміст;programiści;daily_life;programista;програміст;noun;
+pracować;працювати;;daily_life;pracować;працювати;verb (imperfective);
+szukać;шукати;;daily_life;szukać;шукати;verb (imperfective);
+znaleźć;знайти;;daily_life;znaleźć;знайти;verb (perfective);
+aplikować;подавати заявку;;daily_life;aplikować;подавати заявку;verb (imperfective);
+rozmawiać;розмовляти;;daily_life;rozmawiać;розмовляти;verb (imperfective);
+zarabiać;заробляти;;daily_life;zarabiać;заробляти;verb (imperfective);
+prowadzić;вести;;daily_life;prowadzić;вести;verb (imperfective);
+zatrudniać;наймати;;daily_life;zatrudniać;наймати;verb (imperfective);
+zwalniać;звільняти;;daily_life;zwalniać;звільняти;verb (imperfective);
+awansować;отримувати підвищення;;daily_life;awansować;отримувати підвищення;verb (imperfective);
+zawodowy;професійний;;daily_life;zawodowy;професійний;adj;
+bezrobotny;безробітний;;daily_life;bezrobotny;безробітний;adj;
+wykwalifikowany;кваліфікований;;daily_life;wykwalifikowany;кваліфікований;adj;
+biurowy;офісний;;daily_life;biurowy;офісний;adj;
+codziennie;щодня;;daily_life;codziennie;щодня;adv;
+zawodowo;професійно;;daily_life;zawodowo;професійно;adv;
+tymczasowo;тимчасово;;daily_life;tymczasowo;тимчасово;adv;
+regularnie;регулярно;;daily_life;regularnie;регулярно;adv;
+szybko;швидко;;daily_life;szybko;швидко;adv;
+biurko;бюро;biurka;daily_life;biurko;бюро;noun;
+komputer;комп'ютер;komputery;daily_life;komputer;комп'ютер;noun;
+drukarka;принтер;drukarki;daily_life;drukarka;принтер;noun;
+telefon;телефон;telefony;daily_life;telefon;телефон;noun;
+notatnik;блокнот;notatniki;daily_life;notatnik;блокнот;noun;
+długopis;ручка;długopisy;daily_life;długopis;ручка;noun;
+ołówek;олівець;ołówki;daily_life;ołówek;олівець;noun;
+gumka;гумка;gumki;daily_life;gumka;гумка;noun;
+zszywacz;степлер;zszywacze;daily_life;zszywacz;степлер;noun;
+spinacz;скріпка;spinacze;daily_life;spinacz;скріпка;noun;
+kartka;аркуш;kartki;daily_life;kartka;аркуш;noun;
+segregator;папка;segregatory;daily_life;segregator;папка;noun;
+kalendarz;календар;kalendarze;daily_life;kalendarz;календар;noun;
+zadanie;завдання;zadania;daily_life;zadanie;завдання;noun;
+termin;термін;terminy;daily_life;termin;термін;noun;
+projekt;проєкт;projekty;daily_life;projekt;проєкт;noun;
+raport;звіт;raporty;daily_life;raport;звіт;noun;
+dokument;документ;dokumenty;daily_life;dokument;документ;noun;
+pracownik;працівник;pracownicy;daily_life;pracownik;працівник;noun;
+kserokopiarka;ксерокс;kserokopiarki;daily_life;kserokopiarka;ксерокс;noun;
+skaner;сканер;skanery;daily_life;skaner;сканер;noun;
+monitor;монітор;monitory;daily_life;monitor;монітор;noun;
+klawiatura;клавіатура;klawiatury;daily_life;klawiatura;клавіатура;noun;
+myszka;мишка;myszki;daily_life;myszka;мишка;noun;
+e-mail;імейл;e-maile;daily_life;e-mail;імейл;noun;
+drukować;друкувати;;daily_life;drukować;друкувати;verb (imperfective);
+wydrukować;надрукувати;;daily_life;wydrukować;надрукувати;verb (perfective);
+pisać;писати;;daily_life;pisać;писати;verb (imperfective);
+napisać;написати;;daily_life;napisać;написати;verb (perfective);
+czytać;читати;;daily_life;czytać;читати;verb (imperfective);
+przeczytać;прочитати;;daily_life;przeczytać;прочитати;verb (perfective);
+wysyłać;відправляти;;daily_life;wysyłać;відправляти;verb (imperfective);
+wysłać;відправити;;daily_life;wysłać;відправити;verb (perfective);
+dzwonić;дзвонити;;daily_life;dzwonić;дзвонити;verb (imperfective);
+zadzwonić;подзвонити;;daily_life;zadzwonić;подзвонити;verb (perfective);
+ważny;важливий;;daily_life;ważny;важливий;adj;
+pilny;терміновий;;daily_life;pilny;терміновий;adj;
+szybki;швидкий;;daily_life;szybki;швидкий;adj;
+wolny;вільний;;daily_life;wolny;вільний;adj;
+wolno;повільно;;daily_life;wolno;повільно;adv;
+na;на;;daily_life;na;на;prep;
+otrzymać;отримати;;daily_life;otrzymać;отримати;verb (perfective);
+wynagrodzenie;зарплата;wynagrodzenia;daily_life;wynagrodzenie;зарплата;noun;
+staż;стажування;staże;daily_life;staż;стажування;noun;
+doświadczenie;досвід;doświadczenia;daily_life;doświadczenie;досвід;noun;
+kwalifikacja;кваліфікація;kwalifikacje;daily_life;kwalifikacja;кваліфікація;noun;
+rozmowa;співбесіда;rozmowy;daily_life;rozmowa;співбесіда;noun;
+rekrutacja;рекрутинг;rekrutacje;daily_life;rekrutacja;рекрутинг;noun;
+kandydat;кандидат;kandydaci;daily_life;kandydat;кандидат;noun;
+aplikacja;заявка;aplikacje;daily_life;aplikacja;заявка;noun;
+życiorys;резюме;życiorysy;daily_life;życiorys;резюме;noun;
+list;лист;listy;daily_life;list;лист;noun;
+motywacyjny;мотиваційний;;daily_life;motywacyjny;мотиваційний;adj;
+pracodawca;роботодавець;pracodawcy;daily_life;pracodawca;роботодавець;noun;
+referencje;рекомендації;referencje;daily_life;referencja;рекомендація;noun;
+ogłoszenie;оголошення;ogłoszenia;daily_life;ogłoszenie;оголошення;noun;
+zatrudnienie;зайнятість;zatrudnienia;daily_life;zatrudnienie;зайнятість;noun;
+posada;посада;posady;daily_life;posada;посада;noun;
+stanowisko;посада;stanowiska;daily_life;stanowisko;посада;noun;
+premia;премія;premie;daily_life;premia;премія;noun;
+zwolnienie;звільнення;zwolnienia;daily_life;zwolnienie;звільнення;noun;
+wypowiedzenie;попередження;wypowiedzenia;daily_life;wypowiedzenie;попередження;noun;
+rekruter;рекрутер;rekruterzy;daily_life;rekruter;рекрутер;noun;
+agencja;агенція;agencje;daily_life;agencja;агенція;noun;
+formularz;анкета;formularze;daily_life;formularz;анкета;noun;
+wniosek;заява;wnioski;daily_life;wniosek;заява;noun;
+ubiegać się;претендувати;;daily_life;ubiegać się;претендувати;verb (imperfective);
+starać się;домагатися;;daily_life;starać się;домагатися;verb (imperfective);
+otrzymywać;отримувати;;daily_life;otrzymywać;отримувати;verb (imperfective);
+dostać;отримати;;daily_life;dostać;отримати;verb (perfective);
+prosić;просити;;daily_life;prosić;просити;verb (imperfective);
+poprosić;попросити;;daily_life;poprosić;попросити;verb (perfective);
+zatrudnić;працевлаштувати;;daily_life;zatrudnić;працевлаштувати;verb (perfective);
+zdobyć;здобути;;daily_life;zdobyć;здобути;verb (perfective);
+zdobywać;здобувати;;daily_life;zdobywać;здобувати;verb (imperfective);
+zebranie;збори;zebrania;daily_life;zebranie;збори;noun;
+konferencja;конференція;konferencje;daily_life;konferencja;конференція;noun;
+wiadomość;повідомлення;wiadomości;daily_life;wiadomość;повідомлення;noun;
+prezentacja;презентація;prezentacje;daily_life;prezentacja;презентація;noun;
+współpracownik;співробітник;współpracownicy;daily_life;współpracownik;співробітник;noun;
+harmonogram;графік;harmonogramy;daily_life;harmonogram;графік;noun;
+notatka;нотатка;notatki;daily_life;notatka;нотатка;noun;
+internet;інтернет;;daily_life;internet;інтернет;noun;
+strona;сторінка;strony;daily_life;strona;сторінка;noun;
+plik;файл;pliki;daily_life;plik;файл;noun;
+folder;папка;foldery;daily_life;folder;папка;noun;
+program;програма;programy;daily_life;program;програма;noun;
+błąd;помилка;błędy;daily_life;błąd;помилка;noun;
+awaria;аварія;awarie;daily_life;awaria;аварія;noun;
+problem;проблема;problemy;daily_life;problem;проблема;noun;
+rozwiązanie;рішення;rozwiązania;daily_life;rozwiązanie;рішення;noun;
+propozycja;пропозиція;propozycje;daily_life;propozycja;пропозиція;noun;
+opinia;думка;opinie;daily_life;opinia;думка;noun;
+decyzja;рішення;decyzje;daily_life;decyzja;рішення;noun;
+zgoda;згода;;daily_life;zgoda;згода;noun;
+odbierać;відповідати;;daily_life;odbierać;відповідати;verb (imperfective);
+odebrać;відповісти;;daily_life;odebrać;відповісти;verb (perfective);
+porozmawiać;поговорити;;daily_life;porozmawiać;поговорити;verb (perfective);
+dyskutować;обговорювати;;daily_life;dyskutować;обговорювати;verb (imperfective);
+przedyskutować;обговорити;;daily_life;przedyskutować;обговорити;verb (perfective);

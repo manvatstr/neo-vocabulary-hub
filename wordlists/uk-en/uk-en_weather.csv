@@ -1,200 +1,101 @@
-season;сезон;сезони (masculine);weather;season;сезон;noun
-spring;весна;весни (feminine);weather;spring;весна;noun
-summer;літо;літа (neuter);weather;summer;літо;noun
-autumn;осінь;осені (feminine);weather;autumn;осінь;noun
-winter;зима;зими (feminine);weather;winter;зима;noun
-climate;клімат;клімати (masculine);weather;climate;клімат;noun
-weather;погода;(feminine);weather;weather;погода;noun
-temperature;температура;температури (feminine);weather;temperature;температура;noun
-precipitation;опади;опади (masculine);weather;precipitation;опади;noun
-rain;дощ;дощі (masculine);weather;rain;дощ;noun
-snow;сніг;сніги (masculine);weather;snow;сніг;noun
-hail;град;(masculine);weather;hail;град;noun
-sleet;мокрий сніг;мокрі сніги (masculine);weather;sleet;мокрий сніг;noun
-wind;вітер;вітри (masculine);weather;wind;вітер;noun
-cloud;хмара;хмари (feminine);weather;cloud;хмара;noun
-sky;небо;(neuter);weather;sky;небо;noun
-sun;сонце;сонця (neuter);weather;sun;сонце;noun
-humidity;вологість;(feminine);weather;humidity;вологість;noun
-fog;туман;тумани (masculine);weather;fog;туман;noun
-mist;імла;(feminine);weather;mist;імла;noun
-storm;буря;бурі (feminine);weather;storm;буря;noun
-thunder;грім;громи (masculine);weather;thunder;грім;noun
-lightning;блискавка;блискавки (feminine);weather;lightning;блискавка;noun
-blizzard;заметіль;заметілі (feminine);weather;blizzard;заметіль;noun
-heatwave;спека;(feminine);weather;heatwave;спека;noun
-cold snap;похолодання;(neuter);weather;cold snap;похолодання;noun
-drought;посуха;посухи (feminine);weather;drought;посуха;noun
-flood;повінь;повені (feminine);weather;flood;повінь;noun
-climate change;зміна клімату;(feminine);weather;climate change;зміна клімату;noun
-global warming;глобальне потепління;(neuter);weather;global warming;глобальне потепління;noun
-greenhouse effect;парниковий ефект;(masculine);weather;greenhouse effect;парниковий ефект;noun
-sunny;сонячний;;weather;sunny;сонячний;adj
-cloudy;хмарний;;weather;cloudy;хмарний;adj
-rainy;дощовий;;weather;rainy;дощовий;adj
-snowy;сніжний;;weather;snowy;сніжний;adj
-windy;вітряний;;weather;windy;вітряний;adj
-stormy;штормовий;;weather;stormy;штормовий;adj
-foggy;туманний;;weather;foggy;туманний;adj
-humid;вологий;;weather;humid;вологий;adj
-dry;сухий;;weather;dry;сухий;adj
-mild;м'який;;weather;mild;м'який;adj
-harsh;суворий;;weather;harsh;суворий;adj
-cold;холодний;;weather;cold;холодний;adj
-hot;жаркий;;weather;hot;жаркий;adj
-warm;теплий;;weather;warm;теплий;adj
-cool;прохолодний;;weather;cool;прохолодний;adj
-chilly;холоднуватий;;weather;chilly;холоднуватий;adj
-freezing;морозний;;weather;freezing;морозний;adj
-boiling hot;спекотний;;weather;boiling hot;спекотний;adj
-temperate;помірний;;weather;temperate;помірний;adj
-forecast;прогноз;прогнози (чоловічий);weather;forecast;прогноз;noun
-temperature;температура;температури (жіночий);weather;temperature;температура;noun
-degree;градус;градуси (чоловічий);weather;degree;градус;noun
-humidity;вологість;;weather;humidity;вологість;noun
-pressure;тиск;;weather;pressure;тиск;noun
-wind;вітер;вітри (чоловічий);weather;wind;вітер;noun
-rain;дощ;дощі (чоловічий);weather;rain;дощ;noun
-snow;сніг;сніги (чоловічий);weather;snow;сніг;noun
-storm;буря;бурі (жіночий);weather;storm;буря;noun
-thunder;грім;громи (чоловічий);weather;thunder;грім;noun
-lightning;блискавка;блискавки (жіночий);weather;lightning;блискавка;noun
-fog;туман;тумани (чоловічий);weather;fog;туман;noun
-hail;град;;weather;hail;град;noun
-sleet;сльота;;weather;sleet;сльота;noun
-drizzle;мряка;мряки (жіночий);weather;drizzle;мряка;noun
-shower;злива;зливи (жіночий);weather;shower;злива;noun
-blizzard;хуртовина;хуртовини (жіночий);weather;blizzard;хуртовина;noun
-hurricane;ураган;урагани (чоловічий);weather;hurricane;ураган;noun
-tornado;торнадо;торнадо (середній);weather;tornado;торнадо;noun
-climate;клімат;клімати (чоловічий);weather;climate;клімат;noun
-meteorologist;метеоролог;метеорологи (чоловічий);weather;meteorologist;метеоролог;noun
-prediction;передбачення;передбачення (середній);weather;prediction;передбачення;noun
-chance;ймовірність;ймовірності (жіночий);weather;chance;ймовірність;noun
-outlook;перспектива;перспективи (жіночий);weather;outlook;перспектива;noun
-radar;радар;радари (чоловічий);weather;radar;радар;noun
-satellite;супутник;супутники (чоловічий);weather;satellite;супутник;noun
-front;фронт;фронти (чоловічий);weather;front;фронт;noun
-anticyclone;антициклон;антициклони (чоловічий);weather;anticyclone;антициклон;noun
-cyclone;циклон;циклони (чоловічий);weather;cyclone;циклон;noun
-breeze;вітерець;вітерці (чоловічий);weather;breeze;вітерець;noun
-gust;порив;пориви (чоловічий);weather;gust;порив;noun
-UV index;УФ-індекс;УФ-індекси (чоловічий);weather;UV index;УФ-індекс;noun
-pollen;пилок;;weather;pollen;пилок;noun
-warning;попередження;попередження (середній);weather;warning;попередження;noun
-watch;сповіщення;сповіщення (середній);weather;watch;сповіщення;noun
-advisory;рекомендація;рекомендації (жіночий);weather;advisory;рекомендація;noun
-visibility;видимість;;weather;visibility;видимість;noun
-frost;мороз;морози (чоловічий);weather;frost;мороз;noun
-ice;лід;льоди (чоловічий);weather;ice;лід;noun
-thaw;відлига;відлиги (жіночий);weather;thaw;відлига;noun
-hot;спекотний;;weather;hot;спекотний;adj
-cold;холодний;;weather;cold;холодний;adj
-warm;теплий;;weather;warm;теплий;adj
-cool;прохолодний;;weather;cool;прохолодний;adj
-dry;сухий;;weather;dry;сухий;adj
-wet;мокрий;;weather;wet;мокрий;adj
-mild;помірний;;weather;mild;помірний;adj
-rain;дощити;;weather;rain;дощити;verb
-snow;сніжити;;weather;snow;сніжити;verb
-forecast;прогнозувати;;weather;forecast;прогнозувати;verb
-earthquake;землетрус;землетруси (masculine);weather;earthquake;землетрус;noun
-flood;повінь;повені (feminine);weather;flood;повінь;noun
-hurricane;ураган;урагани (masculine);weather;hurricane;ураган;noun
-tornado;торнадо;торнадо (neuter);weather;tornado;торнадо;noun
-tsunami;цунамі;цунамі (neuter);weather;tsunami;цунамі;noun
-volcanic eruption;вулканічне виверження;вулканічні виверження (neuter);weather;volcanic eruption;вулканічне виверження;noun
-wildfire;лісова пожежа;лісові пожежі (feminine);weather;wildfire;лісова пожежа;noun
-drought;посуха;посухи (feminine);weather;drought;посуха;noun
-avalanche;лавина;лавини (feminine);weather;avalanche;лавина;noun
-landslide;зсув;зсуви (masculine);weather;landslide;зсув;noun
-blizzard;хуртовина;хуртовини (feminine);weather;blizzard;хуртовина;noun
-storm;буря;бурі (feminine);weather;storm;буря;noun
-thunderstorm;гроза;грози (feminine);weather;thunderstorm;гроза;noun
-lightning;блискавка;блискавки (feminine);weather;lightning;блискавка;noun
-thunder;грім;;weather;thunder;грім;noun
-hail;град;;weather;hail;град;noun
-heavy rain;проливний дощ;проливні дощі (masculine);weather;heavy rain;проливний дощ;noun
-snowstorm;снігова буря;снігові бурі (feminine);weather;snowstorm;снігова буря;noun
-cyclone;циклон;циклони (masculine);weather;cyclone;циклон;noun
-typhoon;тайфун;тайфуни (masculine);weather;typhoon;тайфун;noun
-heatwave;спека;;weather;heatwave;спека;noun
-cold wave;похолодання;похолодання (neuter);weather;cold wave;похолодання;noun
-ice storm;льодяний дощ;льодяні дощі (masculine);weather;ice storm;льодяний дощ;noun
-sandstorm;піщана буря;піщані бурі (feminine);weather;sandstorm;піщана буря;noun
-dust storm;пилова буря;пилові бурі (feminine);weather;dust storm;пилова буря;noun
-volcanic ash;вулканічний попіл;;weather;volcanic ash;вулканічний попіл;noun
-lava;лава;;weather;lava;лава;noun
-magma;магма;;weather;magma;магма;noun
-seismograph;сейсмограф;сейсмографи (masculine);weather;seismograph;сейсмограф;noun
-aftershock;афтершок;афтершоки (masculine);weather;aftershock;афтершок;noun
-epicenter;епіцентр;епіцентри (masculine);weather;epicenter;епіцентр;noun
-magnitude;магнітуда;магнітуди (feminine);weather;magnitude;магнітуда;noun
-Richter scale;шкала Ріхтера;шкали (feminine);weather;Richter scale;шкала Ріхтера;noun
-tornado warning;попередження про торнадо;попередження (neuter);weather;tornado warning;попередження про торнадо;noun
-evacuation;евакуація;евакуації (feminine);weather;evacuation;евакуація;noun
-rescue;рятування;;weather;rescue;рятування;noun
-survivor;вцілілий;вцілілі (masculine);weather;survivor;вцілілий;noun
-victim;жертва;жертви (feminine);weather;victim;жертва;noun
-damage;шкода;;weather;damage;шкода;noun
-destruction;руйнування;руйнування (neuter);weather;destruction;руйнування;noun
-to erupt;вивергатися;;weather;erupt;вивергатися;verb
-to flood;затоплювати;;weather;flood;затоплювати;verb
-to destroy;руйнувати;;weather;destroy;руйнувати;verb
-to collapse;обвалюватися;;weather;collapse;обвалюватися;verb
-to rescue;рятувати;;weather;rescue;рятувати;verb
-to evacuate;евакуювати;;weather;evacuate;евакуювати;verb
-devastating;спустошливий;;weather;devastating;спустошливий;adj
-severe;суворий;;weather;severe;суворий;adj
-catastrophic;катастрофічний;;weather;catastrophic;катастрофічний;adj
-deadly;смертельний;;weather;deadly;смертельний;adj
-temperature;температура;temperatures;weather;temperature;температура;noun
-degree;градус;degrees;weather;degree;градус;noun
-heat;спека;;weather;heat;спека;noun
-cold;холод;;weather;cold;холод;noun
-hot;гарячий;;weather;hot;гарячий;adj
-cold;холодний;;weather;cold;холодний;adj
-warm;теплий;;weather;warm;теплий;adj
-cool;прохолодний;;weather;cool;прохолодний;adj
-freezing;морозний;;weather;freezing;морозний;adj
-boiling;спекотний;;weather;boiling;спекотний;adj
-mild;м'який;;weather;mild;м'який;adj
-chilly;холоднуватий;;weather;chilly;холоднуватий;adj
-scorching;пекучий;;weather;scorching;пекучий;adj
-sunny;сонячний;;weather;sunny;сонячний;adj
-cloudy;хмарний;;weather;cloudy;хмарний;adj
-rainy;дощовий;;weather;rainy;дощовий;adj
-windy;вітряний;;weather;windy;вітряний;adj
-stormy;штормовий;;weather;stormy;штормовий;adj
-foggy;туманний;;weather;foggy;туманний;adj
-humid;вологий;;weather;humid;вологий;adj
-dry;сухий;;weather;dry;сухий;adj
-wet;мокрий;;weather;wet;мокрий;adj
-overcast;похмурий;;weather;overcast;похмурий;adj
-clear;ясний;;weather;clear;ясний;adj
-snow;сніг;;weather;snow;сніг;noun
-rain;дощ;rains;weather;rain;дощ;noun
-hail;град;;weather;hail;град;noun
-sleet;мокрий сніг;;weather;sleet;мокрий сніг;noun
-thunder;грім;;weather;thunder;грім;noun
-lightning;блискавка;;weather;lightning;блискавка;noun
-storm;буря;storms;weather;storm;буря;noun
-blizzard;завірюха;blizzards;weather;blizzard;завірюха;noun
-hurricane;ураган;hurricanes;weather;hurricane;ураган;noun
-tornado;торнадо;tornadoes;weather;tornado;торнадо;noun
-flood;повінь;floods;weather;flood;повінь;noun
-drought;посуха;droughts;weather;drought;посуха;noun
-breeze;бриз;breezes;weather;breeze;бриз;noun
-gale;шторм;gales;weather;gale;шторм;noun
-shower;злива;showers;weather;shower;злива;noun
-downpour;злива;downpours;weather;downpour;злива;noun
-drizzle;мряка;;weather;drizzle;мряка;noun
-frost;мороз;frosts;weather;frost;мороз;noun
-ice;лід;;weather;ice;лід;noun
-melt;танути;;weather;melt;танути;verb
-thaw;відлига;thaws;weather;thaw;відлига;noun
-heatwave;хвиля спеки;heatwaves;weather;heatwave;хвиля спеки;noun
-cold snap;похолодання;cold snaps;weather;cold snap;похолодання;noun
-humidity;вологість;;weather;humidity;вологість;noun
-fog;туман;fogs;weather;fog;туман;noun
-cloud;хмара;clouds;weather;cloud;хмара;noun
+spring;весна;springs (feminine);weather;spring;весна;noun;/sprɪŋ/
+summer;літо;summers (neuter);weather;summer;літо;noun;/ˈsʌmər/
+autumn;осінь;autumns (feminine);weather;autumn;осінь;noun;/ˈɔːtəm/
+winter;зима;winters (feminine);weather;winter;зима;noun;/ˈwɪntər/
+humidity;вологість;humidities (uncountable, feminine);weather;humidity;вологість;noun;/hjuːˈmɪdɪti/
+precipitation;опади;precipitation (uncountable);weather;precipitation;опади;noun;/prɪˌsɪpɪˈteɪʃən/
+rain;дощ;rains (masculine);weather;rain;дощ;noun;/reɪn/
+snow;сніг;snow (uncountable, masculine);weather;snow;сніг;noun;/snoʊ/
+hail;град;hail (uncountable, masculine);weather;hail;град;noun;/heɪl/
+sleet;мокрий сніг;sleet (uncountable, masculine);weather;sleet;мокрий сніг;noun;/sliːt/
+fog;туман;fog (uncountable, masculine);weather;fog;туман;noun;/fɒɡ/
+mist;імла;mist (uncountable, feminine);weather;mist;імла;noun;/mɪst/
+frost;мороз;frosts (masculine);weather;frost;мороз;noun;/frɒst/
+ice;лід;ice (uncountable, masculine);weather;ice;лід;noun;/aɪs/
+cloud;хмара;clouds (feminine);weather;cloud;хмара;noun;/klaʊd/
+sky;небо;skies (neuter);weather;sky;небо;noun;/skaɪ/
+sun;сонце;suns (neuter);weather;sun;сонце;noun;/sʌn/
+wind;вітер;winds (masculine);weather;wind;вітер;noun;/wɪnd/
+thunderstorm;гроза;thunderstorms (feminine);weather;thunderstorm;гроза;noun;/ˈθʌndərstɔːrm/
+thunder;грім;thunders (masculine);weather;thunder;грім;noun;/ˈθʌndər/
+lightning;блискавка;lightning (uncountable, feminine);weather;lightning;блискавка;noun;/ˈlaɪtnɪŋ/
+drought;посуха;droughts (feminine);weather;drought;посуха;noun;/draʊt/
+heatwave;хвиля спеки;heatwaves (feminine);weather;heatwave;хвиля спеки;noun;/ˈhiːtweɪv/
+forecast;прогноз;forecasts (masculine);weather;forecast;прогноз;noun;/ˈfɔːrkæst/
+Celsius;Цельсій;Celsius (uncountable, masculine);weather;Celsius;Цельсій;noun;/ˈsɛlsiəs/
+sunny;сонячний;;weather;sunny;сонячний;adj;/ˈsʌni/
+cloudy;хмарний;;weather;cloudy;хмарний;adj;/ˈklaʊdi/
+windy;вітряний;;weather;windy;вітряний;adj;/ˈwɪndi/
+rainy;дощовий;;weather;rainy;дощовий;adj;/ˈreɪni/
+snowy;сніжний;;weather;snowy;сніжний;adj;/ˈsnoʊi/
+foggy;туманний;;weather;foggy;туманний;adj;/ˈfɒɡi/
+humid;вологий;;weather;humid;вологий;adj;/ˈhjuːmɪd/
+dry;сухий;;weather;dry;сухий;adj;/draɪ/
+warm;теплий;;weather;warm;теплий;adj;/wɔːrm/
+cool;прохолодний;;weather;cool;прохолодний;adj;/kuːl/
+hot;спекотний;;weather;hot;спекотний;adj;/hɒt/
+mild;м'який;;weather;mild;м'який;adj;/maɪld/
+pressure;тиск;pressure (uncountable);weather;pressure;тиск;noun;/ˈprɛʃ.ər/
+speed;швидкість;speeds (feminine);weather;speed;швидкість;noun;/spiːd/
+dew point;точка роси;dew points (feminine);weather;dew point;точка роси;noun;/ˈdjuː ˌpɔɪnt/
+visibility;видимість;visibility (uncountable);weather;visibility;видимість;noun;/ˌvɪz.ɪˈbɪl.ɪ.ti/
+sunrise;схід сонця;sunrises (masculine);weather;sunrise;схід сонця;noun;/ˈsʌn.raɪz/
+sunset;захід сонця;sunsets (masculine);weather;sunset;захід сонця;noun;/ˈsʌn.set/
+UV index;УФ-індекс;UV indexes (masculine);weather;UV index;УФ-індекс;noun;/ˌjuːˈviː ˌɪn.deks/
+meteorologist;метеоролог;meteorologists (masculine);weather;meteorologist;метеоролог;noun;/ˌmiː.ti.əˈrɒl.ə.dʒɪst/
+warning;попередження;warnings (neuter);weather;warning;попередження;noun;/ˈwɔːr.nɪŋ/
+alert;сповіщення;alerts (neuter);weather;alert;сповіщення;noun;/əˈlɜːrt/
+predict;передбачати;;weather;predict;передбачати (imperfective);verb;/prɪˈdɪkt/
+drizzle;мрячити;;weather;drizzle;мрячити (imperfective);verb;/ˈdrɪz.əl/
+stormy;штормовий;;weather;stormy;штормовий;adj;/ˈstɔːr.mi/
+clear;ясний;;weather;clear;ясний;adj;/klɪər/
+overcast;похмурий;;weather;overcast;похмурий;adj;/ˈoʊ.vər.kæst/
+freezing;морозний;;weather;freezing;морозний;adj;/ˈfriː.zɪŋ/
+chance;ймовірність;chances (feminine);weather;chance;ймовірність;noun;/tʃæns/
+Fahrenheit;Фаренгейт;Fahrenheit (uncountable);weather;Fahrenheit;Фаренгейт;noun;/ˈfær.ən.haɪt/
+hurricane;ураган;hurricanes (masculine);weather;hurricane;ураган;noun;/ˈhɜːrɪkeɪn/
+tornado;торнадо;tornadoes (neuter);weather;tornado;торнадо;noun;/tɔːrˈneɪdoʊ/
+tsunami;цунамі;tsunamis (neuter);weather;tsunami;цунамі;noun;/tsuːˈnɑːmi/
+wildfire;лісова пожежа;wildfires (feminine);weather;wildfire;лісова пожежа;noun;/ˈwaɪldfaɪər/
+eruption;виверження;eruptions (neuter);weather;eruption;виверження;noun;/ɪˈrʌpʃən/
+avalanche;лавина;avalanches (feminine);weather;avalanche;лавина;noun;/ˈævəlæntʃ/
+blizzard;заметіль;blizzards (feminine);weather;blizzard;заметіль;noun;/ˈblɪzərd/
+cyclone;циклон;cyclones (masculine);weather;cyclone;циклон;noun;/ˈsaɪkloʊn/
+typhoon;тайфун;typhoons (masculine);weather;typhoon;тайфун;noun;/taɪˈfuːn/
+monsoon;мусон;monsoons (masculine);weather;monsoon;мусон;noun;/mɒnˈsuːn/
+landslide;зсув;landslides (masculine);weather;landslide;зсув;noun;/ˈlændslaɪd/
+mudslide;сель;mudslides (masculine);weather;mudslide;сель;noun;/ˈmʌdslaɪd/
+dust storm;пилова буря;dust storms (feminine);weather;dust storm;пилова буря;noun;/ˈdʌst stɔːrm/
+smoke;дим;smoke (uncountable);weather;smoke;дим;noun;/smoʊk/
+ash;попіл;ash (uncountable);weather;ash;попіл;noun;/æʃ/
+lava;лава;lava (uncountable);weather;lava;лава;noun;/ˈlɑːvə/
+tremor;підземний поштовх;tremors (masculine);weather;tremor;підземний поштовх;noun;/ˈtremər/
+aftershock;афтершок;aftershocks (masculine);weather;aftershock;афтершок;noun;/ˈæftərʃɒk/
+epicenter;епіцентр;epicenters (masculine);weather;epicenter;епіцентр;noun;/ˈepɪsentər/
+magnitude;магнітуда;magnitudes (feminine);weather;magnitude;магнітуда;noun;/ˈmæɡnɪtjuːd/
+shake;трястися;;weather;shake;трястися (imperfective);verb;/ʃeɪk/
+erupt;вивергатися;;weather;erupt;вивергатися (imperfective);verb;/ɪˈrʌpt/
+destroy;руйнувати;;weather;destroy;руйнувати (imperfective);verb;/dɪˈstrɔɪ/
+warn;попереджати;;weather;warn;попереджати (imperfective);verb;/wɔːrn/
+evacuate;евакуювати;;weather;evacuate;евакуювати (imperfective);verb;/ɪˈvækjueɪt/
+survive;виживати;;weather;survive;виживати (imperfective);verb;/sərˈvaɪv/
+collapse;обвалюватися;;weather;collapse;обвалюватися (imperfective);verb;/kəˈlæps/
+strike;вдаряти;;weather;strike;вдаряти (imperfective);verb;/straɪk/
+severe;суворий;;weather;severe;суворий;adj;/sɪˈvɪr/
+extreme;екстремальний;;weather;extreme;екстремальний;adj;/ɪkˈstriːm/
+catastrophic;катастрофічний;;weather;catastrophic;катастрофічний;adj;/ˌkætəˈstrɒfɪk/
+natural;природний;;weather;natural;природний;adj;/ˈnætʃərəl/
+violent;жорстокий;;weather;violent;жорстокий;adj;/ˈvaɪələnt/
+destructive;руйнівний;;weather;destructive;руйнівний;adj;/dɪˈstrʌktɪv/
+intense;інтенсивний;;weather;intense;інтенсивний;adj;/ɪnˈtens/
+powerful;потужний;;weather;powerful;потужний;adj;/ˈpaʊərfəl/
+sudden;раптовий;;weather;sudden;раптовий;adj;/ˈsʌdən/
+heat;спека;heat (uncountable);weather;heat;спека;noun;/hiːt/
+chill;прохолода;chills (feminine);weather;chill;прохолода;noun;/tʃɪl/
+shower;злива;showers (feminine);weather;shower;злива;noun;/ˈʃaʊər/
+downpour;ливень;downpours (masculine);weather;downpour;ливень;noun;/ˈdaʊnpɔːr/
+wet;мокрий;;weather;wet;мокрий;adj;/wɛt/
+breeze;бриз;breezes (masculine);weather;breeze;бриз;noun;/briːz/
+gale;шторм;gales (masculine);weather;gale;шторм;noun;/ɡeɪl/
+gust;порив;gusts (masculine);weather;gust;порив;noun;/ɡʌst/
+barometer;барометр;barometers (masculine);weather;barometer;барометр;noun;/bəˈrɒmɪtər/

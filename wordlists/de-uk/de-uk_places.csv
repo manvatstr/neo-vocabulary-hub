@@ -1,199 +1,127 @@
-der Markt;ринок;ринки (männlich);places;Markt;ринок;noun
-das Rathaus;ратуша;ратуші (weiblich);places;Rathaus;ратуша;noun
-die Kirche;церква;церкви (weiblich);places;Kirche;церква;noun
-der Bahnhof;вокзал;вокзали (männlich);places;Bahnhof;вокзал;noun
-der Busbahnhof;автовокзал;автовокзали (männlich);places;Busbahnhof;автовокзал;noun
-die Haltestelle;зупинка;зупинки (weiblich);places;Haltestelle;зупинка;noun
-der Flughafen;аеропорт;аеропорти (männlich);places;Flughafen;аеропорт;noun
-das Museum;музей;музеї (männlich);places;Museum;музей;noun
-das Theater;театр;театри (männlich);places;Theater;театр;noun
-das Kino;кінотеатр;кінотеатри (männlich);places;Kino;кінотеатр;noun
-das Restaurant;ресторан;ресторани (männlich);places;Restaurant;ресторан;noun
-das Café;кафе;кафе (sächlich);places;Café;кафе;noun
-die Bäckerei;пекарня;пекарні (weiblich);places;Bäckerei;пекарня;noun
-die Metzgerei;м'ясна крамниця;м'ясні крамниці (weiblich);places;Metzgerei;м'ясна крамниця;noun
-die Apotheke;аптека;аптеки (weiblich);places;Apotheke;аптека;noun
-das Krankenhaus;лікарня;лікарні (weiblich);places;Krankenhaus;лікарня;noun
-die Polizeiwache;поліцейський відділок;поліцейські відділки (männlich);places;Polizeiwache;поліцейський відділок;noun
-die Feuerwache;пожежна частина;пожежні частини (weiblich);places;Feuerwache;пожежна частина;noun
-die Post;пошта;;places;Post;пошта;noun
-die Bank;банк;банки (männlich);places;Bank;банк;noun
-das Einkaufszentrum;торговий центр;торгові центри (männlich);places;Einkaufszentrum;торговий центр;noun
-der Supermarkt;супермаркет;супермаркети (männlich);places;Supermarkt;супермаркет;noun
-der Park;парк;парки (männlich);places;Park;парк;noun
-der Spielplatz;дитячий майданчик;дитячі майданчики (männlich);places;Spielplatz;дитячий майданчик;noun
-die Bibliothek;бібліотека;бібліотеки (weiblich);places;Bibliothek;бібліотека;noun
-das Schwimmbad;басейн;басейни (männlich);places;Schwimmbad;басейн;noun
-das Stadion;стадіон;стадіони (männlich);places;Stadion;стадіон;noun
-der Zoo;зоопарк;зоопарки (männlich);places;Zoo;зоопарк;noun
-die Universität;університет;університети (männlich);places;Universität;університет;noun
-die Schule;школа;школи (weiblich);places;Schule;школа;noun
-das Hotel;готель;готелі (männlich);places;Hotel;готель;noun
-die Tankstelle;автозаправка;автозаправки (weiblich);places;Tankstelle;автозаправка;noun
-die Autowerkstatt;автомайстерня;автомайстерні (weiblich);places;Autowerkstatt;автомайстерня;noun
-die Brücke;міст;мости (männlich);places;Brücke;міст;noun
-der Fluss;річка;річки (weiblich);places;Fluss;річка;noun
-der See;озеро;озера (sächlich);places;See;озеро;noun
-das Denkmal;пам'ятник;пам'ятники (männlich);places;Denkmal;пам'ятник;noun
-der Brunnen;фонтан;фонтани (männlich);places;Brunnen;фонтан;noun
-die Fußgängerzone;пішохідна зона;пішохідні зони (weiblich);places;Fußgängerzone;пішохідна зона;noun
-das Hochhaus;хмарочос;хмарочоси (männlich);places;Hochhaus;хмарочос;noun
-die Wohnung;квартира;квартири (weiblich);places;Wohnung;квартира;noun
-das Einfamilienhaus;приватний будинок;приватні будинки (männlich);places;Einfamilienhaus;приватний будинок;noun
-der Friedhof;цвинтар;цвинтарі (männlich);places;Friedhof;цвинтар;noun
-das Gericht;суд;суди (männlich);places;Gericht;суд;noun
-das Gefängnis;в'язниця;в'язниці (weiblich);places;Gefängnis;в'язниця;noun
-die Moschee;мечеть;мечеті (weiblich);places;Moschee;мечеть;noun
-die Synagoge;синагога;синагоги (weiblich);places;Synagoge;синагога;noun
-das Kaufhaus;універмаг;універмаги (männlich);places;Kaufhaus;універмаг;noun
-der Parkplatz;парковка;парковки (weiblich);places;Parkplatz;парковка;noun
-die Bushaltestelle;автобусна зупинка;автобусні зупинки (weiblich);places;Bushaltestelle;автобусна зупинка;noun
-das Dorf;село;села (sächlich);places;Dorf;село;noun
-der Bauernhof;ферма;ферми (weiblich);places;Bauernhof;ферма;noun
-der Wald;ліс;ліси (männlich);places;Wald;ліс;noun
-der Fluss;річка;річки (weiblich);places;Fluss;річка;noun
-der Hügel;пагорб;пагорби (männlich);places;Hügel;пагорб;noun
-das Feld;поле;поля (sächlich);places;Feld;поле;noun
-die Wiese;лука;луки (weiblich);places;Wiese;лука;noun
-der See;озеро;озера (sächlich);places;See;озеро;noun
-der Teich;ставок;ставки (männlich);places;Teich;ставок;noun
-die Mühle;млин;млини (männlich);places;Mühle;млин;noun
-der Weg;стежка;стежки (weiblich);places;Weg;стежка;noun
-die Landschaft;ландшафт;ландшафти (männlich);places;Landschaft;ландшафт;noun
-die Brücke;міст;мости (männlich);places;Brücke;міст;noun
-der Bach;струмок;струмки (männlich);places;Bach;струмок;noun
-die Hecke;живопліт;живоплоти (männlich);places;Hecke;живопліт;noun
-das Tal;долина;долини (weiblich);places;Tal;долина;noun
-der Berg;гора;гори (weiblich);places;Berg;гора;noun
-die Alm;полонина;полонини (weiblich);places;Alm;полонина;noun
-die Weide;пасовище;пасовища (sächlich);places;Weide;пасовище;noun
-der Obstgarten;фруктовий сад;фруктові сади (männlich);places;Obstgarten;фруктовий сад;noun
-die Landstraße;сільська дорога;сільські дороги (weiblich);places;Landstraße;сільська дорога;noun
-die Windmühle;вітряк;вітряки (männlich);places;Windmühle;вітряк;noun
-die Kirche;церква;церкви (weiblich);places;Kirche;церква;noun
-der Friedhof;цвинтар;цвинтарі (männlich);places;Friedhof;цвинтар;noun
-die Quelle;джерело;джерела (sächlich);places;Quelle;джерело;noun
-die Hütte;хатинка;хатинки (weiblich);places;Hütte;хатинка;noun
-das Gehöft;хутір;хутори (männlich);places;Gehöft;хутір;noun
-der Campingplatz;кемпінг;кемпінги (männlich);places;Campingplatz;кемпінг;noun
-der Aussichtspunkt;оглядовий майданчик;оглядові майданчики (männlich);places;Aussichtspunkt;оглядовий майданчик;noun
-der Nationalpark;національний парк;національні парки (männlich);places;Nationalpark;національний парк;noun
-das Naturschutzgebiet;природний заповідник;природні заповідники (männlich);places;Naturschutzgebiet;природний заповідник;noun
-die Schlucht;ущелина;ущелини (weiblich);places;Schlucht;ущелина;noun
-die Klippe;скеля;скелі (weiblich);places;Klippe;скеля;noun
-der Wasserfall;водоспад;водоспади (männlich);places;Wasserfall;водоспад;noun
-die Viehweide;вигін;вигони (männlich);places;Viehweide;вигін;noun
-die Lichtung;галявина;галявини (weiblich);places;Lichtung;галявина;noun
-der Sumpf;болото;болота (sächlich);places;Sumpf;болото;noun
-das Moor;торф'яник;торф'яники (männlich);places;Moor;торф'яник;noun
-die Heide;пустка;пустки (weiblich);places;Heide;пустка;noun
-die Streuobstwiese;плодовий луг;плодові луги (männlich);places;Streuobstwiese;плодовий луг;noun
-der Weinberg;виноградник;виноградники (männlich);places;Weinberg;виноградник;noun
-der Feldweg;польова дорога;польові дороги (weiblich);places;Feldweg;польова дорога;noun
-die Allee;алея;алеї (weiblich);places;Allee;алея;noun
-der Hain;гай;гаї (männlich);places;Hain;гай;noun
-der Garten;сад;сади (männlich);places;Garten;сад;noun
-der Park;парк;парки (männlich);places;Park;парк;noun
-der Stausee;водосховище;водосховища (sächlich);places;Stausee;водосховище;noun
-die Scheune;клуня;клуні (weiblich);places;Scheune;клуня;noun
-der Stall;стайня;стайні (weiblich);places;Stall;стайня;noun
-der Berg;гора;гори (weiblich);places;Berg;гора;noun
-die Wüste;пустеля;пустелі (weiblich);places;Wüste;пустеля;noun
-das Gebirge;гірський масив;гірські масиви (männlich);places;Gebirge;гірський масив;noun
-der Fluss;річка;річки (weiblich);places;Fluss;річка;noun
-der See;озеро;озера (sächlich);places;See;озеро;noun
-das Meer;море;моря (sächlich);places;Meer;море;noun
-der Ozean;океан;океани (männlich);places;Ozean;океан;noun
-die Küste;узбережжя;узбережжя (sächlich);places;Küste;узбережжя;noun
-die Insel;острів;острови (männlich);places;Insel;острів;noun
-die Halbinsel;півострів;півострови (männlich);places;Halbinsel;півострів;noun
-der Kontinent;континент;континенти (männlich);places;Kontinent;континент;noun
-das Land;країна;країни (weiblich);places;Land;країна;noun
-die Stadt;місто;міста (sächlich);places;Stadt;місто;noun
-das Dorf;село;села (sächlich);places;Dorf;село;noun
-der Wald;ліс;ліси (männlich);places;Wald;ліс;noun
-die Ebene;рівнина;рівнини (weiblich);places;Ebene;рівнина;noun
-das Tal;долина;долини (weiblich);places;Tal;долина;noun
-der Hügel;пагорб;пагорби (männlich);places;Hügel;пагорб;noun
-die Schlucht;ущелина;ущелини (weiblich);places;Schlucht;ущелина;noun
-die Höhle;печера;печери (weiblich);places;Höhle;печера;noun
-der Wasserfall;водоспад;водоспади (männlich);places;Wasserfall;водоспад;noun
-der Strand;пляж;пляжі (männlich);places;Strand;пляж;noun
-die Bucht;бухта;бухти (weiblich);places;Bucht;бухта;noun
-die Meerenge;протока;протоки (weiblich);places;Meerenge;протока;noun
-der Kanal;канал;канали (männlich);places;Kanal;канал;noun
-der Gletscher;льодовик;льодовики (männlich);places;Gletscher;льодовик;noun
-der Vulkan;вулкан;вулкани (männlich);places;Vulkan;вулкан;noun
-das Kap;мис;миси (männlich);places;Kap;мис;noun
-die Klippe;скеля;скелі (weiblich);places;Klippe;скеля;noun
-die Düne;дюна;дюни (weiblich);places;Düne;дюна;noun
-der Sumpf;болото;болота (sächlich);places;Sumpf;болото;noun
-das Moor;торфовище;торфовища (sächlich);places;Moor;торфовище;noun
-die Quelle;джерело;джерела (sächlich);places;Quelle;джерело;noun
-der Bach;струмок;струмки (männlich);places;Bach;струмок;noun
-der Teich;ставок;ставки (männlich);places;Teich;ставок;noun
-der Hafen;порт;порти (männlich);places;Hafen;порт;noun
-das Riff;риф;рифи (männlich);places;Riff;риф;noun
-die Lagune;лагуна;лагуни (weiblich);places;Lagune;лагуна;noun
-das Hochland;височина;височини (weiblich);places;Hochland;височина;noun
-das Tiefland;низовина;низовини (weiblich);places;Tiefland;низовина;noun
-die Steppe;степ;степи (männlich);places;Steppe;степ;noun
-die Tundra;тундра;тундри (weiblich);places;Tundra;тундра;noun
-die Wiese;лука;луки (weiblich);places;Wiese;лука;noun
-das Feld;поле;поля (sächlich);places;Feld;поле;noun
-die Landschaft;ландшафт;ландшафти (männlich);places;Landschaft;ландшафт;noun
-die Umgebung;околиця;околиці (weiblich);places;Umgebung;околиця;noun
-die Gegend;місцевість;місцевості (weiblich);places;Gegend;місцевість;noun
-bergig;гірський;;places;bergig;гірський;adj
-flach;рівнинний;;places;flach;рівнинний;adj
-hügelig;горбистий;;places;hügelig;горбистий;adj
-die Straße;вулиця;die Straßen;places;Straße;вулиця;noun
-die Kreuzung;перехрестя;die Kreuzungen;places;Kreuzung;перехрестя;noun
-der Platz;площа;die Plätze;places;Platz;площа;noun
-die Ampel;світлофор;die Ampeln;places;Ampel;світлофор;noun
-der Bahnhof;вокзал;die Bahnhöfe;places;Bahnhof;вокзал;noun
-die Haltestelle;зупинка;die Haltestellen;places;Haltestelle;зупинка;noun
-die Brücke;міст;die Brücken;places;Brücke;міст;noun
-die U-Bahn;метро;die U-Bahnen;places;U-Bahn;метро;noun
-die Bushaltestelle;автобусна зупинка;die Bushaltestellen;places;Bushaltestelle;автобусна зупинка;noun
-der Kreisverkehr;кільцева розв'язка;die Kreisverkehre;places;Kreisverkehr;кільцева розв'язка;noun
-die Ecke;кут;die Ecken;places;Ecke;кут;noun
-der Bürgersteig;тротуар;die Bürgersteige;places;Bürgersteig;тротуар;noun
-der Zebrastreifen;пішохідний перехід;die Zebrastreifen;places;Zebrastreifen;пішохідний перехід;noun
-die Gasse;провулок;die Gassen;places;Gasse;провулок;noun
-die Sporthalle;спортзал;die Sporthallen;places;Sporthalle;спортзал;noun
-das Kino;кінотеатр;die Kinos;places;Kino;кінотеатр;noun
-das Theater;театр;die Theater;places;Theater;театр;noun
-das Rathaus;ратуша;die Rathäuser;places;Rathaus;ратуша;noun
-das Postamt;поштове відділення;die Postämter;places;Postamt;поштове відділення;noun
-das Krankenhaus;лікарня;die Krankenhäuser;places;Krankenhaus;лікарня;noun
-die Apotheke;аптека;die Apotheken;places;Apotheke;аптека;noun
-der Supermarkt;супермаркет;die Supermärkte;places;Supermarkt;супермаркет;noun
-die Bäckerei;пекарня;die Bäckereien;places;Bäckerei;пекарня;noun
-das Café;кафе;die Cafés;places;Café;кафе;noun
-das Restaurant;ресторан;die Restaurants;places;Restaurant;ресторан;noun
-das Hotel;готель;die Hotels;places;Hotel;готель;noun
-die Kirche;церква;die Kirchen;places;Kirche;церква;noun
-der Park;парк;die Parks;places;Park;парк;noun
-der Strand;пляж;die Strände;places;Strand;пляж;noun
-der Fußgängerweg;пішохідна доріжка;die Fußgängerwege;places;Fußgängerweg;пішохідна доріжка;noun
-die Einbahnstraße;вулиця з одностороннім рухом;die Einbahnstraßen;places;Einbahnstraße;вулиця з одностороннім рухом;noun
-die Autobahn;автомагістраль;die Autobahnen;places;Autobahn;автомагістраль;noun
-der Flughafen;аеропорт;die Flughäfen;places;Flughafen;аеропорт;noun
-der Hafen;порт;die Häfen;places;Hafen;порт;noun
-die Stadtmitte;центр міста;;places;Stadtmitte;центр міста;noun
-die Innenstadt;центр;die Innenstädte;places;Innenstadt;центр;noun
-die Karte;карта;die Karten;places;Karte;карта;noun
-der Kompass;компас;die Kompasse;places;Kompass;компас;noun
-die Richtung;напрямок;die Richtungen;places;Richtung;напрямок;noun
-gehen;йти;;places;gehen;йти;verb
-abbiegen;повертати;;places;abbiegen;повертати;verb
-überqueren;переходити;;places;überqueren;переходити;verb
-fragen;питати;;places;fragen;питати;verb
-suchen;шукати;;places;suchen;шукати;verb
-geradeaus;прямо;;places;geradeaus;прямо;adv
-links;ліворуч;;places;links;ліворуч;adv
-rechts;праворуч;;places;rechts;праворуч;adv
-der Weg;шлях;die Wege;places;Weg;шлях;noun
-das Ziel;місце призначення;die Ziele;places;Ziel;місце призначення;noun
-die Umgebung;околиця;die Umgebungen;places;Umgebung;околиця;noun
+das Krankenhaus;лікарня;die Krankenhäuser;places;Kranker + Haus;лікарня;noun;
+die Metzgerei;м'ясна крамниця;die Metzgereien;places;Metzgerei;м'ясна крамниця;noun;
+die Moschee;мечеть;die Moscheen;places;Moschee;мечеть;noun;
+die Synagoge;синагога;die Synagogen;places;Synagoge;синагога;noun;
+der Markt;ринок;die Märkte;places;Markt;ринок;noun;
+das Einkaufszentrum;торговий центр;die Einkaufszentren;places;Einkauf + Zentrum;торговий центр;noun;
+die Bar;бар;die Bars;places;Bar;бар;noun;
+die Reinigung;хімчистка;die Reinigungen;places;Reinigung;хімчистка;noun;
+der Zoo;зоопарк;die Zoos;places;Zoo;зоопарк;noun;
+das Gefängnis;в'язниця;die Gefängnisse;places;Gefängnis;в'язниця;noun;
+der Friedhof;цвинтар;die Friedhöfe;places;Friedhof;цвинтар;noun;
+die Autowaschanlage;автомийка;die Autowaschanlagen;places;Auto + Wasch + Anlage;автомийка;noun;
+der Parkplatz;парковка;die Parkplätze;places;Park + Platz;парковка;noun;
+die Brücke;міст;die Brücken;places;Brücke;міст;noun;
+der Zebrastreifen;пішохідний перехід;die Zebrastreifen;places;Zebra + Streifen;пішохідний перехід;noun;
+der Bürgersteig;тротуар;die Bürgersteige;places;Bürger + Steig;тротуар;noun;
+der Stadtteil;район міста;die Stadtteile;places;Stadt + Teil;район міста;noun;
+das Dorf;село;die Dörfer;places;Dorf;село;noun;
+der Bauernhof;ферма;die Bauernhöfe;places;Bauern + Hof;ферма;noun;
+die Wiese;лука;die Wiesen;places;Wiese;лука;noun;
+der Berg;гора;die Berge;places;Berg;гора;noun;
+der Hügel;пагорб;die Hügel;places;Hügel;пагорб;noun;
+das Tal;долина;die Täler;places;Tal;долина;noun;
+der Wald;ліс;die Wälder;places;Wald;ліс;noun;
+der Bach;струмок;die Bäche;places;Bach;струмок;noun;
+der Fluss;річка;die Flüsse;places;Fluss;річка;noun;
+der Teich;ставок;die Teiche;places;Teich;ставок;noun;
+der Acker;рілля;die Äcker;places;Acker;рілля;noun;
+die Weide;пасовище;die Weiden;places;Weide;пасовище;noun;
+die Scheune;сарай;die Scheunen;places;Scheune;сарай;noun;
+der Obstgarten;фруктовий сад;die Obstgärten;places;Obst + Garten;фруктовий сад;noun;
+der Gemüsegarten;город;die Gemüsegärten;places;Gemüse + Garten;город;noun;
+der Weinberg;виноградник;die Weinberge;places;Wein + Berg;виноградник;noun;
+das Landhaus;заміський будинок;die Landhäuser;places;Land + Haus;заміський будинок;noun;
+die Landschaft;пейзаж;die Landschaften;places;Landschaft;пейзаж;noun;
+die Natur;природа;;places;Natur;природа;noun;
+das Heu;сіно;;places;Heu;сіно;noun;
+das Stroh;солома;;places;Stroh;солома;noun;
+das Getreide;зернові;;places;Getreide;зернові;noun;
+die Ernte;урожай;die Ernten;places;Ernte;урожай;noun;
+der Traktor;трактор;die Traktoren;places;Traktor;трактор;noun;
+die Kuh;корова;die Kühe;places;Kuh;корова;noun;
+das Schaf;вівця;die Schafe;places;Schaf;вівця;noun;
+die Ziege;коза;die Ziegen;places;Ziege;коза;noun;
+das Pferd;кінь;die Pferde;places;Pferd;кінь;noun;
+das Huhn;курка;die Hühner;places;Huhn;курка;noun;
+der Hahn;півень;die Hähne;places;Hahn;півень;noun;
+die Henne;курка;die Hennen;places;Henne;курка;noun;
+die Ente;качка;die Enten;places;Ente;качка;noun;
+die Gans;гуска;die Gänse;places;Gans;гуска;noun;
+der Storch;лелека;die Störche;places;Storch;лелека;noun;
+der Himmel;небо;die Himmel;places;Himmel;небо;noun;
+die Sonne;сонце;die Sonnen;places;Sonne;сонце;noun;
+die Wolke;хмара;die Wolken;places;Wolke;хмара;noun;
+der Wind;вітер;die Winde;places;Wind;вітер;noun;
+der Regen;дощ;;places;Regen;дощ;noun;
+die Luft;повітря;;places;Luft;повітря;noun;
+die Frischluft;свіже повітря;;places;Frisch + Luft;свіже повітря;noun;
+die Ruhe;спокій;;places;Ruhe;спокій;noun;
+ländlich;сільський;;places;ländlich;сільський;adj;
+hügelig;горбистий;;places;hügelig;горбистий;adj;
+malerisch;мальовничий;;places;malerisch;мальовничий;adj;
+reiten;їздити верхи;;places;reiten;їздити верхи;verb (strong);
+die Insel;острів;die Inseln;places;Insel;острів;noun;
+das Meer;море;die Meere;places;Meer;море;noun;
+der Ozean;океан;die Ozeane;places;Ozean;океан;noun;
+die Wüste;пустеля;die Wüsten;places;Wüste;пустеля;noun;
+die Ebene;рівнина;die Ebenen;places;Ebene;рівнина;noun;
+der Wasserfall;водоспад;die Wasserfälle;places;Wasser + Fall;водоспад;noun;
+die Küste;узбережжя;die Küsten;places;Küste;узбережжя;noun;
+der Strand;пляж;die Strände;places;Strand;пляж;noun;
+die Halbinsel;півострів;die Halbinseln;places;halb + Insel;півострів;noun;
+das Gebirge;гори;die Gebirge;places;Gebirge;гори;noun;
+der Vulkan;вулкан;die Vulkane;places;Vulkan;вулкан;noun;
+die Höhle;печера;die Höhlen;places;Höhle;печера;noun;
+der Gletscher;льодовик;die Gletscher;places;Gletscher;льодовик;noun;
+die Schlucht;ущелина;die Schluchten;places;Schlucht;ущелина;noun;
+das Delta;дельта;die Deltas;places;Delta;дельта;noun;
+die Quelle;джерело;die Quellen;places;Quelle;джерело;noun;
+der Hafen;порт;die Häfen;places;Hafen;порт;noun;
+die Bucht;затока;die Buchten;places;Bucht;затока;noun;
+das Kap;мис;die Kaps;places;Kap;мис;noun;
+die Landzunge;коса;die Landzungen;places;Land + Zunge;коса;noun;
+die Klippe;скеля;die Klippen;places;Klippe;скеля;noun;
+der Fjord;фіорд;die Fjorde;places;Fjord;фіорд;noun;
+der Archipel;архіпелаг;die Archipele;places;Archipel;архіпелаг;noun;
+die Tundra;тундра;die Tundren;places;Tundra;тундра;noun;
+die Savanne;савана;die Savannen;places;Savanne;савана;noun;
+der Regenwald;дощовий ліс;die Regenwälder;places;Regen + Wald;дощовий ліс;noun;
+die Steppe;степ;die Steppen;places;Steppe;степ;noun;
+die Oase;оаза;die Oasen;places;Oase;оаза;noun;
+das Moor;болото;die Moore;places;Moor;болото;noun;
+die Marsch;марш;die Marschen;places;Marsch;марш;noun;
+der Sumpf;болото;die Sümpfe;places;Sumpf;болото;noun;
+der Dschungel;джунглі;die Dschungel;places;Dschungel;джунглі;noun;
+die Prärie;прерія;die Prärien;places;Prärie;прерія;noun;
+der Kontinent;континент;die Kontinente;places;Kontinent;континент;noun;
+die Weltkarte;карта світу;die Weltkarten;places;Welt + Karte;карта світу;noun;
+der Nordpol;Північний полюс;;places;Nord + Pol;Північний полюс;noun;
+die Hemisphäre;півкуля;die Hemisphären;places;Hemisphäre;півкуля;noun;
+der Äquator;екватор;;places;Äquator;екватор;noun;
+das Klima;клімат;;places;Klima;клімат;noun;
+die Umgebung;околиця;;places;Umgebung;околиця;noun;
+die Grenze;кордон;die Grenzen;places;Grenze;кордон;noun;
+die Karte;карта;die Karten;places;Karte;карта;noun;
+die Richtung;напрямок;die Richtungen;places;Richtung;напрямок;noun;
+der Weg;шлях;die Wege;places;Weg;шлях;noun;
+die Ecke;кут;die Ecken;places;Ecke;кут;noun;
+der Eingang;вхід;die Eingänge;places;Eingang;вхід;noun;
+der Ausgang;вихід;die Ausgänge;places;Ausgang;вихід;noun;
+das Polizeirevier;поліцейський відділок;die Polizeireviere;places;Polizei+Revier;поліцейський відділок;noun;
+gehen;йти;;places;gehen;йти;verb (strong);
+fragen;питати;;places;fragen;питати;verb (weak);
+suchen;шукати;;places;suchen;шукати;verb (weak);
+finden;знаходити;;places;finden;знаходити;verb (strong);
+abbiegen;повертати;;places;abbiegen (zu biegen);повертати;verb (separable);
+nehmen;брати;;places;nehmen;брати;verb (strong);
+überqueren;перетинати;;places;überqueren;перетинати;verb (weak);
+weitergehen;йти далі;;places;weitergehen (zu gehen);йти далі;verb (separable);
+zurückgehen;повертатися;;places;zurückgehen (zu gehen);повертатися;verb (separable);
+warten;чекати;;places;warten;чекати;verb (weak);
+zeigen;показувати;;places;zeigen;показувати;verb (weak);
+laufen;йти пішки;;places;laufen;йти пішки;verb (strong);
+geradeaus;прямо;;places;geradeaus;прямо;adv;
+links;ліворуч;;places;links;ліворуч;adv;
+rechts;праворуч;;places;rechts;праворуч;adv;
+gegenüber;навпроти;;places;gegenüber;навпроти;prep;

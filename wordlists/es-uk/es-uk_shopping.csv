@@ -1,197 +1,136 @@
-camisa;сорочка;сорочки (femenino);shopping;camisa;сорочка;noun
-pantalón;штани;штани (plural);shopping;pantalón;штани;noun
-vestido;сукня;сукні (femenino);shopping;vestido;сукня;noun
-falda;спідниця;спідниці (femenino);shopping;falda;спідниця;noun
-chaqueta;куртка;куртки (femenino);shopping;chaqueta;куртка;noun
-abrigo;пальто;пальта (neutro);shopping;abrigo;пальто;noun
-camiseta;футболка;футболки (femenino);shopping;camiseta;футболка;noun
-suéter;светр;светри (masculino);shopping;suéter;светр;noun
-calcetín;шкарпетка;шкарпетки (femenino);shopping;calcetín;шкарпетка;noun
-zapato;туфля;туфлі (femenino);shopping;zapato;туфля;noun
-sandalia;сандаля;сандалі (femenino);shopping;sandalia;сандаля;noun
-bota;чобіт;чоботи (masculino);shopping;bota;чобіт;noun
-bufanda;шарф;шарфи (masculino);shopping;bufanda;шарф;noun
-guante;рукавичка;рукавички (femenino);shopping;guante;рукавичка;noun
-sombrero;капелюх;капелюхи (masculino);shopping;sombrero;капелюх;noun
-gorra;кепка;кепки (femenino);shopping;gorra;кепка;noun
-cinturón;ремінь;ремені (masculino);shopping;cinturón;ремінь;noun
-corbata;краватка;краватки (femenino);shopping;corbata;краватка;noun
-ropa interior;спідня білизна;(femenino);shopping;ropa interior;спідня білизна;noun
-sujetador;бюстгальтер;бюстгальтери (masculino);shopping;sujetador;бюстгальтер;noun
-calzoncillo;труси;труси (plural);shopping;calzoncillo;труси;noun
-braga;трусики;трусики (plural);shopping;braga;трусики;noun
-traje;костюм;костюми (masculino);shopping;traje;костюм;noun
-blusa;блузка;блузки (femenino);shopping;blusa;блузка;noun
-sudadera;світшот;світшоти (masculino);shopping;sudadera;світшот;noun
-talla;розмір;розміри (masculino);shopping;talla;розмір;noun
-probar;приміряти;;shopping;probar;приміряти;verb
-comprar;купувати;;shopping;comprar;купувати;verb
-devolver;повертати;;shopping;devolver;повертати;verb
-cambiar;обмінювати;;shopping;cambiar;обмінювати;verb
-pagar;платити;;shopping;pagar;платити;verb
-caro;дорогий;;shopping;caro;дорогий;adj
-barato;дешевий;;shopping;barato;дешевий;adj
-cómodo;зручний;;shopping;cómodo;зручний;adj
-ajustado;тісний;;shopping;ajustado;тісний;adj
-ancho;широкий;;shopping;ancho;широкий;adj
-estrecho;вузький;;shopping;estrecho;вузький;adj
-algodón;бавовна;(femenino);shopping;algodón;бавовна;noun
-lana;вовна;(femenino);shopping;lana;вовна;noun
-cuero;шкіра;(femenino);shopping;cuero;шкіра;noun
-seda;шовк;(masculino);shopping;seda;шовк;noun
-color;колір;кольори (masculino);shopping;color;колір;noun
-estampado;принтований;;shopping;estampado;принтований;adj
-liso;однотонний;;shopping;liso;однотонний;adj
-marca;марка;марки (femenino);shopping;marca;марка;noun
-descuento;знижка;знижки (femenino);shopping;descuento;знижка;noun
-precio;ціна;ціни (femenino);shopping;precio;ціна;noun
-etiqueta;етикетка;етикетки (femenino);shopping;etiqueta;етикетка;noun
-la manzana;яблуко;яблука (neutro);shopping;manzana;яблуко;noun
-el plátano;банан;банани (masculino);shopping;plátano;банан;noun
-la naranja;апельсин;апельсини (masculino);shopping;naranja;апельсин;noun
-el limón;лимон;лимони (masculino);shopping;limón;лимон;noun
-la fresa;полуниця;полуниці (femenino);shopping;fresa;полуниця;noun
-el tomate;помідор;помідори (masculino);shopping;tomate;помідор;noun
-la lechuga;салат;салати (masculino);shopping;lechuga;салат;noun
-el pepino;огірок;огірки (masculino);shopping;pepino;огірок;noun
-la zanahoria;морква;моркви (femenino);shopping;zanahoria;морква;noun
-la cebolla;цибуля;цибулі (femenino);shopping;cebolla;цибуля;noun
-el ajo;часник;;shopping;ajo;часник;noun
-la patata;картопля;;shopping;patata;картопля;noun
-el pan;хліб;;shopping;pan;хліб;noun
-la leche;молоко;;shopping;leche;молоко;noun
-el queso;сир;;shopping;queso;сир;noun
-la mantequilla;масло;;shopping;mantequilla;масло;noun
-el huevo;яйце;яйця (neutro);shopping;huevo;яйце;noun
-el yogur;йогурт;йогурти (masculino);shopping;yogur;йогурт;noun
-la carne;м'ясо;;shopping;carne;м'ясо;noun
-el pescado;риба;;shopping;pescado;риба;noun
-el arroz;рис;;shopping;arroz;рис;noun
-la cerveza;пиво;пива (neutro);shopping;cerveza;пиво;noun
-el vino;вино;вина (neutro);shopping;vino;вино;noun
-la botella;пляшка;пляшки (femenino);shopping;botella;пляшка;noun
-el carrito;візок;візки (masculino);shopping;carrito;візок;noun
-la cesta;кошик;кошики (masculino);shopping;cesta;кошик;noun
-la caja;каса;каси (femenino);shopping;caja;каса;noun
-el descuento;знижка;знижки (femenino);shopping;descuento;знижка;noun
-el ticket;чек;чеки (masculino);shopping;ticket;чек;noun
-la lista;список;списки (masculino);shopping;lista;список;noun
-comprar;купувати;;shopping;comprar;купувати;verb
-pagar;платити;;shopping;pagar;платити;verb
-vender;продавати;;shopping;vender;продавати;verb
-costar;коштувати;;shopping;costar;коштувати;verb
-elegir;вибирати;;shopping;elegir;вибирати;verb
-probar;пробувати;;shopping;probar;пробувати;verb
-buscar;шукати;;shopping;buscar;шукати;verb
-llenar;наповнювати;;shopping;llenar;наповнювати;verb
-ahorrar;заощаджувати;;shopping;ahorrar;заощаджувати;verb
-cambiar;міняти;;shopping;cambiar;міняти;verb
-barato;дешевий;;shopping;barato;дешевий;adj
-caro;дорогий;;shopping;caro;дорогий;adj
-fresco;свіжий;;shopping;fresco;свіжий;adj
-congelado;заморожений;;shopping;congelado;заморожений;adj
-orgánico;органічний;;shopping;orgánico;органічний;adj
-enlatado;консервований;;shopping;enlatado;консервований;adj
-desnatado;знежирений;;shopping;desnatado;знежирений;adj
-integral;цільнозерновий;;shopping;integral;цільнозерновий;adj
-caducado;прострочений;;shopping;caducado;прострочений;adj
-saludable;корисний;;shopping;saludable;корисний;adj
-pago;платіж;платежі (чоловічий);shopping;pago;платіж;noun
-pagar;платити;;shopping;pagar;платити;verb
-tarjeta;картка;картки (жіночий);shopping;tarjeta;картка;noun
-tarjeta de crédito;кредитна картка;кредитні картки (жіночий);shopping;tarjeta de crédito;кредитна картка;noun
-tarjeta de débito;дебетова картка;дебетові картки (жіночий);shopping;tarjeta de débito;дебетова картка;noun
-dinero;гроші;гроші (чоловічий);shopping;dinero;гроші;noun
-efectivo;готівка;;shopping;efectivo;готівка;noun
-moneda;монета;монети (жіночий);shopping;moneda;монета;noun
-billete;банкнота;банкноти (жіночий);shopping;billete;банкнота;noun
-cambio;решта;;shopping;cambio;решта;noun
-cartera;гаманець;гаманці (чоловічий);shopping;cartera;гаманець;noun
-monedero;монетниця;монетниці (жіночий);shopping;monedero;монетниця;noun
-recibo;чек;чеки (чоловічий);shopping;recibo;чек;noun
-ticket;чек;чеки (чоловічий);shopping;ticket;чек;noun
-factura;рахунок;рахунки (чоловічий);shopping;factura;рахунок;noun
-descuento;знижка;знижки (жіночий);shopping;descuento;знижка;noun
-precio;ціна;ціни (жіночий);shopping;precio;ціна;noun
-rebaja;знижка;знижки (жіночий);shopping;rebaja;знижка;noun
-oferta;пропозиція;пропозиції (жіночий);shopping;oferta;пропозиція;noun
-cupón;купон;купони (чоловічий);shopping;cupón;купон;noun
-vale;ваучер;ваучери (чоловічий);shopping;vale;ваучер;noun
-billetera;гаманець;гаманці (чоловічий);shopping;billetera;гаманець;noun
-transferencia bancaria;банківський переказ;банківські перекази (чоловічий);shopping;transferencia bancaria;банківський переказ;noun
-datáfono;термінал;термінали (чоловічий);shopping;datáfono;термінал;noun
-PIN;пін-код;пін-коди (чоловічий);shopping;PIN;пін-код;noun
-contraseña;пароль;паролі (чоловічий);shopping;contraseña;пароль;noun
-código de seguridad;код безпеки;коди безпеки (чоловічий);shopping;código de seguridad;код безпеки;noun
-huella dactilar;відбиток пальця;відбитки пальців (чоловічий);shopping;huella dactilar;відбиток пальця;noun
-aplicación de pago;платіжний додаток;платіжні додатки (чоловічий);shopping;aplicación de pago;платіжний додаток;noun
-monedero electrónico;електронний гаманець;електронні гаманці (чоловічий);shopping;monedero electrónico;електронний гаманець;noun
-pago sin contacto;безконтактна оплата;безконтактні оплати (жіночий);shopping;pago sin contacto;безконтактна оплата;noun
-tarjeta sin contacto;безконтактна картка;безконтактні картки (жіночий);shopping;tarjeta sin contacto;безконтактна картка;noun
-cheque;чек;чеки (чоловічий);shopping;cheque;чек;noun
-talón;чек;чеки (чоловічий);shopping;talón;чек;noun
-domiciliación bancaria;прямий дебет;прямі дебети (чоловічий);shopping;domiciliación bancaria;прямий дебет;noun
-reintegro;зняття готівки;;shopping;reintegro;зняття готівки;noun
-cajero automático;банкомат;банкомати (чоловічий);shopping;cajero automático;банкомат;noun
-comisión;комісія;комісії (жіночий);shopping;comisión;комісія;noun
-recargo;надбавка;надбавки (жіночий);shopping;recargo;надбавка;noun
-cuota;внесок;внески (чоловічий);shopping;cuota;внесок;noun
-mensualidad;щомісячний платіж;щомісячні платежі (чоловічий);shopping;mensualidad;щомісячний платіж;noun
-préstamo;позика;позики (жіночий);shopping;préstamo;позика;noun
-hipoteca;іпотека;іпотеки (жіночий);shopping;hipoteca;іпотека;noun
-tipo de interés;процентна ставка;процентні ставки (жіночий);shopping;tipo de interés;процентна ставка;noun
-divisa;валюта;валюти (жіночий);shopping;divisa;валюта;noun
-cambio de divisa;обмін валюти;обміни валюти (чоловічий);shopping;cambio de divisa;обмін валюти;noun
-comprobante;квитанція;квитанції (жіночий);shopping;comprobante;квитанція;noun
-saldo;баланс;баланси (чоловічий);shopping;saldo;баланс;noun
-tarjeta regalo;подарункова картка;подарункові картки (жіночий);shopping;tarjeta regalo;подарункова картка;noun
-pago a plazos;розстрочка;розстрочки (жіночий);shopping;pago a plazos;розстрочка;noun
-queja;скарга;скарги (femenino);shopping;queja;скарга;noun
-devolución;повернення;повернення (neutro);shopping;devolución;повернення;noun
-reembolso;відшкодування;відшкодування (neutro);shopping;reembolso;відшкодування;noun
-cambio;обмін;обміни (masculino);shopping;cambio;обмін;noun
-garantía;гарантія;гарантії (femenino);shopping;garantía;гарантія;noun
-recibo;квитанція;квитанції (femenino);shopping;recibo;квитанція;noun
-compra;покупка;покупки (femenino);shopping;compra;покупка;noun
-cliente;клієнт;клієнти (masculino);shopping;cliente;клієнт;noun
-dependiente;продавець;продавці (masculino);shopping;dependiente;продавець;noun
-gerente;менеджер;менеджери (masculino);shopping;gerente;менеджер;noun
-tienda;магазин;магазини (masculino);shopping;tienda;магазин;noun
-artículo;товар;товари (masculino);shopping;artículo;товар;noun
-embalaje;упаковка;упаковки (femenino);shopping;embalaje;упаковка;noun
-etiqueta;етикетка;етикетки (femenino);shopping;etiqueta;етикетка;noun
-política;політика;політики (femenino);shopping;política;політика;noun
-plazo;термін;терміни (masculino);shopping;plazo;термін;noun
-derecho;право;права (neutro);shopping;derecho;право;noun
-consumidor;споживач;споживачі (masculino);shopping;consumidor;споживач;noun
-servicio;сервіс;сервіси (masculino);shopping;servicio;сервіс;noun
-formulario;бланк;бланки (masculino);shopping;formulario;бланк;noun
-pedido;замовлення;замовлення (neutro);shopping;pedido;замовлення;noun
-entrega;доставка;доставки (femenino);shopping;entrega;доставка;noun
-paquete;посилка;посилки (femenino);shopping;paquete;посилка;noun
-reemplazo;заміна;заміни (femenino);shopping;reemplazo;заміна;noun
-daño;пошкодження;пошкодження (neutro);shopping;daño;пошкодження;noun
-defecto;дефект;дефекти (masculino);shopping;defecto;дефект;noun
-talla;розмір;розміри (masculino);shopping;talla;розмір;noun
-color;колір;кольори (masculino);shopping;color;колір;noun
-pieza;деталь;деталі (femenino);shopping;pieza;деталь;noun
-reclamación;рекламація;рекламації (femenino);shopping;reclamación;рекламація;noun
-quejarse;скаржитися;;shopping;quejarse;скаржитися;verb
-devolver;повертати;;shopping;devolver;повертати;verb
-reembolsar;відшкодовувати;;shopping;reembolsar;відшкодовувати;verb
-cambiar;обмінювати;;shopping;cambiar;обмінювати;verb
-reclamar;вимагати;;shopping;reclamar;вимагати;verb
-exigir;наполягати;;shopping;exigir;наполягати;verb
-pedir;просити;;shopping;pedir;просити;verb
-recibir;отримувати;;shopping;recibir;отримувати;verb
-reemplazar;замінювати;;shopping;reemplazar;замінювати;verb
-procesar;обробляти;;shopping;procesar;обробляти;verb
-entregar;доставляти;;shopping;entregar;доставляти;verb
-defectuoso;дефектний;;shopping;defectuoso;дефектний;adj
-dañado;пошкоджений;;shopping;dañado;пошкоджений;adj
-roto;зламаний;;shopping;roto;зламаний;adj
-insatisfecho;незадоволений;;shopping;insatisfecho;незадоволений;adj
-incorrecto;неправильний;;shopping;incorrecto;неправильний;adj
-faltante;відсутній;;shopping;faltante;відсутній;adj
-equivocado;помилковий;;shopping;equivocado;помилковий;adj
-original;оригінальний;;shopping;original;оригінальний;adj
+la camisa;сорочка;las camisas;shopping;camisa;сорочка;noun;
+el pantalón;штани;los pantalones;shopping;pantalón;штани;noun;
+la falda;спідниця;las faldas;shopping;falda;спідниця;noun;
+el vestido;сукня;los vestidos;shopping;vestido;сукня;noun;
+la chaqueta;куртка;las chaquetas;shopping;chaqueta;куртка;noun;
+el abrigo;пальто;los abrigos;shopping;abrigo;пальто;noun;
+el suéter;светр;los suéteres;shopping;suéter;светр;noun;
+la camiseta;футболка;las camisetas;shopping;camiseta;футболка;noun;
+el calcetín;шкарпетка;los calcetines;shopping;calcetín;шкарпетка;noun;
+el zapato;черевик;los zapatos;shopping;zapato;черевик;noun;
+la sandalia;сандаля;las sandalias;shopping;sandalia;сандаля;noun;
+la bota;чобіт;las botas;shopping;bota;чобіт;noun;
+la bufanda;шарф;las bufandas;shopping;bufanda;шарф;noun;
+el guante;рукавичка;los guantes;shopping;guante;рукавичка;noun;
+el cinturón;ремінь;los cinturones;shopping;cinturón;ремінь;noun;
+la corbata;краватка;las corbatas;shopping;corbata;краватка;noun;
+el pijama;піжама;los pijamas;shopping;pijama;піжама;noun;
+la ropa interior;спідня білизна;;shopping;ropa interior;спідня білизна;noun;
+el sujetador;бюстгальтер;los sujetadores;shopping;sujetador;бюстгальтер;noun;
+la braga;трусики;las bragas;shopping;braga;трусики;noun;
+el calzoncillo;труси;los calzoncillos;shopping;calzoncillo;труси;noun;
+el chándal;спортивний костюм;los chándales;shopping;chándal;спортивний костюм;noun;
+la talla;розмір;las tallas;shopping;talla;розмір;noun;
+el número;розмір (взуття);los números;shopping;número;розмір (взуття);noun;
+pequeño;маленький;;shopping;pequeño;маленький;adj;
+mediano;середній;;shopping;mediano;середній;adj;
+grande;великий;;shopping;grande;великий;adj;
+estrecho;тісний;;shopping;estrecho;тісний;adj;
+holgado;вільний;;shopping;holgado;вільний;adj;
+corto;короткий;;shopping;corto;короткий;adj;
+largo;довгий;;shopping;largo;довгий;adj;
+probarse;приміряти;;shopping;probarse;приміряти;verb (-ar);
+costar;коштувати;;shopping;costar;коштувати;verb (-ar);
+el probador;примірочна;los probadores;shopping;probador;примірочна;noun;
+la rebaja;знижка;las rebajas;shopping;rebaja;знижка;noun;
+la tarjeta de crédito;кредитна картка;las tarjetas de crédito;shopping;tarjeta de crédito;кредитна картка;noun;
+el efectivo;готівка;;shopping;efectivo;готівка;noun;
+la clienta;клієнтка;las clientas;shopping;clienta;клієнтка;noun;
+la compra;покупка;las compras;shopping;compra;покупка;noun;
+el carrito;візок;los carritos;shopping;carrito;візок;noun;
+la cesta;кошик;las cestas;shopping;cesta;кошик;noun;
+la sección;відділ;las secciones;shopping;sección;відділ;noun;
+el producto;продукт;los productos;shopping;producto;продукт;noun;
+la oferta;акція;las ofertas;shopping;oferta;акція;noun;
+la lista;список;las listas;shopping;lista;список;noun;
+el dinero;гроші;;shopping;dinero;гроші;noun;
+la caja;каса;las cajas;shopping;caja;каса;noun;
+el cajero;касир;los cajeros;shopping;cajero;касир;noun;
+la bolsa;пакет;las bolsas;shopping;bolsa;пакет;noun;
+el carnicero;м'ясник;los carniceros;shopping;carnicero;м'ясник;noun;
+la carnicería;м'ясний відділ;las carnicerías;shopping;carnicería;м'ясний відділ;noun;
+el pescado;риба;los pescados;shopping;pescado;риба;noun;
+la fruta;фрукти;las frutas;shopping;fruta;фрукти;noun;
+la verdura;овочі;las verduras;shopping;verdura;овочі;noun;
+el pan;хліб;los panes;shopping;pan;хліб;noun;
+la leche;молоко;;shopping;leche;молоко;noun;
+el huevo;яйце;los huevos;shopping;huevo;яйце;noun;
+el queso;сир;los quesos;shopping;queso;сир;noun;
+el jamón;шинка;los jamones;shopping;jamón;шинка;noun;
+la cerveza;пиво;las cervezas;shopping;cerveza;пиво;noun;
+el vino;вино;los vinos;shopping;vino;вино;noun;
+el refresco;газований напій;los refrescos;shopping;refresco;газований напій;noun;
+el jugo;сік;los jugos;shopping;jugo;сік;noun;
+el aceite;олія;los aceites;shopping;aceite;олія;noun;
+la mantequilla;вершкове масло;;shopping;mantequilla;вершкове масло;noun;
+la harina;борошно;;shopping;harina;борошно;noun;
+el arroz;рис;;shopping;arroz;рис;noun;
+la pasta;макарони;las pastas;shopping;pasta;макарони;noun;
+gastar;витрачати;;shopping;gastar;витрачати;verb (-ar);
+barato;дешевий;;shopping;barato;дешевий;adj;
+caro;дорогий;;shopping;caro;дорогий;adj;
+la tarjeta de débito;дебетова картка;las tarjetas de débito;shopping;tarjeta de débito;дебетова картка;noun;
+la transferencia bancaria;банківський переказ;las transferencias bancarias;shopping;transferencia bancaria;банківський переказ;noun;
+el cheque;чек;los cheques;shopping;cheque;чек;noun;
+el pago móvil;мобільний платіж;los pagos móviles;shopping;pago móvil;мобільний платіж;noun;
+el pago sin contacto;безконтактний платіж;los pagos sin contacto;shopping;pago sin contacto;безконтактний платіж;noun;
+el cambio;решта;;shopping;cambio;решта;noun;
+la moneda;монета;las monedas;shopping;moneda;монета;noun;
+la cartera;гаманець;las carteras;shopping;cartera;гаманець;noun;
+el cajero automático;банкомат;los cajeros automáticos;shopping;cajero automático;банкомат;noun;
+el código PIN;PIN-код;los códigos PIN;shopping;código PIN;PIN-код;noun;
+el chip;чип;los chips;shopping;chip;чип;noun;
+el datáfono;платіжний термінал;los datáfonos;shopping;datáfono;платіжний термінал;noun;
+la cuenta;рахунок;las cuentas;shopping;cuenta;рахунок;noun;
+la propina;чайові;las propinas;shopping;propina;чайові;noun;
+el ticket;чек;los tickets;shopping;ticket;чек;noun;
+el comprobante;підтвердження оплати;los comprobantes;shopping;comprobante;підтвердження оплати;noun;
+el pago al contado;оплата готівкою;los pagos al contado;shopping;pago al contado;оплата готівкою;noun;
+el pago a plazos;оплата частинами;los pagos a plazos;shopping;pago a plazos;оплата частинами;noun;
+la billetera digital;цифровий гаманець;las billeteras digitales;shopping;billetera digital;цифровий гаманець;noun;
+el monedero electrónico;електронний гаманець;los monederos electrónicos;shopping;monedero electrónico;електронний гаманець;noun;
+el saldo;залишок;los saldos;shopping;saldo;залишок;noun;
+la tarjeta prepago;передоплачена картка;las tarjetas prepago;shopping;tarjeta prepago;передоплачена картка;noun;
+la tarjeta regalo;подарункова картка;las tarjetas regalo;shopping;tarjeta regalo;подарункова картка;noun;
+el pago;платіж;los pagos;shopping;pago;платіж;noun;
+cobrar;стягувати плату;;shopping;cobrar;стягувати плату;verb (-ar);
+transferir;переказувати;;shopping;transferir;переказувати;verb (-ir);
+devolver;повертати (гроші);;shopping;devolver;повертати;verb (-er);
+reembolsar;відшкодовувати;;shopping;reembolsar;відшкодовувати;verb (-ar);
+ingresar;вносити;;shopping;ingresar;вносити;verb (-ar);
+retirar;знімати;;shopping;retirar;знімати;verb (-ar);
+canjear;обмінювати;;shopping;canjear;обмінювати;verb (-ar);
+consultar;перевіряти;;shopping;consultar;перевіряти;verb (-ar);
+ahorrar;заощаджувати;;shopping;ahorrar;заощаджувати;verb (-ar);
+deber;заборгувати;;shopping;deber;заборгувати;verb (-er);
+prestar;позичати;;shopping;prestar;позичати;verb (-ar);
+gratis;безкоштовно;;shopping;gratis;безкоштовно;adj;
+el cambio de moneda;обмін валюти;los cambios de moneda;shopping;cambio de moneda;обмін валюти;noun;
+la reclamación;рекламація;las reclamaciones;shopping;reclamación;рекламація;noun;
+la devolución;повернення;las devoluciones;shopping;devolución;повернення;noun;
+el vale;ваучер;los vales;shopping;vale;ваучер;noun;
+la garantía;гарантія;las garantías;shopping;garantía;гарантія;noun;
+el defecto;дефект;los defectos;shopping;defecto;дефект;noun;
+la etiqueta;етикетка;las etiquetas;shopping;etiqueta;етикетка;noun;
+el embalaje;упаковка;los embalajes;shopping;embalaje;упаковка;noun;
+la avería;поломка;las averías;shopping;avería;поломка;noun;
+el daño;пошкодження;los daños;shopping;daño;пошкодження;noun;
+el arreglo;ремонт;los arreglos;shopping;arreglo;ремонт;noun;
+la responsabilidad;відповідальність;las responsabilidades;shopping;responsabilidad;відповідальність;noun;
+el fabricante;виробник;los fabricantes;shopping;fabricante;виробник;noun;
+el vendedor;продавець;los vendedores;shopping;vendedor;продавець;noun;
+el servicio;служба;los servicios;shopping;servicio;служба;noun;
+la equivocación;помилка;las equivocaciones;shopping;equivocación;помилка;noun;
+el reclamo;скарга;los reclamos;shopping;reclamo;скарга;noun;
+reclamar;вимагати;;shopping;reclamar;вимагати;verb (-ar);
+solucionar;вирішувати;;shopping;solucionar;вирішувати;verb (-ar);
+ofrecer;пропонувати;;shopping;ofrecer;пропонувати;verb (-er);
+entregar;вручати;;shopping;entregar;вручати;verb (-ar);
+defectuoso;дефектний;;shopping;defectuoso;дефектний;adj;
+roto;зламаний;;shopping;roto;зламаний;adj;
+dañado;пошкоджений;;shopping;dañado;пошкоджений;adj;
+inservible;непридатний;;shopping;inservible;непридатний;adj;
+válido;дійсний;;shopping;válido;дійсний;adj;
+vencido;прострочений;;shopping;vencido;прострочений;adj;
+original;оригінальний;;shopping;original;оригінальний;adj;
+usado;вживаний;;shopping;usado;вживаний;adj;
