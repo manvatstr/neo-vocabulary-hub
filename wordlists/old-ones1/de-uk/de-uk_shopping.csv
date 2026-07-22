@@ -1,0 +1,153 @@
+der Mantel;пальто;die Mäntel;shopping;Mantel;пальто;noun;мантель
+der Rock;спідниця;die Röcke;shopping;Rock;спідниця;noun;рок
+die Bluse;блуза;die Blusen;shopping;Bluse;блуза;noun;блузе
+das T-Shirt;футболка;die T-Shirts;shopping;T-Shirt;футболка;noun;тішерт
+der Stiefel;чобіт;die Stiefel;shopping;Stiefel;чобіт;noun;штіфель
+die Mütze;шапка;die Mützen;shopping;Mütze;шапка;noun;мютце
+der Hut;капелюх;die Hüte;shopping;Hut;капелюх;noun;гут
+der Handschuh;рукавичка;die Handschuhe;shopping;Handschuh;рукавичка;noun;гандшу
+der Schal;шарф;die Schals;shopping;Schal;шарф;noun;шаль
+die Kleidergröße;розмір одягу;die Kleidergrößen;shopping;Kleider + Größe;розмір одягу;noun;кляйдергрьосе
+das Maß;мірка;die Maße;shopping;Maß;мірка;noun;мас
+die Anprobe;примірка;die Anproben;shopping;Anprobe;примірка;noun;анпробе
+der Stoff;тканина;die Stoffe;shopping;Stoff;тканина;noun;штоф
+das Material;матеріал;die Materialien;shopping;Material;матеріал;noun;матеріал
+die Baumwolle;бавовна;;shopping;Baumwolle;бавовна;noun;баумволле
+die Seide;шовк;;shopping;Seide;шовк;noun;зайде
+die Wolle;вовна;;shopping;Wolle;вовна;noun;волле
+das Leder;шкіра;;shopping;Leder;шкіра;noun;ледер
+der Gürtel;ремінь;die Gürtel;shopping;Gürtel;ремінь;noun;гюртель
+die Krawatte;краватка;die Krawatten;shopping;Krawatte;краватка;noun;краватте
+der Anzug;костюм;die Anzüge;shopping;Anzug;костюм;noun;анцуг
+die Jeans;джинси;;shopping;Jeans;джинси;noun;джінс
+die Shorts;шорти;;shopping;Shorts;шорти;noun;шортс
+die Leggings;легенси;;shopping;Leggings;легенси;noun;леґінґс
+der Pulli;светр;die Pullis;shopping;Pulli;светр;noun;пуллі
+das Top;топ;die Tops;shopping;Top;топ;noun;топ
+der Blazer;блейзер;die Blazer;shopping;Blazer;блейзер;noun;блейцер
+die Strickjacke;в'язана кофта;die Strickjacken;shopping;Strick + Jacke;в'язана кофта;noun;штрікяке
+die Strumpfhose;колготки;die Strumpfhosen;shopping;Strumpf + Hose;колготки;noun;штрумпфгозе
+die Sandale;сандаля;die Sandalen;shopping;Sandale;сандаля;noun;зандале
+der Badeanzug;купальник;die Badeanzüge;shopping;Bade + Anzug;купальник;noun;бадеанцуг
+anprobieren;приміряти;;shopping;anprobieren (zu probieren);приміряти;verb (separable);анпробірен
+passen;підходити;;shopping;passen;підходити;verb (weak);пасен
+zurückgeben;повертати;;shopping;zurückgeben (zu geben);повертати;verb (separable);цурюкгебен
+umtauschen;обмінювати;;shopping;umtauschen (zu tauschen);обмінювати;verb (separable);умтаушен
+eng;тісний;;shopping;eng;тісний;adj;енг
+weit;широкий;;shopping;weit;широкий;adj;вайт
+der Einkaufswagen;візок для покупок;die Einkaufswagen;shopping;Einkauf + Wagen;візок для покупок;noun;айнкауфсваґен
+der Korb;кошик;die Körbe;shopping;Korb;кошик;noun;корп
+die Kreditkarte;кредитна картка;die Kreditkarten;shopping;Kredit + Karte;кредитна картка;noun;кредиткарте
+die EC-Karte;дебетова картка;die EC-Karten;shopping;EC + Karte;дебетова картка;noun;ецекарте
+das Bargeld;готівка;;shopping;Bar + Geld;готівка;noun;барґельд
+der Bon;чек;die Bons;shopping;Bon;чек;noun;бон
+der Kassenzettel;касовий чек;die Kassenzettel;shopping;Kasse + Zettel;касовий чек;noun;кассецетель
+die Tüte;пакет;die Tüten;shopping;Tüte;пакет;noun;тюте
+die Plastiktüte;пластиковий пакет;die Plastiktüten;shopping;Plastik + Tüte;пластиковий пакет;noun;пластиктюте
+die Papiertüte;паперовий пакет;die Papiertüten;shopping;Papier + Tüte;паперовий пакет;noun;папіртюте
+das Pfand;застава;die Pfänder;shopping;Pfand;застава;noun;пфант
+die Pfandflasche;пляшка із заставою;die Pfandflaschen;shopping;Pfand + Flasche;пляшка із заставою;noun;пфантфлаше
+der Leergutautomat;автомат для прийому тари;die Leergutautomaten;shopping;Leergut + Automat;автомат для прийому тари;noun;леерґутаутомат
+der Einkaufszettel;список покупок;die Einkaufszettel;shopping;Einkauf + Zettel;список покупок;noun;айнкауфсцетель
+das Sonderangebot;спеціальна пропозиція;die Sonderangebote;shopping;Sonder + Angebot;спеціальна пропозиція;noun;зондеранґебот
+der Rabatt;знижка;die Rabatte;shopping;Rabatt;знижка;noun;рабат
+die Kühltheke;холодильний прилавок;die Kühltheken;shopping;Kühl + Theke;холодильний прилавок;noun;кюльтеке
+die Tiefkühltruhe;морозильна скриня;die Tiefkühltruhen;shopping;tief + Kühl + Truhe;морозильна скриня;noun;тіфкюльтруе
+die Dose;банка;die Dosen;shopping;Dose;банка;noun;дозе
+die Packung;упаковка;die Packungen;shopping;Packung;упаковка;noun;пакунґ
+der Joghurt;йогурт;die Joghurts;shopping;Joghurt;йогурт;noun;йогурт
+die Milch;молоко;;shopping;Milch;молоко;noun;мільх
+der Käse;сир;die Käse;shopping;Käse;сир;noun;кезе
+das Brötchen;булочка;die Brötchen;shopping;Brötchen;булочка;noun;брьотхен
+das Ei;яйце;die Eier;shopping;Ei;яйце;noun;ай
+die Wurst;ковбаса;die Würste;shopping;Wurst;ковбаса;noun;вурст
+der Fisch;риба;die Fische;shopping;Fisch;риба;noun;фіш
+das Fleisch;м'ясо;;shopping;Fleisch;м'ясо;noun;фляйш
+das Hähnchen;курка;die Hähnchen;shopping;Hähnchen;курка;noun;хенхен
+der Apfel;яблуко;die Äpfel;shopping;Apfel;яблуко;noun;апфель
+die Banane;банан;die Bananen;shopping;Banane;банан;noun;банане
+die Kartoffel;картопля;die Kartoffeln;shopping;Kartoffel;картопля;noun;картофель
+die Tomate;помідор;die Tomaten;shopping;Tomate;помідор;noun;томате
+die Gurke;огірок;die Gurken;shopping;Gurke;огірок;noun;ґурке
+der Salat;салат;die Salate;shopping;Salat;салат;noun;залат
+bezahlen;платити;;shopping;bezahlen;платити;verb (weak);бецален
+scannen;сканувати;;shopping;scannen;сканувати;verb (weak);сканен
+die Barzahlung;оплата готівкою;;shopping;Bar + Zahlung;платіж готівкою;noun;барцалюнґ
+die Girokarte;дебетова картка;die Girokarten;shopping;Giro + Karte;дебетова картка;noun;жірокарте
+die Zahlung;платіж;die Zahlungen;shopping;Zahlung;платіж;noun;цалюнґ
+die Quittung;квитанція;die Quittungen;shopping;Quittung;квитанція;noun;квітунґ
+der Geldschein;банкнота;die Geldscheine;shopping;Geld + Schein;грошовий знак;noun;гельдшайн
+das Wechselgeld;решта;;shopping;Wechsel + Geld;решта;noun;вексельгельд
+die Geldbörse;гаманець;die Geldbörsen;shopping;Geld + Börse;гаманець;noun;гельдбьорзе
+der Geldbeutel;гаманець;die Geldbeutel;shopping;Geld + Beutel;гаманець;noun;гельдбойтель
+die Bankkarte;банківська картка;die Bankkarten;shopping;Bank + Karte;банківська картка;noun;банккарте
+die Maestro-Karte;картка Maestro;die Maestro-Karten;shopping;Maestro + Karte;картка Maestro;noun;маестро-карте
+die Tankkarte;паливна картка;die Tankkarten;shopping;Tank + Karte;паливна картка;noun;танккарте
+die Kundenkarte;картка клієнта;die Kundenkarten;shopping;Kunde + n + Karte;картка клієнта;noun;кунденкарте
+der Gutschein;подарунковий сертифікат;die Gutscheine;shopping;Gut + Schein;ваучер;noun;ґутшайн
+der Gutscheincode;код купона;die Gutscheincodes;shopping;Gutschein + Code;код купона;noun;ґутшайнкод
+die PIN;ПІН-код;die PINs;shopping;PIN;ПІН-код;noun;пін
+der Kartenleser;кардрідер;die Kartenleser;shopping;Karte + n + Leser;зчитувач карток;noun;картенлезер
+das Kartenterminal;платіжний термінал;die Kartenterminals;shopping;Karte + n + Terminal;платіжний термінал;noun;картентермінал
+der Kassenbon;касовий чек;die Kassenbons;shopping;Kasse + n + Bon;касовий чек;noun;касенбон
+das Portemonnaie;гаманець;die Portemonnaies;shopping;Portemonnaie;гаманець;noun;портмоне
+die Geldtasche;гаманець;die Geldtaschen;shopping;Geld + Tasche;гаманець;noun;гельдташе
+das Trinkgeld;чайові;;shopping;Trink + Geld;чайові;noun;трінкгельд
+der Zahlungsbeleg;платіжний чек;die Zahlungsbelege;shopping;Zahlung + s + Beleg;платіжний документ;noun;цалюнґсбелег
+die Überweisung;банківський переказ;die Überweisungen;shopping;Überweisung;банківський переказ;noun;юбервайзунґ
+der Dauerauftrag;постійне доручення;die Daueraufträge;shopping;Dauer + Auftrag;постійне платіжне доручення;noun;дауерауфтраґ
+das Lastschriftverfahren;пряме дебетування;;shopping;Last + Schrift + Verfahren;процедура прямого дебетування;noun;ластшрифтферфарен
+die Lastschrift;прямий дебет;die Lastschriften;shopping;Lastschrift;списання коштів;noun;ластшрифт
+die Gutschrift;зарахування;die Gutschriften;shopping;Gutschrift;зарахування коштів;noun;ґутшрифт
+die SEPA-Überweisung;SEPA-переказ;die SEPA-Überweisungen;shopping;SEPA + Überweisung;SEPA-переказ;noun;зепа-юбервайзунґ
+der Zahlungsdienstleister;платіжний сервіс;die Zahlungsdienstleister;shopping;Zahlung + s + Dienst + leister;платіжний сервіс;noun;цалюнґсдінстлайстер
+die App;застосунок;die Apps;shopping;App;застосунок;noun;ап
+das Online-Banking;онлайн-банкінг;;shopping;online + Banking;онлайн-банкінг;noun;онлайн-банкінґ
+die Kreditkartenabrechnung;виписка по кредитній картці;die Kreditkartenabrechnungen;shopping;Kreditkarte + n + Abrechnung;виписка по кредитці;noun;кредиткартенабрехнунґ
+das Mobile Payment;мобільний платіж;;shopping;mobile + Payment;мобільний платіж;noun;мобіл-пеймент
+auszahlen;виплачувати;;shopping;auszahlen (zu zahlen);виплачувати;verb (separable);аусцален
+einzahlen;вносити кошти;;shopping;einzahlen (zu zahlen);вносити готівку;verb (separable);айнцален
+abheben;знімати готівку;;shopping;abheben (zu heben);знімати;verb (separable);абгебен
+kontaktlos;безконтактний;;shopping;kontaktlos;безконтактний;adj;контактлос
+die NFC-Zahlung;NFC-платіж;die NFC-Zahlungen;shopping;NFC + Zahlung;NFC-платіж;noun;ен-еф-це-цалюнґ
+der QR-Code;QR-код;die QR-Codes;shopping;QR + Code;QR-код;noun;ку-ер-код
+die Bonuskarte;бонусна картка;die Bonuskarten;shopping;Bonus + Karte;бонусна картка;noun;бонускарте
+die Treuekarte;картка лояльності;die Treuekarten;shopping;Treue + Karte;картка лояльності;noun;тройекарте
+die Reklamation;рекламація;die Reklamationen;shopping;Reklamation;рекламація;noun;рекламацьйон
+der Umtausch;обмін;die Umtausche;shopping;Umtausch;обмін;noun;умтауш
+die Rückgabe;повернення;die Rückgaben;shopping;Rückgabe;повернення;noun;рюкгабе
+die Retoure;повернений товар;die Retouren;shopping;Retoure;повернений товар;noun;ретуре
+der Mangel;дефект;die Mängel;shopping;Mangel;дефект;noun;манґель
+die Garantie;гарантія;die Garantien;shopping;Garantie;гарантія;noun;ґаранті
+der Widerruf;відкликання;die Widerrufe;shopping;Widerruf;відкликання;noun;відеруф
+die Beschwerde;скарга;die Beschwerden;shopping;Beschwerde;скарга;noun;бешверде
+die Reklamationsabteilung;відділ рекламацій;die Reklamationsabteilungen;shopping;Reklamation + Abteilung;відділ рекламацій;noun;рекламацьйонсабтайлунґ
+die Gewährleistung;гарантія якості;;shopping;Gewährleistung;гарантія якості;noun;ґеверляйстунґ
+der Sachmangel;суттєвий недолік;die Sachmängel;shopping;Sache + Mangel;суттєвий недолік;noun;захманґель
+der Defekt;дефект;die Defekte;shopping;Defekt;дефект;noun;дефект
+der Schaden;пошкодження;die Schäden;shopping;Schaden;пошкодження;noun;шаден
+der Kratzer;подряпина;die Kratzer;shopping;Kratzer;подряпина;noun;крацер
+die Delle;вм’ятина;die Dellen;shopping;Delle;вм’ятина;noun;деле
+der Fleck;пляма;die Flecken;shopping;Fleck;пляма;noun;флек
+die Erstattung;відшкодування;die Erstattungen;shopping;Erstattung;відшкодування;noun;ерштатунґ
+die Ersatzlieferung;замінна поставка;die Ersatzlieferungen;shopping;Ersatz + Lieferung;замінна поставка;noun;ерзацліферунґ
+die Falschlieferung;помилкова поставка;die Falschlieferungen;shopping;falsch + Lieferung;помилкова поставка;noun;фальшліферунґ
+die Rücksendung;повернення відправлення;die Rücksendungen;shopping;Rück + Sendung;повернення відправлення;noun;рюкзендунґ
+die Verpackung;упаковка;die Verpackungen;shopping;Verpackung;упаковка;noun;ферпакунґ
+das Etikett;етикетка;die Etiketten;shopping;Etikett;етикетка;noun;етікет
+die Preisauszeichnung;цінник;die Preisauszeichnungen;shopping;Preis + Auszeichnung;цінник;noun;прайсаусцайхнунґ
+die Ware;товар;die Waren;shopping;Ware;товар;noun;варе
+der Artikel;артикул;die Artikel;shopping;Artikel;артикул;noun;артікель
+die Lieferung;доставка;die Lieferungen;shopping;Lieferung;доставка;noun;ліферунґ
+die Versandkosten;вартість доставки;die Versandkosten;shopping;Versand + Kosten;вартість доставки;noun;ферзанткостен
+die Annahme;прийняття;die Annahmen;shopping;Annahme;прийняття;noun;аннаме
+die Ablehnung;відмова;die Ablehnungen;shopping;Ablehnung;відмова;noun;абленунґ
+die Service-Hotline;гаряча лінія обслуговування;die Service-Hotlines;shopping;Service + Hotline;гаряча лінія;noun;сервіс-готлайн
+die Garantiekarte;гарантійний талон;die Garantiekarten;shopping;Garantie + Karte;гарантійний талон;noun;ґарантікарте
+der Reparaturauftrag;замовлення на ремонт;die Reparaturaufträge;shopping;Reparatur + Auftrag;замовлення на ремонт;noun;репаратурауфтраґ
+der Beweis;доказ;die Beweise;shopping;Beweis;доказ;noun;бевайс
+die Kundin;клієнтка;die Kundinnen;shopping;Kundin;клієнтка;noun;кундін
+reklamieren;рекламувати;;shopping;reklamieren;рекламувати;verb (weak);рекламірен
+sich beschweren;скаржитися;;shopping;sich beschweren;скаржитися;verb (weak);зіх бешверен
+erstatten;відшкодувати;;shopping;erstatten;відшкодувати;verb (weak);ерштатен
+zurücksenden;відправити назад;;shopping;zurücksenden (zu senden);відправити назад;verb (separable);цурукзенден

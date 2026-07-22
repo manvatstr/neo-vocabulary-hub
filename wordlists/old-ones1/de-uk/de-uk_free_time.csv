@@ -1,0 +1,154 @@
+das Hobby;хобі;die Hobbys;free_time;Hobby;хобі;noun;гобі
+die Freizeit;вільний час;;free_time;Freizeit;вільний час;noun;фрайцайт
+der Sport;спорт;;free_time;Sport;спорт;noun;шпорт
+die Musik;музика;;free_time;Musik;музика;noun;музік
+das Instrument;інструмент;die Instrumente;free_time;Instrument;інструмент;noun;інструмент
+die Gitarre;гітара;die Gitarren;free_time;Gitarre;гітара;noun;гітаре
+das Klavier;піаніно;die Klaviere;free_time;Klavier;піаніно;noun;клавір
+das Schach;шахи;;free_time;Schach;шахи;noun;шах
+das Kartenspiel;картярська гра;die Kartenspiele;free_time;Karten + Spiel;гра в карти;noun;картеншпіль
+das Brettspiel;настільна гра;die Brettspiele;free_time;Brett + Spiel;настільна гра;noun;бретшпіль
+das Videospiel;відеогра;die Videospiele;free_time;Video + Spiel;відеогра;noun;відеошпіль
+der Film;фільм;die Filme;free_time;Film;фільм;noun;фільм
+die Serie;серіал;die Serien;free_time;Serie;серіал;noun;зеріє
+der Roman;роман;die Romane;free_time;Roman;роман;noun;роман
+die Zeitschrift;журнал;die Zeitschriften;free_time;Zeitschrift;журнал;noun;цайтшріфт
+das Hörbuch;аудіокнига;die Hörbücher;free_time;Hör + Buch;аудіокнига;noun;гьорбух
+das Konzert;концерт;die Konzerte;free_time;Konzert;концерт;noun;концерт
+die Ausstellung;виставка;die Ausstellungen;free_time;Ausstellung;виставка;noun;аусштеллунг
+das Museum;музей;die Museen;free_time;Museum;музей;noun;музеум
+das Theater;театр;;free_time;Theater;театр;noun;теата
+das Kino;кіно;die Kinos;free_time;Kino;кіно;noun;кіно
+das Fitnessstudio;фітнес-студія;die Fitnessstudios;free_time;Fitness + Studio;фітнес-студія;noun;фітнесштудіо
+das Schwimmbad;басейн;die Schwimmbäder;free_time;Schwimm + Bad;басейн;noun;швімбад
+die Wanderung;похід;die Wanderungen;free_time;Wanderung;похід;noun;вандерунг
+die Reise;подорож;die Reisen;free_time;Reise;подорож;noun;райзе
+das Reisen;подорож;;free_time;Reisen;подорож;noun;райзен
+das Fotografieren;фотографування;;free_time;fotografieren;фотографування;noun;фотографірен
+das Malen;малювання;;free_time;malen;малювання;noun;мален
+das Zeichnen;малювання олівцем;;free_time;zeichnen;малювання;noun;цайхнен
+das Backen;випічка;;free_time;backen;випічка;noun;бакен
+die Handarbeit;рукоділля;die Handarbeiten;free_time;Hand + Arbeit;рукоділля;noun;гандарбайт
+das Stricken;в'язання;;free_time;stricken;в'язання;noun;штрікен
+die Gartenarbeit;садівництво;;free_time;Garten + Arbeit;садівництво;noun;гартенарайт
+das Sammeln;колекціонування;;free_time;sammeln;колекціонування;noun;заммельн
+die Briefmarke;поштова марка;die Briefmarken;free_time;Brief + Marke;поштова марка;noun;бріфмарке
+die Münze;монета;die Münzen;free_time;Münze;монета;noun;мюнце
+das Puzzle;пазл;die Puzzles;free_time;Puzzle;пазл;noun;пазль
+das Kreuzworträtsel;кросворд;die Kreuzworträtsel;free_time;Kreuz + Wort + Rätsel;кросворд;noun;кройцвортрецель
+spielen;грати;;free_time;spielen;грати;verb (weak);шпілен
+wandern;подорожувати пішки;;free_time;wandern;мандрувати;verb (weak);вандерн
+angeln;рибалити;;free_time;angeln;рибалити;verb (weak);ангельн
+die Vorstellung;вистава;die Vorstellungen;free_time;Vorstellung;вистава;noun;форштельунг
+die Eintrittskarte;квиток;die Eintrittskarten;free_time;Eintritt + Karte;квиток;noun;айнтрітскарте
+die Schauspielerin;акторка;die Schauspielerinnen;free_time;Schauspielerin;акторка;noun;шаушпілерін
+der Regisseur;режисер;die Regisseure;free_time;Regisseur;режисер;noun;режисер
+die Bühne;сцена;die Bühnen;free_time;Bühne;сцена;noun;бюне
+die Leinwand;екран;die Leinwände;free_time;Leinwand;екран;noun;ляйнванд
+der Zuschauer;глядач;die Zuschauer;free_time;Zuschauer;глядач;noun;цушауер
+die Aufführung;вистава;die Aufführungen;free_time;Aufführung;вистава;noun;ауффюрунг
+das Drehbuch;сценарій;die Drehbücher;free_time;Dreh + Buch;сценарій;noun;дребух
+die Handlung;сюжет;die Handlungen;free_time;Handlung;сюжет;noun;гандлунг
+die Premiere;прем'єра;die Premieren;free_time;Premiere;прем'єра;noun;прем'єре
+die Komödie;комедія;die Komödien;free_time;Komödie;комедія;noun;комедіє
+das Drama;драма;die Dramen;free_time;Drama;драма;noun;драма
+die Tragödie;трагедія;die Tragödien;free_time;Tragödie;трагедія;noun;трагедіє
+das Musical;мюзикл;die Musicals;free_time;Musical;мюзикл;noun;мюзикл
+die Oper;опера;die Opern;free_time;Oper;опера;noun;опера
+der Soundtrack;саундтрек;die Soundtracks;free_time;Soundtrack;саундтрек;noun;заундтрек
+der Sitzplatz;сидяче місце;die Sitzplätze;free_time;Sitz + Platz;сидяче місце;noun;зіцплац
+die Reihe;ряд;die Reihen;free_time;Reihe;ряд;noun;райє
+die Kasse;каса;die Kassen;free_time;Kasse;каса;noun;касе
+die Werbung;реклама;die Werbungen;free_time;Werbung;реклама;noun;вербунг
+das Popcorn;попкорн;;free_time;Popcorn;попкорн;noun;попкорн
+der Snack;перекус;die Snacks;free_time;Snack;перекус;noun;снек
+das Getränk;напій;die Getränke;free_time;Getränk;напій;noun;гетренк
+die 3D-Brille;3D-окуляри;die 3D-Brillen;free_time;3D + Brille;3D-окуляри;noun;драй-де-бріле
+der Trailer;трейлер;die Trailer;free_time;Trailer;трейлер;noun;трайлер
+der Abspann;титри;;free_time;Abspann;титри;noun;абшпан
+der Vorspann;вступні титри;die Vorspanne;free_time;Vorspann;вступні титри;noun;форшпан
+die Besetzung;акторський склад;die Besetzungen;free_time;Besetzung;акторський склад;noun;безецунг
+die Hauptrolle;головна роль;die Hauptrollen;free_time;Haupt + Rolle;головна роль;noun;гауптроле
+die Nebenrolle;другорядна роль;die Nebenrollen;free_time;Neben + Rolle;другорядна роль;noun;небенроле
+das Bühnenbild;декорація;die Bühnenbilder;free_time;Bühnen + Bild;декорація;noun;бюненбільд
+die Kulisse;лаштунки;die Kulissen;free_time;Kulisse;лаштунки;noun;кулісе
+der Scheinwerfer;прожектор;die Scheinwerfer;free_time;Scheinwerfer;прожектор;noun;шайнверфер
+die Maske;грим;die Masken;free_time;Maske;грим;noun;маске
+das Kostüm;костюм;die Kostüme;free_time;Kostüm;костюм;noun;костюм
+die Probe;репетиція;die Proben;free_time;Probe;репетиція;noun;пробе
+die Kartenkontrolle;контроль квитків;die Kartenkontrollen;free_time;Karten + Kontrolle;контроль квитків;noun;картенконтроле
+der Gang;прохід;die Gänge;free_time;Gang;прохід;noun;ганг
+filmen;фільмувати;;free_time;filmen;фільмувати;verb (weak);фільмен
+schauspielern;грати роль;;free_time;schauspielern;грати роль;verb (weak);шаушпілерн
+aufführen;ставити;;free_time;aufführen (zu führen);ставити;verb (separable);ауффюрен
+proben;репетирувати;;free_time;proben;репетирувати;verb (weak);пробен
+spannend;захопливий;;free_time;spannend;захопливий;adj;шпаненд
+das Spiel;гра;die Spiele;free_time;Spiel;гра;noun;шпіль
+der Ball;м'яч;die Bälle;free_time;Ball;м'яч;noun;баль
+das Tor;гол;die Tore;free_time;Tor;гол;noun;тор
+der Spieler;гравець;die Spieler;free_time;Spieler;гравець;noun;шпілер
+die Spielerin;гравчиня;die Spielerinnen;free_time;Spielerin;гравчиня;noun;шпілерин
+die Mannschaft;команда;die Mannschaften;free_time;Mannschaft;команда;noun;манншафт
+der Wettkampf;змагання;die Wettkämpfe;free_time;Wettkampf;змагання;noun;ветткампф
+der Sieg;перемога;die Siege;free_time;Sieg;перемога;noun;зік
+die Niederlage;поразка;die Niederlagen;free_time;Niederlage;поразка;noun;нідерлаґе
+der Punkt;очко;die Punkte;free_time;Punkt;очко;noun;пункт
+der Trainer;тренер;die Trainer;free_time;Trainer;тренер;noun;трена
+das Training;тренування;;free_time;Training;тренування;noun;тренінг
+der Schläger;ракетка;die Schläger;free_time;Schläger;ракетка;noun;шлеґер
+der Würfel;кубик;die Würfel;free_time;Würfel;кубик;noun;вюрфель
+das Dame;шашки;;free_time;Dame;шашки;noun;даме
+der Fußball;футбол;;free_time;Fuß + Ball;футбол;noun;фусбаль
+der Basketball;баскетбол;;free_time;Basketball;баскетбол;noun;баскетбаль
+der Volleyball;волейбол;;free_time;Volleyball;волейбол;noun;волейбаль
+das Tennis;теніс;;free_time;Tennis;теніс;noun;теніс
+das Tischtennis;настільний теніс;;free_time;Tisch + Tennis;настільний теніс;noun;тіштеніс
+das Schwimmen;плавання;;free_time;Schwimmen;плавання;noun;швімен
+das Laufen;біг;;free_time;Laufen;біг;noun;лауфен
+das Radfahren;велоспорт;;free_time;Rad + fahren;велоспорт;noun;радфарен
+das Skifahren;катання на лижах;;free_time;Ski + fahren;катання на лижах;noun;шіфарен
+das Yoga;йога;;free_time;Yoga;йога;noun;йога
+der Sportplatz;спортивний майданчик;die Sportplätze;free_time;Sport + Platz;спортивний майданчик;noun;шпортплац
+das Stadion;стадіон;die Stadien;free_time;Stadion;стадіон;noun;штадіон
+die Halle;зала;die Hallen;free_time;Halle;зала;noun;гале
+die Umkleidekabine;роздягальня;die Umkleidekabinen;free_time;Umkleide + Kabine;роздягальня;noun;умкляйдекабіне
+die Sportart;вид спорту;die Sportarten;free_time;Sport + Art;вид спорту;noun;шпортарт
+das Turnier;турнір;die Turniere;free_time;Turnier;турнір;noun;турнір
+die Medaille;медаль;die Medaillen;free_time;Medaille;медаль;noun;медальє
+der Pokal;кубок;die Pokale;free_time;Pokal;кубок;noun;покал
+die Bewegung;рух;die Bewegungen;free_time;Bewegung;рух;noun;бевеґунг
+die Ausdauer;витривалість;;free_time;Ausdauer;витривалість;noun;аусдауер
+trainieren;тренувати;;free_time;trainieren;тренувати;verb (weak);тренірен
+gewinnen;вигравати;;free_time;gewinnen;вигравати;verb (strong);ґевіннен
+verlieren;програвати;;free_time;verlieren;програвати;verb (strong);ферлірен
+springen;стрибати;;free_time;springen;стрибати;verb (strong);шпрінген
+aufwärmen;розминатися;;free_time;aufwärmen (zu wärmen);розминатися;verb (separable);ауфвермен
+zuschauen;дивитися;;free_time;zuschauen (zu schauen);дивитися;verb (separable);цушауен
+die Band;гурт;die Bands;free_time;Band;гурт;noun;бенд
+das Lied;пісня;die Lieder;free_time;Lied;пісня;noun;літ
+die Melodie;мелодія;die Melodien;free_time;Melodie;мелодія;noun;мелоді
+der Rhythmus;ритм;die Rhythmen;free_time;Rhythmus;ритм;noun;рютмус
+der Takt;такт;die Takte;free_time;Takt;такт;noun;такт
+die Note;нота;die Noten;free_time;Note;нота;noun;ноте
+die Geige;скрипка;die Geigen;free_time;Geige;скрипка;noun;ґайґе
+die Trompete;труба;die Trompeten;free_time;Trompete;труба;noun;тромпете
+das Schlagzeug;ударні;die Schlagzeuge;free_time;Schlag + Zeug;ударні;noun;шлакцойк
+die Flöte;флейта;die Flöten;free_time;Flöte;флейта;noun;фльоте
+das Cello;віолончель;die Celli;free_time;Cello;віолончель;noun;чело
+das Orchester;оркестр;die Orchester;free_time;Orchester;оркестр;noun;оркестер
+der Dirigent;диригент;die Dirigenten;free_time;Dirigent;диригент;noun;дириґент
+das Ballett;балет;die Ballette;free_time;Ballett;балет;noun;балет
+die Galerie;галерея;die Galerien;free_time;Galerie;галерея;noun;ґалері
+die Malerei;живопис;;free_time;Malerei;живопис;noun;малерай
+das Gemälde;картина;die Gemälde;free_time;Gemälde;картина;noun;ґемельде
+der Künstler;художник;die Künstler;free_time;Künstler;художник;noun;кюнстлер
+die Zeichnung;малюнок;die Zeichnungen;free_time;Zeichnung;малюнок;noun;цайхнунг
+die Skulptur;скульптура;die Skulpturen;free_time;Skulptur;скульптура;noun;скульптур
+die Farbe;фарба;die Farben;free_time;Farbe;фарба;noun;фарбе
+der Rahmen;рамка;die Rahmen;free_time;Rahmen;рамка;noun;рамен
+die Fotografie;фотографія;die Fotografien;free_time;Fotografie;фотографія;noun;фотографі
+das Stück;п’єса;die Stücke;free_time;Stück;п’єса;noun;штюк
+die Rolle;роль;die Rollen;free_time;Rolle;роль;noun;роле
+das Kunstwerk;витвір мистецтва;die Kunstwerke;free_time;Kunst + Werk;витвір мистецтва;noun;кунстверк
+das Publikum;публіка;;free_time;Publikum;публіка;noun;публікум
+der Applaus;аплодисменти;;free_time;Applaus;аплодисменти;noun;аплаус

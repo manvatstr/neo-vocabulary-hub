@@ -1,138 +1,138 @@
-el depósito;депозит;los depósitos;services;depósito;депозит;noun;
-el retiro;зняття;los retiros;services;retiro;зняття;noun;
-la tasa de cambio;обмінний курс;las tasas de cambio;services;tasa de cambio;обмінний курс;noun;
-la oficina de correos;поштове відділення;las oficinas de correos;services;oficina de correos;поштове відділення;noun;
-el sello;марка;los sellos;services;sello;марка;noun;
-el sobre;конверт;los sobres;services;sobre;конверт;noun;
-el paquete;посилка;los paquetes;services;paquete;посилка;noun;
-el correo;пошта;los correos;services;correo;пошта;noun;
-el cartero;листоноша;los carteros;services;cartero;листоноша;noun;
-el código postal;поштовий індекс;los códigos postales;services;código postal;поштовий індекс;noun;
-la transferencia;переказ;las transferencias;services;transferencia;переказ;noun;
-el extracto bancario;банківська виписка;los extractos bancarios;services;extracto bancario;банківська виписка;noun;
-el talonario de cheques;чекова книжка;los talonarios de cheques;services;talonario de cheques;чекова книжка;noun;
-la libreta de ahorros;ощадна книжка;las libretas de ahorros;services;libreta de ahorros;ощадна книжка;noun;
-el PIN;ПІН-код;los PIN;services;PIN;ПІН-код;noun;
-la contraseña;пароль;las contraseñas;services;contraseña;пароль;noun;
-la ventanilla;віконце;las ventanillas;services;ventanilla;віконце;noun;
-la firma;підпис;las firmas;services;firma;підпис;noun;
-el titular de la cuenta;власник рахунку;los titulares de la cuenta;services;titular de la cuenta;власник рахунку;noun;
-el beneficiario;отримувач;los beneficiarios;services;beneficiario;отримувач;noun;
-el giro postal;поштовий переказ;los giros postales;services;giro postal;поштовий переказ;noun;
-la estampilla;марка;las estampillas;services;estampilla;марка;noun;
-el apartado de correos;абонентська скринька;los apartados de correos;services;apartado de correos;абонентська скринька;noun;
-el franqueo;франкування;;services;franqueo;франкування;noun;
-depositar;вносити;;services;depositar;вносити;verb (-ar);
-el peluquero;перукар;los peluqueros;services;peluquero;перукар;noun;
-el corte;стрижка;los cortes;services;corte;стрижка;noun;
-el peinado;зачіска;los peinados;services;peinado;зачіска;noun;
-la tijera;ножиці;las tijeras;services;tijera;ножиці;noun;
-el secador;фен;los secadores;services;secador;фен;noun;
-el acondicionador;кондиціонер;los acondicionadores;services;acondicionador;кондиціонер;noun;
-el tinte;фарба;los tintes;services;tinte;фарба;noun;
-la permanente;хімічна завивка;las permanentes;services;permanente;хімічна завивка;noun;
-el rizador;плойка;los rizadores;services;rizador;плойка;noun;
-las tenacillas;щипці для завивки;;services;tenacillas;щипці для завивки;noun;
-la capa;накидка;las capas;services;capa;накидка;noun;
-el flequillo;чубчик;los flequillos;services;flequillo;чубчик;noun;
-la raya;проділ;las rayas;services;raya;проділ;noun;
-la trenza;коса;las trenzas;services;trenza;коса;noun;
-el moño;пучок;los moños;services;moño;пучок;noun;
-el rizo;локон;los rizos;services;rizo;локон;noun;
-la mecha;пасмо;las mechas;services;mecha;пасмо;noun;
-la melena;довге волосся;las melenas;services;melena;довге волосся;noun;
-la barba;борода;las barbas;services;barba;борода;noun;
-el bigote;вуса;los bigotes;services;bigote;вуса;noun;
-la laca;лак для волосся;las lacas;services;laca;лак для волосся;noun;
-el gel;гель;los geles;services;gel;гель;noun;
-la espuma;пінка;las espumas;services;espuma;пінка;noun;
-la cera;віск;las ceras;services;cera;віск;noun;
-el spray;спрей;los sprays;services;spray;спрей;noun;
-teñir;фарбувати;;services;teñir;фарбувати;verb (-ir);
-rizar;завивати;;services;rizar;завивати;verb (-ar);
-alisar;випрямляти;;services;alisar;випрямляти;verb (-ar);
-recortar;підстригати;;services;recortar;підстригати;verb (-ar);
-desenredar;розплутувати;;services;desenredar;розплутувати;verb (-ar);
-cepillar;розчісувати щіткою;;services;cepillar;розчісувати щіткою;verb (-ar);
-rizado;кучерявий;;services;rizado;кучерявий;adj;
-liso;прямий;;services;liso;прямий;adj;
-el taller;майстерня;los talleres;services;taller;майстерня;noun;
-el mecánico;механік;los mecánicos;services;mecánico;механік;noun;
-la gasolinera;автозаправка;las gasolineras;services;gasolinera;автозаправка;noun;
-el neumático;шина;los neumáticos;services;neumático;шина;noun;
-el parabrisas;лобове скло;los parabrisas;services;parabrisas;лобове скло;noun;
-el motor;двигун;los motores;services;motor;двигун;noun;
-el freno;гальмо;los frenos;services;freno;гальмо;noun;
-la bujía;свічка запалювання;las bujías;services;bujía;свічка запалювання;noun;
-el filtro de aire;повітряний фільтр;los filtros de aire;services;filtro de aire;повітряний фільтр;noun;
-el radiador;радіатор;los radiadores;services;radiador;радіатор;noun;
-la correa;ремінь;las correas;services;correa;ремінь;noun;
-el escape;вихлопна труба;los escapes;services;escape;вихлопна труба;noun;
-el carburador;карбюратор;los carburadores;services;carburador;карбюратор;noun;
-el embrague;зчеплення;los embragues;services;embrague;зчеплення;noun;
-la transmisión;трансмісія;las transmisiones;services;transmisión;трансмісія;noun;
-la suspensión;підвіска;las suspensiones;services;suspensión;підвіска;noun;
-la dirección;кермове управління;las direcciones;services;dirección;кермове управління;noun;
-el alternador;генератор;los alternadores;services;alternador;генератор;noun;
-el arranque;стартер;los arranques;services;arranque;стартер;noun;
-la luz de freno;стоп-сигнал;las luces de freno;services;luz de freno;стоп-сигнал;noun;
-el limpiaparabrisas;склоочисник;los limpiaparabrisas;services;limpiaparabrisas;склоочисник;noun;
-el parachoques;бампер;los parachoques;services;parachoques;бампер;noun;
-el capó;капот;los capós;services;capó;капот;noun;
-el maletero;багажник;los maleteros;services;maletero;багажник;noun;
-el volante;кермо;los volantes;services;volante;кермо;noun;
-el cinturón de seguridad;ремінь безпеки;los cinturones de seguridad;services;cinturón de seguridad;ремінь безпеки;noun;
-el airbag;подушка безпеки;los airbags;services;airbag;подушка безпеки;noun;
-el tapón del radiador;кришка радіатора;los tapones del radiador;services;tapón del radiador;кришка радіатора;noun;
-el depósito de gasolina;паливний бак;los depósitos de gasolina;services;depósito de gasolina;паливний бак;noun;
-la varilla de aceite;масляний щуп;las varillas de aceite;services;varilla de aceite;масляний щуп;noun;
-el gato;домкрат;los gatos;services;gato;домкрат;noun;
-la rueda de repuesto;запасне колесо;las ruedas de repuesto;services;rueda de repuesto;запасне колесо;noun;
-revisar;перевіряти;;services;revisar;перевіряти;verb (-ar);
-inflar;накачувати;;services;inflar;накачувати;verb (-ar);
-frenar;гальмувати;;services;frenar;гальмувати;verb (-ar);
-acelerar;прискорюватися;;services;acelerar;прискорюватися;verb (-ar);
-aparcar;паркувати;;services;aparcar;паркувати;verb (-ar);
-el seguro;страховка;los seguros;services;seguro;страховка;noun;
-la grúa;евакуатор;las grúas;services;grúa;евакуатор;noun;
-el taller de chapa;кузовний цех;los talleres de chapa;services;taller de chapa;кузовний цех;noun;
-el diagnóstico;діагностика;los diagnósticos;services;diagnóstico;діагностика;noun;
-el detective;детектив;los detectives;services;detective;детектив;noun;
-la sirena;сирена;las sirenas;services;sirena;сирена;noun;
-la alarma;тривога;las alarmas;services;alarma;тривога;noun;
-la emergencia;надзвичайна ситуація;las emergencias;services;emergencia;надзвичайна ситуація;noun;
-el accidente;аварія;los accidentes;services;accidente;аварія;noun;
-el robo;крадіжка;los robos;services;robo;крадіжка;noun;
-el ladrón;злодій;los ladrones;services;ladrón;злодій;noun;
-la víctima;жертва;las víctimas;services;víctima;жертва;noun;
-el testigo;свідок;los testigos;services;testigo;свідок;noun;
-el sospechoso;підозрюваний;los sospechosos;services;sospechoso;підозрюваний;noun;
-el crimen;злочин;los crímenes;services;crimen;злочин;noun;
-la denuncia;заява;las denuncias;services;denuncia;заява;noun;
-el arresto;арешт;los arrestos;services;arresto;арешт;noun;
-la detención;затримання;las detenciones;services;detención;затримання;noun;
-las esposas;наручники;;services;esposas;наручники;noun;
-la pistola;пістолет;las pistolas;services;pistola;пістолет;noun;
-el arma;зброя;las armas;services;arma;зброя;noun;
-el disparo;постріл;los disparos;services;disparo;постріл;noun;
-el herido;поранений;los heridos;services;herido;поранений;noun;
-el incendio;пожежа;los incendios;services;incendio;пожежа;noun;
-el rescate;рятування;los rescates;services;rescate;рятування;noun;
-el peligro;небезпека;los peligros;services;peligro;небезпека;noun;
-la seguridad;безпека;las seguridades;services;seguridad;безпека;noun;
-el número de emergencia;номер екстреної служби;los números de emergencia;services;número de emergencia;номер екстреної служби;noun;
-la multa;штраф;las multas;services;multa;штраф;noun;
-la huella dactilar;відбиток пальця;las huellas dactilares;services;huella dactilar;відбиток пальця;noun;
-el atraco;грабіж;los atracos;services;atraco;грабіж;noun;
-la persecución;переслідування;las persecuciones;services;persecución;переслідування;noun;
-el refugio;притулок;los refugios;services;refugio;притулок;noun;
-la alerta;тривога;las alertas;services;alerta;тривога;noun;
-el agresor;зловмисник;los agresores;services;agresor;зловмисник;noun;
-el secuestro;викрадення;los secuestros;services;secuestro;викрадення;noun;
-el rehén;заручник;los rehenes;services;rehén;заручник;noun;
-el cómplice;спільник;los cómplices;services;cómplice;спільник;noun;
-el terrorista;терорист;los terroristas;services;terrorista;терорист;noun;
-la bomba;бомба;las bombas;services;bomba;бомба;noun;
-llamar;дзвонити;;services;llamar;дзвонити;verb (-ar);
-denunciar;подавати заяву;;services;denunciar;подавати заяву;verb (-ar);
-detener;арештовувати;;services;detener;арештовувати;verb (-er);
+el depósito;депозит;los depósitos;services;depósito;депозит;noun;депосіто
+el retiro;зняття;los retiros;services;retiro;зняття;noun;ретіро
+la sucursal;відділення;las sucursales;services;sucursal;відділення;noun;сукурсаль
+la firma;підпис;las firmas;services;firma;підпис;noun;фірма
+el extracto;виписка;los extractos;services;extracto;виписка;noun;екстракто
+el préstamo;позика;los préstamos;services;préstamo;позика;noun;престамо
+el interés;відсотки;los intereses;services;interés;відсотки;noun;інтерес
+la tasa;ставка;las tasas;services;tasa;ставка;noun;таса
+el tipo de cambio;обмінний курс;los tipos de cambio;services;tipo de cambio;обмінний курс;noun;тіпо де камбіо
+la libreta;ощадна книжка;las libretas;services;libreta;ощадна книжка;noun;лібрета
+el talonario;чекова книжка;los talonarios;services;talonario;чекова книжка;noun;талонаріо
+la caja de seguridad;сейф;las cajas de seguridad;services;caja de seguridad;сейф;noun;каха де сеґурідад
+el sobre;конверт;los sobres;services;sobre;конверт;noun;собре
+el sello;марка;los sellos;services;sello;марка;noun;сейо
+el paquete;пакет;los paquetes;services;paquete;пакет;noun;пакете
+la dirección;адреса;las direcciones;services;dirección;адреса;noun;дірексьйон
+el remitente;відправник;los remitentes;services;remitente;відправник;noun;ремітенте
+el destinatario;отримувач;los destinatarios;services;destinatario;отримувач;noun;дестінатаріо
+el apartado postal;абонентська скринька;los apartados postales;services;apartado postal;абонентська скринька;noun;апартадо посталь
+el cartero;листоноша;los carteros;services;cartero;листоноша;noun;картеро
+el envío;відправлення;los envíos;services;envío;відправлення;noun;енбіо
+la entrega;доставка;las entregas;services;entrega;доставка;noun;ентрега
+depositar;вносити кошти;;services;depositar;вносити кошти;verb (-ar);депосітар
+el peluquero;перукар;los peluqueros;services;peluquero;перукар;noun;пелукеро
+la peluquera;перукарка;las peluqueras;services;peluquera;перукарка;noun;пелукера
+el corte;стрижка;los cortes;services;corte;стрижка;noun;корте
+el secador;фен;los secadores;services;secador;фен;noun;секадор
+el acondicionador;кондиціонер;los acondicionadores;services;acondicionador;кондиціонер;noun;акондисіонадор
+el tinte;фарба для волосся;los tintes;services;tinte;фарба для волосся;noun;тінте
+las mechas;мелірування;;services;mecha;мелірування;noun;мечас
+el flequillo;чубчик;los flequillos;services;flequillo;чубчик;noun;флекійо
+el rizador;плойка;los rizadores;services;rizador;плойка;noun;рісадор
+el gel;гель;los geles;services;gel;гель;noun;хель
+la laca;лак для волосся;las lacas;services;laca;лак для волосся;noun;лака
+la capa;накидка;las capas;services;capa;накидка;noun;капа
+el delantal;фартух;los delantales;services;delantal;фартух;noun;деланталь
+la bata;халат;las batas;services;bata;халат;noun;бата
+el lavabo;раковина;los lavabos;services;lavabo;раковина;noun;лавабо
+el masaje;масаж;los masajes;services;masaje;масаж;noun;масахе
+la manicura;манікюр;las manicuras;services;manicura;манікюр;noun;манікура
+la pedicura;педикюр;las pedicuras;services;pedicura;педикюр;noun;педікура
+el afeitado;гоління;los afeitados;services;afeitado;гоління;noun;афейтадо
+la navaja;бритва;las navajas;services;navaja;бритва;noun;наваха
+la crema;крем;las cremas;services;crema;крем;noun;крема
+el perfume;парфуми;los perfumes;services;perfume;парфуми;noun;перфуме
+el rulo;бігуді;los rulos;services;rulo;бігуді;noun;руло
+la pinza;затискач;las pinzas;services;pinza;затискач;noun;пінса
+la horquilla;шпилька для волосся;las horquillas;services;horquilla;шпилька для волосся;noun;оркійя
+el moño;пучок;los moños;services;moño;пучок;noun;моньо
+la trenza;коса;las trenzas;services;trenza;коса;noun;тренса
+el recogido;укладка;los recogidos;services;recogido;укладка;noun;рекохідо
+el alisado;вирівнювання;los alisados;services;alisado;вирівнювання;noun;алісадо
+la permanente;хімічна завивка;las permanentes;services;permanente;хімічна завивка;noun;перманенте
+la ondulación;хвиля;las ondulaciones;services;ondulación;хвиля;noun;ондуласіон
+peinar;розчісувати;;services;peinar;розчісувати;verb (-ar);пейнар
+teñir;фарбувати;;services;teñir;фарбувати;verb (-ir);теньір
+el taller;майстерня;los talleres;services;taller;майстерня;noun;тайєр
+el mecánico;механік;los mecánicos;services;mecánico;механік;noun;меканіко
+el coche;автомобіль;los coches;services;coche;автомобіль;noun;коче
+el motor;двигун;los motores;services;motor;двигун;noun;мотор
+la batería;акумулятор;las baterías;services;batería;акумулятор;noun;батерія
+el filtro;фільтр;los filtros;services;filtro;фільтр;noun;фільтро
+la rueda;колесо;las ruedas;services;rueda;колесо;noun;руеда
+el neumático;шина;los neumáticos;services;neumático;шина;noun;неуматіко
+el freno;гальмо;los frenos;services;freno;гальмо;noun;френо
+el volante;кермо;los volantes;services;volante;кермо;noun;боланте
+el parabrisas;лобове скло;los parabrisas;services;parabrisas;лобове скло;noun;парабрісас
+la bujía;свічка запалювання;las bujías;services;bujía;свічка запалювання;noun;бухія
+el escape;вихлопна труба;los escapes;services;escape;вихлопна труба;noun;ескапе
+el capó;капот;los capós;services;capó;капот;noun;капо
+el espejo retrovisor;дзеркало заднього виду;los espejos retrovisores;services;espejo retrovisor;дзеркало заднього виду;noun;еспехо ретробісор
+el faro;фара;los faros;services;faro;фара;noun;фаро
+la luz;світло;las luces;services;luz;світло;noun;лус
+el intermitente;поворотник;los intermitentes;services;intermitente;поворотник;noun;інтермітенте
+la llanta;колісний диск;las llantas;services;llanta;обід;noun;йанта
+el gato;домкрат;los gatos;services;gato;домкрат;noun;ґато
+el destornillador;викрутка;los destornilladores;services;destornillador;викрутка;noun;десторнійадор
+el alicate;плоскогубці;los alicates;services;alicate;плоскогубці;noun;алікате
+la gasolina;бензин;las gasolinas;services;gasolina;бензин;noun;ґасоліна
+el diésel;дизель;los diéseles;services;diésel;дизель;noun;діесель
+el radiador;радіатор;los radiadores;services;radiador;радіатор;noun;радіадор
+el embrague;зчеплення;los embragues;services;embrague;зчеплення;noun;ембраґе
+el pedal;педаль;los pedales;services;pedal;педаль;noun;педаль
+el acelerador;педаль газу;los aceleradores;services;acelerador;педаль газу;noun;аселерадор
+la manguera;шланг;las mangueras;services;manguera;шланг;noun;манґера
+la correa;ремінь;las correas;services;correa;ремінь;noun;корреа
+el arranque;стартер;los arranques;services;arranque;стартер;noun;арранке
+la chapa;кузов;las chapas;services;chapa;кузов;noun;чапа
+el repuesto;запчастина;los repuestos;services;repuesto;запчастина;noun;репуесто
+la avería;поломка;las averías;services;avería;поломка;noun;аберія
+la grúa;евакуатор;las grúas;services;grúa;евакуатор;noun;ґруа
+conducir;водити;;services;conducir;водити;verb (-ir);кондусір
+arrancar;заводити;;services;arrancar;заводити;verb (-ar);арранкар
+frenar;гальмувати;;services;frenar;гальмувати;verb (-ar);френар
+acelerar;прискорювати;;services;acelerar;прискорювати;verb (-ar);аселерар
+revisar;перевіряти;;services;revisar;перевіряти;verb (-ar);ребісар
+el accidente;нещасний випадок;los accidentes;services;accidente;нещасний випадок;noun;аксіденте
+el bombero;пожежник;los bomberos;services;bombero;пожежник;noun;бомберо
+la policía;поліція;;services;policía;поліція;noun;полісія
+la emergencia;надзвичайна ситуація;las emergencias;services;emergencia;надзвичайна ситуація;noun;емерхенсія
+el robo;крадіжка;los robos;services;robo;крадіжка;noun;робо
+el ladrón;злодій;los ladrones;services;ladrón;злодій;noun;ладрон
+el secuestro;викрадення;los secuestros;services;secuestro;викрадення;noun;секестро
+el asesinato;вбивство;los asesinatos;services;asesinato;вбивство;noun;асесінато
+la víctima;жертва;las víctimas;services;víctima;жертва;noun;віктіма
+el testigo;свідок;los testigos;services;testigo;свідок;noun;тестіго
+la denuncia;заява;las denuncias;services;denuncia;заява;noun;денунсія
+la evidencia;доказ;las evidencias;services;evidencia;доказ;noun;евіденсія
+la huella dactilar;відбиток пальця;las huellas dactilares;services;huella dactilar;відбиток пальця;noun;уейя дактілар
+la multa;штраф;las multas;services;multa;штраф;noun;мульта
+la infracción;порушення;las infracciones;services;infracción;порушення;noun;інфраксьйон
+la señal;знак;las señales;services;señal;знак;noun;сеньяль
+el peatón;пішохід;los peatones;services;peatón;пішохід;noun;пеатон
+la carretera;дорога;las carreteras;services;carretera;дорога;noun;карретера
+el herido;поранений;los heridos;services;herido;поранений;noun;ерідо
+la explosión;вибух;las explosiones;services;explosión;вибух;noun;експлосьйон
+el incendio;пожежа;los incendios;services;incendio;пожежа;noun;інсендіо
+la alarma;тривога;las alarmas;services;alarma;тривога;noun;аларма
+el rescate;рятування;los rescates;services;rescate;рятування;noun;рескате
+la evacuación;евакуація;las evacuaciones;services;evacuación;евакуація;noun;евакуасьйон
+los primeros auxilios;перша допомога;los primeros auxilios;services;primeros auxilios;перша допомога;noun;прімерос ауксіліос
+la llamada de emergencia;екстрений виклик;las llamadas de emergencia;services;llamada de emergencia;екстрений виклик;noun;йамада де емерхенсія
+el número de emergencia;номер екстреної служби;los números de emergencia;services;número de emergencia;номер екстреної служби;noun;нумеро де емерхенсія
+la pistola;пістолет;las pistolas;services;pistola;пістолет;noun;пістола
+la bala;куля;las balas;services;bala;куля;noun;бала
+la escena del crimen;місце злочину;las escenas del crimen;services;escena del crimen;місце злочину;noun;есена дель крімен
+el asesino;вбивця;los asesinos;services;asesino;вбивця;noun;асесіно
+la fuga;втеча;las fugas;services;fuga;втеча;noun;фуга
+el rehén;заручник;los rehenes;services;rehén;заручник;noun;реен
+la patrulla;патруль;las patrullas;services;patrulla;патруль;noun;патруйя
+la sirena;сирена;las sirenas;services;sirena;сирена;noun;сірена
+la cárcel;в'язниця;las cárceles;services;cárcel;в'язниця;noun;карсель
+el juicio;суд;los juicios;services;juicio;суд;noun;хуісіо
+el juez;суддя;los jueces;services;juez;суддя;noun;хуес
+el crimen;злочин;los crímenes;services;crimen;злочин;noun;крімен
+la violencia;насильство;;services;violencia;насильство;noun;віоленсія
+el peligro;небезпека;los peligros;services;peligro;небезпека;noun;пелігро
+escapar;втікати;;services;escapar;втікати;verb (-ar);ескапар

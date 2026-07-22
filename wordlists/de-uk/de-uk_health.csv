@@ -1,135 +1,148 @@
-der Zahn;зуб;die Zähne;health;Zahn;зуб;noun;цан
-die Zunge;язик;die Zungen;health;Zunge;язик;noun;цунґе
-der Ellbogen;лікоть;die Ellbogen;health;Elle + Bogen;лікоть;noun;ельбоґен
-das Handgelenk;зап'ясток;die Handgelenke;health;Hand + Gelenk;зап'ясток;noun;гандґеленк
+der Kopf;голова;die Köpfe;health;Kopf;голова;noun;копф
+das Augenlid;повіка;die Augenlider;health;Auge + Lid;повіка;noun;аугенлід
+die Zunge;язик;die Zungen;health;Zunge;язик;noun;цунге
+der Hals;шия;die Hälse;health;Hals;шия;noun;гальс
+die Schulter;плече;die Schultern;health;Schulter;плече;noun;шультер
+der Arm;рука;die Arme;health;Arm;рука;noun;арм
+der Ellbogen;лікоть;die Ellbogen;health;Elle + Bogen;лікоть;noun;ельбоген
+der Unterarm;передпліччя;die Unterarme;health;Unter + Arm;передпліччя;noun;унтерарм
+das Handgelenk;зап'ястя;die Handgelenke;health;Hand + Gelenk;зап'ястя;noun;гандгеленк
+die Hand;кисть;die Hände;health;Hand;кисть;noun;ганд
+der Finger;палець;die Finger;health;Finger;палець;noun;фінгер
 der Daumen;великий палець;die Daumen;health;Daumen;великий палець;noun;даумен
-der Zeigefinger;вказівний палець;die Zeigefinger;health;Zeige + Finger;вказівний палець;noun;цайґефінгер
-die Brust;груди;die Brüste;health;Brust;груди;noun;бруст
-der Rücken;спина;die Rücken;health;Rücken;спина;noun;рюкен
+der Zeigefinger;вказівний палець;die Zeigefinger;health;Zeige + Finger;вказівний палець;noun;цайгефінгер
+der Mittelfinger;середній палець;die Mittelfinger;health;Mittel + Finger;середній палець;noun;міттельфінгер
+der Ringfinger;безіменний палець;die Ringfinger;health;Ring + Finger;безіменний палець;noun;рінгфінгер
+der kleine Finger;мізинець;die kleinen Finger;health;klein + Finger;мізинець;noun;кляйне фінгер
+das Bein;нога;die Beine;health;Bein;нога;noun;байн
+der Oberschenkel;стегно;die Oberschenkel;health;Ober + Schenkel;стегно;noun;обершенкель
+der Unterschenkel;гомілка;die Unterschenkel;health;Unter + Schenkel;гомілка;noun;унтершенкель
 das Knie;коліно;die Knie;health;Knie;коліно;noun;кні
-der Zeh;палець ноги;die Zehen;health;Zeh;палець ноги;noun;це
+die Wade;литка;die Waden;health;Wade;литка;noun;ваде
+der Knöchel;щиколотка;die Knöchel;health;Knöchel;щиколотка;noun;кнехель
+der Fuß;стопа;die Füße;health;Fuß;стопа;noun;фус
 die Ferse;п'ята;die Fersen;health;Ferse;п'ята;noun;ферзе
-der Knöchel;щиколотка;die Knöchel;health;Knöchel;щиколотка;noun;кньохель
-das Herz;серце;die Herzen;health;Herz;серце;noun;герц
-die Lunge;легеня;die Lungen;health;Lunge;легеня;noun;лунґе
-der Magen;шлунок;die Mägen;health;Magen;шлунок;noun;маґен
+die Zehe;палець ноги;die Zehen;health;Zehe;палець ноги;noun;цее
+der Fußnagel;ніготь на нозі;die Fußnägel;health;Fuß + Nagel;ніготь на нозі;noun;фуснагель
+der Fingernagel;ніготь на руці;die Fingernägel;health;Finger + Nagel;ніготь на руці;noun;фінгернагель
+der Brustkorb;грудна клітка;die Brustkörbe;health;Brust + Korb;грудна клітка;noun;брусткорб
+die Brust;груди;die Brüste;health;Brust;груди;noun;бруст
+der Bauch;живіт;die Bäuche;health;Bauch;живіт;noun;баух
+der Rücken;спина;die Rücken;health;Rücken;спина;noun;рюкен
+die Wirbelsäule;хребет;die Wirbelsäulen;health;Wirbel + Säule;хребет;noun;вірбельзойле
+die Lunge;легеня;die Lungen;health;Lunge;легеня;noun;лунге
 die Leber;печінка;die Lebern;health;Leber;печінка;noun;лебер
 die Niere;нирка;die Nieren;health;Niere;нирка;noun;ніре
-das Gehirn;мозок;die Gehirne;health;Gehirn;мозок;noun;ґегірн
-der Knochen;кістка;die Knochen;health;Knochen;кістка;noun;кнохен
-der Muskel;м'яз;die Muskeln;health;Muskel;м'яз;noun;мускель
-das Gelenk;суглоб;die Gelenke;health;Gelenk;суглоб;noun;ґеленк
-die Rippe;ребро;die Rippen;health;Rippe;ребро;noun;ріпе
-die Wirbelsäule;хребет;die Wirbelsäulen;health;Wirbel + Säule;хребет;noun;вірбельзойле
 das Blut;кров;;health;Blut;кров;noun;блут
-der Puls;пульс;die Pulse;health;Puls;пульс;noun;пульс
-die Arterie;артерія;die Arterien;health;Arterie;артерія;noun;артеріе
-die Vene;вена;die Venen;health;Vene;вена;noun;вене
-das Skelett;скелет;die Skelette;health;Skelett;скелет;noun;скелет
-der Nerv;нерв;die Nerven;health;Nerv;нерв;noun;нерф
-der Schnupfen;нежить;;health;Schnupfen;нежить;noun;шнупфен
-die Erkältung;простуда;die Erkältungen;health;Erkältung;простуда;noun;еркельтунг
-die Grippe;грип;;health;Grippe;грип;noun;гріпе
-der Husten;кашель;;health;Husten;кашель;noun;густен
-das Fieber;лихоманка;;health;Fieber;лихоманка;noun;фібер
-die Kopfschmerzen;головний біль;die Kopfschmerzen;health;Kopf + Schmerz;голова + біль;noun;копфшмерцен
-die Halsschmerzen;біль у горлі;die Halsschmerzen;health;Hals + Schmerz;горло + біль;noun;гальсшмерцен
+die Krankheit;хвороба;die Krankheiten;health;Krankheit;хвороба;noun;кранкхайт
+die Grippe;грип;die Grippen;health;Grippe;грип;noun;гріппе
+die Erkältung;застуда;die Erkältungen;health;Erkältung;застуда;noun;еркельтунг
+der Schnupfen;нежить;die Schnupfen;health;Schnupfen;нежить;noun;шнупфен
+der Husten;кашель;die Husten;health;Husten;кашель;noun;хустен
+das Fieber;температура;;health;Fieber;температура;noun;фібер
+die Halsschmerzen;біль у горлі;;health;Halsschmerz;біль у горлі;noun;хальсшмерцен
+die Kopfschmerzen;головний біль;;health;Kopfschmerz;головний біль;noun;копфшмерцен
+die Bauchschmerzen;біль у животі;;health;Bauchschmerz;біль у животі;noun;баухшмерцен
 die Übelkeit;нудота;;health;Übelkeit;нудота;noun;юбелькайт
-das Erbrechen;блювання;;health;Erbrechen;блювання;noun;ербрехен
-der Durchfall;діарея;;health;Durchfall;діарея;noun;дурхфаль
+der Durchfall;діарея;die Durchfälle;health;Durchfall;діарея;noun;дурхфаль
 die Verstopfung;запор;die Verstopfungen;health;Verstopfung;запор;noun;ферштопфунг
-der Schwindel;запаморочення;;health;Schwindel;запаморочення;noun;швіндель
-die Schmerzen;болі;die Schmerzen;health;Schmerz;біль;noun;шмерцен
-die Müdigkeit;втома;;health;Müdigkeit;втома;noun;мюдіхкайт
-die Appetitlosigkeit;відсутність апетиту;;health;Appetit + losigkeit;апетит + відсутність;noun;апетітлозіхкайт
-die Schlaflosigkeit;безсоння;;health;Schlaf + losigkeit;сон + відсутність;noun;шляфлозіхкайт
-der Juckreiz;свербіж;;health;Juckreiz;свербіж;noun;юкрайц
-das Niesen;чхання;;health;Niesen;чхання;noun;нізен
+das Asthma;астма;;health;Asthma;астма;noun;астма
 die Allergie;алергія;die Allergien;health;Allergie;алергія;noun;алергі
-die Infektion;інфекція;die Infektionen;health;Infektion;інфекція;noun;інфекціон
-der Ausschlag;висип;die Ausschläge;health;Aus + Schlag;висип;noun;аусшлаг
-sich übergeben;блювати;;health;übergeben;блювати;verb (strong);юбергебен
-wehtun;боліти;;health;weh + tun (zu wehtun);боліти;verb (separable);ветун
-anstecken;заражати;;health;an + stecken (zu anstecken);заражати;verb (separable);анштекен
-sich erkälten;застудитися;;health;erkälten;застудитися;verb (weak);еркельтен
-schmerzen;боліти;;health;schmerzen;боліти;verb (weak);шмерцен
+der Ausschlag;висип;die Ausschläge;health;Ausschlag;висип;noun;аусшлаг
+die Blase;пухир;die Blasen;health;Blase;пухир;noun;блазе
+die Schwellung;набряк;die Schwellungen;health;Schwellung;набряк;noun;швелюнг
+die Entzündung;запалення;die Entzündungen;health;Entzündung;запалення;noun;ентцюндунг
+der Juckreiz;свербіж;die Juckreize;health;Juckreiz;свербіж;noun;юкрайц
+der Schmerz;біль;die Schmerzen;health;Schmerz;біль;noun;шмерц
+das Symptom;симптом;die Symptome;health;Symptom;симптом;noun;зюмптом
+die Diagnose;діагноз;die Diagnosen;health;Diagnose;діагноз;noun;діагнозе
 die Wunde;рана;die Wunden;health;Wunde;рана;noun;вунде
-die Blutung;кровотеча;die Blutungen;health;Blutung;кровотеча;noun;блутунг
-der Bluterguss;синець;die Blutergüsse;health;Blut + Erguss;кров + вилив;noun;блутергус
-die Prellung;забій;die Prellungen;health;Prellung;забій;noun;преллюнг
+der Bluterguss;синець;die Blutergüsse;health;Bluterguss;синець;noun;блутергус
+der Knochenbruch;перелом;die Knochenbrüche;health;Knochenbruch;перелом;noun;кнохенбрух
 die Verstauchung;розтягнення;die Verstauchungen;health;Verstauchung;розтягнення;noun;ферштаухунг
-der Knochenbruch;перелом кістки;die Knochenbrüche;health;Knochen + Bruch;кістка + перелом;noun;кнохенбрух
 die Verbrennung;опік;die Verbrennungen;health;Verbrennung;опік;noun;фербреннунг
 die Vergiftung;отруєння;die Vergiftungen;health;Vergiftung;отруєння;noun;фергіфтунг
-der Sonnenstich;сонячний удар;die Sonnenstiche;health;Sonne + Stich;сонце + укол;noun;зонненштіх
-der Hitzeschlag;тепловий удар;die Hitzeschläge;health;Hitze + Schlag;спека + удар;noun;гітцешлаг
-die Atemnot;задишка;;health;Atem + Not;дихання + біда;noun;атемнот
-das Asthma;астма;;health;Asthma;астма;noun;астма
-die Bronchitis;бронхіт;;health;Bronchitis;бронхіт;noun;бронхітіс
-die Lungenentzündung;пневмонія;die Lungenentzündungen;health;Lunge + Entzündung;легеня + запалення;noun;лунгенентцюндунг
-der Diabetes;діабет;;health;Diabetes;діабет;noun;діабетес
-der Bluthochdruck;високий кров'яний тиск;;health;Blut + Hochdruck;кров + високий тиск;noun;блутгохдрук
-der Herzinfarkt;серцевий напад;die Herzinfarkte;health;Herz + Infarkt;серце + інфаркт;noun;герцінфаркт
-der Schlaganfall;інсульт;die Schlaganfälle;health;Schlag + Anfall;удар + напад;noun;шлаганалфаль
-der Krebs;рак;die Krebse;health;Krebs;рак;noun;креебс
+der Schwindel;запаморочення;;health;Schwindel;запаморочення;noun;швіндель
+die Ohnmacht;непритомність;die Ohnmachten;health;Ohnmacht;непритомність;noun;онмахт
+der Krampf;судома;die Krämpfe;health;Krampf;судома;noun;крампф
 die Migräne;мігрень;die Migränen;health;Migräne;мігрень;noun;мігрене
-die Ohrenschmerzen;біль у вусі;die Ohrenschmerzen;health;Ohr + Schmerz;вухо + біль;noun;ореншмерцен
-die Zahnschmerzen;зубний біль;die Zahnschmerzen;health;Zahn + Schmerz;зуб + біль;noun;цаншмерцен
-die Sprechstunde;години прийому;die Sprechstunden;health;Sprechstunde;години прийому;noun;шпрехштунде
-die Untersuchung;обстеження;die Untersuchungen;health;Untersuchung;обстеження;noun;унтерзухунг
+der Heuschnupfen;сінна лихоманка;;health;Heuschnupfen;сінна лихоманка;noun;хойшнупфен
+die Mandelentzündung;тонзиліт;die Mandelentzündungen;health;Mandelentzündung;тонзиліт;noun;мандельентцюндунг
+die Lungenentzündung;пневмонія;die Lungenentzündungen;health;Lungenentzündung;пневмонія;noun;лунгенентцюндунг
+die Bronchitis;бронхіт;die Bronchitiden;health;Bronchitis;бронхіт;noun;бронхітіс
+der Herzinfarkt;серцевий напад;die Herzinfarkte;health;Herzinfarkt;серцевий напад;noun;херцінфаркт
+der Schlaganfall;інсульт;die Schlaganfälle;health;Schlaganfall;інсульт;noun;шлаганфаль
+die Blinddarmentzündung;апендицит;die Blinddarmentzündungen;health;Blinddarmentzündung;апендицит;noun;блінддарментцюндунг
+die Blutvergiftung;сепсис;die Blutvergiftungen;health;Blutvergiftung;сепсис;noun;блутфергіфтунг
+der Tumor;пухлина;die Tumore;health;Tumor;пухлина;noun;тумор
+niesen;чхати;;health;niesen;чхати;verb (weak);нізен
+sich übergeben;блювати;;health;übergeben;блювати;verb (strong);юбергебен
+fiebern;гарячкувати;;health;fiebern;гарячкувати;verb (weak);фіберн
+schmerzen;боліти;;health;schmerzen;боліти;verb (weak);шмерцен
+jucken;свербіти;;health;jucken;свербіти;verb (weak);юкен
+bluten;кровоточити;;health;bluten;кровоточити;verb (weak);блютен
+anschwellen;набрякати;;health;anschwellen (zu schwellen);набрякати;verb (strong, separable);аншвеллен
 das Rezept;рецепт;die Rezepte;health;Rezept;рецепт;noun;рецепт
-die Apotheke;аптека;die Apotheken;health;Apotheke;аптека;noun;апотеке
-der Apotheker;аптекар;die Apotheker;health;Apotheker;аптекар;noun;апотекер
-die Tablette;таблетка;die Tabletten;health;Tablette;таблетка;noun;таблете
-die Pille;пігулка;die Pillen;health;Pille;пігулка;noun;піле
-das Medikament;ліки;die Medikamente;health;Medikament;ліки;noun;медікамент
-das Schmerzmittel;знеболювальний засіб;die Schmerzmittel;health;Schmerz + Mittel;знеболювальний засіб;noun;шмерцміттель
-der Blutdruck;кров'яний тиск;;health;Blut + Druck;кров'яний тиск;noun;блутдрук
-das Fieberthermometer;термометр;die Fieberthermometer;health;Fieber + Thermometer;термометр;noun;фібертермометер
-die Spritze;шприц;die Spritzen;health;Spritze;шприц;noun;шпріце
-der Verband;пов'язка;die Verbände;health;Verband;пов'язка;noun;фербанд
-das Pflaster;пластир;die Pflaster;health;Pflaster;пластир;noun;пфластер
+die Tablette;таблетка;die Tabletten;health;Tablette;таблетка;noun;таблетте
 die Salbe;мазь;die Salben;health;Salbe;мазь;noun;зальбе
-die Creme;крем;die Cremes;health;Creme;крем;noun;крем
-das Antibiotikum;антибіотик;die Antibiotika;health;Antibiotikum;антибіотик;noun;антибіотікум
-die Nebenwirkung;побічна дія;die Nebenwirkungen;health;Neben + Wirkung;побічна дія;noun;небенвіркунг
-die Dosis;доза;die Dosen;health;Dosis;доза;noun;дозіс
-einnehmen;приймати;;health;einnehmen (zu nehmen);приймати;verb (separable);айннемен
+der Kopfschmerz;головний біль;die Kopfschmerzen;health;Kopf + Schmerz;головний біль;noun;копфшмерц
+die Krankenkasse;лікарняна каса;die Krankenkassen;health;krank + Kasse;лікарняна каса;noun;кранкенкассе
+das Wartezimmer;зал очікування;die Wartezimmer;health;warten + Zimmer;зал очікування;noun;вартеціммер
+der Blutdruck;кров'яний тиск;;health;Blut + Druck;кров'яний тиск;noun;блутдрук
+das Medikament;ліки;die Medikamente;health;Medikament;ліки;noun;медікамент
+die Pille;пігулка;die Pillen;health;Pille;пігулка;noun;пілле
+der Verband;пов'язка;die Verbände;health;Verband;пов'язка;noun;фербанд
+die Spritze;шприц;die Spritzen;health;Spritze;шприц;noun;шпрітце
+die Untersuchung;обстеження;die Untersuchungen;health;untersuchen + ung;обстеження;noun;унтерзухунґ
+der Befund;результат обстеження;die Befunde;health;Befund;результат;noun;бефунд
+die Impfung;щеплення;die Impfungen;health;impfen + ung;щеплення;noun;імпфунґ
+der Impfpass;сертифікат вакцинації;die Impfpässe;health;impfen + Pass;сертифікат;noun;імпфпасс
+das Pflaster;пластир;die Pflaster;health;Pflaster;пластир;noun;пфластер
+das Thermometer;термометр;die Thermometer;health;Thermometer;термометр;noun;термометер
+der Patient;пацієнт;die Patienten;health;Patient;пацієнт;noun;пацієнт
+die Überweisung;направлення;die Überweisungen;health;überweisen + ung;направлення;noun;юбервайзунґ
+das Schmerzmittel;знеболювальне;die Schmerzmittel;health;Schmerz + Mittel;знеболювальне;noun;шмерцміттель
+untersuchen;оглядати;;health;untersuchen;оглядати;verb (weak);унтерзухен
 verschreiben;виписувати;;health;verschreiben;виписувати;verb (strong);фершрайбен
-untersuchen;обстежувати;;health;untersuchen;обстежувати;verb (weak);унтерзухен
+behandeln;лікувати;;health;behandeln;лікувати;verb (weak);бегандельн
+einnehmen;приймати;;health;einnehmen (zu nehmen);приймати;verb (separable);айннемен
 messen;вимірювати;;health;messen;вимірювати;verb (strong);мессен
-impfen;вакцинувати;;health;impfen;вакцинувати;verb (weak);імпфен
-weh tun;боліти;;health;weh tun (zu tun);боліти;verb (separable);ве тун
-krank;хворий;;health;krank;хворий;adj;кранк
+wiegen;зважувати;;health;wiegen;зважувати;verb (strong);віґен
+ausruhen;відпочивати;;health;ausruhen (zu ruhen);відпочивати;verb (separable);аусруен
+impfen;робити щеплення;;health;impfen;робити щеплення;verb (weak);імпфен
+wehtun;боліти;;health;wehtun (zu tun);боліти;verb (separable);ветун
 gesund;здоровий;;health;gesund;здоровий;adj;гезунд
-die Krankenkasse;лікарняна каса;die Krankenkassen;health;Kranken + Kasse;лікарняна каса;noun;кранкенкассе
-die Versicherung;страхування;die Versicherungen;health;Versicherung;страхування;noun;ферзіхерунг
-das Krankenhaus;лікарня;die Krankenhäuser;health;Kranken + Haus;лікарня;noun;кранкенхаус
-die Notaufnahme;відділення невідкладної допомоги;die Notaufnahmen;health;Not + Aufnahme;відділення невідкладної допомоги;noun;нотауфнаме
-das Wartezimmer;зала очікування;die Wartezimmer;health;Warte + Zimmer;зала очікування;noun;вартеціммер
+krank;хворий;;health;krank;хворий;adj;кранк
+schmerzhaft;болючий;;health;Schmerz + haft;болючий;adj;шмерцгафт
+müde;втомлений;;health;müde;втомлений;adj;мюде
+allergisch;алергічний;;health;allergisch;алергічний;adj;алергіш
+die Gesundheit;здоров'я;;health;Gesundheit;здоров'я;noun;ґезунтгайт
 die Ernährung;харчування;;health;Ernährung;харчування;noun;ернерунґ
+die Nahrung;їжа;;health;Nahrung;їжа;noun;нарунґ
 das Essen;їжа;;health;Essen;їжа;noun;есен
-die Gesundheit;здоров'я;;health;Gesundheit;здоров'я;noun;ґезундгайт
-die Krankheit;хвороба;die Krankheiten;health;Krankheit;хвороба;noun;кранкгайт
-die Medizin;ліки;die Medizinen;health;Medizin;ліки;noun;медіцін
-die Ärztin;лікарка;die Ärztinnen;health;Ärztin;лікарка;noun;ерцтін
-die Operation;операція;die Operationen;health;Operation;операція;noun;операціон
-der Schlaf;сон;;health;Schlaf;сон;noun;шлаф
-der Stress;стрес;;health;Stress;стрес;noun;штрес
-die Entspannung;розслаблення;;health;Entspannung;розслаблення;noun;ентшпанунґ
-die Fitness;фітнес;;health;Fitness;фітнес;noun;фітнес
-das Joggen;біг підтюпцем;;health;Joggen;біг підтюпцем;noun;джоґен
-die Diät;дієта;die Diäten;health;Diät;дієта;noun;діет
-das Gemüse;овочі;;health;Gemüse;овочі;noun;ґемюзе
-das Obst;фрукти;;health;Obst;фрукти;noun;обст
 das Wasser;вода;;health;Wasser;вода;noun;вассер
-die Zigarette;сигарета;die Zigaretten;health;Zigarette;сигарета;noun;ціґарете
-das Rauchen;куріння;;health;Rauchen;куріння;noun;раухен
-die Sucht;залежність;die Süchte;health;Sucht;залежність;noun;зухт
-die Verletzung;травма;die Verletzungen;health;Verletzung;травма;noun;ферлецунґ
-der Rückenschmerz;біль у спині;die Rückenschmerzen;health;Rücken + Schmerz;біль у спині;noun;рюкеншмерц
-die Impfung;щеплення;die Impfungen;health;Impfung;щеплення;noun;імпфунґ
+die Bewegung;рух;die Bewegungen;health;Bewegung;рух;noun;бевеґунґ
+sich bewegen;рухатися;;health;sich bewegen;рухатися;verb (weak);зіх бевеґен
+die Fitness;фітнес;;health;Fitness;фітнес;noun;фітнес
+der Muskel;м'яз;die Muskeln;health;Muskel;м'яз;noun;мускель
+der Muskelkater;крепатура;;health;Muskel + Kater;крепатура;noun;мускелькатер
+die Entspannung;розслаблення;;health;Entspannung;розслаблення;noun;ентшпанунґ
+die Entspannungsübung;вправа на розслаблення;die Entspannungsübungen;health;Entspannung + Übung;вправа на розслаблення;noun;ентшпанунґсюбунґ
+die Meditation;медитація;die Meditationen;health;Meditation;медитація;noun;медітаціон
+meditieren;медитувати;;health;meditieren;медитувати;verb (weak);медітірен
+ausgeschlafen;виспаний;;health;ausgeschlafen;виспаний;adj;аусґешлафен
+die Müdigkeit;втома;;health;Müdigkeit;втома;noun;мюдіхкайт
+die Energie;енергія;die Energien;health;Energie;енергія;noun;енерґі
+die Vitalität;життєва сила;;health;Vitalität;життєва сила;noun;віталітет
+das Immunsystem;імунна система;die Immunsysteme;health;Immun + System;імунна система;noun;іммунзюстем
+die Abwehrkraft;захисна сила;die Abwehrkräfte;health;Abwehr + Kraft;захисна сила;noun;абверкрафт
+die Krankenversicherung;медичне страхування;die Krankenversicherungen;health;Kranken + Versicherung;медичне страхування;noun;кранкенферзіхерунґ
 die Vorsorge;профілактика;;health;Vorsorge;профілактика;noun;форзорґе
-sich bewegen;рухатися;;health;bewegen;рухати;verb (weak);зіх бевеґен
-entspannen;розслаблятися;;health;entspannen;розслабляти;verb (weak);ентшпанен
-abnehmen;худнути;;health;abnehmen (zu nehmen);худнути;verb (separable);апнемен
+der Blutdruckmesser;тонометр;die Blutdruckmesser;health;Blutdruck + Messer;тонометр;noun;блутдрукмессер
+das Cholesterin;холестерин;;health;Cholesterin;холестерин;noun;холестерін
+der Zucker;цукор;;health;Zucker;цукор;noun;цукер
+das Salz;сіль;;health;Salz;сіль;noun;зальц
+das Fett;жир;;health;Fett;жир;noun;фет
+das Eiweiß;білок;;health;Eiweiß;білок;noun;айвайс
+der Ballaststoff;клітковина;die Ballaststoffe;health;Ballast + Stoff;клітковина;noun;баластштоф
+die Haferflocke;вівсяний пластівець;die Haferflocken;health;Hafer + Flocke;вівсяний пластівець;noun;гаферфлоке

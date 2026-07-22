@@ -1,0 +1,147 @@
+tall;високий;;personal_info;tall;високий;adj;тол
+short;низький;;personal_info;short;низький;adj;шорт
+slim;стрункий;;personal_info;slim;стрункий;adj;слім
+plump;повний;;personal_info;plump;повний;adj;пламп
+athletic;спортивний;;personal_info;athletic;спортивний;adj;атлетік
+muscular;мускулистий;;personal_info;muscular;мускулистий;adj;маскьюлер
+blonde;блондинка;blondes (feminine);personal_info;blonde;блондинка;noun;блонд
+brunette;брюнетка;brunettes (feminine);personal_info;brunette;брюнетка;noun;брюнет
+redhead;рудоволоса;redheads (feminine);personal_info;redhead;рудоволоса;noun;редхед
+bald;лисий;;personal_info;bald;лисий;adj;болд
+beard;борода;beards (feminine);personal_info;beard;борода;noun;бірд
+moustache;вуса;moustaches (neuter);personal_info;moustache;вуса;noun;мусташ
+freckles;веснянки;freckles (plural only);personal_info;freckle;веснянка;noun;фреклз
+wrinkles;зморшки;wrinkles (plural only);personal_info;wrinkle;зморшка;noun;рінклз
+scar;шрам;scars (masculine);personal_info;scar;шрам;noun;скар
+tattoo;татуювання;tattoos (neuter);personal_info;tattoo;татуювання;noun;тату
+pale;блідий;;personal_info;pale;блідий;adj;пейл
+tanned;засмаглий;;personal_info;tanned;засмаглий;adj;тенд
+fair;світлий;;personal_info;fair;світлий;adj;феер
+dark;темний;;personal_info;dark;темний;adj;дарк
+curly;кучерявий;;personal_info;curly;кучерявий;adj;керлі
+straight;прямий;;personal_info;straight;прямий;adj;стрейт
+wavy;хвилястий;;personal_info;wavy;хвилястий;adj;вейві
+long;довгий;;personal_info;long;довгий;adj;лонг
+short-haired;коротко стрижений;;personal_info;short-haired;коротко стрижений;adj;шорт-хеерд
+blue-eyed;синьоокий;;personal_info;blue-eyed;синьоокий;adj;блю-айд
+brown-eyed;кароокий;;personal_info;brown-eyed;кароокий;adj;браун-айд
+green-eyed;зеленоокий;;personal_info;green-eyed;зеленоокий;adj;грін-айд
+beautiful;гарний;;personal_info;beautiful;гарний;adj;бьютіфул
+ugly;потворний;;personal_info;ugly;потворний;adj;аглі
+young;молодий;;personal_info;young;молодий;adj;янг
+old;старий;;personal_info;old;старий;adj;олд
+middle-aged;середнього віку;;personal_info;middle-aged;середнього віку;adj;мідл-ейджд
+height;зріст;heights (masculine);personal_info;height;зріст;noun;хайт
+weight;вага;weights (feminine);personal_info;weight;вага;noun;вейт
+build;статура;builds (feminine);personal_info;build;статура;noun;білд
+face;обличчя;faces (neuter);personal_info;face;обличчя;noun;фейс
+eyes;очі;eyes (plural only);personal_info;eye;око;noun;айз
+nose;ніс;noses (masculine);personal_info;nose;ніс;noun;ноуз
+lips;губи;lips (plural only);personal_info;lip;губа;noun;ліпс
+ears;вуха;ears (plural only);personal_info;ear;вухо;noun;ірз
+hair;волосся;hair (uncountable);personal_info;hair;волосся;noun;хеер
+skin;шкіра;skin (uncountable);personal_info;skin;шкіра;noun;скін
+glasses;окуляри;glasses (plural only);personal_info;glasses;окуляри;noun;ґласіз
+contact lenses;контактні лінзи;contact lenses (plural only);personal_info;contact lens;контактна лінза;noun;контакт лензіз
+smile;усмішка;smiles (feminine);personal_info;smile;усмішка;noun;смайл
+dimples;ямочки;dimples (plural only);personal_info;dimple;ямочка;noun;дімплз
+figure;фігура;figures (feminine);personal_info;figure;фігура;noun;фіґюр
+posture;постава;postures (feminine);personal_info;posture;постава;noun;постчер
+kind;добрий;;personal_info;kind;добрий;adj;кайнд
+brave;хоробрий;;personal_info;brave;хоробрий;adj;брейв
+honest;чесний;;personal_info;honest;чесний;adj;онест
+shy;сором’язливий;;personal_info;shy;сором’язливий;adj;шай
+patient;терплячий;;personal_info;patient;терплячий;adj;пейшент
+lazy;лінивий;;personal_info;lazy;лінивий;adj;лейзі
+clever;розумний;;personal_info;clever;розумний;adj;клевер
+polite;ввічливий;;personal_info;polite;ввічливий;adj;полайт
+rude;грубий;;personal_info;rude;грубий;adj;руд
+generous;щедрий;;personal_info;generous;щедрий;adj;дженерес
+selfish;егоїстичний;;personal_info;selfish;егоїстичний;adj;селфіш
+confident;впевнений;;personal_info;confident;впевнений;adj;конфідент
+nervous;нервовий;;personal_info;nervous;нервовий;adj;нервес
+calm;спокійний;;personal_info;calm;спокійний;adj;кам
+cheerful;веселий;;personal_info;cheerful;веселий;adj;чірфул
+serious;серйозний;;personal_info;serious;серйозний;adj;сіріес
+friendly;дружній;;personal_info;friendly;дружній;adj;френдлі
+stubborn;впертий;;personal_info;stubborn;впертий;adj;стаберн
+curious;допитливий;;personal_info;curious;допитливий;adj;к’юріес
+creative;творчий;;personal_info;creative;творчий;adj;креейтів
+sensitive;чутливий;;personal_info;sensitive;чутливий;adj;сенсітів
+reliable;надійний;;personal_info;reliable;надійний;adj;рілайебл
+ambitious;амбітний;;personal_info;ambitious;амбітний;adj;ембішес
+modest;скромний;;personal_info;modest;скромний;adj;модест
+talkative;балакучий;;personal_info;talkative;балакучий;adj;токетів
+quiet;тихий;;personal_info;quiet;тихий;adj;кваєт
+energetic;енергійний;;personal_info;energetic;енергійний;adj;енерджетік
+optimistic;оптимістичний;;personal_info;optimistic;оптимістичний;adj;оптімістік
+pessimistic;песимістичний;;personal_info;pessimistic;песимістичний;adj;песімістік
+sociable;товариський;;personal_info;sociable;товариський;adj;соушебл
+tidy;охайний;;personal_info;tidy;охайний;adj;тайді
+untidy;неохайний;;personal_info;untidy;неохайний;adj;антайди
+hardworking;працьовитий;;personal_info;hardworking;працьовитий;adj;хардверкін
+loyal;вірний;;personal_info;loyal;вірний;adj;лойел
+jealous;ревнивий;;personal_info;jealous;ревнивий;adj;джелес
+wise;мудрий;;personal_info;wise;мудрий;adj;вайз
+foolish;дурний;;personal_info;foolish;дурний;adj;фуліш
+greedy;жадібний;;personal_info;greedy;жадібний;adj;гріді
+gentle;ніжний;;personal_info;gentle;ніжний;adj;джентл
+bold;сміливий;;personal_info;bold;сміливий;adj;болд
+grumpy;буркотливий;;personal_info;grumpy;буркотливий;adj;грампі
+forgiving;прощаючий;;personal_info;forgiving;прощаючий;adj;форґівін
+caring;турботливий;;personal_info;caring;турботливий;adj;керін
+adventurous;схильний до пригод;;personal_info;adventurous;схильний до пригод;adj;едвенчерес
+arrogant;зарозумілий;;personal_info;arrogant;зарозумілий;adj;ероґант
+humble;скромний;;personal_info;humble;скромний;adj;гамбл
+witty;дотепний;;personal_info;witty;дотепний;adj;віті
+thoughtful;задумливий;;personal_info;thoughtful;задумливий;adj;тотфул
+wake up;прокидатися;;personal_info;wake up;прокидатися (imperfective);verb;вейк ап
+get up;вставати;;personal_info;get up;вставати (imperfective);verb;гет ап
+wash face;умиватися;;personal_info;wash face;умиватися (imperfective);verb;вош фейс
+brush teeth;чистити зуби;;personal_info;brush teeth;чистити зуби (imperfective);verb;браш тіф
+have breakfast;снідати;;personal_info;have breakfast;снідати (imperfective);verb;гев брекфест
+have lunch;обідати;;personal_info;have lunch;обідати (imperfective);verb;гев ланч
+have dinner;вечеряти;;personal_info;have dinner;вечеряти (imperfective);verb;гев дінер
+drink coffee;пити каву;;personal_info;drink coffee;пити каву (imperfective);verb;дрінк кофі
+get dressed;одягатися;;personal_info;get dressed;одягатися (imperfective);verb;гет дрест
+leave home;виходити з дому;;personal_info;leave home;виходити (imperfective);verb;лів хоум
+go to work;йти на роботу;;personal_info;go to work;йти (imperfective);verb;гоу ту ворк
+go to school;йти до школи;;personal_info;go to school;йти (imperfective);verb;гоу ту скул
+work;працювати;;personal_info;work;працювати (imperfective);verb;ворк
+study;вчитися;;personal_info;study;вчитися (imperfective);verb;стаді
+return home;повертатися додому;;personal_info;return home;повертатися (imperfective);verb;рітьорн хоум
+cook;готувати;;personal_info;cook;готувати (imperfective);verb;кук
+watch TV;дивитися телевізор;;personal_info;watch TV;дивитися (imperfective);verb;вотч тіві
+listen to music;слухати музику;;personal_info;listen to music;слухати (imperfective);verb;лісен ту м'юзік
+read a book;читати книгу;;personal_info;read a book;читати (imperfective);verb;рід е бук
+take a shower;приймати душ;;personal_info;take a shower;приймати (imperfective);verb;тейк е шауер
+go to bed;лягати спати;;personal_info;go to bed;лягати (imperfective);verb;гоу ту бед
+sleep;спати;;personal_info;sleep;спати (imperfective);verb;сліп
+alarm clock;будильник;alarm clocks (masculine);personal_info;alarm clock;будильник;noun;аларм клок
+toothbrush;зубна щітка;toothbrushes (feminine);personal_info;toothbrush;зубна щітка;noun;тутбраш
+toothpaste;зубна паста;toothpaste (uncountable);personal_info;toothpaste;зубна паста;noun;тутпейст
+towel;рушник;towels (masculine);personal_info;towel;рушник;noun;тауел
+soap;мило;soap (uncountable, neuter);personal_info;soap;мило;noun;соуп
+shampoo;шампунь;shampoo (uncountable, masculine);personal_info;shampoo;шампунь;noun;шампу
+comb;гребінець;combs (masculine);personal_info;comb;гребінець;noun;коум
+breakfast;сніданок;breakfasts (masculine);personal_info;breakfast;сніданок;noun;брекфест
+lunch;обід;lunches (masculine);personal_info;lunch;обід;noun;ланч
+dinner;вечеря;dinners (feminine);personal_info;dinner;вечеря;noun;дінер
+cup;чашка;cups (feminine);personal_info;cup;чашка;noun;кап
+plate;тарілка;plates (feminine);personal_info;plate;тарілка;noun;плейт
+fork;виделка;forks (feminine);personal_info;fork;виделка;noun;форк
+spoon;ложка;spoons (feminine);personal_info;spoon;ложка;noun;спун
+knife;ніж;knives (masculine);personal_info;knife;ніж;noun;найф
+pot;каструля;pots (feminine);personal_info;pot;каструля;noun;пот
+frying pan;сковорода;frying pans (feminine);personal_info;frying pan;сковорода;noun;фрайін пан
+job;робота;jobs (feminine);personal_info;job;робота;noun;джоб
+school;школа;schools (feminine);personal_info;school;школа;noun;скул
+office;офіс;offices (masculine);personal_info;office;офіс;noun;офіс
+bus;автобус;buses (masculine);personal_info;bus;автобус;noun;бас
+car;машина;cars (feminine);personal_info;car;машина;noun;кар
+bicycle;велосипед;bicycles (masculine);personal_info;bicycle;велосипед;noun;байсікл
+morning;ранковий;;personal_info;morning;ранковий;adj;морнінг
+evening;вечірній;;personal_info;evening;вечірній;adj;івнінг
+daily;щоденний;;personal_info;daily;щоденний;adj;дейлі
+early;рано;;personal_info;early;рано;adv;ерлі
+late;пізно;;personal_info;late;пізно;adv;лейт

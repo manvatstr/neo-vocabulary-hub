@@ -1,57 +1,62 @@
 # Vocabulary Generation Prompt Templates
 
-This directory contains language-specific prompt templates for generating B1-level vocabulary lists. Each template is designed to:
-- Ensure consistent CSV output format
-- Handle language-specific grammatical features
-- Produce high-quality, culturally appropriate vocabulary
-- Prevent common errors in AI-generated content
+This directory contains language-specific prompt templates for generating B1-level vocabulary lists.
 
-## Template Structure
+## Card Display Structure
 
-All templates follow this structure:
-1. **Output Format Specification** - Strict CSV requirements
-2. **Column Rules** - Detailed instructions for each field
-3. **Language-Specific Rules** - Grammatical and orthographic requirements
-4. **Standardized Part of Speech Terms** - Consistent terminology
-5. **Quality Assurance Rules** - Validation requirements
-6. **Cultural Context Notes** - Guidance for appropriate word selection
-7. **Validation Examples** - Concrete examples of correct output
-8. **Error Prevention** - Common pitfalls to avoid
+All templates follow a unified card display structure (top to bottom):
 
-## Language-Specific Templates
+1. **Word** — the word in the language being learned (first in pair)
+2. **Feature / Pronunciation** — either a grammatical feature of the learning language, OR a transliterative transcription in the native language, OR both
+3. **Translation** — the word translated into the native language (second in pair)
+4. **Family** — lemma and its translation
 
-| Template | Key Features |
-|----------|--------------|
-| [polish_ukrainian_prompt.md](polish_ukrainian_prompt.md) | Polish diacritics, verb aspect, case declensions |
-| [spanish_ukrainian_prompt.md](spanish_ukrainian_prompt.md) | Definite articles, verb conjugation groups, irregular plurals |
-| [ukrainian_english_prompt.md](ukrainian_english_prompt.md) | Grammatical gender, verb aspect, IPA pronunciation |
-| [german_ukrainian_prompt.md](german_ukrainian_prompt.md) | Compound nouns, verb types, umlaut plurals |
+## Per-Pair Feature Line (Line 2)
 
-## Usage Guidelines
+| Pair | Line 2 Content | Column | Rationale |
+|------|---------------|--------|-----------|
+| **uk_en** | Latin transliteration + gender (`yabluko / n.`) | col 3 | English speakers need pronunciation guide for Cyrillic; Ukrainian has grammatical gender |
+| **de_uk** | German plural (`die Äpfel`) | col 3 | Plurals are the key learning challenge in German |
+| **pl_uk** | Polish plural (`jabłka`) | col 3 | Polish orthography is largely transparent for Ukrainian speakers |
+| **es_uk** | Spanish plural (`los libros`) | col 3 | Plurals with articles are key feature of Spanish |
 
-1. **Template Selection**: Use the appropriate template for each language pair
-2. **Customization**: Replace `{WORDS_PER_CHUNK}`, `{category}`, and `{subcategory}` placeholders
-3. **Validation**: Always verify output against the validation examples
-4. **Quality Control**: Run generated content through the non-AI validation algorithms
+### Transliteration (Column 8)
 
-## Integration with Generation Scripts
+| Pair | Transliteration | Script | Rationale |
+|------|----------------|--------|-----------|
+| **uk_en** | *(merged into col 3)* | Latin | Combined with gender in col 3 |
+| **de_uk** | `апфель`, `вассер` | Cyrillic | German pronunciation is non-trivial for Ukrainian speakers |
+| **pl_uk** | *(empty)* | — | Polish is phonetically close to Ukrainian |
+| **es_uk** | `лібро`, `абляр` | Cyrillic | Spanish phonetics differ significantly from Ukrainian |
 
-To use these templates in your generation scripts:
+## CSV Format
 
-```python
-# Example integration
-with open(f"prompt_templates/{lang_source}_{lang_target}_prompt.md", "r") as f:
-    prompt_template = f.read()
+All templates produce 8-column semicolon-separated CSV:
 
-prompt = prompt_template.replace("{WORDS_PER_CHUNK}", str(WORDS_PER_CHUNK))
-                       .replace("{category}", category)
-                       .replace("{subcategory}", subcategory)
+```
+col1;col2;col3;col4;col5;col6;col7;col8
 ```
 
-## Continuous Improvement
+| Column | Name | Content |
+|--------|------|---------|
+| 1 | foreign_word | Word in the learning language (with articles where applicable) |
+| 2 | native_word | Translation in the native language |
+| 3 | feature | Plural, transliteration+gender, or other grammatical feature |
+| 4 | category_tag | Category identifier |
+| 5 | lemma | Root dictionary form |
+| 6 | lemma_translation | Translation of the lemma |
+| 7 | part_of_speech | Standardized POS tag |
+| 8 | transliteration | Cyrillic pronunciation guide (or empty) |
 
-These templates should be regularly updated based on:
-- User feedback from vocabulary reviews
-- Common errors found in generated content
-- Linguistic research on B1-level vocabulary
-- Changes in language usage patterns
+## Usage
+
+```python
+with open(f"prompt_templates/{template_name}.md", "r") as f:
+    prompt_template = f.read()
+
+prompt = prompt_template.format(
+    WORDS_PER_CHUNK=WORDS_PER_CHUNK,
+    category=category,
+    subcategory=subcategory
+)
+```

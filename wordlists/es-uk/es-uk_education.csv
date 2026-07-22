@@ -1,138 +1,128 @@
-las matemáticas;математика;;education;matemática;математика;noun;
-la aritmética;арифметика;;education;aritmética;арифметика;noun;
-el álgebra;алгебра;;education;álgebra;алгебра;noun;
-la geometría;геометрія;;education;geometría;геометрія;noun;
-el cálculo;калькулюс;;education;cálculo;калькулюс;noun;
-la estadística;статистика;;education;estadística;статистика;noun;
-la física;фізика;;education;física;фізика;noun;
-la química;хімія;;education;química;хімія;noun;
-la biología;біологія;;education;biología;біологія;noun;
-las ciencias naturales;природничі науки;;education;ciencia natural;природнича наука;noun;
-las ciencias sociales;суспільні науки;;education;ciencia social;суспільна наука;noun;
-la historia;історія;;education;historia;історія;noun;
-la geografía;географія;;education;geografía;географія;noun;
-la literatura;література;;education;literatura;література;noun;
-la gramática;граматика;;education;gramática;граматика;noun;
-la ortografía;орфографія;;education;ortografía;орфографія;noun;
-la redacción;письмо;;education;redacción;письмо;noun;
-el inglés;англійська мова;;education;inglés;англійська мова;noun;
-el francés;французька мова;;education;francés;французька мова;noun;
-el alemán;німецька мова;;education;alemán;німецька мова;noun;
-el español;іспанська мова;;education;español;іспанська мова;noun;
-el arte;мистецтво;;education;arte;мистецтво;noun;
-la educación física;фізичне виховання;;education;educación física;фізичне виховання;noun;
-la informática;інформатика;;education;informática;інформатика;noun;
-la tecnología;технології;;education;tecnología;технології;noun;
-la filosofía;філософія;;education;filosofía;філософія;noun;
-la ética;етика;;education;ética;етика;noun;
-la religión;релігія;;education;religión;релігія;noun;
-la ciudadanía;громадянознавство;;education;ciudadanía;громадянознавство;noun;
-la economía;економіка;;education;economía;економіка;noun;
-la contabilidad;бухгалтерський облік;;education;contabilidad;бухгалтерський облік;noun;
-el derecho;право;;education;derecho;право;noun;
-la psicología;психологія;;education;psicología;психологія;noun;
-la sociología;соціологія;;education;sociología;соціологія;noun;
-la política;політика;;education;política;політика;noun;
-el canto;спів;los cantos;education;canto;спів;noun;
-la cultura clásica;класична культура;;education;cultura clásica;класична культура;noun;
-la asignatura;предмет;las asignaturas;education;asignatura;предмет;noun;
-la materia;предмет;las materias;education;materia;предмет;noun;
-la clase;урок;las clases;education;clase;урок;noun;
-el examen;іспит;los exámenes;education;examen;іспит;noun;
-el recreo;перерва;los recreos;education;recreo;перерва;noun;
-el estudiante;студент;los estudiantes;education;estudiante;студент;noun;
-la universidad;університет;las universidades;education;universidad;університет;noun;
-el campus;кампус;los campus;education;campus;кампус;noun;
-la facultad;факультет;las facultades;education;facultad;факультет;noun;
-el departamento;кафедра;los departamentos;education;departamento;кафедра;noun;
-el aula;аудиторія;las aulas;education;aula;аудиторія;noun;
-el laboratorio;лабораторія;los laboratorios;education;laboratorio;лабораторія;noun;
-el semestre;семестр;los semestres;education;semestre;семестр;noun;
-la beca;стипендія;las becas;education;beca;стипендія;noun;
-la matrícula;реєстрація;las matrículas;education;matrícula;реєстрація;noun;
-la tesis;дипломна робота;las tesis;education;tesis;дипломна робота;noun;
-el doctorado;докторантура;los doctorados;education;doctorado;докторантура;noun;
-el título;диплом;los títulos;education;título;диплом;noun;
-la conferencia;лекція;las conferencias;education;conferencia;лекція;noun;
-el seminario;семінар;los seminarios;education;seminario;семінар;noun;
-la tutoría;консультація;las tutorías;education;tutoría;консультація;noun;
-la práctica;практика;las prácticas;education;práctica;практика;noun;
-el trabajo en grupo;групова робота;los trabajos en grupo;education;trabajo en grupo;групова робота;noun;
-el compañero de clase;одногрупник;los compañeros de clase;education;compañero de clase;одногрупник;noun;
-la residencia universitaria;гуртожиток;las residencias universitarias;education;residencia universitaria;гуртожиток;noun;
-la investigación;дослідження;las investigaciones;education;investigación;дослідження;noun;
-el plagio;плагіат;;education;plagio;плагіат;noun;
-el borrador;чернетка;los borradores;education;borrador;чернетка;noun;
-la entrega;здача;las entregas;education;entrega;здача;noun;
-estudiar;вчитися;;education;estudiar;вчитися;verb (-ar);
-aprender;вивчати;;education;aprender;вивчати;verb (-er);
-enseñar;викладати;;education;enseñar;викладати;verb (-ar);
-investigar;досліджувати;;education;investigar;досліджувати;verb (-ar);
-aprobar;складати (іспит);;education;aprobar;складати;verb (-ar);
-suspender;провалити;;education;suspender;провалити;verb (-er);
-matricularse;зареєструватися;;education;matricularse;зареєструватися;verb (-ar);
-graduarse;закінчити (університет);;education;graduarse;закінчити;verb (-ar);
-difícil;важкий;;education;difícil;важкий;adj;
-obligatorio;обов'язковий;;education;obligatorio;обов'язковий;adj;
-optativo;факультативний;;education;optativo;факультативний;adj;
-la prueba;тест;las pruebas;education;prueba;тест;noun;
-el test;тест;los tests;education;test;тест;noun;
-la calificación;оцінка;las calificaciones;education;calificación;оцінка;noun;
-la puntuación;бал;las puntuaciones;education;puntuación;бал;noun;
-el resultado;результат;los resultados;education;resultado;результат;noun;
-el error;помилка;los errores;education;error;помилка;noun;
-el acierto;правильна відповідь;los aciertos;education;acierto;правильна відповідь;noun;
-la corrección;виправлення;las correcciones;education;corrección;виправлення;noun;
-la evaluación;оцінювання;las evaluaciones;education;evaluación;оцінювання;noun;
-el parcial;проміжний іспит;los parciales;education;parcial;проміжний іспит;noun;
-el final;фінальний іспит;los finales;education;final;фінальний іспит;noun;
-el simulacro;пробний іспит;los simulacros;education;simulacro;пробний іспит;noun;
-el certificado;сертифікат;los certificados;education;certificado;сертифікат;noun;
-el diploma;диплом;los diplomas;education;diploma;диплом;noun;
-la titulación;ступінь;las titulaciones;education;titulación;ступінь;noun;
-el promedio;середнє;los promedios;education;promedio;середнє;noun;
-el curso;курс;los cursos;education;curso;курс;noun;
-el trimestre;триместр;los trimestres;education;trimestre;триместр;noun;
-la convocatoria;сесія;las convocatorias;education;convocatoria;сесія;noun;
-la recuperación;перездача;las recuperaciones;education;recuperación;перездача;noun;
-el suspenso;незадовільно;los suspensos;education;suspenso;незадовільно;noun;
-el aprobado;задовільно;los aprobados;education;aprobado;задовільно;noun;
-el notable;добре;los notables;education;notable;добре;noun;
-el sobresaliente;відмінно;los sobresalientes;education;sobresaliente;відмінно;noun;
-el cuestionario;анкета;los cuestionarios;education;cuestionario;анкета;noun;
-la hoja;аркуш;las hojas;education;hoja;аркуш;noun;
-rendir;складати;;education;rendir;складати;verb (-ir);
-corregir;виправляти;;education;corregir;виправляти;verb (-ir);
-evaluar;оцінювати;;education;evaluar;оцінювати;verb (-ar);
-calificar;оцінювати;;education;calificar;оцінювати;verb (-ar);
-repasar;повторювати;;education;repasar;повторювати;verb (-ar);
-preparar;готувати;;education;preparar;готувати;verb (-ar);
-equivocarse;помилятися;;education;equivocarse;помилятися;verb (-ar);
-fácil;легкий;;education;fácil;легкий;adj;
-el idioma;мова;los idiomas;education;idioma;мова;noun;
-el aprendizaje;навчання;los aprendizajes;education;aprendizaje;навчання;noun;
-el vocabulario;словниковий запас;los vocabularios;education;vocabulario;словниковий запас;noun;
-la pronunciación;вимова;;education;pronunciación;вимова;noun;
-el verbo;дієслово;los verbos;education;verbo;дієслово;noun;
-el sustantivo;іменник;los sustantivos;education;sustantivo;іменник;noun;
-el adjetivo;прикметник;los adjetivos;education;adjetivo;прикметник;noun;
-el adverbio;прислівник;los adverbios;education;adverbio;прислівник;noun;
-la preposición;прийменник;las preposiciones;education;preposición;прийменник;noun;
-la conjugación;дієвідмінювання;las conjugaciones;education;conjugación;дієвідмінювання;noun;
-el diálogo;діалог;los diálogos;education;diálogo;діалог;noun;
-la lección;урок;las lecciones;education;lección;урок;noun;
-el ejercicio;вправа;los ejercicios;education;ejercicio;вправа;noun;
-el nivel;рівень;los niveles;education;nivel;рівень;noun;
-la habilidad;навичка;las habilidades;education;habilidad;навичка;noun;
-hablar;говорити;;education;hablar;говорити;verb (-ar);
-traducir;перекладати;;education;traducir;перекладати;verb (-ir);
-pronunciar;вимовляти;;education;pronunciar;вимовляти;verb (-ar);
-deletrear;вимовляти по літерах;;education;deletrear;вимовляти по літерах;verb (-ar);
-memorizar;запам'ятовувати;;education;memorizar;запам'ятовувати;verb (-ar);
-repetir;повторювати;;education;repetir;повторювати;verb (-ir);
-la palabra;слово;las palabras;education;palabra;слово;noun;
-la frase;фраза;las frases;education;frase;фраза;noun;
-la expresión;вираз;las expresiones;education;expresión;вираз;noun;
-el significado;значення;los significados;education;significado;значення;noun;
-el diccionario;словник;los diccionarios;education;diccionario;словник;noun;
-el alumno;учень;los alumnos;education;alumno;учень;noun;
+las matemáticas;математика;;education;matemática;математика;noun;математікас
+la química;хімія;;education;química;хімія;noun;кіміка
+la física;фізика;;education;física;фізика;noun;фісіка
+la biología;біологія;;education;biología;біологія;noun;біолохія
+la historia;історія;;education;historia;історія;noun;історія
+la geografía;географія;;education;geografía;географія;noun;хеографія
+el idioma;мова;los idiomas;education;idioma;мова;noun;ідіома
+la literatura;література;;education;literatura;література;noun;література
+la filosofía;філософія;;education;filosofía;філософія;noun;філософія
+la economía;економіка;;education;economía;економіка;noun;економія
+el derecho;право;;education;derecho;право;noun;деречо
+la psicología;психологія;;education;psicología;психологія;noun;сіколохія
+la sociología;соціологія;;education;sociología;соціологія;noun;сосіолохія
+la antropología;антропологія;;education;antropología;антропологія;noun;антрополохія
+la política;політика;;education;política;політика;noun;політіка
+la estadística;статистика;;education;estadística;статистика;noun;естадістіка
+el álgebra;алгебра;;education;álgebra;алгебра;noun;альхебра
+la geometría;геометрія;;education;geometría;геометрія;noun;хеометрія
+el cálculo;обчислення;los cálculos;education;cálculo;обчислення;noun;калькуло
+la trigonometría;тригонометрія;;education;trigonometría;тригонометрія;noun;трігонометрія
+la informática;інформатика;;education;informática;інформатика;noun;інформатіка
+la programación;програмування;;education;programación;програмування;noun;програмасьйон
+la robótica;робототехніка;;education;robótica;робототехніка;noun;роботіка
+la tecnología;технологія;;education;tecnología;технологія;noun;технолохія
+la educación física;фізичне виховання;;education;educación física;фізичне виховання;noun;едукасьйон фісіка
+el diseño;дизайн;los diseños;education;diseño;дизайн;noun;дісеньо
+el inglés;англійська мова;;education;inglés;англійська мова;noun;інглес
+el francés;французька мова;;education;francés;французька мова;noun;франсес
+el alemán;німецька мова;;education;alemán;німецька мова;noun;алеман
+el italiano;італійська мова;;education;italiano;італійська мова;noun;італіано
+el portugués;португальська мова;;education;portugués;португальська мова;noun;португес
+el chino;китайська мова;;education;chino;китайська мова;noun;чіно
+el japonés;японська мова;;education;japonés;японська мова;noun;хапонес
+el ruso;російська мова;;education;ruso;російська мова;noun;русо
+el latín;латинська мова;;education;latín;латинська мова;noun;латін
+el griego;грецька мова;;education;griego;грецька мова;noun;грієго
+la cultura clásica;класична культура;;education;cultura clásica;класична культура;noun;культура класіка
+la ética;етика;;education;ética;етика;noun;етіка
+la religión;релігія;;education;religión;релігія;noun;реліхіон
+la asignatura;предмет;las asignaturas;education;asignatura;предмет;noun;асігнатура
+el seminario;семінар;los seminarios;education;seminario;семінар;noun;семінаріо
+la universidad;університет;las universidades;education;universidad;університет;noun;універсідад
+la facultad;факультет;las facultades;education;facultad;факультет;noun;факультад
+la clase;заняття;las clases;education;clase;заняття;noun;класе
+la profesora;викладачка;las profesoras;education;profesora;викладачка;noun;професора
+el estudiante;студент;los estudiantes;education;estudiante;студент;noun;естудіанте
+el aula;аудиторія;las aulas;education;aula;аудиторія;noun;аула
+el laboratorio;лабораторія;los laboratorios;education;laboratorio;лабораторія;noun;лабораторіо
+el campus;кампус;los campus;education;campus;кампус;noun;кампус
+la conferencia;конференція;las conferencias;education;conferencia;конференція;noun;конференсья
+la tutoría;консультація;las tutorías;education;tutoría;консультація;noun;туторія
+la tesis;дипломна робота;las tesis;education;tesis;дипломна робота;noun;тесіс
+el doctorado;докторантура;los doctorados;education;doctorado;докторантура;noun;докторадо
+la licenciatura;бакалаврат;las licenciaturas;education;licenciatura;бакалаврат;noun;лісенсіатура
+el máster;магістратура;los másteres;education;máster;магістратура;noun;мастер
+la matrícula;реєстрація;las matrículas;education;matrícula;реєстрація;noun;матрікула
+la beca;стипендія;las becas;education;beca;стипендія;noun;бека
+el examen;іспит;los exámenes;education;examen;іспит;noun;ексамен
+el título;диплом;los títulos;education;título;диплом;noun;тітуло
+la investigación;дослідження;las investigaciones;education;investigación;дослідження;noun;інвестігасьйон
+la práctica;практика;las prácticas;education;práctica;практика;noun;практіка
+la residencia universitaria;гуртожиток;las residencias universitarias;education;residencia;гуртожиток;noun;ресіденсіа універсітарія
+la cafetería;кафетерій;las cafeterías;education;cafetería;кафетерій;noun;кафетерія
+el apunte;конспект;los apuntes;education;apunte;конспект;noun;апунте
+el carnet;студентський квиток;los carnés;education;carnet;студентський квиток;noun;карнет
+aprender;вивчати;;education;aprender;вивчати;verb (-er);апрендер
+enseñar;викладати;;education;enseñar;викладати;verb (-ar);енсеньяр
+investigar;досліджувати;;education;investigar;досліджувати;verb (-ar);інвестігар
+aprobar;складати;;education;aprobar;складати;verb (-ar);апробар
+corregir;виправляти;;education;corregir;виправляти;verb (-ir);корехір
+presentar;представляти;;education;presentar;представляти;verb (-ar);презентар
+difícil;важкий;;education;difícil;важкий;adj;діфісіл
+la prueba;тест;las pruebas;education;prueba;тест;noun;пруеба
+la calificación;оцінка;las calificaciones;education;calificación;оцінка;noun;каліфікасьйон
+suspender;завалити;;education;suspender;завалити;verb (-er);суспендер
+el aprobado;прохідний бал;los aprobados;education;aprobado;прохідний бал;noun;апробадо
+el suspenso;незадовільно;los suspensos;education;suspenso;незадовільно;noun;суспенсо
+la pregunta;питання;las preguntas;education;pregunta;питання;noun;прегунта
+la respuesta;відповідь;las respuestas;education;respuesta;відповідь;noun;респуеста
+el resultado;результат;los resultados;education;resultado;результат;noun;ресультадо
+la corrección;виправлення;las correcciones;education;corrección;виправлення;noun;коррексьйон
+la dificultad;складність;las dificultades;education;dificultad;складність;noun;діфікультад
+la facilidad;легкість;las facilidades;education;facilidad;легкість;noun;фасілідад
+el test;тест;los tests;education;test;тест;noun;тест
+la evaluación;оцінювання;las evaluaciones;education;evaluación;оцінювання;noun;евалюасьйон
+el final;фінал;los finales;education;final;фінал;noun;фінал
+el parcial;залік;los parciales;education;parcial;залік;noun;парсіаль
+la materia;предмет;las materias;education;materia;предмет;noun;матерія
+el tema;тема;los temas;education;tema;тема;noun;тема
+el alumno;учень;los alumnos;education;alumno;учень;noun;алумно
+repasar;повторювати;;education;repasar;повторювати;verb (-ar);репасар
+fácil;легкий;;education;fácil;легкий;adj;фасіл
+el sobresaliente;відмінно;los sobresalientes;education;sobresaliente;відмінно;noun;собресалієнте
+el notable;добре;los notables;education;notable;добре;noun;нотабле
+el bien;задовільно;;education;bien;задовільно;noun;б'єн
+el suficiente;задовільно;los suficientes;education;suficiente;задовільно;noun;суфісьєнте
+el insuficiente;незадовільно;los insuficientes;education;insuficiente;незадовільно;noun;інсуфісьєнте
+el certificado;сертифікат;los certificados;education;certificado;сертифікат;noun;сертіфікадо
+el diploma;диплом;los diplomas;education;diploma;диплом;noun;діплома
+el libro de texto;підручник;los libros de texto;education;libro de texto;підручник;noun;лібро де тексто
+el promedio;середнє;los promedios;education;promedio;середнє;noun;промедіо
+la rúbrica;рубрика;las rúbricas;education;rúbrica;рубрика;noun;рубріка
+el criterio;критерій;los criterios;education;criterio;критерій;noun;крітеріо
+la palabra;слово;las palabras;education;palabra;слово;noun;палабра
+la frase;фраза;las frases;education;frase;фраза;noun;фрасе
+la gramática;граматика;las gramáticas;education;gramática;граматика;noun;граматіка
+el vocabulario;словниковий запас;los vocabularios;education;vocabulario;словниковий запас;noun;вокабуларіо
+el diccionario;словник;los diccionarios;education;diccionario;словник;noun;діксіонаріо
+la pronunciación;вимова;las pronunciaciones;education;pronunciación;вимова;noun;пронунсіясьон
+la entonación;інтонація;las entonaciones;education;entonación;інтонація;noun;ентонасьон
+el acento;наголос;los acentos;education;acento;наголос;noun;асенто
+la lección;урок;las lecciones;education;lección;урок;noun;лексьон
+la pizarra;дошка;las pizarras;education;pizarra;дошка;noun;пісарра
+la compañera;однокласниця;las compañeras;education;compañera;однокласниця;noun;компаньєра
+el nivel;рівень;los niveles;education;nivel;рівень;noun;нівель
+la fluidez;вільне володіння;;education;fluidez;вільне володіння;noun;флуідес
+el texto;текст;los textos;education;texto;текст;noun;тексто
+la escritura;письмо;las escrituras;education;escritura;письмо;noun;ескрітура
+la traducción;переклад;las traducciones;education;traducción;переклад;noun;традуксьон
+el significado;значення;los significados;education;significado;значення;noun;сігніфікадо
+el verbo;дієслово;los verbos;education;verbo;дієслово;noun;вербо
+el sustantivo;іменник;los sustantivos;education;sustantivo;іменник;noun;сустантіво
+el adjetivo;прикметник;los adjetivos;education;adjetivo;прикметник;noun;адхетіво
+el adverbio;прислівник;los adverbios;education;adverbio;прислівник;noun;адвербіо
+el alfabeto;абетка;los alfabetos;education;alfabeto;абетка;noun;алфабето
+la letra;літера;las letras;education;letra;літера;noun;летра
+hablar;говорити;;education;hablar;говорити;verb (-ar);абляр
+pronunciar;вимовляти;;education;pronunciar;вимовляти;verb (-ar);пронунсіар

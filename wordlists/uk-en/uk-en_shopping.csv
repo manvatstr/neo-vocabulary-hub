@@ -1,108 +1,129 @@
-shirt;сорочка;shirts (feminine);shopping;shirt;сорочка;noun;шьорт
-blouse;блузка;blouses (feminine);shopping;blouse;блузка;noun;блауз
-t-shirt;футболка;t-shirts (feminine);shopping;t-shirt;футболка;noun;ті-шьорт
-sweater;светр;sweaters (masculine);shopping;sweater;светр;noun;светер
-jacket;куртка;jackets (feminine);shopping;jacket;куртка;noun;джекет
-coat;пальто;coats (neuter);shopping;coat;пальто;noun;коут
-dress;сукня;dresses (feminine);shopping;dress;сукня;noun;дрес
-skirt;спідниця;skirts (feminine);shopping;skirt;спідниця;noun;скьорт
-pants;штани;pants (plural);shopping;pants;штани;noun;пентс
-jeans;джинси;jeans (plural);shopping;jeans;джинси;noun;джинз
-shorts;шорти;shorts (plural);shopping;shorts;шорти;noun;шортс
-socks;шкарпетки;socks (plural, feminine);shopping;socks;шкарпетки;noun;сокс
-shoes;черевики;shoes (plural, masculine);shopping;shoes;черевики;noun;шуз
-boots;чоботи;boots (plural, masculine);shopping;boots;чоботи;noun;бутс
-sandals;сандалі;sandals (plural, feminine);shopping;sandals;сандалі;noun;сенделз
-sneakers;кросівки;sneakers (plural, feminine);shopping;sneakers;кросівки;noun;снікерз
-belt;ремінь;belts (masculine);shopping;belt;ремінь;noun;белт
-tie;краватка;ties (feminine);shopping;tie;краватка;noun;тай
-scarf;шарф;scarves (masculine);shopping;scarf;шарф;noun;скАрф
-hat;капелюх;hats (masculine);shopping;hat;капелюх;noun;хет
-cap;кепка;caps (feminine);shopping;cap;кепка;noun;кеп
-gloves;рукавички;gloves (plural, feminine);shopping;gloves;рукавички;noun;главз
-underwear;білизна;underwear (uncountable);shopping;underwear;білизна;noun;андервер
-bra;бюстгальтер;bras (masculine);shopping;bra;бюстгальтер;noun;бра
-suit;костюм;suits (masculine);shopping;suit;костюм;noun;с'ют
-size;розмір;sizes (masculine);shopping;size;розмір;noun;сайз
-small;маленький;;shopping;small;маленький;adj;смол
-medium;середній;;shopping;medium;середній;adj;мідіем
-large;великий;;shopping;large;великий;adj;лардж
-extra large;дуже великий;;shopping;extra large;дуже великий;adj;екстра лардж
-tight;тісний;;shopping;tight;тісний;adj;тайт
-loose;вільний;;shopping;loose;вільний;adj;лус
-fitting room;примірочна;fitting rooms (feminine);shopping;fitting room;примірочна;noun;фітін рум
-try on;приміряти;;shopping;try on;приміряти (imperfective);verb;трай он
-pay;платити;;shopping;pay;платити (imperfective);verb;пей
-cash;готівка;cash (uncountable);shopping;cash;готівка;noun;кеш
-credit card;кредитна картка;credit cards (feminine);shopping;credit card;кредитна картка;noun;кредит кард
-return;повернення;returns (neuter);shopping;return;повернення;noun;ретьорн
-exchange;обмін;exchanges (masculine);shopping;exchange;обмін;noun;іксчейндж
-shop assistant;продавець;shop assistants (masculine);shopping;shop assistant;продавець;noun;шоп есістент
-fashion;мода;fashions (feminine);shopping;fashion;мода;noun;фешн
-style;стиль;styles (masculine);shopping;style;стиль;noun;стайл
-wallet;гаманець;wallets (masculine);shopping;wallet;гаманець;noun;воліт
-debit card;дебетова картка;debit cards (feminine);shopping;debit card;дебетова картка;noun;дебіт кард
-bank transfer;банківський переказ;bank transfers (masculine);shopping;bank transfer;банківський переказ;noun;банк трансфер
-cheque;чек;cheques (masculine);shopping;cheque;чек;noun;чек
-digital wallet;цифровий гаманець;digital wallets (masculine);shopping;digital wallet;цифровий гаманець;noun;діджитал волет
-mobile payment;мобільний платіж;mobile payments (masculine);shopping;mobile payment;мобільний платіж;noun;мобайл пеймент
-contactless;безконтактний;;shopping;contactless;безконтактний;adj;контактлес
-PIN;пін-код;PINs (masculine);shopping;PIN;пін-код;noun;пін
-invoice;рахунок;invoices (masculine);shopping;invoice;рахунок;noun;інвойс
-bill;рахунок;bills (masculine);shopping;bill;рахунок;noun;біл
-currency;валюта;currencies (feminine);shopping;currency;валюта;noun;каренсі
-coin;монета;coins (feminine);shopping;coin;монета;noun;койн
-ATM;банкомат;ATMs (masculine);shopping;ATM;банкомат;noun;ей-ті-ем
-online banking;онлайн-банкінг;online banking (uncountable);shopping;online banking;онлайн-банкінг;noun;онлайн банкінг
-transaction;транзакція;transactions (feminine);shopping;transaction;транзакція;noun;транзакшн
-spend;витрачати;;shopping;spend;витрачати (imperfective);verb;спенд
-cost;коштувати;;shopping;cost;коштувати (imperfective);verb;кост
-afford;дозволяти собі;;shopping;afford;дозволяти собі (imperfective);verb;афорд
-save;заощаджувати;;shopping;save;заощаджувати (imperfective);verb;сейв
-withdraw;знімати;;shopping;withdraw;знімати (imperfective);verb;віздро
-refund;відшкодування;refunds (neuter);shopping;refund;відшкодування;noun;ріфанд
-loyalty card;картка лояльності;loyalty cards (feminine);shopping;loyalty card;картка лояльності;noun;лоялті кард
-gift card;подарункова картка;gift cards (feminine);shopping;gift card;подарункова картка;noun;гіфт кард
-voucher;ваучер;vouchers (masculine);shopping;voucher;ваучер;noun;ваучер
-coupon;купон;coupons (masculine);shopping;coupon;купон;noun;купон
-purse;сумочка;purses (feminine);shopping;purse;сумочка;noun;перс
-cash register;каса;cash registers (feminine);shopping;cash register;каса;noun;кеш реджістер
-checkout;каса;checkouts (feminine);shopping;checkout;каса;noun;чекаут
-self-checkout;каса самообслуговування;self-checkouts (feminine);shopping;self-checkout;каса самообслуговування;noun;селф чекаут
-method;спосіб;methods (masculine);shopping;method;спосіб;noun;метод
-option;варіант;options (masculine);shopping;option;варіант;noun;опшн
-contactless payment;безконтактний платіж;contactless payments (masculine);shopping;contactless payment;безконтактний платіж;noun;контактлес пеймент
-mobile wallet;мобільний гаманець;mobile wallets (masculine);shopping;mobile wallet;мобільний гаманець;noun;мобайл волет
-QR code;QR-код;QR codes (masculine);shopping;QR code;QR-код;noun;к'ю ар код
-воранті;гарантія;warranties (feminine);shopping;warranty;гарантія;noun;воранті
-діфект;дефект;defects (masculine);shopping;defect;дефект;noun;діфект
-демідж;пошкодження;damages (neuter);shopping;damage;пошкодження;noun;демідж
-фолт;несправність;faults (feminine);shopping;fault;несправність;noun;фолт
-ріплейсмент;заміна;replacements (feminine);shopping;replacement;заміна;noun;ріплейсмент
-полісі;політика;policies (feminine);shopping;policy;політика;noun;полісі
-ронґ сайз;неправильний розмір;wrong sizes (masculine);shopping;wrong size;неправильний розмір;noun;ронґ сайз
-ронґ калор;неправильний колір;wrong colours (masculine);shopping;wrong colour;неправильний колір;noun;ронґ калор
-місінг парт;відсутня частина;missing parts (feminine);shopping;missing part;відсутня частина;noun;місінг парт
-пакіджинг;упаковка;packaging (uncountable);shopping;packaging;упаковка;noun;пакіджинг
-бокс;коробка;boxes (feminine);shopping;box;коробка;noun;бокс
-теґ;цінник;tags (masculine);shopping;tag;цінник;noun;теґ
-лейбл;етикетка;labels (feminine);shopping;label;етикетка;noun;лейбл
-сіл;пломба;seals (feminine);shopping;seal;пломба;noun;сіл
-сігніче;підпис;signatures (masculine);shopping;signature;підпис;noun;сігніче
-форм;бланк;forms (masculine);shopping;form;бланк;noun;форм
-ріфанд форм;бланк повернення;refund forms (masculine);shopping;refund form;бланк повернення;noun;ріфанд форм
-ріплейс;замінювати;;shopping;replace;замінювати (imperfective);verb;ріплейс
-аксепт;приймати;;shopping;accept;приймати (imperfective);verb;аксепт
-ріджект;відхиляти;;shopping;reject;відхиляти (imperfective);verb;ріджект
-просес;обробляти;;shopping;process;обробляти (imperfective);verb;просес
-конфірм;підтверджувати;;shopping;confirm;підтверджувати (imperfective);verb;конфірм
-іш'ю;видавати;;shopping;issue;видавати (imperfective);verb;іш'ю
-сайн;підписувати;;shopping;sign;підписувати (imperfective);verb;сайн
-фолті;несправний;;shopping;faulty;несправний;adj;фолті
-деміджд;пошкоджений;;shopping;damaged;пошкоджений;adj;деміджд
-броукен;зламаний;;shopping;broken;зламаний;adj;броукен
-ронґ;неправильний;;shopping;wrong;неправильний;adj;ронґ
-місінг;відсутній;;shopping;missing;відсутній;adj;місінг
-ансатісфекторі;незадовільний;;shopping;unsatisfactory;незадовільний;adj;ансатісфекторі
-діфектів;дефектний;;shopping;defective;дефектний;adj;діфектів
-оупен;відкритий;;shopping;open;відкритий;adj;оупен
+pants;штани;shtany / pl.;shopping;pants;штани;noun;
+skirt;спідниця;spidnytsya / f.;shopping;skirt;спідниця;noun;
+suit;костюм;kostyum / m.;shopping;suit;костюм;noun;
+tie;краватка;kravatka / f.;shopping;tie;краватка;noun;
+sock;шкарпетка;shkarpetka / f.;shopping;sock;шкарпетка;noun;
+boot;чобіт;chobit / m.;shopping;boot;чобіт;noun;
+sandal;босоніжка;bosonizhka / f.;shopping;sandal;босоніжка;noun;
+cap;кепка;kepka / f.;shopping;cap;кепка;noun;
+glove;рукавичка;rukavychka / f.;shopping;glove;рукавичка;noun;
+size;розмір;rozmir / m.;shopping;size;розмір;noun;
+small;маленький;malen'kyi;shopping;small;маленький;adj;
+medium;середній;serednii;shopping;medium;середній;adj;
+large;великий;velykyi;shopping;large;великий;adj;
+fitting room;примірювальна;prymiryuval'na / f.;shopping;fitting room;примірювальна;noun;
+cashier;касир;kasyr / m.;shopping;cashier;касир;noun;
+receipt;чек;chek / m.;shopping;receipt;чек;noun;
+try on;приміряти;prymiryaty;shopping;try on;приміряти (imperfective);verb;
+return;повертати;povertaty;shopping;return;повертати (imperfective);verb;
+exchange;обмінювати;obminyuvaty;shopping;exchange;обмінювати (imperfective);verb;
+tight;тісний;tisnyi;shopping;tight;тісний;adj;
+loose;вільний;vil'nyi;shopping;loose;вільний;adj;
+colour;колір;kolir / m.;shopping;colour;колір;noun;
+pattern;візерунок;vizerunok / m.;shopping;pattern;візерунок;noun;
+striped;смугастий;smuhastyi;shopping;striped;смугастий;adj;
+checked;картатий;kartatyi;shopping;checked;картатий;adj;
+cotton;бавовна;bavovna / f.;shopping;cotton;бавовна;noun;
+wool;вовна;vovna / f.;shopping;wool;вовна;noun;
+leather;шкіра;shkira / f.;shopping;leather;шкіра;noun;
+polyester;поліестер;poliester / m.;shopping;polyester;поліестер;noun;
+button;ґудзик;gudzyk / m.;shopping;button;ґудзик;noun;
+pocket;кишеня;kyshenya / f.;shopping;pocket;кишеня;noun;
+sleeve;рукав;rukav / m.;shopping;sleeve;рукав;noun;
+collar;комір;komir / m.;shopping;collar;комір;noun;
+shopping cart;візок;vizok / m.;shopping;cart;візок;noun;
+basket;кошик;koshyk / m.;shopping;basket;кошик;noun;
+aisle;прохід;prokhid / m.;shopping;aisle;прохід;noun;
+product;продукт;produkt / m.;shopping;product;продукт;noun;
+checkout;каса;kasa / f.;shopping;checkout;каса;noun;
+wallet;гаманець;hamanets' / m.;shopping;wallet;гаманець;noun;
+shopping list;список покупок;spysok pokupok / m.;shopping;shopping list;список покупок;noun;
+fresh;свіжий;svizhyi;shopping;fresh;свіжий;adj;
+frozen;заморожений;zamorozhenyi;shopping;frozen;заморожений;adj;
+organic;органічний;orhanichnyi;shopping;organic;органічний;adj;
+bread;хліб;khlib / m.;shopping;bread;хліб;noun;
+milk;молоко;moloko / n.;shopping;milk;молоко;noun;
+cheese;сир;syr / m.;shopping;cheese;сир;noun;
+butter;масло;maslo / n.;shopping;butter;масло;noun;
+yogurt;йогурт;yohurt / m.;shopping;yogurt;йогурт;noun;
+egg;яйце;yaytse / n.;shopping;egg;яйце;noun;
+meat;м'ясо;myaso / n.;shopping;meat;м'ясо;noun;
+fish;риба;ryba / f.;shopping;fish;риба;noun;
+vegetable;овоч;ovoch / m.;shopping;vegetable;овоч;noun;
+fruit;фрукт;frukt / m.;shopping;fruit;фрукт;noun;
+rice;рис;rys / m.;shopping;rice;рис;noun;
+sugar;цукор;tsukor / m.;shopping;sugar;цукор;noun;
+salt;сіль;sil' / f.;shopping;salt;сіль;noun;
+oil;олія;oliya / f.;shopping;oil;олія;noun;
+flour;борошно;boroshno / n.;shopping;flour;борошно;noun;
+tea;чай;chay / m.;shopping;tea;чай;noun;
+juice;сік;sik / m.;shopping;juice;сік;noun;
+chocolate;шоколад;shokolad / m.;shopping;chocolate;шоколад;noun;
+candy;цукерка;tsukerka / f.;shopping;candy;цукерка;noun;
+toilet paper;туалетний папір;tualetnyi papir / m.;shopping;toilet paper;туалетний папір;noun;
+money;гроші;hroshi / unc.;shopping;money;гроші;noun;
+coin;монета;moneta / f.;shopping;coin;монета;noun;
+banknote;банкнота;banknota / f.;shopping;banknote;банкнота;noun;
+debit card;дебетова картка;debetova kartka / f.;shopping;debit card;дебетова картка;noun;
+bank card;банківська картка;bankivs'ka kartka / f.;shopping;bank card;банківська картка;noun;
+PIN;пін-код;pin-kod / m.;shopping;PIN;пін-код;noun;
+contactless payment;безконтактна оплата;bezkontaktna oplata / f.;shopping;contactless payment;безконтактна оплата;noun;
+chip;чіп;chip / m.;shopping;chip;чіп;noun;
+magnetic stripe;магнітна смуга;mahnitna smuha / f.;shopping;magnetic stripe;магнітна смуга;noun;
+payment terminal;платіжний термінал;platizhnyi terminal / m.;shopping;payment terminal;платіжний термінал;noun;
+withdraw;знімати;znimaty;shopping;withdraw;знімати (imperfective);verb;
+invoice;рахунок-фактура;rakhunok-faktura / m.;shopping;invoice;рахунок-фактура;noun;
+bill;рахунок;rakhunok / m.;shopping;bill;рахунок;noun;
+refund;відшкодування;vidskoduvannya / n.;shopping;refund;відшкодування;noun;
+loyalty card;картка лояльності;kartka loyal'nosti / f.;shopping;loyalty card;картка лояльності;noun;
+gift card;подарункова картка;podarunkova kartka / f.;shopping;gift card;подарункова картка;noun;
+voucher;ваучер;vaucher / m.;shopping;voucher;ваучер;noun;
+coupon;купон;kupon / m.;shopping;coupon;купон;noun;
+cashback;кешбек;keshbek / m.;shopping;cashback;кешбек;noun;
+online payment;онлайн-оплата;onlain-oplata / f.;shopping;online payment;онлайн-оплата;noun;
+mobile payment;мобільна оплата;mobilna oplata / f.;shopping;mobile payment;мобільна оплата;noun;
+bank transfer;банківський переказ;bankivs'kyi perekaz / m.;shopping;bank transfer;банківський переказ;noun;
+IBAN;IBAN;IBAN / m.;shopping;IBAN;IBAN;noun;
+account;рахунок;rakhunok / m.;shopping;account;рахунок;noun;
+savings account;ощадний рахунок;oshchadnyi rakhunok / m.;shopping;savings account;ощадний рахунок;noun;
+checking account;поточний рахунок;potochnyi rakhunok / m.;shopping;checking account;поточний рахунок;noun;
+currency;валюта;valiuta / f.;shopping;currency;валюта;noun;
+exchange rate;обмінний курс;obminnyi kurs / m.;shopping;exchange rate;обмінний курс;noun;
+cash register;каса;kasa / f.;shopping;cash register;каса;noun;
+self-checkout;каса самообслуговування;kasa samoobsluhovuvannya / f.;shopping;self-checkout;каса самообслуговування;noun;
+contactless card;безконтактна картка;bezkontaktna kartka / f.;shopping;contactless card;безконтактна картка;noun;
+expiration date;термін придатності;termin prydatnosti / m.;shopping;expiration date;термін придатності;noun;
+balance;баланс;balans / m.;shopping;balance;баланс;noun;
+overdraft;овердрафт;overdraft / m.;shopping;overdraft;овердрафт;noun;
+interest rate;відсоткова ставка;vidsotkova stavka / f.;shopping;interest rate;відсоткова ставка;noun;
+installment;розстрочка;rozstrochka / f.;shopping;installment;розстрочка;noun;
+loan;позика;pozyka / f.;shopping;loan;позика;noun;
+debt;борг;borh / m.;shopping;debt;борг;noun;
+warranty;гарантія;harantiya / f.;shopping;warranty;гарантія;noun;
+defect;дефект;defekt / m.;shopping;defect;дефект;noun;
+faulty;бракований;brakovanyi;shopping;faulty;бракований;adj;
+damaged;пошкоджений;poshkodzhenyi;shopping;damaged;пошкоджений;adj;
+wrong;неправильний;nepravylnyi;shopping;wrong;неправильний;adj;
+item;товар;tovar / m.;shopping;item;товар;noun;
+replacement;заміна;zamina / f.;shopping;replacement;заміна;noun;
+policy;політика;polityka / f.;shopping;policy;політика;noun;
+store;магазин;mahazyn / m.;shopping;store;магазин;noun;
+card;картка;kartka / f.;shopping;card;картка;noun;
+quality;якість;yakist / f.;shopping;quality;якість;noun;
+broken;зламаний;zlamanyi;shopping;broken;зламаний;adj;
+missing;відсутній;vidsutniy;shopping;missing;відсутній;adj;
+stain;пляма;plyama / f.;shopping;stain;пляма;noun;
+scratch;подряпина;podryapyna / f.;shopping;scratch;подряпина;noun;
+tear;розрив;rozryv / m.;shopping;tear;розрив;noun;
+shrink;сідати;sidaty;shopping;shrink;сідати (imperfective);verb;
+fade;вицвітати;vytsvitaty;shopping;fade;вицвітати (imperfective);verb;
+remove;видаляти;vydalyaty;shopping;remove;видаляти (imperfective);verb;
+replace;замінювати;zaminyuvaty;shopping;replace;замінювати (imperfective);verb;
+accept;приймати;pryymaty;shopping;accept;приймати (imperfective);verb;
+reject;відхиляти;vidkhylyaty;shopping;reject;відхиляти (imperfective);verb;
+provide;надавати;nadavaty;shopping;provide;надавати (imperfective);verb;
+form;бланк;blank / m.;shopping;form;бланк;noun;
+condition;стан;stan / m.;shopping;condition;стан;noun;
+packaging;упаковка;upakovka / f.;shopping;packaging;упаковка;noun;
+label;етикетка;etyketka / f.;shopping;label;етикетка;noun;
+tag;бирка;byrka / f.;shopping;tag;бирка;noun;

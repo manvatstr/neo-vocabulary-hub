@@ -1,170 +1,148 @@
-tram;трамвай;trams (masculine);travel;tram;трамвай;noun;трам
-trolleybus;тролейбус;trolleybuses (masculine);travel;trolleybus;тролейбус;noun;тролейбас
-metro;метро;metro (uncountable);travel;metro;метро;noun;метро
-station;станція;stations (feminine);travel;station;станція;noun;стейшн
-stop;зупинка;stops (feminine);travel;stop;зупинка;noun;стоп
-platform;платформа;platforms (feminine);travel;platform;платформа;noun;платформ
-timetable;розклад;timetables (masculine);travel;timetable;розклад;noun;таймтейбл
-fare;тариф;fares (masculine);travel;fare;тариф;noun;фер
-ticket;квиток;tickets (masculine);travel;ticket;квиток;noun;тікет
-pass;проїзний;passes (masculine);travel;pass;проїзний;noun;пас
-route;маршрут;routes (masculine);travel;route;маршрут;noun;рут
-line;лінія;lines (feminine);travel;line;лінія;noun;лайн
-conductor;кондуктор;conductors (masculine);travel;conductor;кондуктор;noun;кондактор
-driver;водій;drivers (masculine);travel;driver;водій;noun;драйвер
-passenger;пасажир;passengers (masculine);travel;passenger;пасажир;noun;пасенджер
-carriage;вагон;carriages (masculine);travel;carriage;вагон;noun;карідж
-seat;сидіння;seats (neuter);travel;seat;сидіння;noun;сіт
-ticket machine;автомат;ticket machines (masculine);travel;ticket machine;автомат;noun;тікет машін
-validator;валідатор;validators (masculine);travel;validator;валідатор;noun;валідейтор
-turnstile;турнікет;turnstiles (masculine);travel;turnstile;турнікет;noun;турнстайл
-entrance;вхід;entrances (masculine);travel;entrance;вхід;noun;ентренс
-exit;вихід;exits (masculine);travel;exit;вихід;noun;ексіт
-escalator;ескалатор;escalators (masculine);travel;escalator;ескалатор;noun;ескелейтор
-elevator;ліфт;elevators (masculine);travel;elevator;ліфт;noun;елевейтор
-announcement;оголошення;announcements (neuter);travel;announcement;оголошення;noun;анаунсмент
-departure;відправлення;departures (neuter);travel;departure;відправлення;noun;діпарчур
-arrival;прибуття;arrivals (neuter);travel;arrival;прибуття;noun;ерайвал
-delay;затримка;delays (feminine);travel;delay;затримка;noun;ділей
-rush hour;година пік;rush hours (feminine);travel;rush hour;година пік;noun;раш ауер
-transfer;пересадка;transfers (feminine);travel;transfer;пересадка;noun;трансфер
-one-way ticket;квиток в один бік;one-way tickets (masculine);travel;one-way ticket;квиток в один бік;noun;уан-вей тікет
-return ticket;зворотний квиток;return tickets (masculine);travel;return ticket;зворотний квиток;noun;рітерн тікет
-monthly pass;місячний проїзний;monthly passes (masculine);travel;monthly pass;місячний проїзний;noun;манслі пас
-travel card;проїзна картка;travel cards (feminine);travel;travel card;проїзна картка;noun;тревел кард
-zone;зона;zones (feminine);travel;zone;зона;noun;зоун
-wait;чекати;;travel;wait;чекати (imperfective);verb;вейт
-board;сідати;;travel;board;сідати (imperfective);verb;борд
-get off;виходити;;travel;get off;виходити (imperfective);verb;гет оф
-arrive;прибувати;;travel;arrive;прибувати (imperfective);verb;ерайв
-depart;відправлятися;;travel;depart;відправлятися (imperfective);verb;діпарт
-miss;пропускати;;travel;miss;пропускати (imperfective);verb;міс
-catch;встигати;;travel;catch;встигати (imperfective);verb;кеч
-next;наступний;;travel;next;наступний;adj;некст
-express;швидкий;;travel;express;швидкий;adj;експрес
-direct;прямий;;travel;direct;прямий;adj;дайрект
-flight;рейс;flights (masculine);travel;flight;рейс;noun;флайт
-reservation;бронювання;reservations (neuter);travel;reservation;бронювання;noun;резервейшн
-hotel;готель;hotels (masculine);travel;hotel;готель;noun;гоутел
-check-in;реєстрація;check-ins (feminine);travel;check-in;реєстрація;noun;чек-ін
-check-out;виїзд;check-outs (masculine);travel;check-out;виїзд;noun;чек-аут
-passport;паспорт;passports (masculine);travel;passport;паспорт;noun;паспорт
-visa;віза;visas (feminine);travel;visa;віза;noun;віза
-luggage;багаж;luggage (uncountable);travel;luggage;багаж;noun;лагідж
-suitcase;валіза;suitcases (feminine);travel;suitcase;валіза;noun;сьюткейс
-boarding pass;посадковий талон;boarding passes (masculine);travel;boarding pass;посадковий талон;noun;бордінг пас
-terminal;термінал;terminals (masculine);travel;terminal;термінал;noun;термінал
-gate;вихід;gates (masculine);travel;gate;вихід;noun;гейт
-aisle;прохід;aisles (masculine);travel;aisle;прохід;noun;айл
-discount;знижка;discounts (feminine);travel;discount;знижка;noun;дискаунт
-cancellation;скасування;cancellations (neuter);travel;cancellation;скасування;noun;канселейшн
-confirmation;підтвердження;confirmations (neuter);travel;confirmation;підтвердження;noun;конфірмейшн
-itinerary;маршрут;itineraries (masculine);travel;itinerary;маршрут;noun;айтінерері
-travel agency;туристичне агентство;travel agencies (neuter);travel;travel agency;туристичне агентство;noun;тревел ейджнсі
-destination;пункт призначення;destinations (masculine);travel;destination;пункт призначення;noun;дестінейшн
-airline;авіакомпанія;airlines (feminine);travel;airline;авіакомпанія;noun;ерлайн
-one-way;в один бік;;travel;one-way;в один бік;adj;ван-вей
-round-trip;туди й назад;;travel;round-trip;туди й назад;adj;раунд-трип
-direct flight;прямий рейс;direct flights (masculine);travel;direct flight;прямий рейс;noun;дайрект флайт
-layover;пересадка;layovers (feminine);travel;layover;пересадка;noun;лейовер
-baggage claim;видача багажу;baggage claims (feminine);travel;baggage claim;видача багажу;noun;бегідж клейм
-customs;митниця;customs (uncountable);travel;customs;митниця;noun;кастомз
-security check;перевірка безпеки;security checks (feminine);travel;security check;перевірка безпеки;noun;сек'юріті чек
-booking;бронювання;bookings (neuter);travel;booking;бронювання;noun;букінг
-deposit;завдаток;deposits (masculine);travel;deposit;завдаток;noun;депозит
-receipt;квитанція;receipts (feminine);travel;receipt;квитанція;noun;рісіт
-online check-in;онлайн-реєстрація;online check-ins (feminine);travel;online check-in;онлайн-реєстрація;noun;онлайн чек-ін
-boarding;посадка;boardings (feminine);travel;boarding;посадка;noun;бордінг
-gate number;номер виходу;gate numbers (masculine);travel;gate number;номер виходу;noun;гейт намбер
-travel insurance;страхування подорожей;travel insurance (uncountable);travel;travel insurance;страхування подорожей;noun;тревел іншуранс
-single room;одномісний номер;single rooms (masculine);travel;single room;одномісний номер;noun;сінгл рум
-double room;двомісний номер;double rooms (masculine);travel;double room;двомісний номер;noun;дабл рум
-suite;люкс;suites (masculine);travel;suite;люкс;noun;світ
-view;вид;views (masculine);travel;view;вид;noun;в'ю
-confirmed;підтверджений;;travel;confirmed;підтверджений;adj;конфірмд
-available;доступний;;travel;available;доступний;adj;авейлебл
-sightseeing;екскурсія;sightseeing (uncountable);travel;sightseeing;екскурсія;noun;сайтсіінґ
-monument;пам'ятник;monuments (masculine);travel;monument;пам'ятник;noun;моньюмент
-guide;гід;guides (masculine);travel;guide;гід;noun;ґайд
-map;карта;maps (feminine);travel;map;карта;noun;меп
-souvenir;сувенір;souvenirs (masculine);travel;souvenir;сувенір;noun;сувенір
-queue;черга;queues (feminine);travel;queue;черга;noun;к'ю
-landmark;пам'ятка;landmarks (feminine);travel;landmark;пам'ятка;noun;лендмарк
-cathedral;собор;cathedrals (masculine);travel;cathedral;собор;noun;катедрал
-castle;замок;castles (masculine);travel;castle;замок;noun;касл
-palace;палац;palaces (masculine);travel;palace;палац;noun;пелес
-tour;тур;tours (masculine);travel;tour;тур;noun;тур
-excursion;екскурсія;excursions (feminine);travel;excursion;екскурсія;noun;екскершн
-viewpoint;оглядова точка;viewpoints (feminine);travel;viewpoint;оглядова точка;noun;в'юпойнт
-panorama;панорама;panoramas (feminine);travel;panorama;панорама;noun;панорама
-statue;статуя;statues (feminine);travel;statue;статуя;noun;статю
-ruins;руїни;ruins (plural, feminine);travel;ruin;руїна;noun;руінз
-historic;історичний;;travel;historic;історичний;adj;гісторік
-architecture;архітектура;architecture (uncountable);travel;architecture;архітектура;noun;аркітекче
-beach;пляж;beaches (masculine);travel;beach;пляж;noun;біч
-coast;узбережжя;coasts (neuter);travel;coast;узбережжя;noun;коуст
-island;острів;islands (masculine);travel;island;острів;noun;айленд
-ferry;пором;ferries (masculine);travel;ferry;пором;noun;фері
-cruise;круїз;cruises (masculine);travel;cruise;круїз;noun;круз
-audio guide;аудіогід;audio guides (masculine);travel;audio guide;аудіогід;noun;одіо ґайд
-entrance fee;вхідна плата;entrance fees (feminine);travel;entrance fee;вхідна плата;noun;ентренс фі
-opening hours;години роботи;opening hours (plural, feminine);travel;opening hours;години роботи;noun;оупенін ауерз
-bus tour;автобусний тур;bus tours (masculine);travel;bus tour;автобусний тур;noun;бас тур
-walking tour;пішохідна екскурсія;walking tours (feminine);travel;walking tour;пішохідна екскурсія;noun;вокін тур
-rooftop;дах;rooftops (masculine);travel;rooftop;дах;noun;руфтоп
-observation deck;оглядовий майданчик;observation decks (masculine);travel;observation deck;оглядовий майданчик;noun;обзевейшн дек
-selfie;селфі;selfies (neuter);travel;selfie;селфі;noun;селфі
-postcard;листівка;postcards (feminine);travel;postcard;листівка;noun;посткард
-brochure;брошура;brochures (feminine);travel;brochure;брошура;noun;броуше
-book;бронювати;;travel;book;бронювати (imperfective);verb;бук
-reserve;резервувати;;travel;reserve;резервувати (imperfective);verb;різев
-visit;відвідувати;;travel;visit;відвідувати (imperfective);verb;візіт
-explore;досліджувати;;travel;explore;досліджувати (imperfective);verb;експлор
-валіза;suitcase;suitcases (feminine);travel;валіза;suitcase;noun;сьюткейс
-рюкзак;backpack;backpacks (masculine);travel;рюкзак;backpack;noun;бекпек
-сумка;bag;bags (feminine);travel;сумка;bag;noun;беґ
-багаж;luggage;luggage (uncountable);travel;багаж;luggage;noun;лаґідж
-пакування;packing;packing (uncountable);travel;пакування;packing;noun;пекінґ
-розпаковувати;unpack;;travel;розпаковувати;unpack (imperfective);verb;анпак
-пакувати;pack;;travel;пакувати;pack (imperfective);verb;пек
-ручна поклажа;carry-on luggage;carry-on luggage (uncountable);travel;ручна поклажа;carry-on luggage;noun;кері-он лаґідж
-паспорт;passport;passports (masculine);travel;паспорт;passport;noun;паспорт
-посадковий талон;boarding pass;boarding passes (masculine);travel;посадковий талон;boarding pass;noun;бордінґ пас
-одяг;clothing;clothing (uncountable);travel;одяг;clothing;noun;клоудінґ
-взуття;shoes;shoes (neuter);travel;взуття;shoes;noun;шуз
-туалетне приладдя;toiletries;toiletries (neuter);travel;туалетне приладдя;toiletries;noun;тойлетріз
-косметика;cosmetics;cosmetics (uncountable);travel;косметика;cosmetics;noun;козметикс
-аптечка;first aid kit;first aid kits (feminine);travel;аптечка;first aid kit;noun;фьорст ейд кіт
-документи;documents;documents;travel;документи;documents;noun;докьюментс
-гроші;money;money (uncountable);travel;гроші;money;noun;мані
-ключ;key;keys (masculine);travel;ключ;key;noun;кі
-зарядний пристрій;charger;chargers (masculine);travel;зарядний пристрій;charger;noun;чарджер
-адаптер;adapter;adapters (masculine);travel;адаптер;adapter;noun;адаптер
-навушники;headphones;headphones (plural);travel;навушники;headphones;noun;хедфоунз
-книга;book;books (feminine);travel;книга;book;noun;бук
-журнал;magazine;magazines (masculine);travel;журнал;magazine;noun;меґезін
-пляжний рушник;beach towel;beach towels (masculine);travel;пляжний рушник;beach towel;noun;біч тауел
-сонцезахисний крем;sunscreen;sunscreen (uncountable);travel;сонцезахисний крем;sunscreen;noun;санскрін
-окуляри;glasses;glasses (plural);travel;окуляри;glasses;noun;ґласез
-парасоля;umbrella;umbrellas (feminine);travel;парасоля;umbrella;noun;амбрела
-пляшка;bottle;bottles (feminine);travel;пляшка;bottle;noun;ботл
-вода;water;water (uncountable);travel;вода;water;noun;вота
-перекус;snack;snacks (masculine);travel;перекус;snack;noun;снек
-светр;sweater;sweaters (masculine);travel;светр;sweater;noun;светер
-куртка;jacket;jackets (feminine);travel;куртка;jacket;noun;джекет
-шкарпетки;socks;socks (plural);travel;шкарпетки;socks;noun;сокс
-білизна;underwear;underwear (uncountable);travel;білизна;underwear;noun;андервер
-піжама;pajamas;pajamas (plural);travel;піжама;pajamas;noun;пажамаз
-зубна щітка;toothbrush;toothbrushes (feminine);travel;зубна щітка;toothbrush;noun;тузбраш
-зубна паста;toothpaste;toothpaste (uncountable);travel;зубна паста;toothpaste;noun;тузпейст
-шампунь;shampoo;shampoo (uncountable);travel;шампунь;shampoo;noun;шемпу
-гребінець;comb;combs (masculine);travel;гребінець;comb;noun;коум
-дзеркало;mirror;mirrors (neuter);travel;дзеркало;mirror;noun;мірор
-ножиці;scissors;scissors (plural);travel;ножиці;scissors;noun;сизорз
-блокнот;notebook;notebooks (masculine);travel;блокнот;notebook;noun;ноутбук
-ручка;pen;pens (feminine);travel;ручка;pen;noun;пен
-батарея;battery;batteries (feminine);travel;батарея;battery;noun;батері
-ліхтарик;flashlight;flashlights (masculine);travel;ліхтарик;flashlight;noun;флешлайт
-сувенір;souvenir;souvenirs (masculine);travel;сувенір;souvenir;noun;сувенір
-пакувальний список;packing list;packing lists (masculine);travel;пакувальний список;packing list;noun;пекінґ ліст
-вага;scales;scales (feminine);travel;вага;scales;noun;скейлз
+bus;автобус;avtobus / m.;travel;bus;автобус;noun;
+tram;трамвай;tramvai / m.;travel;tram;трамвай;noun;
+trolleybus;тролейбус;troleibus / m.;travel;trolleybus;тролейбус;noun;
+metro;метро;metro / n.;travel;metro;метро;noun;
+station;станція;stantsiya / f.;travel;station;станція;noun;
+stop;зупинка;zupynka / f.;travel;stop;зупинка;noun;
+single ticket;разовий квиток;razovyi kvytok / m.;travel;single ticket;разовий квиток;noun;
+return ticket;зворотний квиток;zvorotnyi kvytok / m.;travel;return ticket;зворотний квиток;noun;
+pass;проїзний;proyiznyi / m.;travel;pass;проїзний;noun;
+conductor;кондуктор;konduktor / m.;travel;conductor;кондуктор;noun;
+driver;водій;vodiy / m.;travel;driver;водій;noun;
+passenger;пасажир;pasazhyr / m.;travel;passenger;пасажир;noun;
+timetable;розклад;rozklad / m.;travel;timetable;розклад;noun;
+route;маршрут;marshrut / m.;travel;route;маршрут;noun;
+fare;проїзд;proyizd / m.;travel;fare;проїзд;noun;
+ticket machine;квитковий автомат;kvytkovyi avtomat / m.;travel;ticket machine;квитковий автомат;noun;
+platform;платформа;platforma / f.;travel;platform;платформа;noun;
+waiting room;зал очікування;zal ochikuvannya / m.;travel;waiting room;зал очікування;noun;
+entrance;вхід;vkhid / m.;travel;entrance;вхід;noun;
+exit;вихід;vykhid / m.;travel;exit;вихід;noun;
+elevator;ліфт;lift / m.;travel;elevator;ліфт;noun;
+escalator;ескалатор;eskalator / m.;travel;escalator;ескалатор;noun;
+delay;затримка;zatrymka / f.;travel;delay;затримка;noun;
+rush hour;година пік;hodyna pik / f.;travel;rush hour;година пік;noun;
+get on;сідати;sidaty;travel;get on;сідати (imperfective);verb;
+get off;виходити;vykhodyty;travel;get off;виходити (imperfective);verb;
+ride;їхати;yikhaty;travel;ride;їхати (imperfective);verb;
+buy a ticket;купувати квиток;kupuvaty kvytok;travel;buy a ticket;купувати квиток (imperfective);verb;
+check;перевіряти;pereviryaty;travel;check;перевіряти (imperfective);verb;
+validate;компостувати;kompostuvaty;travel;validate;компостувати (imperfective);verb;
+arrive;прибувати;prybuvaty;travel;arrive;прибувати (imperfective);verb;
+depart;відправлятися;vidpravlyatysya;travel;depart;відправлятися (imperfective);verb;
+next;наступний;nastupnyi;travel;next;наступний;adj;
+last;останній;ostanniy;travel;last;останній;adj;
+crowded;переповнений;perepovnenyi;travel;crowded;переповнений;adj;
+empty;порожній;porozhniy;travel;empty;порожній;adj;
+often;часто;chasto;travel;often;часто;adv;
+here;тут;tut;travel;here;тут;adv;
+there;там;tam;travel;there;там;adv;
+left;ліворуч;livoruch;travel;left;ліворуч;adv;
+right;праворуч;pravoruch;travel;right;праворуч;adv;
+straight ahead;прямо;pryamo;travel;straight ahead;прямо;adv;
+flight;рейс;reis / m.;travel;flight;рейс;noun;
+hotel;готель;gotel / m.;travel;hotel;готель;noun;
+reservation;бронювання;bronyuvannya / n.;travel;reservation;бронювання;noun;
+passport;паспорт;pasport / m.;travel;passport;паспорт;noun;
+boarding pass;посадковий талон;posadkovyi talon / m.;travel;boarding pass;посадковий талон;noun;
+luggage;багаж;bagazh / unc.;travel;luggage;багаж;noun;
+suitcase;валіза;valiza / f.;travel;suitcase;валіза;noun;
+airport;аеропорт;aeroport / m.;travel;airport;аеропорт;noun;
+departure;відправлення;vidpravlennya / n.;travel;departure;відправлення;noun;
+arrival;прибуття;prybuttya / n.;travel;arrival;прибуття;noun;
+check-in;реєстрація;reyestratsiya / f.;travel;check-in;реєстрація;noun;
+boarding;посадка;posadka / f.;travel;boarding;посадка;noun;
+one-way ticket;квиток в один кінець;kvytok v odyn kinets' / m.;travel;one-way ticket;квиток в один кінець;noun;
+round-trip ticket;квиток туди й назад;kvytok tudy y nazad / m.;travel;round-trip ticket;квиток туди й назад;noun;
+price;ціна;tsina / f.;travel;price;ціна;noun;
+cancellation;скасування;skasuvannya / n.;travel;cancellation;скасування;noun;
+connection;пересадка;peresadka / f.;travel;connection;пересадка;noun;
+direct flight;прямий рейс;pryamyi reis / m.;travel;direct flight;прямий рейс;noun;
+window seat;місце біля вікна;mistse bilya vikna / n.;travel;window seat;місце біля вікна;noun;
+aisle seat;місце біля проходу;mistse bilya prokhodu / n.;travel;aisle seat;місце біля проходу;noun;
+itinerary;маршрут;marshrut / m.;travel;itinerary;маршрут;noun;
+visa;віза;viza / f.;travel;visa;віза;noun;
+terminal;термінал;terminal / m.;travel;terminal;термінал;noun;
+cancel;скасовувати;skasovuvaty;travel;cancel;скасовувати (imperfective);verb;
+check in;реєструватися;reyestruvatysya;travel;check in;реєструватися (imperfective);verb;
+check out;виселятися;vyselyatysya;travel;check out;виселятися (imperfective);verb;
+pay;платити;platyty;travel;pay;платити (imperfective);verb;
+reserve;резервувати;rezervuvaty;travel;reserve;резервувати (imperfective);verb;
+purchase;купувати;kupuvaty;travel;purchase;купувати (imperfective);verb;
+search;шукати;shukaty;travel;search;шукати (imperfective);verb;
+select;вибирати;vybyraty;travel;select;вибирати (imperfective);verb;
+international;міжнародний;mizhnarodnyi;travel;international;міжнародний;adj;
+domestic;внутрішній;vnutrishniy;travel;domestic;внутрішній;adj;
+cheap;дешевий;deshevyi;travel;cheap;дешевий;adj;
+expensive;дорогий;dorohyi;travel;expensive;дорогий;adj;
+comfortable;зручний;zruchnyi;travel;comfortable;зручний;adj;
+online;онлайн;onlain;travel;online;онлайн;adj;
+sight;визначна пам'ятка;vyznachna pamyatka / f.;travel;sight;визначна пам'ятка;noun;
+tour;екскурсія;ekskursiya / f.;travel;tour;екскурсія;noun;
+guide;гід;hid / m.;travel;guide;гід;noun;
+guidebook;путівник;putivnyk / m.;travel;guidebook;путівник;noun;
+map;карта;karta / f.;travel;map;карта;noun;
+fee;плата;plata / f.;travel;fee;плата;noun;
+view;вид;vyd / m.;travel;view;вид;noun;
+viewpoint;оглядовий майданчик;ohlyadovyi maydanchyk / m.;travel;viewpoint;оглядовий майданчик;noun;
+observation deck;оглядова площадка;ohlyadova ploshchadka / f.;travel;observation deck;оглядова площадка;noun;
+tower;вежа;vezha / f.;travel;tower;вежа;noun;
+castle;замок;zamok / m.;travel;castle;замок;noun;
+palace;палац;palats / m.;travel;palace;палац;noun;
+cathedral;собор;sobor / m.;travel;cathedral;собор;noun;
+temple;храм;khram / m.;travel;temple;храм;noun;
+ruin;руїна;ruyina / f.;travel;ruin;руїна;noun;
+old town;старе місто;stare misto / n.;travel;old town;старе місто;noun;
+historic center;історичний центр;istorychnyi tsentr / m.;travel;historic center;історичний центр;noun;
+audio guide;аудіогід;audiohid / m.;travel;audio guide;аудіогід;noun;
+souvenir;сувенір;suvenir / m.;travel;souvenir;сувенір;noun;
+photo;фото;foto / n.;travel;photo;фото;noun;
+postcard;листівка;lystivka / f.;travel;postcard;листівка;noun;
+brochure;брошура;broshura / f.;travel;brochure;брошура;noun;
+queue;черга;cherha / f.;travel;queue;черга;noun;
+cruise;круїз;kruyiz / m.;travel;cruise;круїз;noun;
+architecture;архітектура;arkhitektura / f.;travel;architecture;архітектура;noun;
+tourist;турист;turyst / m.;travel;tourist;турист;noun;
+traveler;мандрівник;mandrivnyk / m.;travel;traveler;мандрівник;noun;
+visit;відвідувати;vidviduvaty;travel;visit;відвідувати (imperfective);verb;
+admire;милуватися;myluvatysya;travel;admire;милуватися (imperfective);verb;
+explore;досліджувати;doslidzhuvaty;travel;explore;досліджувати (imperfective);verb;
+backpack;рюкзак;ryukzak / m.;travel;backpack;рюкзак;noun;
+bag;сумка;sumka / f.;travel;bag;сумка;noun;
+packing;пакування;pakuvannya / n.;travel;packing;пакування;noun;
+pack;пакувати;pakuvaty;travel;pack;пакувати (imperfective);verb;
+unpack;розпаковувати;rozpakovuvaty;travel;unpack;розпаковувати (imperfective);verb;
+roll;скручувати;skruchuvaty;travel;roll;скручувати (imperfective);verb;
+clothing;одяг;odyah / m. unc.;travel;clothing;одяг;noun;
+shirt;сорочка;sorochka / f.;travel;shirt;сорочка;noun;
+dress;сукня;suknya / f.;travel;dress;сукня;noun;
+sweater;светр;svetr / m.;travel;sweater;светр;noun;
+jacket;куртка;kurtka / f.;travel;jacket;куртка;noun;
+coat;пальто;pal'to / n.;travel;coat;пальто;noun;
+underwear;білизна;bilyzna / f. unc.;travel;underwear;білизна;noun;
+shoes;взуття;vzuttya / n. unc.;travel;shoes;взуття;noun;
+hat;капелюх;kapelyukh / m.;travel;hat;капелюх;noun;
+scarf;шарф;sharf / m.;travel;scarf;шарф;noun;
+belt;ремінь;remin' / m.;travel;belt;ремінь;noun;
+toothbrush;зубна щітка;zubna shchitka / f.;travel;toothbrush;зубна щітка;noun;
+toothpaste;зубна паста;zubna pasta / f.;travel;toothpaste;зубна паста;noun;
+comb;гребінець;hrebinets' / m.;travel;comb;гребінець;noun;
+shampoo;шампунь;shampun' / m.;travel;shampoo;шампунь;noun;
+soap;мило;mylo / n.;travel;soap;мило;noun;
+razor;бритва;brytva / f.;travel;razor;бритва;noun;
+cash;готівка;hotivka / f.;travel;cash;готівка;noun;
+credit card;кредитна картка;kredytna kartka / f.;travel;credit card;кредитна картка;noun;
+charger;зарядка;zaryadka / f.;travel;charger;зарядка;noun;
+adapter;адаптер;adapter / m.;travel;adapter;адаптер;noun;
+travel pillow;дорожня подушка;dorozhnya podushka / f.;travel;travel pillow;дорожня подушка;noun;
+sleep mask;маска для сну;maska dlya snu / f.;travel;sleep mask;маска для сну;noun;
+earplug;беруша;berusha / f.;travel;earplug;беруша;noun;
+luggage tag;багажна бирка;bahazhna byrka / f.;travel;luggage tag;багажна бирка;noun;
+packing cube;органайзер;orhanayzer / m.;travel;packing cube;органайзер;noun;
+laundry bag;мішок для білизни;mishok dlya bilyzny / m.;travel;laundry bag;мішок для білизни;noun;
+luggage weight;вага багажу;vaha bahazhu / f.;travel;luggage weight;вага багажу;noun;
+travel document;проїзний документ;proyiznyi dokument / m.;travel;travel document;проїзний документ;noun;
+hand luggage;ручна поклажа;ruchna poklazha / f.;travel;hand luggage;ручна поклажа;noun;
+suitcase handle;ручка валізи;ruchka valizy / f.;travel;suitcase handle;ручка валізи;noun;
+zipper;блискавка;blyskavka / f.;travel;zipper;блискавка;noun;
+packing list;список пакування;spysok pakuvannya / m.;travel;packing list;список пакування;noun;

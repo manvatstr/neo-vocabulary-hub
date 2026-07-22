@@ -1,132 +1,161 @@
-la conjunción;сполучник;las conjunciones;language;conjunción;сполучник;noun;
-la interjección;вигук;las interjecciones;language;interjección;вигук;noun;
-el pronombre;займенник;los pronombres;language;pronombre;займенник;noun;
-el artículo;артикль;los artículos;language;artículo;артикль;noun;
-el género;рід;los géneros;language;género;рід;noun;
-el singular;однина;los singulares;language;singular;однина;noun;
-el plural;множина;los plurales;language;plural;множина;noun;
-el caso;відмінок;los casos;language;caso;відмінок;noun;
-la declinación;відмінювання;las declinaciones;language;declinación;відмінювання;noun;
-el tiempo;час;los tiempos;language;tiempo;час;noun;
-el presente;теперішній час;los presentes;language;presente;теперішній час;noun;
-el pasado;минулий час;los pasados;language;pasado;минулий час;noun;
-el futuro;майбутній час;los futuros;language;futuro;майбутній час;noun;
-el modo;спосіб;los modos;language;modo;спосіб;noun;
-el indicativo;дійсний спосіб;los indicativos;language;indicativo;дійсний спосіб;noun;
-el subjuntivo;суб'юнктив;los subjuntivos;language;subjuntivo;суб'юнктив;noun;
-el imperativo;наказовий спосіб;los imperativos;language;imperativo;наказовий спосіб;noun;
-el infinitivo;інфінітив;los infinitivos;language;infinitivo;інфінітив;noun;
-el gerundio;герундій;los gerundios;language;gerundio;герундій;noun;
-el participio;дієприкметник;los participios;language;participio;дієприкметник;noun;
-la voz;стан;las voces;language;voz;стан;noun;
-la voz activa;активний стан;las voces activas;language;voz activa;активний стан;noun;
-la voz pasiva;пасивний стан;las voces pasivas;language;voz pasiva;пасивний стан;noun;
-el sujeto;підмет;los sujetos;language;sujeto;підмет;noun;
-el predicado;присудок;los predicados;language;predicado;присудок;noun;
-el complemento;додаток;los complementos;language;complemento;додаток;noun;
-el objeto directo;прямий додаток;los objetos directos;language;objeto directo;прямий додаток;noun;
-el objeto indirecto;непрямий додаток;los objetos indirectos;language;objeto indirecto;непрямий додаток;noun;
-la oración;речення;las oraciones;language;oración;речення;noun;
-el sintagma;словосполучення;los sintagmas;language;sintagma;словосполучення;noun;
-el nombre;іменник;los nombres;language;nombre;іменник;noun;
-el adjetivo demostrativo;вказівний прикметник;los adjetivos demostrativos;language;adjetivo demostrativo;вказівний прикметник;noun;
-el adjetivo posesivo;присвійний прикметник;los adjetivos posesivos;language;adjetivo posesivo;присвійний прикметник;noun;
-el pronombre personal;особовий займенник;los pronombres personales;language;pronombre personal;особовий займенник;noun;
-el pronombre reflexivo;зворотний займенник;los pronombres reflexivos;language;pronombre reflexivo;зворотний займенник;noun;
-la concordancia;узгодження;las concordancias;language;concordancia;узгодження;noun;
-el acento;наголос;los acentos;language;acento;наголос;noun;
-la tilde;знак наголосу;las tildes;language;tilde;знак наголосу;noun;
-la barrera lingüística;мовний бар'єр;las barreras lingüísticas;language;barrera lingüística;мовний бар'єр;noun;
-la interpretación;інтерпретація;las interpretaciones;language;interpretación;інтерпретація;noun;
-la traducción;переклад;las traducciones;language;traducción;переклад;noun;
-el ruido;шум;los ruidos;language;ruido;шум;noun;
-el silencio;тиша;los silencios;language;silencio;тиша;noun;
-la tartamudez;заїкання;;language;tartamudez;заїкання;noun;
-el gesto;жест;los gestos;language;gesto;жест;noun;
-el hablante;мовець;los hablantes;language;hablante;мовець;noun;
-el oyente;слухач;los oyentes;language;oyente;слухач;noun;
-el interlocutor;співрозмовник;los interlocutores;language;interlocutor;співрозмовник;noun;
-el debate;дебати;los debates;language;debate;дебати;noun;
-la confusión;плутанина;;language;confusión;плутанина;noun;
-la dificultad;труднощі;las dificultades;language;dificultad;труднощі;noun;
-el obstáculo;перешкода;los obstáculos;language;obstáculo;перешкода;noun;
-la interferencia;перешкода;las interferencias;language;interferencia;перешкода;noun;
-la pausa;пауза;las pausas;language;pausa;пауза;noun;
-el tono;тон;los tonos;language;tono;тон;noun;
-el volumen;гучність;los volúmenes;language;volumen;гучність;noun;
-la velocidad;швидкість;las velocidades;language;velocidad;швидкість;noun;
-la entonación;інтонація;las entonaciones;language;entonación;інтонація;noun;
-la claridad;ясність;;language;claridad;ясність;noun;
-la ambigüedad;двозначність;las ambigüedades;language;ambigüedad;двозначність;noun;
-la jerga;жаргон;las jergas;language;jerga;жаргон;noun;
-el dialecto;діалект;los dialectos;language;dialecto;діалект;noun;
-la comunicación no verbal;невербальне спілкування;las comunicaciones no verbales;language;comunicación no verbal;невербальне спілкування;noun;
-el lenguaje corporal;мова тіла;los lenguajes corporales;language;lenguaje corporal;мова тіла;noun;
-malinterpretar;неправильно тлумачити;;language;malinterpretar;неправильно тлумачити;verb (-ar);
-interrumpir;переривати;;language;interrumpir;переривати;verb (-ir);
-tartamudear;заїкатися;;language;tartamudear;заїкатися;verb (-ar);
-confundir;плутати;;language;confundir;плутати;verb (-ir);
-aclarar;пояснювати;;language;aclarar;пояснювати;verb (-ar);
-la opinión;думка;las opiniones;language;opinión;думка;noun;
-la razón;розум;las razones;language;razón;розум;noun;
-el juicio;судження;los juicios;language;juicio;судження;noun;
-la afirmación;твердження;las afirmaciones;language;afirmación;твердження;noun;
-la negación;заперечення;las negaciones;language;negación;заперечення;noun;
-el desacuerdo;незгода;los desacuerdos;language;desacuerdo;незгода;noun;
-el punto de vista;точка зору;los puntos de vista;language;punto de vista;точка зору;noun;
-la perspectiva;перспектива;las perspectivas;language;perspectiva;перспектива;noun;
-la conclusión;висновок;las conclusiones;language;conclusión;висновок;noun;
-la duda;сумнів;las dudas;language;duda;сумнів;noun;
-la certeza;впевненість;las certezas;language;certeza;впевненість;noun;
-la creencia;віра;las creencias;language;creencia;віра;noun;
-opinar;мати думку;;language;opinar;мати думку;verb (-ar);
-creer;вірити;;language;creer;вірити;verb (-er);
-pensar;думати;;language;pensar;думати;verb (-ar);
-considerar;розглядати;;language;considerar;розглядати;verb (-ar);
-suponer;припускати;;language;suponer;припускати;verb (-er);
-sugerir;радити;;language;sugerir;радити;verb (-ir);
-recomendar;рекомендувати;;language;recomendar;рекомендувати;verb (-ar);
-afirmar;стверджувати;;language;afirmar;стверджувати;verb (-ar);
-negar;заперечувати;;language;negar;заперечувати;verb (-ar);
-dudar;сумніватися;;language;dudar;сумніватися;verb (-ar);
-argumentar;аргументувати;;language;argumentar;аргументувати;verb (-ar);
-debatir;обговорювати;;language;debatir;обговорювати;verb (-ir);
-concluir;робити висновок;;language;concluir;робити висновок;verb (-ir);
-probable;ймовірний;;language;probable;ймовірний;adj;
-cierto;певний;;language;cierto;певний;adj;
-dudoso;сумнівний;;language;dudoso;сумнівний;adj;
-evidente;очевидний;;language;evidente;очевидний;adj;
-obvio;очевидний;;language;obvio;очевидний;adj;
-lógico;логічний;;language;lógico;логічний;adj;
-razonable;розумний;;language;razonable;розумний;adj;
-justo;справедливий;;language;justo;справедливий;adj;
-verdadero;правдивий;;language;verdadero;правдивий;adj;
-personalmente;особисто;;language;personalmente;особисто;adv;
-probablemente;ймовірно;;language;probablemente;ймовірно;adv;
-obviamente;очевидно;;language;obviamente;очевидно;adv;
-aunque;хоча;;language;aunque;хоча;conj;
-el modismo;ідіома;los modismos;language;modismo;ідіома;noun;
-el argot;арго;los argot;language;argot;арго;noun;
-el dicho;вислів;los dichos;language;dicho;вислів;noun;
-el lenguaje;мова;los lenguajes;language;lenguaje;мова;noun;
-el término;термін;los términos;language;término;термін;noun;
-la definición;визначення;las definiciones;language;definición;визначення;noun;
-el contexto;контекст;los contextos;language;contexto;контекст;noun;
-el habla;мовлення;las hablas;language;habla;мовлення;noun;
-el texto;текст;los textos;language;texto;текст;noun;
-el discurso;промова;los discursos;language;discurso;промова;noun;
-el refrán;приказка;los refranes;language;refrán;приказка;noun;
-la muletilla;слово-паразит;las muletillas;language;muletilla;слово-паразит;noun;
-la metáfora;метафора;las metáforas;language;metáfora;метафора;noun;
-la ironía;іронія;;language;ironía;іронія;noun;
-el sarcasmo;сарказм;;language;sarcasmo;сарказм;noun;
-la broma;жарт;las bromas;language;broma;жарт;noun;
-el eufemismo;евфемізм;los eufemismos;language;eufemismo;евфемізм;noun;
-el piropo;комплімент;los piropos;language;piropo;комплімент;noun;
-la expresión idiomática;ідіоматичний вираз;las expresiones idiomáticas;language;expresión idiomática;ідіоматичний вираз;noun;
-el lenguaje coloquial;розмовна мова;;language;lenguaje coloquial;розмовна мова;noun;
-expresar;висловлювати;;language;expresar;висловлювати;verb (-ar);
-comunicar;спілкуватися;;language;comunicar;спілкуватися;verb (-ar);
-significar;означати;;language;significar;означати;verb (-ar);
-coloquial;розмовний;;language;coloquial;розмовний;adj;
-vulgar;вульгарний;;language;vulgar;вульгарний;adj;
+el pronombre;займенник;los pronombres;language;pronombre;займенник;noun;прономбре
+la preposición;прийменник;las preposiciones;language;preposición;прийменник;noun;препозісьйон
+la conjunción;сполучник;las conjunciones;language;conjunción;сполучник;noun;конхунсьйон
+el género;рід;los géneros;language;género;рід;noun;хенеро
+la persona;особа;las personas;language;persona;особа;noun;персона
+el singular;однина;los singulares;language;singular;однина;noun;сінґуляр
+el plural;множина;los plurales;language;plural;множина;noun;плураль
+el masculino;чоловічий рід;los masculinos;language;masculino;чоловічий рід;noun;маскуліно
+el femenino;жіночий рід;los femeninos;language;femenino;жіночий рід;noun;феменіно
+el modo;спосіб;los modos;language;modo;спосіб;noun;модо
+el indicativo;дійсний спосіб;los indicativos;language;indicativo;дійсний спосіб;noun;індікатібо
+el subjuntivo;умовний спосіб;los subjuntivos;language;subjuntivo;умовний спосіб;noun;субхунтібо
+el imperativo;наказовий спосіб;los imperativos;language;imperativo;наказовий спосіб;noun;імператібо
+el condicional;умовний спосіб;los condicionales;language;condicional;умовний спосіб;noun;кондісьйональ
+el infinitivo;інфінітив;los infinitivos;language;infinitivo;інфінітив;noun;інфінітібо
+el gerundio;дієприслівник;los gerundios;language;gerundio;дієприслівник;noun;херундіо
+el participio;дієприкметник;los participios;language;participio;дієприкметник;noun;партісіпіо
+la conjugación;дієвідмінювання;las conjugaciones;language;conjugación;дієвідмінювання;noun;конхугасьйон
+la voz;стан;las voces;language;voz;стан;noun;бос
+regular;правильний;;language;regular;правильний;adj;реґуляр
+irregular;неправильний;;language;irregular;неправильний;adj;ірреґуляр
+el reflexivo;зворотний;los reflexivos;language;reflexivo;зворотний;noun;рефлексібо
+la sílaba;склад;las sílabas;language;sílaba;склад;noun;сілаба
+la tilde;тильда;las tildes;language;tilde;тильда;noun;тільде
+el diptongo;дифтонг;los diptongos;language;diptongo;дифтонг;noun;діптонго
+el hiato;зяяння;los hiatos;language;hiato;зяяння;noun;ято
+la ortografía;орфографія;las ortografías;language;ortografía;орфографія;noun;ортографіа
+la sintaxis;синтаксис;las sintaxis;language;sintaxis;синтаксис;noun;сінтаксіс
+la morfología;морфологія;las morfologías;language;morfología;морфологія;noun;морфологіа
+el lexema;лексема;los lexemas;language;lexema;лексема;noun;лексема
+el morfema;морфема;los morfemas;language;morfema;морфема;noun;морфема
+la oración;речення;las oraciones;language;oración;речення;noun;орасьйон
+el párrafo;абзац;los párrafos;language;párrafo;абзац;noun;паррафо
+la puntuación;пунктуація;las puntuaciones;language;puntuación;пунктуація;noun;пунктуасьйон
+la coma;кома;las comas;language;coma;кома;noun;кома
+el punto;крапка;los puntos;language;punto;крапка;noun;пунто
+el paréntesis;дужки;los paréntesis;language;paréntesis;дужки;noun;парентесіс
+la mayúscula;велика літера;las mayúsculas;language;mayúscula;велика літера;noun;маюскула
+la minúscula;мала літера;las minúsculas;language;minúscula;мала літера;noun;мінускула
+la confusión;плутанина;;language;confusión;плутанина;noun;конфусьйон
+la barrera;бар'єр;las barreras;language;barrera;бар'єр;noun;баррера
+el obstáculo;перешкода;los obstáculos;language;obstáculo;перешкода;noun;обстакуло
+la interferencia;перешкода;las interferencias;language;interferencia;перешкода;noun;інтерференсья
+el ruido;шум;los ruidos;language;ruido;шум;noun;руїдо
+el dialecto;діалект;los dialectos;language;dialecto;діалект;noun;діалекто
+la jerga;жаргон;las jergas;language;jerga;жаргон;noun;херга
+el tartamudeo;заїкання;los tartamudeos;language;tartamudeo;заїкання;noun;тартамудео
+la pausa;пауза;las pausas;language;pausa;пауза;noun;пауса
+la interrupción;переривання;las interrupciones;language;interrupción;переривання;noun;інтеррупсьйон
+el murmullo;бурмотіння;los murmullos;language;murmullo;бурмотіння;noun;мурмуйо
+la incomprensión;нерозуміння;;language;incomprensión;нерозуміння;noun;інкомпренсьйон
+el equívoco;помилка;los equívocos;language;equívoco;помилка;noun;еківоко
+la ambigüedad;двозначність;las ambigüedades;language;ambigüedad;двозначність;noun;амбігуедад
+el tono;тон;los tonos;language;tono;тон;noun;тоно
+el volumen;гучність;los volúmenes;language;volumen;гучність;noun;болумен
+el gesto;жест;los gestos;language;gesto;жест;noun;хесто
+la seña;знак;las señales;language;seña;знак;noun;сенья
+la gesticulación;жестикуляція;las gesticulaciones;language;gesticulación;жестикуляція;noun;хестікуласьйон
+la rapidez;швидкість;;language;rapidez;швидкість;noun;рапідес
+la claridad;ясність;;language;claridad;ясність;noun;кларідад
+el código;код;los códigos;language;código;код;noun;кодіго
+malentender;неправильно розуміти;;language;malentender;неправильно розуміти;verb (-er);малентендер
+confundir;плутати;;language;confundir;плутати;verb (-ir);конфундір
+interrumpir;переривати;;language;interrumpir;переривати;verb (-ir);інтеррумпір
+tartamudear;заїкатися;;language;tartamudear;заїкатися;verb (-ar);тартамудеар
+murmurar;бурмотіти;;language;murmurar;бурмотіти;verb (-ar);мурмурар
+criticar;критикувати;;language;criticar;критикувати;verb (-ar);крітікар
+aclarar;пояснювати;;language;aclarar;пояснювати;verb (-ar);акларар
+repetir;повторювати;;language;repetir;повторювати;verb (-ir);репетір
+gesticular;жестикулювати;;language;gesticular;жестикулювати;verb (-ar);хестікулар
+susurrar;шепотіти;;language;susurrar;шепотіти;verb (-ar);сусуррар
+ignorar;ігнорувати;;language;ignorar;ігнорувати;verb (-ar);ігнорар
+la opinión;думка;las opiniones;language;opinión;думка;noun;опінйон
+la perspectiva;перспектива;las perspectivas;language;perspectiva;перспектива;noun;перспектіва
+la idea;ідея;las ideas;language;idea;ідея;noun;ідеа
+el pensamiento;мислення;los pensamientos;language;pensamiento;мислення;noun;пенсамєнто
+el argumento;аргумент;los argumentos;language;argumento;аргумент;noun;аргументо
+la creencia;переконання;las creencias;language;creencia;переконання;noun;креенсіа
+la sugerencia;порада;las sugerencias;language;sugerencia;порада;noun;сухеренсіа
+la propuesta;пропозиція;las propuestas;language;propuesta;пропозиція;noun;пропуеста
+el comentario;коментар;los comentarios;language;comentario;коментар;noun;коментаріо
+la reflexión;роздум;las reflexiones;language;reflexión;роздум;noun;рефлексіон
+la duda;сумнів;las dudas;language;duda;сумнів;noun;дуда
+la certeza;впевненість;las certezas;language;certeza;впевненість;noun;сертеса
+el acuerdo;згода;los acuerdos;language;acuerdo;згода;noun;акуердо
+el desacuerdo;незгода;los desacuerdos;language;desacuerdo;незгода;noun;десакуердо
+la razón;причина;las razones;language;razón;причина;noun;расон
+el motivo;мотив;los motivos;language;motivo;мотив;noun;мотіво
+la lógica;логіка;las lógicas;language;lógica;логіка;noun;лохіка
+la conclusión;висновок;las conclusiones;language;conclusión;висновок;noun;конклюсьон
+el debate;обговорення;los debates;language;debate;обговорення;noun;дебате
+la postura;позиція;las posturas;language;postura;позиція;noun;постура
+la actitud;ставлення;las actitudes;language;actitud;ставлення;noun;актітуд
+opinar;висловлювати думку;;language;opinar;висловлювати думку;verb (-ar);опінар
+pensar;думати;;language;pensar;думати;verb (-ar);пенсар
+creer;вважати;;language;creer;вважати;verb (-er);креер
+considerar;вважати;;language;considerar;вважати;verb (-ar);консідерар
+estimar;оцінювати;;language;estimar;оцінювати;verb (-ar);естімар
+juzgar;судити;;language;juzgar;судити;verb (-ar);хусгар
+valorar;оцінювати;;language;valorar;оцінювати;verb (-ar);валорар
+apreciar;цінувати;;language;apreciar;цінувати;verb (-ar);апресіар
+argumentar;аргументувати;;language;argumentar;аргументувати;verb (-ar);аргументар
+debatir;дискутувати;;language;debatir;дискутувати;verb (-ir);дебатір
+dialogar;вести діалог;;language;dialogar;вести діалог;verb (-ar);діалогар
+afirmar;стверджувати;;language;afirmar;стверджувати;verb (-ar);афірмар
+negar;заперечувати;;language;negar;заперечувати;verb (-ar);негар
+sugerir;пропонувати;;language;sugerir;пропонувати;verb (-ir);сухерір
+cierto;певний;;language;cierto;певний;adj;сіерто
+falso;хибний;;language;falso;хибний;adj;фалсо
+verdadero;справжній;;language;verdadero;справжній;adj;вердадеро
+posible;можливий;;language;posible;можливий;adj;посібле
+probable;ймовірний;;language;probable;ймовірний;adj;пробабле
+dudoso;сумнівний;;language;dudoso;сумнівний;adj;дудосо
+claro;ясний;;language;claro;ясний;adj;кларо
+convincente;переконливий;;language;convincente;переконливий;adj;конвінсенте
+lógico;логічний;;language;lógico;логічний;adj;лохіко
+subjetivo;суб’єктивний;;language;subjetivo;суб’єктивний;adj;субхетіво
+el argot;жаргон;los argots;language;argot;жаргон;noun;аргот
+el modismo;ідіома;los modismos;language;modismo;ідіома;noun;модисмо
+el refrán;приказка;los refranes;language;refrán;приказка;noun;рефран
+la frase hecha;стійкий вираз;las frases hechas;language;frase hecha;стійкий вираз;noun;фрасе еча
+el dicho;прислів'я;los dichos;language;dicho;прислів'я;noun;дічо
+la expresión;вираз;las expresiones;language;expresión;вираз;noun;експресьйон
+la muletilla;слово-паразит;las muletillas;language;muletilla;слово-паразит;noun;мулетійя
+el taco;лайка;los tacos;language;taco;лайка;noun;тако
+la palabrota;лайливе слово;las palabrotas;language;palabrota;лайливе слово;noun;палабота
+la ironía;іронія;las ironías;language;ironía;іронія;noun;іроніа
+el sarcasmo;сарказм;los sarcasmos;language;sarcasmo;сарказм;noun;саркасмо
+el cotilleo;плітка;los cotilleos;language;cotilleo;плітка;noun;котійео
+el rumor;чутка;los rumores;language;rumor;чутка;noun;румор
+la habladuría;поговір;las habladurías;language;habladuría;поговір;noun;абладуріа
+el discurso;промова;los discursos;language;discurso;промова;noun;діскурсо
+el léxico;лексика;los léxicos;language;léxico;лексика;noun;лексіко
+la acepción;значення;las acepciones;language;acepción;значення;noun;асепсьйон
+la metáfora;метафора;las metáforas;language;metáfora;метафора;noun;метафора
+la comparación;порівняння;las comparaciones;language;comparación;порівняння;noun;компарасьйон
+la hipérbole;гіпербола;las hipérboles;language;hipérbole;гіпербола;noun;іперболе
+el eufemismo;евфемізм;los eufemismos;language;eufemismo;евфемізм;noun;еуфемісмо
+el disfemismo;дисфемізм;los disfemismos;language;disfemismo;дисфемізм;noun;дісфемісмо
+la onomatopeya;ономатопея;las onomatopeyas;language;onomatopeya;ономатопея;noun;ономатопея
+la sigla;абревіатура;las siglas;language;sigla;абревіатура;noun;сігла
+la abreviatura;скорочення;las abreviaturas;language;abreviatura;скорочення;noun;абревіатура
+cotillear;пліткувати;;language;cotillear;пліткувати;verb (-ar);котійеар
+bromear;жартувати;;language;bromear;жартувати;verb (-ar);бромеар
+decir;казати;;language;decir;казати;verb (-ir);десір
+comunicar;спілкуватися;;language;comunicar;спілкуватися;verb (-ar);комунікар
+expresar;виражати;;language;expresar;виражати;verb (-ar);експресар
+traducir;перекладати;;language;traducir;перекладати;verb (-ir);традусір
+interpretar;тлумачити;;language;interpretar;тлумачити;verb (-ar);інтерпретар
+coloquial;розмовний;;language;coloquial;розмовний;adj;колок'яль
+formal;формальний;;language;formal;формальний;adj;формаль
+informal;неформальний;;language;informal;неформальний;adj;інформаль
+vulgar;вульгарний;;language;vulgar;вульгарний;adj;вульгар
+figurado;переносний;;language;figurado;переносний;adj;фігурадо
+literal;буквальний;;language;literal;буквальний;adj;літераль
+irónico;іронічний;;language;irónico;іронічний;adj;іроніко
+sarcástico;саркастичний;;language;sarcástico;саркастичний;adj;саркастіко
+gracioso;кумедний;;language;gracioso;кумедний;adj;грасьйосо
+coloquialmente;розмовно;;language;coloquialmente;розмовно;adv;колок'яльменте
+literalmente;буквально;;language;literalmente;буквально;adv;літеральменте
+irónicamente;іронічно;;language;irónicamente;іронічно;adv;іронікаменте

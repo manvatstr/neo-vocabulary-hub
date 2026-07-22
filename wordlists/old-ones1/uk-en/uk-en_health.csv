@@ -1,0 +1,160 @@
+голова;head;heads (feminine);health;head;голова;noun;хед
+рот;mouth;mouths (masculine);health;mouth;рот;noun;маус
+шия;neck;necks (feminine);health;neck;шия;noun;нек
+плече;shoulder;shoulders (neuter);health;shoulder;плече;noun;шоулдер
+рука;arm;arms (feminine);health;arm;рука;noun;арм
+кисть;hand;hands (feminine);health;hand;кисть;noun;хенд
+палець;finger;fingers (masculine);health;finger;палець;noun;фінгер
+груди;chest;chests (plural, feminine);health;chest;груди;noun;чест
+спина;back;backs (feminine);health;back;спина;noun;бек
+живіт;stomach;stomachs (masculine);health;stomach;живіт;noun;стомек
+нога;leg;legs (feminine);health;leg;нога;noun;лег
+коліно;knee;knees (neuter);health;knee;коліно;noun;ні
+стопа;foot;feet (feminine);health;foot;стопа;noun;фут
+палець ноги;toe;toes (masculine);health;toe;палець ноги;noun;тоу
+мозок;brain;brains (masculine);health;brain;мозок;noun;брейн
+кістка;bone;bones (feminine);health;bone;кістка;noun;боун
+м'яз;muscle;muscles (masculine);health;muscle;м'яз;noun;маскл
+кров;blood;blood (uncountable, feminine);health;blood;кров;noun;блад
+тіло;body;bodies (neuter);health;body;тіло;noun;боді
+лоб;forehead;foreheads (masculine);health;forehead;лоб;noun;форід
+підборіддя;chin;chins (neuter);health;chin;підборіддя;noun;чин
+щелепа;jaw;jaws (feminine);health;jaw;щелепа;noun;джо
+язик;tongue;tongues (masculine);health;tongue;язик;noun;танг
+зуб;tooth;teeth (masculine);health;tooth;зуб;noun;тус
+щиколотка;ankle;ankles (feminine);health;ankle;щиколотка;noun;енкл
+зап'ястя;wrist;wrists (neuter);health;wrist;зап'ястя;noun;ріст
+лікоть;elbow;elbows (masculine);health;elbow;лікоть;noun;елбоу
+стегно;hip;hips (neuter);health;hip;стегно;noun;хіп
+талія;waist;waists (feminine);health;waist;талія;noun;вейст
+щока;cheek;cheeks (feminine);health;cheek;щока;noun;чік
+брова;eyebrow;eyebrows (feminine);health;eyebrow;брова;noun;айбрау
+вія;eyelash;eyelashes (feminine);health;eyelash;вія;noun;айлеш
+великий палець;thumb;thumbs (masculine);health;thumb;великий палець;noun;сам
+долоня;palm;palms (feminine);health;palm;долоня;noun;пам
+п'ята;heel;heels (feminine);health;heel;п'ята;noun;хіл
+підошва;sole;soles (feminine);health;sole;підошва;noun;соул
+литка;calf;calves (feminine);health;calf;литка;noun;каф
+гомілка;shin;shins (feminine);health;shin;гомілка;noun;шін
+передпліччя;forearm;forearms (neuter);health;forearm;передпліччя;noun;фореарм
+повіка;eyelid;eyelids (feminine);health;eyelid;повіка;noun;айлід
+headache;головний біль;headaches (masculine);health;headache;головний біль;noun;гедейк
+stomach ache;біль у животі;stomach aches (masculine);health;stomach ache;біль у животі;noun;стамек ейк
+fever;гарячка;fevers (feminine);health;fever;гарячка;noun;фівер
+cough;кашель;coughs (masculine);health;cough;кашель;noun;коф
+sneeze;чхання;sneezes (neuter);health;sneeze;чхання;noun;сніз
+runny nose;нежить;runny noses (masculine);health;runny nose;нежить;noun;рані ноуз
+sore throat;біль у горлі;sore throats (masculine);health;sore throat;біль у горлі;noun;сор сроут
+nausea;нудота;nausea (uncountable);health;nausea;нудота;noun;нозіа
+dizziness;запаморочення;dizziness (uncountable);health;dizziness;запаморочення;noun;дізінес
+fatigue;втома;fatigue (uncountable);health;fatigue;втома;noun;фатіг
+weakness;слабкість;weakness (uncountable);health;weakness;слабкість;noun;вікнес
+pain;біль;pains (masculine);health;pain;біль;noun;пейн
+backache;біль у спині;backaches (masculine);health;backache;біль у спині;noun;бекейк
+toothache;зубний біль;toothaches (masculine);health;toothache;зубний біль;noun;тусейк
+earache;вушний біль;earaches (masculine);health;earache;вушний біль;noun;ірек
+temperature;температура;temperatures (feminine);health;temperature;температура;noun;темпречер
+cold;застуда;colds (feminine);health;cold;застуда;noun;коулд
+flu;грип;flu (uncountable);health;flu;грип;noun;флу
+infection;інфекція;infections (feminine);health;infection;інфекція;noun;інфекшн
+virus;вірус;viruses (masculine);health;virus;вірус;noun;вайрус
+bacterium;бактерія;bacteria (feminine);health;bacterium;бактерія;noun;бектіріам
+allergy;алергія;allergies (feminine);health;allergy;алергія;noun;алерджі
+asthma;астма;asthma (uncountable);health;asthma;астма;noun;азма
+bronchitis;бронхіт;bronchitis (uncountable);health;bronchitis;бронхіт;noun;бронкайтіс
+pneumonia;пневмонія;pneumonia (uncountable);health;pneumonia;пневмонія;noun;ньюмоніа
+high blood pressure;високий кров'яний тиск;high blood pressure (uncountable);health;high blood pressure;високий кров'яний тиск;noun;гай блад прешер
+diabetes;діабет;diabetes (uncountable);health;diabetes;діабет;noun;дайабітіз
+heart attack;серцевий напад;heart attacks (masculine);health;heart attack;серцевий напад;noun;гарт атак
+stroke;інсульт;strokes (masculine);health;stroke;інсульт;noun;строук
+cancer;рак;cancers (masculine);health;cancer;рак;noun;кансер
+tumor;пухлина;tumors (feminine);health;tumor;пухлина;noun;тумор
+inflammation;запалення;inflammations (neuter);health;inflammation;запалення;noun;інфлемейшн
+wound;рана;wounds (feminine);health;wound;рана;noun;вунд
+bruise;синець;bruises (masculine);health;bruise;синець;noun;бруз
+swelling;набряк;swellings (masculine);health;swelling;набряк;noun;свелінг
+rash;висип;rashes (masculine);health;rash;висип;noun;реш
+blister;пухир;blisters (masculine);health;blister;пухир;noun;блістер
+sprain;розтягнення;sprains (neuter);health;sprain;розтягнення;noun;спрейн
+fracture;перелом;fractures (masculine);health;fracture;перелом;noun;фракчер
+cut;поріз;cuts (masculine);health;cut;поріз;noun;кат
+burn;опік;burns (masculine);health;burn;опік;noun;берн
+itch;свербіж;itches (masculine);health;itch;свербіж;noun;іч
+shiver;дрож;shivers (feminine);health;shiver;дрож;noun;шівер
+exhaustion;виснаження;exhaustion (uncountable);health;exhaustion;виснаження;noun;ігзостешн
+vomit;блювання;vomit (uncountable);health;vomit;блювання;noun;воміт
+diarrhea;діарея;diarrhea (uncountable);health;diarrhea;діарея;noun;даяріа
+constipation;запор;constipation (uncountable);health;constipation;запор;noun;констіпейшн
+insomnia;безсоння;insomnia (uncountable);health;insomnia;безсоння;noun;інсомніа
+chill;озноб;chills (masculine);health;chill;озноб;noun;чіл
+clinic;клініка;clinics (feminine);health;clinic;клініка;noun;клінік
+medication;ліки;medication (uncountable);health;medication;ліки;noun;медікейшн
+pill;пігулка;pills (feminine);health;pill;пігулка;noun;піл
+tablet;таблетка;tablets (feminine);health;tablet;таблетка;noun;теблет
+prescription;рецепт;prescriptions (masculine);health;prescription;рецепт;noun;прескріпшн
+symptom;симптом;symptoms (masculine);health;symptom;симптом;noun;сімптом
+diagnosis;діагноз;diagnoses (masculine);health;diagnosis;діагноз;noun;дайегноусіс
+treatment;лікування;treatments (neuter);health;treatment;лікування;noun;трітмент
+appointment;прийом;appointments (masculine);health;appointment;прийом;noun;епойнтмент
+waiting room;зала очікування;waiting rooms (feminine);health;waiting room;зала очікування;noun;вейтін рум
+injection;укол;injections (masculine);health;injection;укол;noun;інджекшн
+bandage;бинт;bandages (masculine);health;bandage;бинт;noun;бендідж
+plaster;пластир;plasters (masculine);health;plaster;пластир;noun;пластер
+thermometer;термометр;thermometers (masculine);health;thermometer;термометр;noun;сермомітер
+blood pressure;кров'яний тиск;blood pressure (uncountable);health;blood pressure;кров'яний тиск;noun;блад преша
+ache;біль;aches (masculine);health;ache;біль;noun;ейк
+health insurance;медичне страхування;health insurance (uncountable);health;health insurance;медичне страхування;noun;хелс іншуранс
+illness;хвороба;illnesses (feminine);health;illness;хвороба;noun;ілнес
+disease;захворювання;diseases (neuter);health;disease;захворювання;noun;дізіз
+antibiotic;антибіотик;antibiotics (masculine);health;antibiotic;антибіотик;noun;антібайотік
+ointment;мазь;ointments (feminine);health;ointment;мазь;noun;ойнтмент
+cream;крем;creams (masculine);health;cream;крем;noun;крім
+syrup;сироп;syrups (masculine);health;syrup;сироп;noun;сірап
+drops;краплі;drops (feminine);health;drops;краплі;noun;дропс
+side effect;побічна дія;side effects (feminine);health;side effect;побічна дія;noun;сайд іфект
+dosage;дозування;dosages (neuter);health;dosage;дозування;noun;доусідж
+ambulance;швидка допомога;ambulances (feminine);health;ambulance;швидка допомога;noun;ембюленс
+first aid;перша допомога;first aid (uncountable);health;first aid;перша допомога;noun;ферст ейд
+emergency;надзвичайна ситуація;emergencies (feminine);health;emergency;надзвичайна ситуація;noun;імердженсі
+surgeon;хірург;surgeons (masculine);health;surgeon;хірург;noun;серджен
+specialist;спеціаліст;specialists (masculine);health;specialist;спеціаліст;noun;спешаліст
+dentist;стоматолог;dentists (masculine);health;dentist;стоматолог;noun;дентіст
+vaccination;вакцинація;vaccinations (feminine);health;vaccination;вакцинація;noun;вексінейшн
+check-up;медичний огляд;check-ups (masculine);health;check-up;медичний огляд;noun;чек-ап
+medical test;медичний аналіз;medical tests (masculine);health;medical test;медичний аналіз;noun;медікал тест
+workout;тренування;workouts (neuter);health;workout;тренування;noun;воркаут
+jogging;біг підтюпцем;jogging (uncountable);health;jogging;біг підтюпцем;noun;джогінґ
+walking;ходьба;walking (uncountable);health;walking;ходьба;noun;вокінґ
+stretching;розтяжка;stretching (uncountable);health;stretching;розтяжка;noun;стречінґ
+yoga;йога;yoga (uncountable);health;yoga;йога;noun;йоуґа
+meditation;медитація;meditations (feminine);health;meditation;медитація;noun;медітейшн
+relaxation;релаксація;relaxation (uncountable);health;relaxation;релаксація;noun;рілаксейшн
+stress;стрес;stresses (masculine);health;stress;стрес;noun;стресс
+rest;відпочинок;rests (masculine);health;rest;відпочинок;noun;рест
+diet;дієта;diets (feminine);health;diet;дієта;noun;даєт
+nutrition;харчування;nutrition (uncountable);health;nutrition;харчування;noun;нютрішн
+calorie;калорія;calories (feminine);health;calorie;калорія;noun;келорі
+protein;білок;proteins (masculine);health;protein;білок;noun;проутін
+carbohydrate;вуглевод;carbohydrates (masculine);health;carbohydrate;вуглевод;noun;карбогайдрат
+fat;жир;fats (masculine);health;fat;жир;noun;фат
+vitamin;вітамін;vitamins (masculine);health;vitamin;вітамін;noun;вітамін
+mineral;мінерал;minerals (masculine);health;mineral;мінерал;noun;мінерал
+fiber;клітковина;fiber (uncountable);health;fiber;клітковина;noun;файбер
+hydration;гідратація;hydration (uncountable);health;hydration;гідратація;noun;гайдраташн
+meal;страва;meals (feminine);health;meal;страва;noun;міл
+snack;перекус;snacks (masculine);health;snack;перекус;noun;снек
+fruit;фрукт;fruits (masculine);health;fruit;фрукт;noun;фрут
+vegetable;овоч;vegetables (masculine);health;vegetable;овоч;noun;веджетебл
+whole grain;цільне зерно;whole grains (neuter);health;whole grain;цільне зерно;noun;хоул грейн
+dairy product;молочний продукт;dairy products (masculine);health;dairy product;молочний продукт;noun;даірі продакт
+sugar;цукор;sugar (uncountable);health;sugar;цукор;noun;шуґар
+salt;сіль;salt (uncountable);health;salt;сіль;noun;солт
+oil;олія;oils (feminine);health;oil;олія;noun;ойл
+organic;органічний;;health;organic;органічний;adj;органік
+fresh;свіжий;;health;fresh;свіжий;adj;фреш
+processed;оброблений;;health;processed;оброблений;adj;проусест
+junk food;шкідлива їжа;junk food (uncountable);health;junk food;шкідлива їжа;noun;джанк фуд
+obesity;ожиріння;obesity (uncountable);health;obesity;ожиріння;noun;обісіті
+cholesterol;холестерин;cholesterol (uncountable);health;cholesterol;холестерин;noun;колестерол
+lung;легеня;lungs (feminine);health;lung;легеня;noun;ланґ
+immune system;імунна система;immune systems (feminine);health;immune system;імунна система;noun;ім'юн сістем

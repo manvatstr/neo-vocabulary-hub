@@ -1,0 +1,117 @@
+train station;вокзал;train stations (masculine);places;train station;вокзал;noun;трейн стейшн
+airport;аеропорт;airports (masculine);places;airport;аеропорт;noun;ерпорт
+mosque;мечеть;mosques (feminine);places;mosque;мечеть;noun;моск
+synagogue;синагога;synagogues (feminine);places;synagogue;синагога;noun;сінагог
+temple;храм;temples (masculine);places;temple;храм;noun;темпл
+shopping centre;торговий центр;shopping centres (masculine);places;shopping centre;торговий центр;noun;шопінг сентер
+market;ринок;markets (masculine);places;market;ринок;noun;маркіт
+swimming pool;басейн;swimming pools (masculine);places;swimming pool;басейн;noun;свімінг пул
+fire station;пожежна частина;fire stations (feminine);places;fire station;пожежна частина;noun;фаєр стейшн
+city hall;мерія;city halls (feminine);places;city hall;мерія;noun;сіті хол
+prison;в'язниця;prisons (feminine);places;prison;в'язниця;noun;прізн
+zoo;зоопарк;zoos (masculine);places;zoo;зоопарк;noun;зу
+botanical garden;ботанічний сад;botanical gardens (masculine);places;botanical garden;ботанічний сад;noun;ботанікл гарден
+car park;парковка;car parks (feminine);places;car park;парковка;noun;кар парк
+tram stop;трамвайна зупинка;tram stops (feminine);places;tram stop;трамвайна зупинка;noun;трам стоп
+roundabout;кільце;roundabouts (neuter);places;roundabout;кільце;noun;раундабаут
+pedestrian crossing;пішохідний перехід;pedestrian crossings (masculine);places;pedestrian crossing;пішохідний перехід;noun;педестріан кросінг
+traffic lights;світлофор;traffic lights (masculine);places;traffic lights;світлофор;noun;трафік лайтс
+road;дорога;roads (feminine);places;road;дорога;noun;роуд
+embankment;набережна;embankments (feminine);places;embankment;набережна;noun;імбенкмент
+countryside;сільська місцевість;countryside (uncountable);places;countryside;сільська місцевість;noun;кантрісайд
+village;село;villages (neuter);places;village;село;noun;вілідж
+farm;ферма;farms (feminine);places;farm;ферма;noun;фарм
+meadow;лука;meadows (feminine);places;meadow;лука;noun;медоу
+mountain;гора;mountains (feminine);places;mountain;гора;noun;маунтін
+valley;долина;valleys (feminine);places;valley;долина;noun;велі
+stream;струмок;streams (masculine);places;stream;струмок;noun;стрім
+forest;ліс;forests (masculine);places;forest;ліс;noun;форіст
+wood;гай;woods (masculine);places;wood;гай;noun;вуд
+tree;дерево;trees (neuter);places;tree;дерево;noun;трі
+bush;кущ;bushes (masculine);places;bush;кущ;noun;буш
+lane;доріжка;lanes (feminine);places;lane;доріжка;noun;лейн
+trail;тропа;trails (feminine);places;trail;тропа;noun;трейл
+cottage;хата;cottages (feminine);places;cottage;хата;noun;котідж
+farmhouse;садиба;farmhouses (feminine);places;farmhouse;садиба;noun;фармхаус
+barn;сарай;barns (masculine);places;barn;сарай;noun;барн
+stable;стайня;stables (feminine);places;stable;стайня;noun;стейбл
+shed;навіс;sheds (masculine);places;shed;навіс;noun;шед
+orchard;сад;orchards (masculine);places;orchard;сад;noun;орчерд
+crop;посів;crops (masculine);places;crop;посів;noun;кроп
+wheat;пшениця;wheat (uncountable);places;wheat;пшениця;noun;віт
+barley;ячмінь;barley (uncountable);places;barley;ячмінь;noun;барлі
+hay;сіно;hay (uncountable);places;hay;сіно;noun;хей
+harvest;урожай;harvests (masculine);places;harvest;урожай;noun;гарвіст
+tractor;трактор;tractors (masculine);places;tractor;трактор;noun;тректор
+plough;плуг;ploughs (masculine);places;plough;плуг;noun;плау
+hedge;живопліт;hedges (masculine);places;hedge;живопліт;noun;хедж
+pond;ставок;ponds (masculine);places;pond;ставок;noun;понд
+lake;озеро;lakes (neuter);places;lake;озеро;noun;лейк
+waterfall;водоспад;waterfalls (masculine);places;waterfall;водоспад;noun;вотефол
+cliff;скеля;cliffs (feminine);places;cliff;скеля;noun;кліф
+cave;печера;caves (feminine);places;cave;печера;noun;кейв
+landscape;пейзаж;landscapes (masculine);places;landscape;пейзаж;noun;лендскейп
+rural;сільський;;places;rural;сільський;adj;рурал
+natural;природний;;places;natural;природний;adj;нечерал
+farming;фермерство;farming (uncountable);places;farming;фермерство;noun;фармінг
+agriculture;сільське господарство;agriculture (uncountable);places;agriculture;сільське господарство;noun;егрікалчер
+shepherd;пастух;shepherds (masculine);places;shepherd;пастух;noun;шеперд
+flock;отара;flocks (feminine);places;flock;отара;noun;флок
+scarecrow;опудало;scarecrows (neuter);places;scarecrow;опудало;noun;скеркроу
+windmill;вітряк;windmills (masculine);places;windmill;вітряк;noun;віндміл
+ocean;океан;oceans (masculine);places;ocean;океан;noun;оушен
+sea;море;seas (neuter);places;sea;море;noun;сі
+desert;пустеля;deserts (feminine);places;desert;пустеля;noun;дезерт
+peninsula;півострів;peninsulas (masculine);places;peninsula;півострів;noun;пенінсула
+plain;рівнина;plains (feminine);places;plain;рівнина;noun;плейн
+plateau;плато;plateaus (neuter);places;plateau;плато;noun;платоу
+volcano;вулкан;volcanoes (masculine);places;volcano;вулкан;noun;волкейноу
+glacier;льодовик;glaciers (masculine);places;glacier;льодовик;noun;глейшер
+jungle;джунглі;jungles (plural only);places;jungle;джунглі;noun;джангл
+swamp;болото;swamps (neuter);places;swamp;болото;noun;свомп
+gulf;затока;gulfs (feminine);places;gulf;затока;noun;галф
+bay;бухта;bays (feminine);places;bay;бухта;noun;бей
+strait;протока;straits (feminine);places;strait;протока;noun;стреіт
+canal;канал;canals (masculine);places;canal;канал;noun;кенел
+reservoir;водосховище;reservoirs (neuter);places;reservoir;водосховище;noun;резервуар
+dam;дамба;dams (feminine);places;dam;дамба;noun;дам
+city;місто;cities (neuter);places;city;місто;noun;сіті
+town;містечко;towns (neuter);places;town;містечко;noun;таун
+capital;столиця;capitals (feminine);places;capital;столиця;noun;кепітл
+country;країна;countries (feminine);places;country;країна;noun;кантрі
+continent;континент;continents (masculine);places;continent;континент;noun;контінент
+border;кордон;borders (masculine);places;border;кордон;noun;бордер
+compass;компас;compasses (masculine);places;compass;компас;noun;компас
+tunnel;тунель;tunnels (masculine);places;tunnel;тунель;noun;тунел
+highway;автомагістраль;highways (feminine);places;highway;автомагістраль;noun;хайвей
+port;порт;ports (masculine);places;port;порт;noun;порт
+harbor;гавань;harbors (feminine);places;harbor;гавань;noun;харбор
+boulevard;бульвар;boulevards (masculine);places;boulevard;бульвар;noun;булевард
+intersection;перехрестя;intersections (neuter);places;intersection;перехрестя;noun;інтерсекшн
+block;квартал;blocks (masculine);places;block;квартал;noun;блок
+underpass;підземний перехід;underpasses (masculine);places;underpass;підземний перехід;noun;андепасс
+overpass;надземний перехід;overpasses (masculine);places;overpass;надземний перехід;noun;оверпасс
+freeway;автомагістраль;freeways (feminine);places;freeway;автомагістраль;noun;фрівей
+direction;напрямок;directions (masculine);places;direction;напрямок;noun;дайрекшн
+arrow;стрілка;arrows (feminine);places;arrow;стрілка;noun;арроу
+north;північ;north (uncountable);places;north;північ;noun;норт
+south;південь;south (uncountable);places;south;південь;noun;саут
+east;схід;east (uncountable);places;east;схід;noun;іст
+west;захід;west (uncountable);places;west;захід;noun;вест
+left;ліворуч;;places;left;ліворуч;adv;лефт
+right;праворуч;;places;right;праворуч;adv;райт
+turn;повертати;;places;turn;повертати (imperfective);verb;терн
+go;іти;;places;go;іти (imperfective);verb;гоу
+take;брати;;places;take;брати (imperfective);verb;тейк
+walk;йти пішки;;places;walk;йти пішки (imperfective);verb;вок
+follow;слідувати;;places;follow;слідувати (imperfective);verb;фолоу
+next to;поруч з;;places;next to;поруч з;prep;некст ту
+opposite;навпроти;;places;opposite;навпроти;prep;опозіт
+between;між;;places;between;між;prep;бітвін
+near;біля;;places;near;біля;prep;нір
+far;далеко;;places;far;далеко;adv;фар
+around;навколо;;places;around;навколо;prep;араунд
+ahead;попереду;;places;ahead;попереду;adv;ахед
+behind;позаду;;places;behind;позаду;prep;біхайнд
+until;до;;places;until;до;prep;антил
+main;головний;;places;main;головний;adj;мейн

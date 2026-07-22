@@ -1,134 +1,149 @@
-el codo;лікоть;los codos;health;codo;лікоть;noun;
-la muñeca;зап'ястя;las muñecas;health;muñeca;зап'ястя;noun;
-el hueso;кістка;los huesos;health;hueso;кістка;noun;
-el músculo;м'яз;los músculos;health;músculo;м'яз;noun;
-el cerebro;мозок;los cerebros;health;cerebro;мозок;noun;
-el pulmón;легеня;los pulmones;health;pulmón;легеня;noun;
-el hígado;печінка;los hígados;health;hígado;печінка;noun;
-el riñón;нирка;los riñones;health;riñón;нирка;noun;
-la sangre;кров;;health;sangre;кров;noun;
-la vena;вена;las venas;health;vena;вена;noun;
-la arteria;артерія;las arterias;health;arteria;артерія;noun;
-el nervio;нерв;los nervios;health;nervio;нерв;noun;
-la garganta;горло;las gargantas;health;garganta;горло;noun;
-el ombligo;пупок;los ombligos;health;ombligo;пупок;noun;
-la axila;пахва;las axilas;health;axila;пахва;noun;
-la nuca;потилиця;las nucas;health;nuca;потилиця;noun;
-la sien;скроня;las sienes;health;sien;скроня;noun;
-la enfermedad;хвороба;las enfermedades;health;enfermedad;хвороба;noun;
-el dolor;біль;los dolores;health;dolor;біль;noun;
-la fiebre;лихоманка;las fiebres;health;fiebre;лихоманка;noun;
-la tos;кашель;las toses;health;tos;кашель;noun;
-el estornudo;чхання;los estornudos;health;estornudo;чхання;noun;
-el resfriado;застуда;los resfriados;health;resfriado;застуда;noun;
-la gripe;грип;las gripes;health;gripe;грип;noun;
-la infección;інфекція;las infecciones;health;infección;інфекція;noun;
-la herida;рана;las heridas;health;herida;рана;noun;
-la quemadura;опік;las quemaduras;health;quemadura;опік;noun;
-la fractura;перелом;las fracturas;health;fractura;перелом;noun;
-la inflamación;запалення;las inflamaciones;health;inflamación;запалення;noun;
-la alergia;алергія;las alergias;health;alergia;алергія;noun;
-la diarrea;діарея;las diarreas;health;diarrea;діарея;noun;
-el vómito;блювання;los vómitos;health;vómito;блювання;noun;
-la náusea;нудота;las náuseas;health;náusea;нудота;noun;
-el mareo;запаморочення;los mareos;health;mareo;запаморочення;noun;
-el desmayo;непритомність;los desmayos;health;desmayo;непритомність;noun;
-la tensión;тиск;las tensiones;health;tensión;тиск;noun;
-el colesterol;холестерин;;health;colesterol;холестерин;noun;
-la diabetes;діабет;;health;diabetes;діабет;noun;
-el cáncer;рак;los cánceres;health;cáncer;рак;noun;
-el sida;СНІД;;health;sida;СНІД;noun;
-la depresión;депресія;las depresiones;health;depresión;депресія;noun;
-la ansiedad;тривога;las ansiedades;health;ansiedad;тривога;noun;
-el estrés;стрес;;health;estrés;стрес;noun;
-el síntoma;симптом;los síntomas;health;síntoma;симптом;noun;
-el dolor de cabeza;головний біль;los dolores de cabeza;health;dolor de cabeza;головний біль;noun;
-la migraña;мігрень;las migrañas;health;migraña;мігрень;noun;
-el dolor de estómago;біль у животі;los dolores de estómago;health;dolor de estómago;біль у животі;noun;
-la indigestión;нетравлення;las indigestiones;health;indigestión;нетравлення;noun;
-el estreñimiento;запор;;health;estreñimiento;запор;noun;
-la acidez;печія;;health;acidez;печія;noun;
-el dolor de garganta;біль у горлі;los dolores de garganta;health;dolor de garganta;біль у горлі;noun;
-la congestión nasal;закладеність носа;;health;congestión nasal;закладеність носа;noun;
-el moqueo;нежить;los moqueos;health;moqueo;нежить;noun;
-la tos seca;сухий кашель;las toses secas;health;tos seca;сухий кашель;noun;
-el dolor muscular;м'язовий біль;los dolores musculares;health;dolor muscular;м'язовий біль;noun;
-la fatiga;втома;;health;fatiga;втома;noun;
-la debilidad;слабкість;;health;debilidad;слабкість;noun;
-la pérdida de apetito;втрата апетиту;;health;pérdida de apetito;втрата апетиту;noun;
-la erupción;висип;las erupciones;health;erupción;висип;noun;
-la picazón;свербіж;las picazones;health;picazón;свербіж;noun;
-la hinchazón;набряк;las hinchazones;health;hinchazón;набряк;noun;
-el hematoma;гематома;los hematomas;health;hematoma;гематома;noun;
-la hemorragia;кровотеча;las hemorragias;health;hemorragia;кровотеча;noun;
-la fiebre alta;висока температура;las fiebres altas;health;fiebre alta;висока температура;noun;
-el escalofrío;озноб;los escalofríos;health;escalofrío;озноб;noun;
-la sudoración;потовиділення;;health;sudoración;потовиділення;noun;
-el malestar;нездужання;los malestares;health;malestar;нездужання;noun;
-la pastilla;таблетка;las pastillas;health;pastilla;таблетка;noun;
-el medicamento;ліки;los medicamentos;health;medicamento;ліки;noun;
-la receta;рецепт;las recetas;health;receta;рецепт;noun;
-la sala de espera;зал очікування;las salas de espera;health;sala de espera;зал очікування;noun;
-la inyección;укол;las inyecciones;health;inyección;укол;noun;
-la venda;бинт;las vendas;health;venda;бинт;noun;
-el antibiótico;антибіотик;los antibióticos;health;antibiótico;антибіотик;noun;
-el jarabe;сироп;los jarabes;health;jarabe;сироп;noun;
-la temperatura;температура;las temperaturas;health;temperatura;температура;noun;
-el termómetro;термометр;los termómetros;health;termómetro;термометр;noun;
-el asma;астма;las asmas;health;asma;астма;noun;
-la ambulancia;швидка;las ambulancias;health;ambulancia;швидка;noun;
-la radiografía;рентген;las radiografías;health;radiografía;рентген;noun;
-el seguro médico;медичне страхування;los seguros médicos;health;seguro médico;медичне страхування;noun;
-la operación;операція;las operaciones;health;operación;операція;noun;
-el cirujano;хірург;los cirujanos;health;cirujano;хірург;noun;
-la consulta;консультація;las consultas;health;consulta;консультація;noun;
-el consultorio;кабінет;los consultorios;health;consultorio;кабінет;noun;
-doler;боліти;;health;doler;боліти;verb (-er);
-recetar;виписувати;;health;recetar;виписувати;verb (-ar);
-examinar;оглядати;;health;examinar;оглядати;verb (-ar);
-curar;лікувати;;health;curar;лікувати;verb (-ar);
-vacunar;вакцинувати;;health;vacunar;вакцинувати;verb (-ar);
-inyectar;вводити;;health;inyectar;вводити;verb (-ar);
-estornudar;чхати;;health;estornudar;чхати;verb (-ar);
-toser;кашляти;;health;toser;кашляти;verb (-er);
-vomitar;блювати;;health;vomitar;блювати;verb (-ar);
-sentir;відчувати;;health;sentir;відчувати;verb (-ir);
-mejorar;одужувати;;health;mejorar;одужувати;verb (-ar);
-respirar;дихати;;health;respirar;дихати;verb (-ar);
-sangrar;кровоточити;;health;sangrar;кровоточити;verb (-ar);
-enfermo;хворий;;health;enfermo;хворий;adj;
-sano;здоровий;;health;sano;здоровий;adj;
-el ejercicio físico;фізична вправа;los ejercicios físicos;health;ejercicio físico;фізична вправа;noun;
-la actividad física;фізична активність;las actividades físicas;health;actividad física;фізична активність;noun;
-el entrenamiento;тренування;los entrenamientos;health;entrenamiento;тренування;noun;
-la dieta;дієта;las dietas;health;dieta;дієта;noun;
-la alimentación;харчування;;health;alimentación;харчування;noun;
-la nutrición;нутриція;;health;nutrición;нутриція;noun;
-el nutriente;поживна речовина;los nutrientes;health;nutriente;поживна речовина;noun;
-la vitamina;вітамін;las vitaminas;health;vitamina;вітамін;noun;
-el mineral;мінерал;los minerales;health;mineral;мінерал;noun;
-la proteína;білок;las proteínas;health;proteína;білок;noun;
-el carbohidrato;вуглевод;los carbohidratos;health;carbohidrato;вуглевод;noun;
-la grasa;жир;las grasas;health;grasa;жир;noun;
-la fibra;клітковина;;health;fibra;клітковина;noun;
-el azúcar;цукор;los azúcares;health;azúcar;цукор;noun;
-la sal;сіль;;health;sal;сіль;noun;
-la hidratación;гідратація;;health;hidratación;гідратація;noun;
-el alcohol;алкоголь;;health;alcohol;алкоголь;noun;
-el tabaco;тютюн;;health;tabaco;тютюн;noun;
-el cigarrillo;сигарета;los cigarrillos;health;cigarrillo;сигарета;noun;
-el sueño;сон;;health;sueño;сон;noun;
-la relajación;розслаблення;;health;relajación;розслаблення;noun;
-el ánimo;настрій;los ánimos;health;ánimo;настрій;noun;
-la energía;енергія;;health;energía;енергія;noun;
-la rutina;рутина;las rutinas;health;rutina;рутина;noun;
-el hábito;звичка;los hábitos;health;hábito;звичка;noun;
-la costumbre;звичка;las costumbres;health;costumbre;звичка;noun;
-ejercitarse;тренуватися;;health;ejercitar;тренуватися;verb (-ar);
-entrenar;тренувати;;health;entrenar;тренувати;verb (-ar);
-estirar;розтягувати;;health;estirar;розтягувати;verb (-ar);
-meditar;медитувати;;health;meditar;медитувати;verb (-ar);
-relajarse;розслаблятися;;health;relajar;розслаблятися;verb (-ar);
-descansar;відпочивати;;health;descansar;відпочивати;verb (-ar);
-beber;пити;;health;beber;пити;verb (-er);
-comer;їсти;;health;comer;їсти;verb (-er);
+el cuerpo;тіло;los cuerpos;health;cuerpo;тіло;noun;куерпо
+la cabeza;голова;las cabezas;health;cabeza;голова;noun;кабеса
+la lengua;язик;las lenguas;health;lengua;язик;noun;ленгуа
+el hombro;плече;los hombros;health;hombro;плече;noun;омбро
+el codo;лікоть;los codos;health;codo;лікоть;noun;кодо
+la muñeca;зап'ясток;las muñecas;health;muñeca;зап'ясток;noun;муньєка
+el dedo;палець;los dedos;health;dedo;палець;noun;дедо
+el pulgar;великий палець;los pulgares;health;pulgar;великий палець;noun;пулгар
+la uña;ніготь;las uñas;health;uña;ніготь;noun;унья
+el pecho;груди;los pechos;health;pecho;груди;noun;печо
+la espalda;спина;las espaldas;health;espalda;спина;noun;еспалда
+el estómago;шлунок;los estómagos;health;estómago;шлунок;noun;естомаго
+la barriga;живіт;las barrigas;health;barriga;живіт;noun;барріга
+la rodilla;коліно;las rodillas;health;rodilla;коліно;noun;родійя
+el tobillo;щіколотка;los tobillos;health;tobillo;щіколотка;noun;тобійо
+el pie;ступня;los pies;health;pie;ступня;noun;п'є
+el talón;п'ята;los talones;health;talón;п'ята;noun;талон
+el muslo;стегно;los muslos;health;muslo;стегно;noun;мусло
+la pantorrilla;литка;las pantorrillas;health;pantorrilla;литка;noun;панторрійя
+la espinilla;гомілка;las espinillas;health;espinilla;гомілка;noun;еспінійя
+el ombligo;пупок;los ombligos;health;ombligo;пупок;noun;омбліго
+la ceja;брова;las cejas;health;ceja;брова;noun;сеха
+la pestaña;вія;las pestañas;health;pestaña;вія;noun;пестанья
+el párpado;повіка;los párpados;health;párpado;повіка;noun;парпадо
+la muela;моляр;las muelas;health;muela;моляр;noun;муела
+la encía;ясна;las encías;health;encía;ясна;noun;енсіа
+el paladar;піднебіння;los paladares;health;paladar;піднебіння;noun;паладар
+la garganta;горло;las gargantas;health;garganta;горло;noun;гарганта
+la nuca;потилиця;las nucas;health;nuca;потилиця;noun;нука
+el cráneo;череп;los cráneos;health;cráneo;череп;noun;кранео
+el cerebro;мозок;los cerebros;health;cerebro;мозок;noun;серебро
+el pulmón;легеня;los pulmones;health;pulmón;легеня;noun;пулмон
+el hígado;печінка;los hígados;health;hígado;печінка;noun;ігадо
+el riñón;нирка;los riñones;health;riñón;нирка;noun;ріньон
+la fiebre;гарячка;las fiebres;health;fiebre;гарячка;noun;ла ф'єбре
+la tos;кашель;las toses;health;tos;кашель;noun;ла тос
+el dolor;біль;los dolores;health;dolor;біль;noun;ель долор
+la náusea;нудота;las náuseas;health;náusea;нудота;noun;ла наусеа
+el vómito;блювання;los vómitos;health;vómito;блювання;noun;ель боміто
+la diarrea;діарея;las diarreas;health;diarrea;діарея;noun;ла діарреа
+el estreñimiento;запор;los estreñimientos;health;estreñimiento;запор;noun;ель естреньїм'єнто
+el mareo;запаморочення;los mareos;health;mareo;запаморочення;noun;ель марео
+el desmayo;непритомність;los desmayos;health;desmayo;непритомність;noun;ель десмайо
+la contusión;забій;las contusiones;health;contusión;забій;noun;ла контусьйон
+la indigestión;нетравлення шлунка;las indigestiones;health;indigestión;нетравлення шлунка;noun;ла індіхестйон
+la acidez;печія;las acideces;health;acidez;печія;noun;ла асідес
+el calambre;судома;los calambres;health;calambre;судома;noun;ель каламбре
+la migraña;мігрень;las migrañas;health;migraña;мігрень;noun;ла мігранья
+la erupción;висип;las erupciones;health;erupción;висип;noun;ла ерупсьйон
+el sarpullido;висипка;los sarpullidos;health;sarpullido;висипка;noun;ель сарпуйідо
+la hinchazón;набряк;las hinchazones;health;hinchazón;набряк;noun;ла інчасон
+el moretón;синець;los moretones;health;moretón;синець;noun;ель моретон
+la cicatriz;шрам;las cicatrices;health;cicatriz;шрам;noun;ла сікатріс
+la congestión;закладеність;las congestiones;health;congestión;закладеність;noun;ла конхестйон
+el estornudo;чхання;los estornudos;health;estornudo;чхання;noun;ель есторнудо
+el dolor de cabeza;головний біль;los dolores de cabeza;health;dolor de cabeza;головний біль;noun;ель долор де кабеса
+el dolor de garganta;біль у горлі;los dolores de garganta;health;dolor de garganta;біль у горлі;noun;ель долор де гарганта
+el dolor de estómago;біль у шлунку;los dolores de estómago;health;dolor de estómago;біль у шлунку;noun;ель долор де естомаго
+el dolor muscular;м'язовий біль;los dolores musculares;health;dolor muscular;м'язовий біль;noun;ель долор мускулар
+la fatiga;втома;las fatigas;health;fatiga;втома;noun;ла фатіга
+la debilidad;слабкість;las debilidades;health;debilidad;слабкість;noun;ла дебілідад
+el insomnio;безсоння;los insomnios;health;insomnio;безсоння;noun;ель інсомньо
+la pérdida de apetito;втрата апетиту;las pérdidas de apetito;health;pérdida de apetito;втрата апетиту;noun;ла пердіда де апетіто
+el escalofrío;озноб;los escalofríos;health;escalofrío;озноб;noun;ель ескалофріо
+la gripe;грип;las gripes;health;gripe;грип;noun;ла гріпе
+el resfriado;застуда;los resfriados;health;resfriado;застуда;noun;ель ресфріадо
+la alergia;алергія;las alergias;health;alergia;алергія;noun;ла алерхіа
+la infección;інфекція;las infecciones;health;infección;інфекція;noun;ла інфексьйон
+la herida;рана;las heridas;health;herida;рана;noun;ла еріда
+la fractura;перелом;las fracturas;health;fractura;перелом;noun;ла фрактура
+la quemadura;опік;las quemaduras;health;quemadura;опік;noun;ла кемадура
+la insolación;сонячний удар;las insolaciones;health;insolación;сонячний удар;noun;ла інсолясьйон
+la varicela;вітрянка;las varicelas;health;varicela;вітрянка;noun;ла варісела
+el sarampión;кір;los sarampiones;health;sarampión;кір;noun;ель сарампйон
+las paperas;свинка;;health;papera;свинка;noun;лас паперас
+la amigdalitis;тонзиліт;;health;amigdalitis;тонзиліт;noun;ла амігдалітіс
+la bronquitis;бронхіт;;health;bronquitis;бронхіт;noun;ла бронкітіс
+la neumonía;пневмонія;;health;neumonía;пневмонія;noun;ла неумоніа
+el asma;астма;;health;asma;астма;noun;ель асма
+la diabetes;діабет;;health;diabetes;діабет;noun;ла діабетес
+la hipertensión;гіпертонія;;health;hipertensión;гіпертонія;noun;ла іпертенсьйон
+la anemia;анемія;;health;anemia;анемія;noun;ла анеміа
+doler;боліти;;health;doler;боліти;verb (-er);долер
+toser;кашляти;;health;toser;кашляти;verb (-er);тосер
+la receta;рецепт;las recetas;health;receta;рецепт;noun;ресета
+el medicamento;ліки;los medicamentos;health;medicamento;ліки;noun;медікаменто
+la pastilla;таблетка;las pastillas;health;pastilla;таблетка;noun;пастійя
+el jarabe;сироп;los jarabes;health;jarabe;сироп;noun;харабе
+la inyección;ін'єкція;las inyecciones;health;inyección;ін'єкція;noun;інйексьйон
+la venda;бинт;las vendas;health;venda;бинт;noun;венда
+el termómetro;термометр;los termómetros;health;termómetro;термометр;noun;термометро
+la radiografía;рентген;las radiografías;health;radiografía;рентген;noun;радіографія
+el seguro;страховка;los seguros;health;seguro;страховка;noun;сегуро
+el hospital;лікарня;los hospitales;health;hospital;лікарня;noun;оспіталь
+la ambulancia;швидка допомога;las ambulancias;health;ambulancia;швидка допомога;noun;амбулансія
+el síntoma;симптом;los síntomas;health;síntoma;симптом;noun;сінтома
+el diagnóstico;діагноз;los diagnósticos;health;diagnóstico;діагноз;noun;діагностіко
+el tratamiento;лікування;los tratamientos;health;tratamiento;лікування;noun;тратам'єнто
+la cirugía;хірургія;las cirugías;health;cirugía;хірургія;noun;сірухіа
+la operación;операція;las operaciones;health;operación;операція;noun;операсьйон
+la anestesia;анестезія;;health;anestesia;анестезія;noun;анестесія
+el antibiótico;антибіотик;los antibióticos;health;antibiótico;антибіотик;noun;антібіотіко
+el analgésico;знеболювальне;los analgésicos;health;analgésico;знеболювальне;noun;анальхесіко
+la vitamina;вітамін;las vitaminas;health;vitamina;вітамін;noun;вітаміна
+la aspirina;аспірин;las aspirinas;health;aspirina;аспірин;noun;аспіріна
+el paracetamol;парацетамол;los paracetamoles;health;paracetamol;парацетамол;noun;парасетамол
+el ibuprofeno;ібупрофен;los ibuprofenos;health;ibuprofeno;ібупрофен;noun;ібупрофено
+la pomada;мазь;las pomadas;health;pomada;мазь;noun;помада
+el colirio;очні краплі;los colirios;health;colirio;очні краплі;noun;коліріо
+recetar;виписувати;;health;recetar;виписувати;verb (-ar);ресетар
+curar;лікувати;;health;curar;лікувати;verb (-ar);курар
+vomitar;блювати;;health;vomitar;блювати;verb (-ar);вомітар
+el ejercicio;вправа;los ejercicios;health;ejercicio;вправа;noun;ехерсісіо
+la dieta;дієта;las dietas;health;dieta;дієта;noun;дьєта
+la caminata;прогулянка;las caminatas;health;caminata;прогулянка;noun;каміната
+el estiramiento;розтяжка;los estiramientos;health;estiramiento;розтяжка;noun;естірамьєнто
+el músculo;м'яз;los músculos;health;músculo;м'яз;noun;мускуло
+la fuerza;сила;las fuerzas;health;fuerza;сила;noun;фуерса
+la flexibilidad;гнучкість;;health;flexibilidad;гнучкість;noun;флексібілідад
+la comida saludable;здорова їжа;las comidas saludables;health;comida saludable;здорова їжа;noun;коміда салудабле
+la verdura;овочі;las verduras;health;verdura;овочі;noun;вердура
+el agua;вода;;health;agua;вода;noun;агуа
+la grasa;жир;las grasas;health;grasa;жир;noun;граса
+la proteína;білок;las proteínas;health;proteína;білок;noun;протеїна
+la fibra;клітковина;las fibras;health;fibra;клітковина;noun;фібра
+la merienda;полуденок;las meriendas;health;merienda;полуденок;noun;мерьєнда
+el hambre;голод;;health;hambre;голод;noun;амбре
+el hábito;звичка;los hábitos;health;hábito;звичка;noun;абіто
+el sueño;сон;;health;sueño;сон;noun;суеньо
+el descanso;відпочинок;los descansos;health;descanso;відпочинок;noun;дескансо
+el estrés;стрес;los estreses;health;estrés;стрес;noun;естрес
+la relajación;розслаблення;las relajaciones;health;relajación;розслаблення;noun;релахасьйон
+el tabaco;тютюн;;health;tabaco;тютюн;noun;табако
+el alcohol;алкоголь;los alcoholes;health;alcohol;алкоголь;noun;алколь
+la hidratación;гідратація;;health;hidratación;гідратація;noun;ідратасьйон
+la salud;здоров'я;;health;salud;здоров'я;noun;салуд
+la enfermedad;хвороба;las enfermedades;health;enfermedad;хвороба;noun;енфермедад
+la vacuna;вакцина;las vacunas;health;vacuna;вакцина;noun;бакуна
+la medicina;медицина;las medicinas;health;medicina;медицина;noun;медісіна
+hacer ejercicio;займатися фізичними вправами;;health;hacer;робити;verb (-er);асер ехерсісіо
+mantenerse en forma;підтримувати форму;;health;mantener;підтримувати;verb (-er);мантенерсе ен форма
+comer sano;здорово харчуватися;;health;comer;їсти;verb (-er);комер сано
+dormir bien;добре спати;;health;dormir;спати;verb (-ir);дормір б'єн
+descansar;відпочивати;;health;descansar;відпочивати;verb (-ar);дескансяр
+estresarse;стресувати;;health;estresar;стресувати;verb (-ar);естресярсе
+respirar;дихати;;health;respirar;дихати;verb (-ar);респіряр
+meditar;медитувати;;health;meditar;медитувати;verb (-ar);медітяр
+fumar;курити;;health;fumar;курити;verb (-ar);фумяр
+evitar;уникати;;health;evitar;уникати;verb (-ar);евітяр

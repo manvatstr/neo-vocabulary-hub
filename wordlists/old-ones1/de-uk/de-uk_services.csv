@@ -1,0 +1,184 @@
+der Geldautomat;банкомат;die Geldautomaten;services;Geld + Automat;гроші + автомат;noun;гельдаутомат
+die Bank;банк;die Banken;services;Bank;банк;noun;банк
+das Konto;рахунок;die Konten;services;Konto;рахунок;noun;конто
+der Kredit;кредит;die Kredite;services;Kredit;кредит;noun;кредит
+das Sparbuch;ощадна книжка;die Sparbücher;services;Spar + Buch;заощадження + книга;noun;шпарбух
+der Zinssatz;відсоткова ставка;die Zinssätze;services;Zins + Satz;відсоток + ставка;noun;цінсзац
+die Währung;валюта;die Währungen;services;Währung;валюта;noun;верунг
+der Wechselkurs;обмінний курс;die Wechselkurse;services;Wechsel + Kurs;обмін + курс;noun;векселькурс
+die Filiale;філія;die Filialen;services;Filiale;філія;noun;філіале
+der Schalter;віконце (каса);die Schalter;services;Schalter;віконце;noun;шальтер
+der Bankberater;банківський консультант;die Bankberater;services;Bank + Berater;банк + консультант;noun;банкбератер
+das Darlehen;позика;die Darlehen;services;Darlehen;позика;noun;дарлеен
+die Einzahlung;вклад;die Einzahlungen;services;Einzahlung;вклад;noun;айнцалюнг
+die Auszahlung;виплата;die Auszahlungen;services;Auszahlung;виплата;noun;аусцалюнг
+der Kontoauszug;виписка з рахунку;die Kontoauszüge;services;Konto + Auszug;рахунок + витяг;noun;контоаусцуг
+der Scheck;чек;die Schecks;services;Scheck;чек;noun;шек
+das Girokonto;поточний рахунок;die Girokonten;services;Giro + Konto;жиро + рахунок;noun;гіроконто
+das Wertpapier;цінний папір;die Wertpapiere;services;Wert + Papier;вартість + папір;noun;вертпапір
+der Tresor;сейф;die Tresore;services;Tresor;сейф;noun;трезор
+der Dispokredit;диспозиційний кредит;die Dispokredite;services;Dispo + Kredit;диспо + кредит;noun;диспокредит
+die Sicherheit;забезпечення;die Sicherheiten;services;Sicherheit;безпека;noun;зіхергайт
+die Bankleitzahl;банківський код;die Bankleitzahlen;services;Bank + Leitzahl;банк + код;noun;банклайтцаль
+die IBAN;IBAN;die IBANs;services;IBAN;IBAN;noun;ібан
+der Überziehungskredit;овердрафт;die Überziehungskredite;services;Überziehung + Kredit;перевищення + кредит;noun;юберціунгскредит
+der Zins;відсоток;die Zinsen;services;Zins;відсоток;noun;цінс
+das Sparschwein;скарбничка;die Sparschweine;services;Spar + Schwein;заощадження + свиня;noun;шпаршвайн
+die Post;пошта;;services;Post;пошта;noun;пост
+der Brief;лист;die Briefe;services;Brief;лист;noun;бріф
+das Paket;посилка;die Pakete;services;Paket;пакет;noun;пакет
+der Postbote;листоноша;die Postboten;services;Post + Bote;пошта + посланник;noun;постботе
+die Postfiliale;відділення пошти;die Postfilialen;services;Post + Filiale;пошта + філія;noun;постфіліале
+der Briefkasten;поштова скринька;die Briefkästen;services;Brief + Kasten;лист + ящик;noun;бріфкастен
+das Päckchen;мала посилка;die Päckchen;services;Päckchen;пакунок;noun;пекхен
+die Ansichtskarte;листівка;die Ansichtskarten;services;Ansicht + Karte;вид + картка;noun;анзіхтскарте
+das Einschreiben;рекомендований лист;die Einschreiben;services;Einschreiben;рекомендоване;noun;айншрайбен
+die Nachnahme;післяплата;die Nachnahmen;services;Nachnahme;післяплата;noun;нахнаме
+der Poststempel;поштовий штемпель;die Poststempel;services;Post + Stempel;пошта + штемпель;noun;постштемпель
+die Postleitzahl;поштовий індекс;die Postleitzahlen;services;Post + Leitzahl;пошта + індекс;noun;постлайтцаль
+die Adresse;адреса;die Adressen;services;Adresse;адреса;noun;адресе
+der Absender;відправник;die Absender;services;Absender;відправник;noun;абзендер
+der Empfänger;одержувач;die Empfänger;services;Empfänger;одержувач;noun;емпфенгер
+der Paketschein;квитанція на посилку;die Paketscheine;services;Paket + Schein;посилка + квитанція;noun;пакетшайн
+der Briefumschlag;конверт;die Briefumschläge;services;Brief + Umschlag;лист + обкладинка;noun;бріфумшлаг
+der Versand;відправлення;;services;Versand;відправлення;noun;ферзанд
+die Zustellung;доставка;die Zustellungen;services;Zustellung;доставка;noun;цустелунг
+das Porto;поштовий збір;;services;Porto;порто;noun;порто
+die Briefwaage;поштові ваги;die Briefwaagen;services;Brief + Waage;лист + ваги;noun;бріфваге
+der Postdienst;поштова служба;die Postdienste;services;Post + Dienst;пошта + служба;noun;постдінст
+das Formular;формуляр;die Formulare;services;Formular;формуляр;noun;формуляр
+überweisen;переказувати;;services;überweisen;переказувати;verb (weak);юбервайзен
+frankieren;франкувати;;services;frankieren;франкувати;verb (weak);франкірен
+versenden;відправляти;;services;versenden;відправляти;verb (weak);ферзенден
+abholen;забирати;;services;abholen (zu holen);забирати;verb (separable);апголен
+einwerfen;кидати (лист у скриньку);;services;einwerfen (zu werfen);кидати;verb (separable);айнверфен
+ausfüllen;заповнювати;;services;ausfüllen (zu füllen);заповнювати;verb (separable);аусфюлен
+unterschreiben;підписувати;;services;unterschreiben;підписувати;verb (weak);унтершрайбен
+bar;готівковий;;services;bar;готівковий;adj;бар
+eingeschrieben;рекомендований;;services;eingeschrieben;рекомендований;adj;айнгешрібен
+portofrei;без поштових витрат;;services;portofrei;без порто;adj;портофрай
+die Friseurin;перукарка;die Friseurinnen;services;Friseurin;перукарка;noun;фрізьорін
+der Haarschnitt;стрижка;die Haarschnitte;services;Haar + Schnitt;стрижка;noun;гааршніт
+die Bürste;щітка;die Bürsten;services;Bürste;щітка;noun;бюрсте
+der Conditioner;кондиціонер;die Conditioner;services;Conditioner;кондиціонер;noun;кондішонер
+färben;фарбувати;;services;färben;фарбувати;verb (weak);фербен
+föhnen;сушити феном;;services;föhnen;сушити феном;verb (weak);фьонен
+legen;укладати;;services;legen;укладати;verb (weak);леґен
+die Dauerwelle;хімічна завивка;die Dauerwellen;services;Dauer + Welle;хімічна завивка;noun;дауервеле
+die Locke;кучер;die Locken;services;Locke;кучер;noun;локе
+glätten;випрямляти;;services;glätten;випрямляти;verb (weak);глетен
+der Frisierstuhl;перукарське крісло;die Frisierstühle;services;frisieren + Stuhl;перукарське крісло;noun;фрізірштуль
+der Umhang;накидка;die Umhänge;services;Umhang;накидка;noun;умганг
+die Strähne;пасмо;die Strähnen;services;Strähne;пасмо;noun;штрене
+der Pony;чубчик;die Ponys;services;Pony;чубчик;noun;поні
+die Kopfhaut;шкіра голови;die Kopfhäute;services;Kopf + Haut;шкіра голови;noun;копфгаут
+die Pflege;догляд;;services;Pflege;догляд;noun;пфлеґе
+das Haarspray;лак для волосся;die Haarsprays;services;Haar + Spray;лак для волосся;noun;гааршпрей
+das Haargel;гель для волосся;die Haargele;services;Haar + Gel;гель для волосся;noun;гаарґель
+der Schaumfestiger;пінка для укладки;die Schaumfestiger;services;Schaum + Festiger;пінка для укладки;noun;шаумфестіґер
+die Spitzen;кінчики;;services;Spitze;кінчик;noun (plural);шпіцен
+der Friseursalon;перукарня;die Friseursalons;services;Friseur + Salon;перукарня;noun;фрізьорсалон
+der Meister;майстер;die Meister;services;Meister;майстер;noun;майстер
+die Lehre;учнівство;die Lehren;services;Lehre;учнівство;noun;лере
+der Haartrockner;фен;die Haartrockner;services;Haar + Trockner;фен;noun;гаартрокнер
+die Rundbürste;кругла щітка;die Rundbürsten;services;rund + Bürste;кругла щітка;noun;рундбюрсте
+der Lockenstab;плойка;die Lockenstäbe;services;Locken + Stab;плойка;noun;локенштаб
+das Rasiermesser;бритва;die Rasiermesser;services;rasieren + Messer;бритва;noun;разірмессер
+rasieren;голити;;services;rasieren;голити;verb (weak);разірен
+die Gesichtsbehandlung;догляд за обличчям;die Gesichtsbehandlungen;services;Gesicht + Behandlung;догляд за обличчям;noun;гезіхтсбегандлунґ
+die Maniküre;манікюр;die Maniküren;services;Maniküre;манікюр;noun;манікюре
+die Pediküre;педикюр;die Pediküren;services;Pediküre;педикюр;noun;педікюре
+der Service;сервіс;die Services;services;Service;сервіс;noun;сервіс
+die Dienstleistung;послуга;die Dienstleistungen;services;Dienst + Leistung;послуга;noun;дінстляйстунґ
+die Werkstatt;майстерня;die Werkstätten;services;Werkstatt;майстерня;noun;веркштат
+die Reparatur;ремонт;die Reparaturen;services;Reparatur;ремонт;noun;репаратур
+der Reifen;шина;die Reifen;services;Reifen;шина;noun;райфен
+die Bremse;гальмо;die Bremsen;services;Bremse;гальмо;noun;бремзе
+der Motor;двигун;die Motoren;services;Motor;двигун;noun;мотор
+die Batterie;акумулятор;die Batterien;services;Batterie;акумулятор;noun;батері
+der Auspuff;вихлопна труба;die Auspuffe;services;Auspuff;вихлопна труба;noun;ауспуф
+die Karosserie;кузов;die Karosserien;services;Karosserie;кузов;noun;каросері
+der Lack;лак;die Lacke;services;Lack;лак;noun;лак
+die Windschutzscheibe;лобове скло;die Windschutzscheiben;services;Wind + Schutz + Scheibe;лобове скло;noun;віндшутцшайбе
+der Scheibenwischer;склоочисник;die Scheibenwischer;services;Scheiben + Wischer;склоочисник;noun;шайбенвішер
+der Reifendruck;тиск у шинах;;services;Reifen + Druck;тиск у шинах;noun;райфендрук
+die Zündkerze;свічка запалювання;die Zündkerzen;services;Zünd + Kerze;свічка запалювання;noun;цюндкерце
+der Keilriemen;клиноподібний ремінь;die Keilriemen;services;Keil + Riemen;клиноподібний ремінь;noun;кайльрімен
+der Kühler;радіатор;die Kühler;services;Kühler;радіатор;noun;кюлер
+das Getriebe;коробка передач;die Getriebe;services;Getriebe;коробка передач;noun;гетрібе
+die Kupplung;зчеплення;die Kupplungen;services;Kupplung;зчеплення;noun;купплунг
+das Lenkrad;кермо;die Lenkräder;services;Lenk + Rad;кермо;noun;ленкрад
+die Stoßstange;бампер;die Stoßstangen;services;Stoß + Stange;бампер;noun;штосштанге
+der Blinker;покажчик повороту;die Blinker;services;Blinker;покажчик повороту;noun;блінкер
+das Rücklicht;задній ліхтар;die Rücklichter;services;Rück + Licht;задній ліхтар;noun;рюкліхт
+die Hupe;сигнал;die Hupen;services;Hupe;сигнал;noun;гупе
+der Sicherheitsgurt;ремінь безпеки;die Sicherheitsgurte;services;Sicherheit + s + Gurt;ремінь безпеки;noun;зіхерхайтсгурт
+das Ersatzteil;запчастина;die Ersatzteile;services;Ersatz + Teil;запчастина;noun;ерзацтайль
+der Kostenvoranschlag;кошторис;die Kostenvoranschläge;services;Kosten + Voranschlag;кошторис;noun;костенфораншлаг
+die Inspektion;техогляд;die Inspektionen;services;Inspektion;техогляд;noun;інспекціон
+der TÜV;техогляд (ТЮФ);die TÜV;services;TÜV;техогляд;noun;тюф
+der Abschleppdienst;евакуатор;die Abschleppdienste;services;ab + schleppen + Dienst;евакуатор;noun;абшлеппдінст
+die Panne;поломка;die Pannen;services;Panne;поломка;noun;панне
+der Pannendienst;служба допомоги на дорозі;die Pannendienste;services;Panne + n + Dienst;служба допомоги;noun;паннендінст
+das Benzin;бензин;;services;Benzin;бензин;noun;бенцін
+der Diesel;дизельне паливо;;services;Diesel;дизель;noun;дізель
+die Waschanlage;автомийка;die Waschanlagen;services;Waschen + Anlage;автомийка;noun;вашанлаге
+der Ölwechsel;заміна мастила;die Ölwechsel;services;Öl + Wechsel;заміна мастила;noun;йольвексель
+der Reifenwechsel;заміна шин;die Reifenwechsel;services;Reifen + Wechsel;заміна шин;noun;райфенвексель
+die Achsvermessung;регулювання розвалу-сходження;die Achsvermessungen;services;Achse + Vermessung;регулювання розвалу-сходження;noun;ахсфермессунг
+die Klimaanlage;кондиціонер;die Klimaanlagen;services;Klima + Anlage;кондиціонер;noun;клімаанлаге
+der Frostschutz;антифриз;;services;Frost + Schutz;антифриз;noun;фростшутц
+wechseln;міняти;;services;wechseln;міняти;verb (weak);вексельн
+einbauen;встановлювати;;services;einbauen (zu bauen);встановлювати;verb (separable);айнбауен
+ausbauen;демонтувати;;services;ausbauen (zu bauen);демонтувати;verb (separable);аусбауен
+lackieren;фарбувати;;services;lackieren;фарбувати;verb (weak);лакірен
+schweißen;зварювати;;services;schweißen;зварювати;verb (weak);швайсен
+abschleppen;відбуксировувати;;services;abschleppen (zu schleppen);відбуксировувати;verb (separable);абшлеппен
+kaputt;зламаний;;services;kaputt;зламаний;adj;капут
+die Polizei;поліція;;services;Polizei;поліція;noun;поліцай
+der Notruf;екстрений виклик;die Notrufe;services;Not + Ruf;екстрений дзвінок;noun;нотруф
+die Feuerwehr;пожежна служба;die Feuerwehren;services;Feuer + Wehr;пожежна оборона;noun;фоєрвер
+der Krankenwagen;швидка допомога;die Krankenwagen;services;krank + Wagen;лікарняний автомобіль;noun;кранкенваген
+der Rettungswagen;реанімобіль;die Rettungswagen;services;Rettung + s + Wagen;рятувальний автомобіль;noun;ретунгсваген
+der Unfall;нещасний випадок;die Unfälle;services;un + Fall;нещасний випадок;noun;унфаль
+die Polizistin;поліцейська;die Polizistinnen;services;Polizistin;поліцейська;noun;поліцістін
+die Wache;варта;die Wachen;services;Wache;варта;noun;вахе
+die Polizeiwache;поліцейська дільниця;die Polizeiwachen;services;Polizei + Wache;поліцейська варта;noun;поліцайвахе
+der Dieb;злодій;die Diebe;services;Dieb;злодій;noun;діб
+der Diebstahl;крадіжка;die Diebstähle;services;Dieb + Stahl;крадіжка;noun;дібшталь
+der Einbrecher;зломщик;die Einbrecher;services;ein + brechen + er;зломщик;noun;айнбрехер
+der Überfall;напад;die Überfälle;services;über + Fall;напад;noun;юберфаль
+der Zeuge;свідок;die Zeugen;services;Zeuge;свідок;noun;цойге
+die Aussage;свідчення;die Aussagen;services;aus + Sage;свідчення;noun;аусзаге
+das Verbrechen;злочин;die Verbrechen;services;ver + brechen;злочин;noun;фербрехен
+der Täter;злочинець;die Täter;services;Täter;злочинець;noun;тетер
+die Straftat;кримінальне діяння;die Straftaten;services;Strafe + Tat;кримінальна дія;noun;штрафтат
+die Anzeige;заява;die Anzeigen;services;an + zeigen;повідомлення;noun;анцайге
+die Notlage;надзвичайна ситуація;die Notlagen;services;Not + Lage;надзвичайне становище;noun;нотлаге
+der Alarm;тривога;die Alarme;services;Alarm;тривога;noun;аларм
+die Sirene;сирена;die Sirenen;services;Sirene;сирена;noun;зірене
+der Feuerlöscher;вогнегасник;die Feuerlöscher;services;Feuer + Löscher;вогнегасник;noun;фоєрльошер
+die Löschdecke;протипожежне покривало;die Löschdecken;services;löschen + Decke;покривало для гасіння;noun;льошдеке
+der Rauchmelder;детектор диму;die Rauchmelder;services;Rauch + Melder;сповіщувач диму;noun;раухмельдер
+die Evakuierung;евакуація;die Evakuierungen;services;Evakuierung;евакуація;noun;евакуірунг
+der Rettungsdienst;рятувальна служба;die Rettungsdienste;services;Rettung + Dienst;рятувальна служба;noun;ретунгсдінст
+der Sanitäter;санітар;die Sanitäter;services;Sanitäter;санітар;noun;занітетер
+die Notfallapotheke;аптечка невідкладної допомоги;die Notfallapotheken;services;Notfall + Apotheke;аптека невідкладних випадків;noun;нотфальапотеке
+die Erste Hilfe;перша допомога;;services;erst + Hilfe;перша допомога;noun;ерсте хільфе
+die Notrufnummer;номер екстреного виклику;die Notrufnummern;services;Notruf + Nummer;номер екстреного виклику;noun;нотруфнуммер
+der Rettungshubschrauber;рятувальний гелікоптер;die Rettungshubschrauber;services;Rettung + s + Hubschrauber;рятувальний гелікоптер;noun;ретунгсгубшраубер
+die Polizeistreife;поліцейський патруль;die Polizeistreifen;services;Polizei + Streife;поліцейське патрулювання;noun;поліцайштрайфе
+die Festnahme;затримання;die Festnahmen;services;fest + nahme;арешт;noun;фестнаме
+die Handschellen;наручники;;services;Handschelle;наручник;noun;гандшеллен
+die Waffe;зброя;die Waffen;services;Waffe;зброя;noun;ваффе
+die Schusswaffe;вогнепальна зброя;die Schusswaffen;services;Schuss + Waffe;вогнепальна зброя;noun;шусваффе
+der Schuss;постріл;die Schüsse;services;Schuss;постріл;noun;шус
+die Explosion;вибух;die Explosionen;services;Explosion;вибух;noun;експлозіон
+die Bombe;бомба;die Bomben;services;Bombe;бомба;noun;бомбе
+die Drohung;загроза;die Drohungen;services;Drohung;загроза;noun;дроунг
+der Raub;пограбування;;services;Raub;пограбування;noun;рауб
+der Räuber;грабіжник;die Räuber;services;Räuber;грабіжник;noun;ройбер
+die Geisel;заручник;die Geiseln;services;Geisel;заручник;noun;гайзель
+die Entführung;викрадення;die Entführungen;services;Entführung;викрадення;noun;ентфюрунг
+das Opfer;жертва;die Opfer;services;Opfer;жертва;noun;опфер
+der Notausgang;аварійний вихід;die Notausgänge;services;Not + Ausgang;аварійний вихід;noun;нотаусганг

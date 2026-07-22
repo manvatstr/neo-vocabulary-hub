@@ -1,133 +1,152 @@
-die Kellnerin;офіціантка;die Kellnerinnen;food;Kellnerin;офіціантка;noun;кельнерін
-die Speisekarte;меню;die Speisekarten;food;Speisekarte;меню;noun;шпайзекарте
-das Gericht;страва;die Gerichte;food;Gericht;страва;noun;геріхьт
-die Gabel;виделка;die Gabeln;food;Gabel;виделка;noun;ґабель
-das Messer;ніж;die Messer;food;Messer;ніж;noun;мессер
-der Löffel;ложка;die Löffel;food;Löffel;ложка;noun;льоффель
-die Tasse;чашка;die Tassen;food;Tasse;чашка;noun;тассе
-die Vorspeise;закуска;die Vorspeisen;food;Vorspeise;закуска;noun;форшпайзе
-die Hauptspeise;основна страва;die Hauptspeisen;food;Hauptspeise;основна страва;noun;гауптшпайзе
-die Nachspeise;десерт;die Nachspeisen;food;Nachspeise;десерт;noun;нахшпайзе
-der Nachtisch;десерт;die Nachtische;food;Nachtisch;десерт;noun;нахтіш
-das Menü;комплексний обід;die Menüs;food;Menü;комплексний обід;noun;меню
-die Speise;блюдо;die Speisen;food;Speise;блюдо;noun;шпайзе
-die Karte;меню;die Karten;food;Karte;меню;noun;карте
+die Speisekarte;меню;die Speisekarten;food;Speise + Karte;меню;noun;шпайзекарте
+der Kellner;офіціант;die Kellner;food;Kellner;офіціант;noun;кельнер
+die Bedienung;обслуговування;die Bedienungen;food;Bedienung;обслуговування;noun;бедінунг
+das Trinkgeld;чайові;die Trinkgelder;food;Trink + Geld;чайові;noun;трінкгельд
 bestellen;замовляти;;food;bestellen;замовляти;verb (weak);бештеллен
-servieren;подавати;;food;servieren;подавати;verb (weak);зервірен
 empfehlen;рекомендувати;;food;empfehlen;рекомендувати;verb (strong);емпфелен
-der Saft;сік;die Säfte;food;Saft;сік;noun;зафт
-die Limonade;лимонад;die Limonaden;food;Limonade;лимонад;noun;лімонаде
-das Mineralwasser;мінеральна вода;die Mineralwässer;food;Mineral + Wasser;мінеральна вода;noun;мінеральвассер
-die Suppe;суп;die Suppen;food;Suppe;суп;noun;зуппе
-die Nudeln;локшина;die Nudeln;food;Nudel;локшина;noun;нудельн
-der Reis;рис;;food;Reis;рис;noun;райс
-das Dessert;десерт;die Desserts;food;Dessert;десерт;noun;десерт
 schmecken;смакувати;;food;schmecken;смакувати;verb (weak);шмекен
-die Reservierung;бронювання;die Reservierungen;food;Reservierung;бронювання;noun;резервірунг
-schneiden;нарізати;;food;schneiden;нарізати;verb (strong);шнайден
+vegetarisch;вегетаріанський;;food;vegetarisch;вегетаріанський;adj;вегетаріш
+vegan;веганський;;food;vegan;веганський;adj;веган
+das Hauptgericht;основна страва;die Hauptgerichte;food;Haupt + Gericht;основна страва;noun;хауптгеріхт
+die Vorspeise;закуска;die Vorspeisen;food;Vor + Speise;закуска;noun;форшпайзе
+die Nachspeise;десерт;die Nachspeisen;food;Nach + Speise;десерт;noun;нахшпайзе
+die Tasse;чашка;die Tassen;food;Tasse;чашка;noun;тасе
+das Besteck;столові прибори;die Bestecke;food;Besteck;столові прибори;noun;бештек
+der Teller;тарілка;die Teller;food;Teller;тарілка;noun;телер
+die Gabel;виделка;die Gabeln;food;Gabel;виделка;noun;габель
+das Messer;ніж;die Messer;food;Messer;ніж;noun;месер
+der Löffel;ложка;die Löffel;food;Löffel;ложка;noun;лефель
+die Serviette;серветка;die Servietten;food;Serviette;серветка;noun;зервієте
+das Menü;меню;die Menüs;food;Menü;меню;noun;меню
+das Tagesgericht;страва дня;die Tagesgerichte;food;Tages + Gericht;страва дня;noun;тагесгеріхт
+die Suppe;суп;die Suppen;food;Suppe;суп;noun;зупе
+der Salat;салат;die Salate;food;Salat;салат;noun;залат
+das Steak;стейк;die Steaks;food;Steak;стейк;noun;штейк
+das Schnitzel;шніцель;die Schnitzel;food;Schnitzel;шніцель;noun;шніцель
+die Beilage;гарнір;die Beilagen;food;Bei + Lage;гарнір;noun;байлаге
+süß;солодкий;;food;süß;солодкий;adj;зюс
+sauer;кислий;;food;sauer;кислий;adj;зауер
+salzig;солоний;;food;salzig;солоний;adj;зальциг
+scharf;гострий;;food;scharf;гострий;adj;шарф
+bitter;гіркий;;food;bitter;гіркий;adj;бітер
+lecker;смачний;;food;lecker;смачний;adj;лекер
+glutenfrei;безглютеновий;;food;Gluten + frei;безглютеновий;adj;глютенфрай
+laktosefrei;безлактозний;;food;Laktose + frei;безлактозний;adj;лактозефрай
+die Speise;страва;die Speisen;food;Speise;страва;noun;шпайзе
+das Mittagessen;обід;die Mittagessen;food;Mittag + Essen;обід;noun;міттагессен
+der Koch;кухар;die Köche;food;Koch;кухар;noun;кох
+abkühlen;охолоджувати;;food;abkühlen (zu kühlen);охолоджувати;verb (separable);абкюлен
+anbraten;обсмажувати;;food;anbraten (zu braten);обсмажувати;verb (separable);анбратен
+aufkochen;довести до кипіння;;food;aufkochen (zu kochen);довести до кипіння;verb (separable);ауфкохен
+aufschneiden;нарізати;;food;aufschneiden (zu schneiden);нарізати;verb (separable);ауфшнайден
+ausrollen;розкачати;;food;ausrollen (zu rollen);розкачати;verb (separable);аусролен
+belegen;покривати;;food;belegen;покривати;verb (weak);белеген
+blanchieren;бланшувати;;food;blanchieren;бланшувати;verb (weak);бланшірен
 braten;смажити;;food;braten;смажити;verb (strong);братен
-rühren;мішати;;food;rühren;мішати;verb (weak);рюрен
-würzen;приправляти;;food;würzen;приправляти;verb (weak);вюрцен
-abschmecken;пробувати на смак;;food;abschmecken (zu schmecken);смакувати;verb (separable);апшмекен
-zubereiten;готувати;;food;zubereiten (zu bereiten);готувати;verb (separable);цуберайтен
-erhitzen;нагрівати;;food;erhitzen;нагрівати;verb (weak);ергіцен
-abkühlen;охолоджувати;;food;abkühlen (zu kühlen);охолоджувати;verb (separable);апкюлен
+dämpfen;готувати на парі;;food;dämpfen;готувати на парі;verb (weak);демпфен
+dünsten;тушкувати;;food;dünsten;тушкувати;verb (weak);дюнстен
 einfrieren;заморожувати;;food;einfrieren (zu frieren);заморожувати;verb (separable);айнфрірен
-auftauen;розморожувати;;food;auftauen (zu tauen);танути;verb (separable);ауфтауен
-marinieren;маринувати;;food;marinieren;маринувати;verb (weak);маринірен
-panieren;панірувати;;food;panieren;панірувати;verb (weak);панірен
-frittieren;фритюрити;;food;frittieren;фритюрити;verb (weak);фритірен
-dünsten;припускати;;food;dünsten;припускати;verb (weak);дюнстен
-dämpfen;парити;;food;dämpfen;парити;verb (weak);демпфен
-schmoren;тушкувати;;food;schmoren;тушкувати;verb (weak);шморен
-grillen;грилювати;;food;grillen;грилювати;verb (weak);грилен
-rösten;обсмажувати;;food;rösten;обсмажувати;verb (weak);рестен
-mixen;змішувати;;food;mixen;змішувати;verb (weak);міксен
-pürieren;пюрувати;;food;pürieren;пюрувати;verb (weak);пюрирен
-zerkleinern;подрібнювати;;food;zerkleinern;подрібнювати;verb (weak);церкляйнерн
-hacken;рубати;;food;hacken;рубати;verb (weak);гакен
-raspeln;натирати;;food;raspeln;натирати;verb (weak);распельн
-reiben;терти;;food;reiben;терти;verb (strong);райбен
-schälen;чистити;;food;schälen;чистити;verb (weak);шелен
-entkernen;виймати кісточки;;food;entkernen;виймати кісточки;verb (weak);енткернен
-ausrollen;розкачувати;;food;ausrollen (zu rollen);качати;verb (separable);аусролен
-kneten;місити;;food;kneten;місити;verb (weak);кнетен
-formen;формувати;;food;formen;формувати;verb (weak);формен
-füllen;фарширувати;;food;füllen;фарширувати;verb (weak);фюлен
-bestreichen;змащувати;;food;bestreichen;змащувати;verb (strong);бештрайхен
+einlegen;маринувати;;food;einlegen (zu legen);маринувати;verb (separable);айнлеген
+einrühren;вмішати;;food;einrühren (zu rühren);вмішати;verb (separable);айнрюрен
+erhitzen;нагрівати;;food;erhitzen;нагрівати;verb (weak);ергіцен
+flambieren;фламбувати;;food;flambieren;фламбувати;verb (weak);фламбірен
+garen;готувати;;food;garen;готувати;verb (weak);гарен
 garnieren;гарнірувати;;food;garnieren;гарнірувати;verb (weak);гарнірен
-anbraten;обсмажувати;;food;anbraten (zu braten);смажити;verb (separable);анбратен
-köcheln;томити;;food;köcheln;томити;verb (weak);кехельн
-sieden;кип'ятити;;food;sieden;кип'ятити;verb (weak);зіден
-aufkochen;доводити до кипіння;;food;aufkochen (zu kochen);варити;verb (separable);ауфкохен
-reduzieren;уварювати;;food;reduzieren;уварювати;verb (weak);редуцірен
-abschöpfen;знімати піну;;food;abschöpfen (zu schöpfen);черпати;verb (separable);апшепфен
-sieben;просіювати;;food;sieben;просіювати;verb (weak);зібен
-passieren;протирати;;food;passieren;протирати;verb (weak);пасірен
-abseihen;проціджувати;;food;abseihen (zu seihen);проціджувати;verb (separable);абзайен
-einweichen;замочувати;;food;einweichen (zu weichen);розм'якшувати;verb (separable);айнвайхен
-ziehen;настоювати;;food;ziehen;настоювати;verb (strong);ціен
-abgießen;відціджувати;;food;abgießen (zu gießen);лити;verb (separable);апгісен
-abtropfen;дати стекти;;food;abtropfen (zu tropfen);стікати;verb (separable);аптропфен
-das Salz;сіль;;food;Salz;сіль;noun;зальц
-der Pfeffer;перець;;food;Pfeffer;перець;noun;пфефер
-das Mehl;борошно;;food;Mehl;борошно;noun;мель
-der Zucker;цукор;;food;Zucker;цукор;noun;цукер
-das Öl;олія;;food;Öl;олія;noun;ьоль
-die Zwiebel;цибуля;die Zwiebeln;food;Zwiebel;цибуля;noun;цвібель
-der Knoblauch;часник;;food;Knoblauch;часник;noun;кноблаух
-die Karotte;морква;die Karotten;food;Karotte;морква;noun;кароте
-das Huhn;курка;die Hühner;food;Huhn;курка;noun;гун
-der Essig;оцет;;food;Essig;оцет;noun;есіг
-der Senf;гірчиця;;food;Senf;гірчиця;noun;зенф
-die Sahne;вершки;;food;Sahne;вершки;noun;зане
-die Bohne;квасоля;die Bohnen;food;Bohne;квасоля;noun;боне
-die Erbse;горох;die Erbsen;food;Erbse;горох;noun;ербсе
-der Pilz;гриб;die Pilze;food;Pilz;гриб;noun;пільц
-der Spinat;шпинат;;food;Spinat;шпинат;noun;шпінат
-die Orange;апельсин;die Orangen;food;Orange;апельсин;noun;оранже
-die Zitrone;лимон;die Zitronen;food;Zitrone;лимон;noun;цітроне
-die Erdbeere;полуниця;die Erdbeeren;food;Erdbeere;полуниця;noun;ердбере
-die Kirsche;вишня;die Kirschen;food;Kirsche;вишня;noun;кірше
-die Traube;виноград;die Trauben;food;Traube;виноград;noun;траубе
+grillen;грилювати;;food;grillen;грилювати;verb (weak);грілен
+hacken;рубати;;food;hacken;рубати;verb (weak);гакен
+karamellisieren;карамелізувати;;food;karamellisieren;карамелізувати;verb (weak);карамелізірен
+kneten;замішувати;;food;kneten;замішувати;verb (weak);кнетен
+marinieren;маринувати;;food;marinieren;маринувати;verb (weak);марінірен
+mixen;змішувати;;food;mixen;змішувати;verb (weak);міксен
+panieren;панірувати;;food;panieren;панірувати;verb (weak);панірен
+pürieren;пюрувати;;food;pürieren;пюрувати;verb (weak);пюрірен
+raspeln;терти;;food;raspeln;терти;verb (weak);распельн
+rösten;запікати;;food;rösten;запікати;verb (weak);рестен
+rühren;мішати;;food;rühren;мішати;verb (weak);рюрен
+salzen;солити;;food;salzen;солити;verb (weak);зальцен
+schälen;чистити;;food;schälen;чистити;verb (weak);шелен
+schmoren;тушкувати;;food;schmoren;тушкувати;verb (weak);шморен
+schneiden;різати;;food;schneiden;різати;verb (strong);шнайден
+schöpfen;черпати;;food;schöpfen;черпати;verb (weak);шепфен
+servieren;подавати;;food;servieren;подавати;verb (weak);зерфірен
+sieden;варити на повільному вогні;;food;sieden;варити на повільному вогні;verb (strong);зіден
+sprudeln;пузиритися;;food;sprudeln;пузиритися;verb (weak);шпрудельн
+stampfen;товкти;;food;stampfen;товкти;verb (weak);штампфен
+umrühren;перемішувати;;food;umrühren (zu rühren);перемішувати;verb (separable);умрюрен
+unterheben;обережно вмішати;;food;unterheben (zu heben);обережно вмішати;verb (separable);унтерхебен
+verquirlen;збивати;;food;verquirlen;збивати;verb (weak);ферквірлен
+vorheizen;розігрівати духовку;;food;vorheizen (zu heizen);розігрівати духовку;verb (separable);форгайцен
+würzen;приправляти;;food;würzen;приправляти;verb (weak);вюрцен
+zerdrücken;роздушити;;food;zerdrücken;роздушити;verb (weak);цердрюкен
+zerstoßen;розтовкти;;food;zerstoßen;розтовкти;verb (strong);церштосен
+abschmecken;досолити за смаком;;food;abschmecken (zu schmecken);досолити за смаком;verb (separable);апшмекен
+angießen;підливати;;food;angießen (zu gießen);підливати;verb (separable);ангісен
+aufgießen;заливати окропом;;food;aufgießen (zu gießen);заливати окропом;verb (separable);ауфгісен
+das Ei;яйце;die Eier;food;Ei;яйце;noun;ай
+die Hefe;дріжджі;;food;Hefe;дріжджі;noun;гефе
+das Backpulver;розпушувач;;food;backen + Pulver;пекти + порошок;noun;бакпульфер
 der Zimt;кориця;;food;Zimt;кориця;noun;цімт
-der Paprika;паприка;;food;Paprika;паприка;noun;паприка
-der Dill;кріп;;food;Dill;кріп;noun;діл
-die Petersilie;петрушка;;food;Petersilie;петрушка;noun;петерзіліє
-der Oregano;орегано;;food;Oregano;орегано;noun;орегано
-der Thymian;чебрець;;food;Thymian;чебрець;noun;тюміан
-die Minze;м'ята;;food;Minze;м'ята;noun;мінце
-der Ingwer;імбир;;food;Ingwer;імбир;noun;інгвер
-der Kümmel;кмин;;food;Kümmel;кмин;noun;кюмель
 die Vanille;ваніль;;food;Vanille;ваніль;noun;ваніль
-der Honig;мед;;food;Honig;мед;noun;гоніг
-der Kakao;какао;;food;Kakao;какао;noun;какао
-die Kalorie;калорія;die Kalorien;food;Kalorie;калорія;noun;калорі
-das Protein;білок;die Proteine;food;Protein;білок;noun;протеїн
-das Kohlenhydrat;вуглевод;die Kohlenhydrate;food;Kohlen + Hydrat;вуглевод;noun;коленгюдрат
-das Fett;жир;die Fette;food;Fett;жир;noun;фет
-die Ballaststoffe;харчові волокна;;food;Ballaststoff;харчове волокно;noun;баластштофе
-das Vitamin;вітамін;die Vitamine;food;Vitamin;вітамін;noun;вітамін
-das Mineral;мінерал;die Minerale;food;Mineral;мінерал;noun;мінерал
-die Nahrungsergänzung;харчова добавка;die Nahrungsergänzungen;food;Nahrung + Ergänzung;харчова добавка;noun;нарунгсергентсунг
-die Mahlzeit;прийом їжі;die Mahlzeiten;food;Mahl + Zeit;прийом їжі;noun;мальцайт
-die Zwischenmahlzeit;перекус;die Zwischenmahlzeiten;food;zwischen + Mahlzeit;перекус;noun;цвішенмальцайт
-der Hunger;голод;;food;Hunger;голод;noun;гунгер
-der Durst;спрага;;food;Durst;спрага;noun;дурст
-satt;ситий;;food;satt;ситий;adj;зат
-hungrig;голодний;;food;hungrig;голодний;adj;гунгріх
-die Portion;порція;die Portionen;food;Portion;порція;noun;порцьйон
-die Menge;кількість;die Mengen;food;Menge;кількість;noun;менге
+die Muskatnuss;мускатний горіх;die Muskatnüsse;food;Muskat + Nuss;мускат + горіх;noun;мускатнус
+der Kümmel;кмин;;food;Kümmel;кмин;noun;кюммель
+der Koriander;коріандр;;food;Koriander;коріандр;noun;коріандер
+das Paprikapulver;паприка порошок;;food;Paprika + Pulver;паприка + порошок;noun;паприкапульфер
+der Knoblauch;часник;;food;Knoblauch;часник;noun;кноблаух
+die Zwiebel;цибуля;die Zwiebeln;food;Zwiebel;цибуля;noun;цвібель
+die Tomate;помідор;die Tomaten;food;Tomate;помідор;noun;томате
+die Gurke;огірок;die Gurken;food;Gurke;огірок;noun;ґурке
+die Karotte;морква;die Karotten;food;Karotte;морква;noun;каротте
+die Kartoffel;картопля;die Kartoffeln;food;Kartoffel;картопля;noun;картоффель
+das Fleisch;м'ясо;;food;Fleisch;м'ясо;noun;фляйш
+das Huhn;курка;die Hühner;food;Huhn;курка;noun;гун
+der Fisch;риба;die Fische;food;Fisch;риба;noun;фіш
+das Rindfleisch;яловичина;;food;Rind + Fleisch;худоба + м'ясо;noun;ріндфляйш
+das Schweinefleisch;свинина;;food;Schwein + Fleisch;свиня + м'ясо;noun;швайнефляйш
+die Sahne;вершки;;food;Sahne;вершки;noun;зане
+der Honig;мед;;food;Honig;мед;noun;гоніх
+das Gewürz;спеція;die Gewürze;food;Gewürz;спеція;noun;ґевюрц
+die Kräuter;трави;;food;Kraut;трава;noun;кройтер
+die Petersilie;петрушка;;food;Petersilie;петрушка;noun;петерезіліє
+der Dill;кріп;;food;Dill;кріп;noun;діль
+das Basilikum;базилік;;food;Basilikum;базилік;noun;базілікум
+der Oregano;орегано;;food;Oregano;орегано;noun;ореґано
+der Thymian;чебрець;;food;Thymian;чебрець;noun;тюміан
+der Rosmarin;розмарин;;food;Rosmarin;розмарин;noun;росмарін
+das Lorbeerblatt;лавровий лист;die Lorbeerblätter;food;Lorbeer + Blatt;лавр + лист;noun;лорбеерблатт
+die Nelke;гвоздика;die Nelken;food;Nelke;гвоздика;noun;нельке
+der Ingwer;імбир;;food;Ingwer;імбир;noun;інґвер
+die Kurkuma;куркума;;food;Kurkuma;куркума;noun;куркума
+der Safran;шафран;;food;Safran;шафран;noun;зафран
+die Sojasauce;соєвий соус;;food;Soja + Sauce;соя + соус;noun;зоязосе
+der Senf;гірчиця;;food;Senf;гірчиця;noun;зенф
+die Diät;дієта;die Diäten;food;Diät;дієта;noun;дієт
+der Snack;перекус;die Snacks;food;Snack;перекус;noun;снек
+die Mahlzeit;прийом їжі;die Mahlzeiten;food;Mahlzeit;прийом їжі;noun;мальцайт
+das Gericht;страва;die Gerichte;food;Gericht;страва;noun;ґеріхт
 die Zutat;інгредієнт;die Zutaten;food;Zutat;інгредієнт;noun;цутат
+die Kalorie;калорія;die Kalorien;food;Kalorie;калорія;noun;калорі
+das Protein;білок;die Proteine;food;Protein;білок;noun;протеін
+die Kohlenhydrate;вуглеводи;;food;Kohlenhydrat;вуглевод;noun;коленгюдрате
+das Vitamin;вітамін;die Vitamine;food;Vitamin;вітамін;noun;вітамін
+das Mineral;мінерал;die Minerale;food;Mineral;мінерал;noun;мінераль
+der Nährstoff;поживна речовина;die Nährstoffe;food;Nährstoff;поживна речовина;noun;нерштоф
+die Kost;харчування;;food;Kost;харчування;noun;кост
+die Fettsäure;жирна кислота;die Fettsäuren;food;Fettsäure;жирна кислота;noun;фетзойре
+der Nährwert;харчова цінність;die Nährwerte;food;Nährwert;харчова цінність;noun;нерверт
+das Nahrungsmittel;харчовий продукт;die Nahrungsmittel;food;Nahrungsmittel;харчовий продукт;noun;нарунгсміттель
+die Portion;порція;die Portionen;food;Portion;порція;noun;порціон
+die Scheibe;скибка;die Scheiben;food;Scheibe;скибка;noun;шайбе
+die Kalorienzufuhr;споживання калорій;;food;Kalorie + Zufuhr;споживання калорій;noun;калорієнцуфур
+die Essgewohnheit;харчова звичка;die Essgewohnheiten;food;Essgewohnheit;харчова звичка;noun;ессґевонгайт
 das Vollkornbrot;цільнозерновий хліб;die Vollkornbrote;food;Vollkorn + Brot;цільнозерновий хліб;noun;фолькорнброт
-das Weißbrot;білий хліб;die Weißbrote;food;weiß + Brot;білий хліб;noun;вайсброт
-die Vollmilch;незбиране молоко;;food;voll + Milch;незбиране молоко;noun;фольмільх
-die Magermilch;знежирене молоко;;food;mager + Milch;знежирене молоко;noun;магермільх
-die Margarine;маргарин;;food;Margarine;маргарин;noun;маргарине
-die Süßigkeit;солодощі;die Süßigkeiten;food;süß + ig + keit;солодощі;noun;зюсіхкайт
-die Schokolade;шоколад;die Schokoladen;food;Schokolade;шоколад;noun;шоколаде
-das Müsli;мюслі;die Müslis;food;Müsli;мюслі;noun;мюслі
-die Haferflocken;вівсяні пластівці;;food;Hafer + Flocke;вівсяні пластівці;noun;хаферфлокен
-das Dressing;заправка;die Dressings;food;Dressing;заправка;noun;дресинг
-die Soße;соус;die Soßen;food;Soße;соус;noun;зосе
-die Gewürze;спеції;;food;Gewürz;спеція;noun;гевюрце
+die Gemüsesuppe;овочевий суп;die Gemüsesuppen;food;Gemüse + Suppe;овочевий суп;noun;ґемюзезуппе
+der Obstsalat;фруктовий салат;die Obstsalate;food;Obst + Salat;фруктовий салат;noun;обстзалат
+die Müslischüssel;миска для мюслі;die Müslischüsseln;food;Müsli + Schüssel;миска для мюслі;noun;мюслішюссель
+die Haferflocken;вівсяні пластівці;;food;Haferflocke;вівсяний пластівець;noun;гаферфлокен
+abnehmen;худнути;;food;abnehmen (zu nehmen);худнути;verb (separable);абнемен
+zunehmen;набирати вагу;;food;zunehmen (zu nehmen);набирати вагу;verb (separable);цунемен
+verzichten;відмовлятися;;food;verzichten;відмовлятися;verb (weak);ферціхтен
+die Hülsenfrüchte;бобові;;food;Hülsenfrucht;бобова культура;noun;гюльзенфрюхте
+der Vegetarier;вегетаріанець;die Vegetarier;food;Vegetarier;вегетаріанець;noun;веґетарієр
+der Veganer;веган;die Veganer;food;Veganer;веган;noun;веґанер
+das Gluten;глютен;;food;Gluten;глютен;noun;глютен

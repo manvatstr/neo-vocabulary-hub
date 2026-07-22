@@ -1,0 +1,138 @@
+der Bus;автобус;die Busse;travel;Bus;автобус;noun;бус
+die U-Bahn;метро;die U-Bahnen;travel;U + Bahn;підземна залізниця;noun;у-бан
+die S-Bahn;електричка;die S-Bahnen;travel;S + Bahn;міська залізниця;noun;ес-бан
+die Straßenbahn;трамвай;die Straßenbahnen;travel;Straße + Bahn;трамвай;noun;штрасенбан
+die Haltestelle;зупинка;die Haltestellen;travel;Halt + Stelle;зупинка;noun;гальтештеле
+der Bahnhof;залізничний вокзал;die Bahnhöfe;travel;Bahn + Hof;вокзал;noun;бангоф
+das Gleis;колія;die Gleise;travel;Gleis;колія;noun;гляйс
+der Bahnsteig;платформа;die Bahnsteige;travel;Bahn + Steig;платформа;noun;банштайґ
+die Fahrkarte;квиток;die Fahrkarten;travel;Fahr + Karte;квиток;noun;фаркарте
+das Ticket;квиток;die Tickets;travel;Ticket;квиток;noun;тікет
+der Fahrkartenautomat;квитковий автомат;die Fahrkartenautomaten;travel;Fahrkarte + Automat;автомат з продажу квитків;noun;фаркартенаутомат
+die Fahrkartenkontrolle;контроль квитків;die Fahrkartenkontrollen;travel;Fahrkarte + Kontrolle;перевірка квитків;noun;фаркартенконтроле
+die Verspätung;запізнення;die Verspätungen;travel;Verspätung;запізнення;noun;фершпетунг
+der Anschluss;пересадка;die Anschlüsse;travel;Anschluss;з'єднання;noun;аншлюс
+die Umsteigemöglichkeit;можливість пересадки;die Umsteigemöglichkeiten;travel;Umsteige + Möglichkeit;можливість пересадки;noun;умштайґемьоґліхкайт
+der Fahrplan;розклад;die Fahrpläne;travel;Fahr + Plan;розклад руху;noun;фарплан
+die Abfahrt;відправлення;die Abfahrten;travel;Abfahrt;від'їзд;noun;абфарт
+die Ankunft;прибуття;die Ankünfte;travel;Ankunft;прибуття;noun;анкунфт
+der Fahrgast;пасажир;die Fahrgäste;travel;Fahr + Gast;пасажир;noun;фарґаст
+das Abteil;купе;die Abteile;travel;Abteil;відділення;noun;аптайль
+der Schaffner;кондуктор;die Schaffner;travel;Schaffner;кондуктор;noun;шафнер
+die Schaffnerin;кондукторка;die Schaffnerinnen;travel;Schaffnerin;кондукторка;noun;шафнерін
+das Umsteigen;пересадка;;travel;Umsteigen;пересадка;noun;умштайґен
+das Einsteigen;посадка;;travel;Einsteigen;посадка;noun;айнштайґен
+das Aussteigen;висадка;;travel;Aussteigen;висадка;noun;аусштайґен
+die Station;станція;die Stationen;travel;Station;станція;noun;штаціон
+die Bushaltestelle;автобусна зупинка;die Bushaltestellen;travel;Bus + Haltestelle;автобусна зупинка;noun;бусгальтештеле
+die Straßenbahnhaltestelle;трамвайна зупинка;die Straßenbahnhaltestellen;travel;Straßenbahn + Haltestelle;трамвайна зупинка;noun;штрасенбангальтештеле
+die U-Bahn-Station;станція метро;die U-Bahn-Stationen;travel;U-Bahn + Station;станція метро;noun;у-бан-штаціон
+die S-Bahn-Station;станція електрички;die S-Bahn-Stationen;travel;S-Bahn + Station;станція міської залізниці;noun;ес-бан-штаціон
+die Linie;лінія;die Linien;travel;Linie;лінія;noun;лініе
+die Buslinie;автобусний маршрут;die Buslinien;travel;Bus + Linie;автобусна лінія;noun;буслініе
+der Fahrkartenschalter;каса з продажу квитків;die Fahrkartenschalter;travel;Fahrkarte + Schalter;віконце каси;noun;фаркартеншальтер
+der Waggon;вагон;die Waggons;travel;Waggon;вагон;noun;вагон
+der Zug;поїзд;die Züge;travel;Zug;потяг;noun;цуг
+der Regionalzug;регіональний поїзд;die Regionalzüge;travel;Regional + Zug;регіональний потяг;noun;реґіональцуг
+der ICE;швидкісний поїзд;die ICEs;travel;ICE;інтерсіті-експрес;noun;і-це-е
+der Intercity;міжміський поїзд;die Intercitys;travel;Intercity;інтерсіті;noun;інтерсіті
+einsteigen;заходити;;travel;einsteigen (zu steigen);сідати (у транспорт);verb (separable);айнштайґен
+aussteigen;виходити;;travel;aussteigen (zu steigen);виходити (з транспорту);verb (separable);аусштайґен
+umsteigen;пересідати;;travel;umsteigen (zu steigen);робити пересадку;verb (separable);умштайґен
+fahren;їхати;;travel;fahren;їхати;verb (strong);фарен
+abfahren;відправлятися;;travel;abfahren (zu fahren);від'їжджати;verb (separable);абфарен
+ankommen;прибувати;;travel;ankommen (zu kommen);прибувати;verb (separable);анкоммен
+verspäten;запізнюватися;;travel;verspäten;спізнюватися;verb (weak);фершпетен
+der Fahrplanwechsel;зміна розкладу;die Fahrplanwechsel;travel;Fahrplan + Wechsel;зміна розкладу;noun;фарпланвексель
+die Tageskarte;денний квиток;die Tageskarten;travel;Tag + Karte;денний проїзний;noun;таґескарте
+die Wochenkarte;тижневий квиток;die Wochenkarten;travel;Woche + Karte;тижневий проїзний;noun;вохенкарте
+pünktlich;пунктуальний;;travel;pünktlich;точний;adj;пюнктліхь
+verspätet;запізнілий;;travel;verspätet;із запізненням;adj;фершпетет
+der Dom;собор;die Dome;travel;Dom;собор;noun;дом
+das Schloss;замок;die Schlösser;travel;Schloss;замок;noun;шлос
+die Kirche;церква;die Kirchen;travel;Kirche;церква;noun;кірхе
+der Turm;вежа;die Türme;travel;Turm;вежа;noun;турм
+die Altstadt;старе місто;die Altstädte;travel;Alt + Stadt;старе місто;noun;альтштат
+der Stadtplan;план міста;die Stadtpläne;travel;Stadt + Plan;план міста;noun;штадтплан
+die Stadtführung;екскурсія по місту;die Stadtführungen;travel;Stadt + Führung;екскурсія по місту;noun;штадтфюрунг
+der Reiseführer;путівник;die Reiseführer;travel;Reise + Führer;путівник;noun;райзефюрер
+die Öffnungszeit;година роботи;die Öffnungszeiten;travel;Öffnung + Zeit;година роботи;noun;ефнунгсцайт
+der Eintritt;вхід;;travel;Eintritt;вхід;noun;айнтріт
+der Audioguide;аудіогід;die Audioguides;travel;Audio + Guide;аудіогід;noun;аудіогайд
+das Denkmal;пам'ятник;die Denkmäler;travel;Denkmal;пам'ятник;noun;денкмаль
+die Statue;статуя;die Statuen;travel;Statue;статуя;noun;штатуе
+der Brunnen;фонтан;die Brunnen;travel;Brunnen;фонтан;noun;бруннен
+der Platz;площа;die Plätze;travel;Platz;площа;noun;платц
+die Brücke;міст;die Brücken;travel;Brücke;міст;noun;брюке
+das Rathaus;ратуша;die Rathäuser;travel;Rat + Haus;ратуша;noun;ратгаус
+der Park;парк;die Parks;travel;Park;парк;noun;парк
+der Garten;сад;die Gärten;travel;Garten;сад;noun;гартен
+die Aussicht;вид;;travel;Aussicht;вид;noun;аусзіхт
+der Aussichtspunkt;оглядовий майданчик;die Aussichtspunkte;travel;Aussicht + Punkt;оглядовий майданчик;noun;аусзіхтспункт
+die Panorama;панорама;die Panoramen;travel;Panorama;панорама;noun;панорама
+der Reisebus;туристичний автобус;die Reisebusse;travel;Reise + Bus;туристичний автобус;noun;райзебус
+die Tour;тур;die Touren;travel;Tour;тур;noun;тур
+der Reiseveranstalter;туроператор;die Reiseveranstalter;travel;Reise + Veranstalter;туроператор;noun;райзеферанштальтер
+das Souvenir;сувенір;die Souvenirs;travel;Souvenir;сувенір;noun;сувенір
+die Kamera;камера;die Kameras;travel;Kamera;камера;noun;камера
+das Foto;фотографія;die Fotos;travel;Foto;фотографія;noun;фото
+der Stadtrundgang;оглядова прогулянка містом;die Stadtrundgänge;travel;Stadt + Rundgang;оглядова прогулянка містом;noun;штадтрундганг
+die Rundfahrt;оглядова поїздка;die Rundfahrten;travel;Rund + Fahrt;оглядова поїздка;noun;рундфарт
+der Reiseleiter;гід;die Reiseleiter;travel;Reise + Leiter;гід;noun;райзеляйтер
+das Bauwerk;споруда;die Bauwerke;travel;Bau + Werk;споруда;noun;бауверк
+die Kunst;мистецтво;;travel;Kunst;мистецтво;noun;кунст
+die Geschichte;історія;;travel;Geschichte;історія;noun;гешіхте
+historisch;історичний;;travel;historisch;історичний;adj;гісторіш
+sehenswert;вартий уваги;;travel;sehenswert;вартий уваги;adj;зеенсверт
+beeindruckend;вражаючий;;travel;beeindruckend;вражаючий;adj;беайндрукенд
+besichtigen;оглядати;;travel;besichtigen;оглядати;verb (weak);безіхтіген
+ansehen;дивитись;;travel;ansehen (zu sehen);дивитись;verb (separable);анзеен
+sich umsehen;оглядатися;;travel;umsehen (zu umsehen);оглядатися;verb (separable);зіх умзеен
+bewundern;захоплюватися;;travel;bewundern;захоплюватися;verb (weak);бевундерн
+die Reiseleiterin;гід (жінка);die Reiseleiterinnen;travel;Reise + Leiterin;гід (жінка);noun;райзеляйтерін
+die Sehenswürdigkeit;пам'ятка;die Sehenswürdigkeiten;travel;Sehenswürdigkeit;пам'ятка;noun;зеенсвюрдіхкайт
+der Koffer;валіза;die Koffer;travel;Koffer;валіза;noun;кофер
+die Reisetasche;дорожня сумка;die Reisetaschen;travel;Reise + Tasche;дорожня сумка;noun;райзеташе
+der Rucksack;рюкзак;die Rucksäcke;travel;Rücken + Sack;рюкзак;noun;рукзак
+die Handtasche;дамська сумка;die Handtaschen;travel;Hand + Tasche;ручна сумка;noun;хандташе
+die Tasche;сумка;die Taschen;travel;Tasche;сумка;noun;таше
+der Trolley;валіза на колесах;die Trolleys;travel;Trolley;валіза на колесах;noun;троллі
+das Gepäck;багаж;;travel;Gepäck;багаж;noun;гепек
+der Kofferanhänger;багажна бирка;die Kofferanhänger;travel;Koffer + Anhänger;бирка для валізи;noun;коферангенгер
+der Schlüssel;ключ;die Schlüssel;travel;Schlüssel;ключ;noun;шлюссель
+die Waage;ваги;die Waagen;travel;Waage;ваги;noun;вааге
+das Handgepäck;ручна поклажа;;travel;Hand + Gepäck;ручний багаж;noun;хандгепек
+die Kulturtasche;косметичка;die Kulturtaschen;travel;Kultur + Tasche;косметичка;noun;культурташе
+das Necessaire;несесер;die Necessaires;travel;Necessaire;несесер;noun;несесер
+die Kleidung;одяг;;travel;Kleidung;одяг;noun;кляйдунг
+das Hemd;сорочка;die Hemden;travel;Hemd;сорочка;noun;хемд
+die Hose;штани;die Hosen;travel;Hose;штани;noun;хозе
+das Kleid;сукня;die Kleider;travel;Kleid;сукня;noun;кляйд
+der Schuh;взуття;die Schuhe;travel;Schuh;взуття;noun;шу
+die Socke;шкарпетка;die Socken;travel;Socke;шкарпетка;noun;зоке
+die Unterwäsche;нижня білизна;;travel;unter + Wäsche;нижня білизна;noun;унтервеше
+die Jacke;куртка;die Jacken;travel;Jacke;куртка;noun;якке
+der Pullover;пуловер;die Pullover;travel;Pullover;пуловер;noun;пуловер
+die Regenjacke;дощовик;die Regenjacken;travel;Regen + Jacke;дощова куртка;noun;регенякке
+der Regenschirm;парасолька;die Regenschirme;travel;Regen + Schirm;парасолька;noun;регенширм
+die Sonnenbrille;сонцезахисні окуляри;die Sonnenbrillen;travel;Sonne + Brille;сонячні окуляри;noun;зонненбрілле
+die Badehose;плавки;die Badehosen;travel;Bad + Hose;плавки;noun;бадехозе
+das Handtuch;рушник;die Handtücher;travel;Hand + Tuch;рушник;noun;хандтух
+der Kulturbeutel;дорожній несесер;die Kulturbeutel;travel;Kultur + Beutel;несесер;noun;культурбойтель
+die Zahnpasta;зубна паста;die Zahnpasten;travel;Zahn + Pasta;зубна паста;noun;цанпаста
+die Seife;мило;die Seifen;travel;Seife;мило;noun;зайфе
+das Shampoo;шампунь;die Shampoos;travel;Shampoo;шампунь;noun;шампу
+der Kamm;гребінець;die Kämme;travel;Kamm;гребінець;noun;кам
+die Haarbürste;щітка для волосся;die Haarbürsten;travel;Haar + Bürste;щітка для волосся;noun;хаарбюрсте
+die Landkarte;географічна карта;die Landkarten;travel;Land + Karte;карта;noun;ландкарте
+der Reisepass;закордонний паспорт;die Reisepässe;travel;Reise + Pass;закордонний паспорт;noun;райзепас
+der Personalausweis;посвідчення особи;die Personalausweise;travel;Personal + Ausweis;посвідчення особи;noun;персоналаусвайс
+das Visum;віза;die Visa;travel;Visum;віза;noun;візум
+die Bordkarte;посадковий талон;die Bordkarten;travel;Bord + Karte;посадковий талон;noun;бордкарте
+das Flugticket;авіаквиток;die Flugtickets;travel;Flug + Ticket;авіаквиток;noun;флугтікет
+die Buchung;бронювання;die Buchungen;travel;Buchung;бронювання;noun;бухунг
+das Packen;пакування;;travel;Packen;пакування;noun;пакен
+einpacken;пакувати;;travel;einpacken (zu packen);пакувати;verb (separable);айнпакен
+auspacken;розпаковувати;;travel;auspacken (zu packen);розпаковувати;verb (separable);ауспакен
+der Kleidersack;чохол для одягу;die Kleidersäcke;travel;Kleid + Sack;чохол для одягу;noun;кляйдерзак
+die Reiseapotheke;дорожня аптечка;die Reiseapotheken;travel;Reise + Apotheke;дорожня аптечка;noun;райзеапотеке

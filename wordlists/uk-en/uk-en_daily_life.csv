@@ -1,157 +1,142 @@
-doctor;лікар;doctors (masculine);daily_life;doctor;лікар;noun;доктор
-nurse;медсестра;nurses (feminine);daily_life;nurse;медсестра;noun;нерс
-teacher;вчитель;teachers (masculine);daily_life;teacher;вчитель;noun;тічер
-engineer;інженер;engineers (masculine);daily_life;engineer;інженер;noun;енджинір
-lawyer;юрист;lawyers (masculine);daily_life;lawyer;юрист;noun;лоєр
-accountant;бухгалтер;accountants (masculine);daily_life;accountant;бухгалтер;noun;екаунтент
-manager;менеджер;managers (masculine);daily_life;manager;менеджер;noun;менеджер
-secretary;секретарка;secretaries (feminine);daily_life;secretary;секретарка;noun;секретері
-company;компанія;companies (feminine);daily_life;company;компанія;noun;кампані
-factory;завод;factories (masculine);daily_life;factory;завод;noun;факторі
-university;університет;universities (masculine);daily_life;university;університет;noun;юніверсіті
-interview;співбесіда;interviews (feminine);daily_life;interview;співбесіда;noun;інтерв’ю
-resume;резюме;resumes (neuter);daily_life;resume;резюме;noun;резюмей
-salary;зарплата;salaries (feminine);daily_life;salary;зарплата;noun;селері
-colleague;колега;colleagues (common gender);daily_life;colleague;колега;noun;коліг
-boss;начальник;bosses (masculine);daily_life;boss;начальник;noun;бос
-employee;працівник;employees (masculine);daily_life;employee;працівник;noun;імплойі
-employer;роботодавець;employers (masculine);daily_life;employer;роботодавець;noun;імплоєр
-customer;клієнт;customers (masculine);daily_life;customer;клієнт;noun;кастомер
-client;клієнт;clients (masculine);daily_life;client;клієнт;noun;клаєнт
-meeting;зустріч;meetings (feminine);daily_life;meeting;зустріч;noun;мітинг
-project;проєкт;projects (masculine);daily_life;project;проєкт;noun;проджект
-deadline;дедлайн;deadlines (masculine);daily_life;deadline;дедлайн;noun;дедлайн
-presentation;презентація;presentations (feminine);daily_life;presentation;презентація;noun;презентейшн
-report;звіт;reports (masculine);daily_life;report;звіт;noun;рипорт
-computer;комп’ютер;computers (masculine);daily_life;computer;комп’ютер;noun;комп’ютер
-telephone;телефон;telephones (masculine);daily_life;telephone;телефон;noun;телефон
-email;електронна пошта;emails (feminine);daily_life;email;електронна пошта;noun;імейл
-apply;подавати заявку;;daily_life;apply;подавати заявку (imperfective);verb;еплай
-hire;наймати;;daily_life;hire;наймати (imperfective);verb;хайєр
-fire;звільняти;;daily_life;fire;звільняти (imperfective);verb;файєр
-resign;звільнятися;;daily_life;resign;звільнятися (imperfective);verb;ризайн
-retire;виходити на пенсію;;daily_life;retire;виходити на пенсію (imperfective);verb;ритайєр
-profession;професія;professions (feminine);daily_life;profession;професія;noun;профешн
-career;кар’єра;careers (feminine);daily_life;career;кар’єра;noun;кар’їр
-shift;зміна;shifts (feminine);daily_life;shift;зміна;noun;шифт
-factory worker;робітник заводу;factory workers (masculine);daily_life;factory worker;робітник заводу;noun;факторі воркер
-farmer;фермер;farmers (masculine);daily_life;farmer;фермер;noun;фармер
-police officer;поліцейський;police officers (masculine);daily_life;police officer;поліцейський;noun;поліс офісер
-firefighter;пожежник;firefighters (masculine);daily_life;firefighter;пожежник;noun;файрфайтер
-chef;шеф-кухар;chefs (masculine);daily_life;chef;шеф-кухар;noun;шеф
-journalist;журналіст;journalists (masculine);daily_life;journalist;журналіст;noun;джурналіст
-keyboard;клавіатура;keyboards (feminine);daily_life;keyboard;клавіатура;noun;кіборд
-mouse;миша;mice (feminine);daily_life;mouse;миша;noun;маус
-monitor;монітор;monitors (masculine);daily_life;monitor;монітор;noun;монітор
-printer;принтер;printers (masculine);daily_life;printer;принтер;noun;принтер
-stapler;степлер;staplers (masculine);daily_life;stapler;степлер;noun;стейплер
-paper;папір;paper (uncountable);daily_life;paper;папір;noun;пейпер
-pen;ручка;pens (feminine);daily_life;pen;ручка;noun;пен
-pencil;олівець;pencils (masculine);daily_life;pencil;олівець;noun;пенсил
-notebook;зошит;notebooks (masculine);daily_life;notebook;зошит;noun;ноутбук
-calendar;календар;calendars (masculine);daily_life;calendar;календар;noun;календар
-file;файл;files (masculine);daily_life;file;файл;noun;файл
-folder;папка;folders (feminine);daily_life;folder;папка;noun;фолдер
-cabinet;шафа;cabinets (feminine);daily_life;cabinet;шафа;noun;кабінет
-drawer;шухляда;drawers (feminine);daily_life;drawer;шухляда;noun;дроер
-whiteboard;біла дошка;whiteboards (feminine);daily_life;whiteboard;біла дошка;noun;вайтборд
-marker;маркер;markers (masculine);daily_life;marker;маркер;noun;маркер
-eraser;гумка;erasers (feminine);daily_life;eraser;гумка;noun;ірейзер
-cubicle;кабінка;cubicles (feminine);daily_life;cubicle;кабінка;noun;к'юбікл
-task;завдання;tasks (neuter);daily_life;task;завдання;noun;таск
-document;документ;documents (masculine);daily_life;document;документ;noun;док'юмент
-spreadsheet;електронна таблиця;spreadsheets (feminine);daily_life;spreadsheet;електронна таблиця;noun;спредшит
-type;друкувати;;daily_life;type;друкувати (imperfective);verb;тайп
-print;роздруковувати;;daily_life;print;роздруковувати (imperfective);verb;принт
-copy;копіювати;;daily_life;copy;копіювати (imperfective);verb;копі
-schedule;планувати;;daily_life;schedule;планувати (imperfective);verb;скеджул
-discuss;обговорювати;;daily_life;discuss;обговорювати (imperfective);verb;дискас
-write;писати;;daily_life;write;писати (imperfective);verb;райт
-busy;зайнятий;;daily_life;busy;зайнятий;adj;бізі
-important;важливий;;daily_life;important;важливий;adj;імпортант
-urgent;терміновий;;daily_life;urgent;терміновий;adj;урджент
-cover letter;супровідний лист;cover letters (masculine);daily_life;cover letter;супровідний лист;noun;кавер летер
-applicant;кандидат;applicants (masculine);daily_life;applicant;кандидат;noun;еплікант
-wage;заробітна плата;wages (feminine);daily_life;wage;заробітна плата;noun;вейдж
-experience;досвід;experience (uncountable);daily_life;experience;досвід;noun;ікспіріенс
-skill;навичка;skills (feminine);daily_life;skill;навичка;noun;скіл
-qualification;кваліфікація;qualifications (feminine);daily_life;qualification;кваліфікація;noun;кволіфікейшн
-training;навчання;training (uncountable);daily_life;training;навчання;noun;трейнінг
-vacancy;вакансія;vacancies (feminine);daily_life;vacancy;вакансія;noun;вейкансі
-application form;анкета;application forms (feminine);daily_life;application form;анкета;noun;еплікейшн форм
-reference;рекомендація;references (feminine);daily_life;reference;рекомендація;noun;референс
-probation period;випробувальний термін;probation periods (masculine);daily_life;probation period;випробувальний термін;noun;пробейшн піріод
-promotion;підвищення;promotions (neuter);daily_life;promotion;підвищення;noun;промоушн
-dismissal;звільнення;dismissals (neuter);daily_life;dismissal;звільнення;noun;дисмісал
-unemployment;безробіття;unemployment (uncountable);daily_life;unemployment;безробіття;noun;анемплоймент
-job advertisement;оголошення про роботу;job advertisements (neuter);daily_life;job advertisement;оголошення про роботу;noun;джоб адвертайзмент
-trade;ремесло;trades (neuter);daily_life;trade;ремесло;noun;трейд
-occupation;заняття;occupations (neuter);daily_life;occupation;заняття;noun;ок'юпейшн
-full-time;штатний;;daily_life;full-time;штатний;adj;фул-тайм
-part-time;частково зайнятий;;daily_life;part-time;частково зайнятий;adj;парт-тайм
-overtime;понаднормова робота;overtime (uncountable);daily_life;overtime;понаднормова робота;noun;овертайм
-freelance;фріланс;freelance (uncountable);daily_life;freelance;фріланс;noun;фріланс
-job fair;ярмарок вакансій;job fairs (masculine);daily_life;job fair;ярмарок вакансій;noun;джоб фер
-networking;нетворкінг;networking (uncountable);daily_life;networking;нетворкінг;noun;нетворкінг
-interview question;питання на співбесіді;interview questions (neuter);daily_life;interview question;питання на співбесіді;noun;інтерв'ю квесчен
-job offer;пропозиція роботи;job offers (feminine);daily_life;job offer;пропозиція роботи;noun;джоб офер
-rejection;відмова;rejections (feminine);daily_life;rejection;відмова;noun;ріджекшн
-acceptance;прийняття;acceptances (neuter);daily_life;acceptance;прийняття;noun;аксептенс
-notice period;термін попередження;notice periods (masculine);daily_life;notice period;термін попередження;noun;нотіс піріод
-reference letter;рекомендаційний лист;reference letters (masculine);daily_life;reference letter;рекомендаційний лист;noun;референс летер
-temporary job;тимчасова робота;temporary jobs (feminine);daily_life;temporary job;тимчасова робота;noun;темпорарі джоб
-permanent job;постійна робота;permanent jobs (feminine);daily_life;permanent job;постійна робота;noun;перманент джоб
-self-employed;самозайнятий;;daily_life;self-employed;самозайнятий;adj;селф-імплойд
-earn;заробляти;;daily_life;earn;заробляти (imperfective);verb;ерн
-train;навчати;;daily_life;train;навчати (imperfective);verb;трейн
-commute;їздити на роботу;;daily_life;commute;їздити на роботу (imperfective);verb;кам'ют
-зустріч;meeting;meetings (feminine);daily_life;зустріч;meeting;noun;мітинг
-колега;colleague;colleagues (feminine);daily_life;колега;colleague;noun;коліг
-офіс;office;offices (masculine);daily_life;офіс;office;noun;офіс
-електронний лист;email;emails (masculine);daily_life;електронний лист;email;noun;імейл
-завдання;task;tasks (neuter);daily_life;завдання;task;noun;таск
-проект;project;projects (masculine);daily_life;проект;project;noun;проджект
-крайній термін;deadline;deadlines (masculine);daily_life;крайній термін;deadline;noun;дедлайн
-звіт;report;reports (masculine);daily_life;звіт;report;noun;ріпорт
-презентація;presentation;presentations (feminine);daily_life;презентація;presentation;noun;презентейшн
-зарплата;salary;salaries (feminine);daily_life;зарплата;salary;noun;селері
-договір;contract;contracts (masculine);daily_life;договір;contract;noun;контракт
-менеджер;manager;managers (masculine);daily_life;менеджер;manager;noun;менеджер
-співробітник;employee;employees (masculine);daily_life;співробітник;employee;noun;імплойі
-клієнт;client;clients (masculine);daily_life;клієнт;client;noun;клаєнт
-документ;document;documents (masculine);daily_life;документ;document;noun;док'юмент
-комп'ютер;computer;computers (masculine);daily_life;комп'ютер;computer;noun;комп'ютер
-телефон;phone;phones (masculine);daily_life;телефон;phone;noun;фон
-повідомлення;message;messages (neuter);daily_life;повідомлення;message;noun;меседж
-дзвінок;call;calls (masculine);daily_life;дзвінок;call;noun;кол
-конференц-зал;meeting room;meeting rooms (masculine);daily_life;конференц-зал;meeting room;noun;конференс рум
-працювати;work;;daily_life;працювати;work (imperfective);verb;ворк
-писати;write;;daily_life;писати;write (imperfective);verb;райт
-відправляти;send;;daily_life;відправляти;send (imperfective);verb;сенд
-отримувати;receive;;daily_life;отримувати;receive (imperfective);verb;рісів
-обговорювати;discuss;;daily_life;обговорювати;discuss (imperfective);verb;діскас
-планувати;plan;;daily_life;планувати;plan (imperfective);verb;план
-організовувати;organize;;daily_life;організовувати;organize (imperfective);verb;організ
-готувати;prepare;;daily_life;готувати;prepare (imperfective);verb;пріпер
-перевіряти;check;;daily_life;перевіряти;check (imperfective);verb;чек
-питати;ask;;daily_life;питати;ask (imperfective);verb;аск
-відповідати;answer;;daily_life;відповідати;answer (imperfective);verb;ансер
-телефонувати;call;;daily_life;телефонувати;call (imperfective);verb;кол
-зустрічатися;meet;;daily_life;зустрічатися;meet (imperfective);verb;міт
-важливий;important;;daily_life;важливий;important;adj;імпортант
-терміновий;urgent;;daily_life;терміновий;urgent;adj;ерджент
-офіційний;official;;daily_life;офіційний;official;adj;офішл
-електронний;electronic;;daily_life;електронний;electronic;adj;електронік
-щоденний;daily;;daily_life;щоденний;daily;adj;дейлі
-щотижневий;weekly;;daily_life;щотижневий;weekly;adj;віклі
-розклад;schedule;schedules (masculine);daily_life;розклад;schedule;noun;шедюл
-перерва;break;breaks (feminine);daily_life;перерва;break;noun;брейк
-обід;lunch;lunches (masculine);daily_life;обід;lunch;noun;ланч
-запис;note;notes (masculine);daily_life;запис;note;noun;ноут
-підпис;signature;signatures (masculine);daily_life;підпис;signature;noun;сігнічер
-заява;application;applications (feminine);daily_life;заява;application;noun;аплікейшн
-співбесіда;interview;interviews (feminine);daily_life;співбесіда;interview;noun;інтерв'ю
-команда;team;teams (feminine);daily_life;команда;team;noun;тім
-відгук;feedback;feedbacks (masculine);daily_life;відгук;feedback;noun;фідбек
-співпрацювати;collaborate;;daily_life;співпрацювати;collaborate (imperfective);verb;колаборейт
-погоджуватися;agree;;daily_life;погоджуватися;agree (imperfective);verb;егрі
+job;робота;robota / f.;daily_life;job;робота;noun;
+work;праця;pratsya / f.;daily_life;work;праця;noun;
+profession;професія;profesiya / f.;daily_life;profession;професія;noun;
+career;кар'єра;kariera / f.;daily_life;career;кар'єра;noun;
+boss;начальник;nachalnyk / m.;daily_life;boss;начальник;noun;
+employee;працівник;pratsivnyk / m.;daily_life;employee;працівник;noun;
+employer;роботодавець;robotodavets / m.;daily_life;employer;роботодавець;noun;
+office;офіс;ofis / m.;daily_life;office;офіс;noun;
+meeting;нарада;narada / f.;daily_life;meeting;нарада;noun;
+salary;зарплата;zarplata / f.;daily_life;salary;зарплата;noun;
+wage;заробіток;zarobitok / m.;daily_life;wage;заробіток;noun;
+interview;співбесіда;spivbesida / f.;daily_life;interview;співбесіда;noun;
+resume;резюме;rezyume / n.;daily_life;resume;резюме;noun;
+application;заява;zayava / f.;daily_life;application;заява;noun;
+promotion;підвищення;pidvyshchennya / n.;daily_life;promotion;підвищення;noun;
+task;завдання;zavdannya / n.;daily_life;task;завдання;noun;
+deadline;дедлайн;dedlain / m.;daily_life;deadline;дедлайн;noun;
+project;проект;proekt / m.;daily_life;project;проект;noun;
+team;команда;komanda / f.;daily_life;team;команда;noun;
+client;клієнт;kliyent / m.;daily_life;client;клієнт;noun;
+customer;покупець;pokupets / m.;daily_life;customer;покупець;noun;
+business;бізнес;biznes / m.;daily_life;business;бізнес;noun;
+company;компанія;kompaniya / f.;daily_life;company;компанія;noun;
+firm;фірма;firma / f.;daily_life;firm;фірма;noun;
+factory;завод;zavod / m.;daily_life;factory;завод;noun;
+clerk;службовець;sluzhbovets / m.;daily_life;clerk;службовець;noun;
+manager;менеджер;menedzher / m.;daily_life;manager;менеджер;noun;
+director;директор;dyrektor / m.;daily_life;director;директор;noun;
+secretary;секретар;sekretar / m.;daily_life;secretary;секретар;noun;
+accountant;бухгалтер;bukhhalter / m.;daily_life;accountant;бухгалтер;noun;
+lawyer;юрист;yuryst / m.;daily_life;lawyer;юрист;noun;
+doctor;лікар;likar / m.;daily_life;doctor;лікар;noun;
+nurse;медсестра;medsestra / f.;daily_life;nurse;медсестра;noun;
+teacher;вчитель;vchytel / m.;daily_life;teacher;вчитель;noun;
+engineer;інженер;inzhener / m.;daily_life;engineer;інженер;noun;
+programmer;програміст;prohramist / m.;daily_life;programmer;програміст;noun;
+designer;дизайнер;dyzainer / m.;daily_life;designer;дизайнер;noun;
+journalist;журналіст;zhurnalist / m.;daily_life;journalist;журналіст;noun;
+artist;художник;khudozhnyk / m.;daily_life;artist;художник;noun;
+musician;музикант;muzykant / m.;daily_life;musician;музикант;noun;
+worker;робітник;robitnyk / m.;daily_life;worker;робітник;noun;
+unemployed;безробітний;bezrobitnyi;daily_life;unemployed;безробітний;adj;
+earn;заробляти;zaroblyaty;daily_life;earn;заробляти (imperfective);verb;
+hire;наймати;naimaty;daily_life;hire;наймати (imperfective);verb;
+fire;звільняти;zvilnyaty;daily_life;fire;звільняти (imperfective);verb;
+employ;працевлаштовувати;pratsevlashtovuvaty;daily_life;employ;працевлаштовувати (imperfective);verb;
+computer;комп'ютер;komp'yuter / m.;daily_life;computer;комп'ютер;noun;
+keyboard;клавіатура;klaviatura / f.;daily_life;keyboard;клавіатура;noun;
+mouse;миша;mysha / f.;daily_life;mouse;миша;noun;
+monitor;монітор;monitor / m.;daily_life;monitor;монітор;noun;
+printer;принтер;prynter / m.;daily_life;printer;принтер;noun;
+phone;телефон;telefon / m.;daily_life;phone;телефон;noun;
+stapler;степлер;stepler / m.;daily_life;stapler;степлер;noun;
+paper;папір;papir / m. unc.;daily_life;paper;папір;noun;
+pen;ручка;ruchka / f.;daily_life;pen;ручка;noun;
+pencil;олівець;olivets' / m.;daily_life;pencil;олівець;noun;
+notebook;зошит;zoshyt / m.;daily_life;notebook;зошит;noun;
+folder;папка;papka / f.;daily_life;folder;папка;noun;
+report;звіт;zvit / m.;daily_life;report;звіт;noun;
+email;імейл;imeyl / m.;daily_life;email;імейл;noun;
+appointment;призначення;pryznachennya / n.;daily_life;appointment;призначення;noun;
+break;перерва;pererva / f.;daily_life;break;перерва;noun;
+coffee;кава;kava / f.;daily_life;coffee;кава;noun;
+file;файл;fayl / m.;daily_life;file;файл;noun;
+document;документ;dokument / m.;daily_life;document;документ;noun;
+spreadsheet;електронна таблиця;elektronna tablytsya / f.;daily_life;spreadsheet;електронна таблиця;noun;
+presentation;презентація;prezentatsiya / f.;daily_life;presentation;презентація;noun;
+whiteboard;біла дошка;bila doshka / f.;daily_life;whiteboard;біла дошка;noun;
+marker;маркер;marker / m.;daily_life;marker;маркер;noun;
+note;нотатка;notatka / f.;daily_life;note;нотатка;noun;
+calendar;календар;kalendar / m.;daily_life;calendar;календар;noun;
+message;повідомлення;povidomlennya / n.;daily_life;message;повідомлення;noun;
+copy;копія;kopiya / f.;daily_life;copy;копія;noun;
+drawer;шухляда;shukhlyada / f.;daily_life;drawer;шухляда;noun;
+write;писати;pysaty;daily_life;write;писати (imperfective);verb;
+print;друкувати;drukuvaty;daily_life;print;друкувати (imperfective);verb;
+send;надсилати;nadsylaty;daily_life;send;надсилати (imperfective);verb;
+call;телефонувати;telefonuvaty;daily_life;call;телефонувати (imperfective);verb;
+cover letter;супровідний лист;suprovidnyi lyst / m.;daily_life;cover letter;супровідний лист;noun;
+vacancy;вакансія;vakansiya / f.;daily_life;vacancy;вакансія;noun;
+applicant;претендент;pretendent / m.;daily_life;applicant;претендент;noun;
+experience;досвід;dosvid / m.;daily_life;experience;досвід;noun;
+skill;навичка;navychka / f.;daily_life;skill;навичка;noun;
+qualification;кваліфікація;kvalifikatsiya / f.;daily_life;qualification;кваліфікація;noun;
+reference;рекомендація;rekomendatsiya / f.;daily_life;reference;рекомендація;noun;
+probation period;випробувальний термін;vyprobuval'nyi termin / m.;daily_life;probation period;випробувальний термін;noun;
+unemployment;безробіття;bezrobittya / n.;daily_life;unemployment;безробіття;noun;
+apply;подавати заяву;podavaty zayavu;daily_life;apply;подавати заяву (imperfective);verb;
+job offer;пропозиція роботи;propozytsiya roboty / f.;daily_life;job offer;пропозиція роботи;noun;
+full-time job;повна зайнятість;povna zaynyatist' / f.;daily_life;full-time job;повна зайнятість;noun;
+part-time job;часткова зайнятість;chastkova zaynyatist' / f.;daily_life;part-time job;часткова зайнятість;noun;
+temporary job;тимчасова робота;tymchasova robota / f.;daily_life;temporary job;тимчасова робота;noun;
+permanent job;постійна робота;postiyna robota / f.;daily_life;permanent job;постійна робота;noun;
+remote work;віддалена робота;viddalena robota / f.;daily_life;remote work;віддалена робота;noun;
+commute;їздити на роботу;yizdyty na robotu;daily_life;commute;їздити на роботу (imperfective);verb;
+job fair;ярмарок вакансій;yarmarok vakansiy / m.;daily_life;job fair;ярмарок вакансій;noun;
+networking;нетворкінг;netvorkinh / m.;daily_life;networking;нетворкінг;noun;
+recruiter;рекрутер;rekruter / m.;daily_life;recruiter;рекрутер;noun;
+headhunter;хедхантер;khedkhanter / m.;daily_life;headhunter;хедхантер;noun;
+application form;анкета;anketa / f.;daily_life;application form;анкета;noun;
+rejection letter;лист-відмова;lyst-vidmova / m.;daily_life;rejection letter;лист-відмова;noun;
+acceptance letter;лист-згода;lyst-zghoda / m.;daily_life;acceptance letter;лист-згода;noun;
+benefit;пільга;pil'ha / f.;daily_life;benefit;пільга;noun;
+pension;пенсія;pensiya / f.;daily_life;pension;пенсія;noun;
+overtime;понаднормова робота;ponadnormova robota / f.;daily_life;overtime;понаднормова робота;noun;
+training;навчання;navchannya / n.;daily_life;training;навчання;noun;
+apprenticeship;стажування;stazhuvannya / n.;daily_life;apprenticeship;стажування;noun;
+employment;зайнятість;zainyatist' / f.;daily_life;employment;зайнятість;noun;
+job search;пошук роботи;poshuk roboty / m.;daily_life;job search;пошук роботи;noun;
+competition;конкурс;konkurs / m.;daily_life;competition;конкурс;noun;
+work permit;дозвіл на роботу;dozvil na robotu / m.;daily_life;work permit;дозвіл на роботу;noun;
+feedback;зворотний зв'язок;zvorotnyi zv'yazok / m.;daily_life;feedback;зворотний зв'язок;noun;
+memo;службова записка;sluzhbova zapyska / f.;daily_life;memo;службова записка;noun;
+phone call;телефонний дзвінок;telefonnyi dzvinok / m.;daily_life;phone call;телефонний дзвінок;noun;
+chat;чат;chat / m.;daily_life;chat;чат;noun;
+video conference;відеоконференція;videokonferentsiya / f.;daily_life;video conference;відеоконференція;noun;
+slide;слайд;slayd / m.;daily_life;slide;слайд;noun;
+agenda;порядок денний;poryadok dennyi / m.;daily_life;agenda;порядок денний;noun;
+minutes;протокол;protokol / m.;daily_life;minutes;протокол;noun;
+discussion;обговорення;obhovorennya / n.;daily_life;discussion;обговорення;noun;
+collaboration;співпраця;spivpratsya / f.;daily_life;collaboration;співпраця;noun;
+communication;комунікація;komunikatsiya / f.;daily_life;communication;комунікація;noun;
+attachment;вкладення;vkladennya / n.;daily_life;attachment;вкладення;noun;
+greeting;привітання;pryvitannya / n.;daily_life;greeting;привітання;noun;
+farewell;прощання;proshchannya / n.;daily_life;farewell;прощання;noun;
+request;прохання;prokhannya / n.;daily_life;request;прохання;noun;
+apology;вибачення;vybachennya / n.;daily_life;apology;вибачення;noun;
+gratitude;подяка;podyaka / f.;daily_life;gratitude;подяка;noun;
+confirmation;підтвердження;pidtverdzhennya / n.;daily_life;confirmation;підтвердження;noun;
+reminder;нагадування;nahaduvannya / n.;daily_life;reminder;нагадування;noun;
+communicate;спілкуватися;spilkuvatysya;daily_life;communicate;спілкуватися (imperfective);verb;
+receive;отримувати;otrymuvaty;daily_life;receive;отримувати (imperfective);verb;
+reply;відповідати;vidpovidaty;daily_life;reply;відповідати (imperfective);verb;
+discuss;обговорювати;obhovoryuvaty;daily_life;discuss;обговорювати (imperfective);verb;
+present;презентувати;prezentuvaty;daily_life;present;презентувати (imperfective);verb;
+confirm;підтверджувати;pidtverdzhyvaty;daily_life;confirm;підтверджувати (imperfective);verb;
+apologize;вибачатися;vybachatysya;daily_life;apologize;вибачатися (imperfective);verb;
+thank;дякувати;dyakuvaty;daily_life;thank;дякувати (imperfective);verb;
+invite;запрошувати;zaproshuvaty;daily_life;invite;запрошувати (imperfective);verb;
+attend;відвідувати;vidviduvaty;daily_life;attend;відвідувати (imperfective);verb;
+collaborate;співпрацювати;spivpratsyuvaty;daily_life;collaborate;співпрацювати (imperfective);verb;
+lead;керувати;keruvaty;daily_life;lead;керувати (imperfective);verb;

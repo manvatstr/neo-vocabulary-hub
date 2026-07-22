@@ -1,115 +1,147 @@
 der Beruf;професія;die Berufe;daily_life;Beruf;професія;noun;беруф
-der Job;робота;die Jobs;daily_life;Job;робота;noun;джоб
-die Stelle;посада;die Stellen;daily_life;Stelle;посада;noun;штеле
+der Job;робота;die Jobs;daily_life;Job;робота;noun;йоб
+der Kollege;колега;die Kollegen;daily_life;Kollege;колега;noun;колеґе
 die Firma;фірма;die Firmen;daily_life;Firma;фірма;noun;фірма
-der Chef;керівник;die Chefs;daily_life;Chef;керівник;noun;шеф
-der Angestellte;службовець;die Angestellten;daily_life;Angestellte;службовець;noun;анґештельте
-der Arbeiter;робітник;die Arbeiter;daily_life;Arbeiter;робітник;noun;арбайтера
-der Handwerker;ремісник;die Handwerker;daily_life;Handwerker;ремісник;noun;гандверкера
-der Lehrer;вчитель;die Lehrer;daily_life;Lehrer;вчитель;noun;лерера
-der Arzt;лікар;die Ärzte;daily_life;Arzt;лікар;noun;арцт
-die Krankenschwester;медсестра;die Krankenschwestern;daily_life;Krankenschwester;медсестра;noun;кранкеншвеста
-der Polizist;поліцейський;die Polizisten;daily_life;Polizist;поліцейський;noun;поліціст
-der Feuerwehrmann;пожежник;die Feuerwehrmänner;daily_life;Feuerwehrmann;пожежник;noun;фоєрверман
-der Verkäufer;продавець;die Verkäufer;daily_life;Verkäufer;продавець;noun;феркойфера
-der Kellner;офіціант;die Kellner;daily_life;Kellner;офіціант;noun;кельнера
-der Koch;кухар;die Köche;daily_life;Koch;кухар;noun;кох
-der Friseur;перукар;die Friseure;daily_life;Friseur;перукар;noun;фрізьор
-der Mechaniker;механік;die Mechaniker;daily_life;Mechaniker;механік;noun;механікера
-der Ingenieur;інженер;die Ingenieure;daily_life;Ingenieur;інженер;noun;інженіор
-der Programmierer;програміст;die Programmierer;daily_life;Programmierer;програміст;noun;програмірера
-der Designer;дизайнер;die Designer;daily_life;Designer;дизайнер;noun;дізайнера
-der Architekt;архітектор;die Architekten;daily_life;Architekt;архітектор;noun;архітект
-der Anwalt;адвокат;die Anwälte;daily_life;Anwalt;адвокат;noun;анвальт
-der Richter;суддя;die Richter;daily_life;Richter;суддя;noun;ріхьта
-der Journalist;журналіст;die Journalisten;daily_life;Journalist;журналіст;noun;журналіст
-der Fotograf;фотограф;die Fotografen;daily_life;Fotograf;фотограф;noun;фотограф
-der Musiker;музикант;die Musiker;daily_life;Musiker;музикант;noun;музікера
-der Schauspieler;актор;die Schauspieler;daily_life;Schauspieler;актор;noun;шаушпілера
-der Sänger;співак;die Sänger;daily_life;Sänger;співак;noun;зенґера
-der Politiker;політик;die Politiker;daily_life;Politiker;політик;noun;політікера
-der Beamte;державний службовець;die Beamten;daily_life;Beamte;державний службовець;noun;беамте
-der Unternehmer;підприємець;die Unternehmer;daily_life;Unternehmer;підприємець;noun;унтернемера
-der Selbstständige;самозайнятий;die Selbstständigen;daily_life;Selbstständige;самозайнятий;noun;зельбштендіґе
-die Teilzeit;неповний робочий день;;daily_life;Teilzeit;неповний робочий день;noun;тайльцайт
-die Vollzeit;повний робочий день;;daily_life;Vollzeit;повний робочий день;noun;фольцайт
-die Überstunde;понаднормова година;die Überstunden;daily_life;Überstunde;понаднормова година;noun;юберштунде
-das Gehalt;зарплата;die Gehälter;daily_life;Gehalt;зарплата;noun;гегальт
-der Lohn;заробітна плата;die Löhne;daily_life;Lohn;заробітна плата;noun;льон
-der Urlaub;відпустка;die Urlaube;daily_life;Urlaub;відпустка;noun;урлауб
-die Rente;пенсія;die Renten;daily_life;Rente;пенсія;noun;ренте
-die Bewerbung;заява на роботу;die Bewerbungen;daily_life;Bewerbung;заява на роботу;noun;бевербунґ
-das Vorstellungsgespräch;співбесіда;die Vorstellungsgespräche;daily_life;Vorstellungsgespräch;співбесіда;noun;форштельунґсґешпрехь
-der Lebenslauf;резюме;die Lebensläufe;daily_life;Lebenslauf;резюме;noun;лебенслауф
-das Zeugnis;свідоцтво;die Zeugnisse;daily_life;Zeugnis;свідоцтво;noun;цойґніс
-die Ausbildung;освіта;die Ausbildungen;daily_life;Ausbildung;освіта;noun;аусбільдунґ
-das Studium;навчання у виші;die Studien;daily_life;Studium;навчання у виші;noun;штудіум
-das Praktikum;практика;die Praktika;daily_life;Praktikum;практика;noun;практікум
-der Computer;комп'ютер;die Computer;daily_life;Computer;комп'ютер;noun;комп'ютер
-die Tastatur;клавіатура;die Tastaturen;daily_life;Tastatur;клавіатура;noun;тастатур
-der Bildschirm;монітор;die Bildschirme;daily_life;Bild + Schirm;екран;noun;більдшірм
-der Drucker;принтер;die Drucker;daily_life;drucken (Drucker);принтер;noun;друкер
-die Maus;миша;die Mäuse;daily_life;Maus;миша;noun;маус
-das Telefon;телефон;die Telefone;daily_life;Telefon;телефон;noun;телефон
-das Handy;мобільний телефон;die Handys;daily_life;Handy;мобільний телефон;noun;хенді
-der Kugelschreiber;кулькова ручка;die Kugelschreiber;daily_life;Kugel + Schreiber;кулькова ручка;noun;кугельшрайбер
-der Bleistift;олівець;die Bleistifte;daily_life;Blei + Stift;олівець;noun;блайштифт
-der Notizblock;блокнот;die Notizblöcke;daily_life;Notiz + Block;блокнот;noun;нотіцблок
-das Papier;папір;;daily_life;Papier;папір;noun;папір
-der Hefter;степлер;die Hefter;daily_life;heften (Hefter);степлер;noun;гефтер
-die Schere;ножиці;die Scheren;daily_life;Schere;ножиці;noun;шере
-die Büroklammer;скріпка;die Büroklammern;daily_life;Büro + Klammer;скріпка;noun;бюрокламмер
-der Ordner;папка-файл;die Ordner;daily_life;ordnen (Ordner);папка;noun;орднер
-der Kalender;календар;die Kalender;daily_life;Kalender;календар;noun;календер
-die Besprechung;нарада;die Besprechungen;daily_life;besprechen (Besprechung);нарада;noun;бешпрехунг
+der Chef;начальник;die Chefs;daily_life;Chef;начальник;noun;шеф
 der Kunde;клієнт;die Kunden;daily_life;Kunde;клієнт;noun;кунде
-die E-Mail;електронна пошта;die E-Mails;daily_life;E-Mail;електронна пошта;noun;і-мейл
-der Termin;термін;die Termine;daily_life;Termin;термін;noun;термін
-die Aufgabe;завдання;die Aufgaben;daily_life;auf + Gabe;завдання;noun;ауфґабе
-das Projekt;проект;die Projekte;daily_life;Projekt;проект;noun;проект
-die Präsentation;презентація;die Präsentationen;daily_life;Präsentation;презентація;noun;презентаціон
-der Bericht;звіт;die Berichte;daily_life;berichten (Bericht);звіт;noun;беріхт
-die Rechnung;рахунок;die Rechnungen;daily_life;rechnen (Rechnung);рахунок;noun;рехнунг
-der Vertrag;договір;die Verträge;daily_life;ver + trag (vertragen);договір;noun;фертраґ
-die Pause;перерва;die Pausen;daily_life;Pause;перерва;noun;паузе
-die Kaffeemaschine;кавоварка;die Kaffeemaschinen;daily_life;Kaffee + Maschine;кавоварка;noun;кафеемашіне
-der Wasserspender;кулер для води;die Wasserspender;daily_life;Wasser + Spender;кулер для води;noun;вассершпендер
-der Aufzug;ліфт;die Aufzüge;daily_life;auf + Zug;ліфт;noun;ауфцуґ
-die Treppe;сходи;die Treppen;daily_life;Treppe;сходи;noun;треппе
-die Etage;поверх;die Etagen;daily_life;Etage;поверх;noun;етаже
-die Tür;двері;die Türen;daily_life;Tür;двері;noun;тюр
-das Fenster;вікно;die Fenster;daily_life;Fenster;вікно;noun;фенстер
-der Papierkorb;кошик для паперу;die Papierkörbe;daily_life;Papier + Korb;кошик для паперу;noun;папіркорб
-das Schwarze Brett;дошка оголошень;die Schwarzen Bretter;daily_life;schwarz + Brett;дошка оголошень;noun;шварце брет
-das Whiteboard;біла дошка;die Whiteboards;daily_life;white + board;біла дошка;noun;вайтборд
-die Haftnotiz;липка нотатка;die Haftnotizen;daily_life;Haft + Notiz;липка нотатка;noun;гафтнотіц
-die Agenda;порядок денний;die Agenden;daily_life;Agenda;порядок денний;noun;аґенда
-die Telefonnummer;номер телефону;die Telefonnummern;daily_life;Telefon + Nummer;номер телефону;noun;телефоннуммер
-arbeiten;працювати;;daily_life;arbeiten;працювати;verb (weak);арбайтен
-die Chefin;начальниця;die Chefinnen;daily_life;Chefin;начальниця;noun;шефін
-das Meeting;зустріч;die Meetings;daily_life;Meeting;зустріч;noun;мітинґ
-die Frist;термін;die Fristen;daily_life;Frist;термін;noun;фріст
-die Deadline;кінцевий термін;die Deadlines;daily_life;Deadline;кінцевий термін;noun;дедлайн
-der Anruf;дзвінок;die Anrufe;daily_life;Anruf;дзвінок;noun;анруф
-die Nachricht;повідомлення;die Nachrichten;daily_life;Nachricht;повідомлення;noun;нахріхт
-die Mitteilung;сповіщення;die Mitteilungen;daily_life;Mitteilung;сповіщення;noun;міттайлунґ
-die Datei;файл;die Dateien;daily_life;Datei;файл;noun;датай
-das Dokument;документ;die Dokumente;daily_life;Dokument;документ;noun;документ
-die Unterschrift;підпис;die Unterschriften;daily_life;Unterschrift;підпис;noun;унтершріфт
-die Gehaltserhöhung;підвищення зарплати;die Gehaltserhöhungen;daily_life;Gehalt + Erhöhung;підвищення зарплати;noun;ґегальтсергьоунґ
-die Beförderung;підвищення (на посаді);die Beförderungen;daily_life;Beförderung;підвищення;noun;бефьордерунґ
-die Arbeitszeit;робочий час;die Arbeitszeiten;daily_life;Arbeit + Zeit;робочий час;noun;арбайтсцайт
-die Mittagspause;обідня перерва;die Mittagspausen;daily_life;Mittag + Pause;обідня перерва;noun;міттаґспаузе
-das Homeoffice;домашній офіс;;daily_life;Home + Office;домашній офіс;noun;гомеофіс
-die Videokonferenz;відеоконференція;die Videokonferenzen;daily_life;Video + Konferenz;відеоконференція;noun;відеоконференц
-die Zusammenarbeit;співпраця;;daily_life;zusammen + Arbeit;співпраця;noun;цузаменарбайт
-der Vorgesetzte;начальник;die Vorgesetzten;daily_life;vorgesetzt;начальник;noun;форґезетсте
-das Protokoll;протокол;die Protokolle;daily_life;Protokoll;протокол;noun;протоколь
-die Tagesordnung;порядок денний;die Tagesordnungen;daily_life;Tag + Ordnung;порядок денний;noun;таґесорднунґ
-der Antrag;заява;die Anträge;daily_life;Antrag;заява;noun;антраґ
-die Genehmigung;дозвіл;die Genehmigungen;daily_life;Genehmigung;дозвіл;noun;ґенеміґунґ
-die Software;програмне забезпечення;;daily_life;Software;програмне забезпечення;noun;софтвеа
+der Mitarbeiter;співробітник;die Mitarbeiter;daily_life;Mitarbeiter;співробітник;noun;мітарбайтер
+die Besprechung;нарада;die Besprechungen;daily_life;Besprechung;нарада;noun;бешпрехунг
+die Karriere;кар'єра;die Karrieren;daily_life;Karriere;кар'єра;noun;кар'єре
+der Vertrag;договір;die Verträge;daily_life;Vertrag;договір;noun;фертрак
+die Stelle;посада;die Stellen;daily_life;Stelle;посада;noun;штеле
+das Gehalt;зарплата;die Gehälter;daily_life;Gehalt;зарплата;noun;ґегальт
+die Bewerbung;заявка;die Bewerbungen;daily_life;Bewerbung;заявка;noun;бевербунг
+der Lebenslauf;резюме;die Lebensläufe;daily_life;Leben + Lauf;життя + біг;noun;лебенслауф
+die Überstunde;понаднормова година;die Überstunden;daily_life;Überstunde;понаднормова година;noun;юберштунде
+die Teilzeit;неповний робочий день;;daily_life;Teil + Zeit;частина + час;noun;тайльцайт
+das Praktikum;стажування;die Praktika;daily_life;Praktikum;стажування;noun;практикум
+bewerben;подавати заявку;;daily_life;bewerben;подавати заявку;verb (strong);бевербен
+verdienen;заробляти;;daily_life;verdienen;заробляти;verb (weak);фердінен
+kündigen;звільнятися;;daily_life;kündigen;звільнятися;verb (weak);кюндіґен
 besprechen;обговорювати;;daily_life;besprechen;обговорювати;verb (strong);бешпрехен
-einladen;запрошувати;;daily_life;einladen (zu laden);запрошувати;verb (separable);айнладен
-teilnehmen;брати участь;;daily_life;teilnehmen (zu nehmen);брати участь;verb (separable);тайлнемен
-vorschlagen;пропонувати;;daily_life;vorschlagen (zu schlagen);пропонувати;verb (separable);форшлаґен
+leiten;керувати;;daily_life;leiten;керувати;verb (weak);лайтен
+berufstätig;працюючий;;daily_life;berufstätig;працюючий;adj;беруфстетіх
+arbeitslos;безробітний;;daily_life;arbeitslos;безробітний;adj;арбайтслос
+flexibel;гнучкий;;daily_life;flexibel;гнучкий;adj;флексібель
+pünktlich;пунктуальний;;daily_life;pünktlich;пунктуальний;adj;пюнктліх
+der Arzt;лікар;die Ärzte;daily_life;Arzt;лікар;noun;арцт
+die Ärztin;лікарка;die Ärztinnen;daily_life;Ärztin;лікарка;noun;ерцтін
+der Ingenieur;інженер;die Ingenieure;daily_life;Ingenieur;інженер;noun;інженєр
+der Krankenpfleger;медбрат;die Krankenpfleger;daily_life;Kranken + Pfleger;хворий + доглядач;noun;кранкенпфлеґер
+die Krankenschwester;медсестра;die Krankenschwestern;daily_life;Kranken + Schwester;хворий + сестра;noun;кранкеншвестер
+der Verkäufer;продавець;die Verkäufer;daily_life;Verkäufer;продавець;noun;феркойфер
+die Verkäuferin;продавчиня;die Verkäuferinnen;daily_life;Verkäuferin;продавчиня;noun;феркойферін
+der Buchhalter;бухгалтер;die Buchhalter;daily_life;Buch + Halter;книга + тримач;noun;бухгальтер
+der Programmierer;програміст;die Programmierer;daily_life;Programmierer;програміст;noun;программірер
+die Tätigkeit;діяльність;die Tätigkeiten;daily_life;Tätigkeit;діяльність;noun;тетіхкайт
+die Fähigkeit;здібність;die Fähigkeiten;daily_life;Fähigkeit;здібність;noun;феіхкайт
+die Fortbildung;підвищення кваліфікації;die Fortbildungen;daily_life;Fort + Bildung;далі + освіта;noun;фортбільдунг
+das Homeoffice;домашній офіс;;daily_life;Homeoffice;домашній офіс;noun;гомофіс
+die Karriereleiter;кар'єрна драбина;die Karriereleitern;daily_life;Karriere + Leiter;кар'єра + драбина;noun;кар'єрелайтер
+das Vorstellungsgespräch;співбесіда;die Vorstellungsgespräche;daily_life;Vorstellung + Gespräch;представлення + розмова;noun;форштеллунгсґешпрех
+die Arbeitsstelle;робоче місце;die Arbeitsstellen;daily_life;Arbeit + Stelle;праця + місце;noun;арбайтсштеле
+die Arbeitszeit;робочий час;die Arbeitszeiten;daily_life;Arbeit + Zeit;праця + час;noun;арбайтсцайт
+der Lohn;заробітна плата;die Löhne;daily_life;Lohn;заробітна плата;noun;лон
+das Team;команда;die Teams;daily_life;Team;команда;noun;тім
+der Computer;комп'ютер;die Computer;daily_life;Computer;комп'ютер;noun;комп'ютер
+der Drucker;принтер;die Drucker;daily_life;Drucker;принтер;noun;друкер
+der Stift;ручка;die Stifte;daily_life;Stift;ручка;noun;штіфт
+das Papier;папір;;daily_life;Papier;папір;noun;папір
+der Kugelschreiber;кулькова ручка;die Kugelschreiber;daily_life;Kugel + Schreiber;кулька + писець;noun;куґельшрайбер
+das Telefon;телефон;die Telefone;daily_life;Telefon;телефон;noun;телефон
+der Bildschirm;екран;die Bildschirme;daily_life;Bild + Schirm;зображення + екран;noun;більдширм
+die Kollegin;колега (жін.);die Kolleginnen;daily_life;Kollegin;колега;noun;колеґін
+die Chefin;шефиня;die Chefinnen;daily_life;Chefin;шефиня;noun;шефін
+der Arbeitsplatz;робоче місце;die Arbeitsplätze;daily_life;Arbeit + Platz;робота + місце;noun;арбайтсплятц
+die Tastatur;клавіатура;die Tastaturen;daily_life;Tastatur;клавіатура;noun;тастатур
+die Maus;миша;die Mäuse;daily_life;Maus;миша;noun;маус
+der Ordner;папка;die Ordner;daily_life;Ordner;папка;noun;орднер
+die Akte;справа;die Akten;daily_life;Akte;справа;noun;акте
+der Ausweis;посвідчення;die Ausweise;daily_life;Ausweis;посвідчення;noun;аусвайс
+das Formular;бланк;die Formulare;daily_life;Formular;бланк;noun;формуляр
+die Unterschrift;підпис;die Unterschriften;daily_life;Unterschrift;підпис;noun;унтершрифт
+der Stempel;штамп;die Stempel;daily_life;Stempel;штамп;noun;штемпель
+das Siegel;печатка;die Siegel;daily_life;Siegel;печатка;noun;зіґель
+der Locher;дірокол;die Locher;daily_life;Locher;дірокол;noun;лохер
+der Hefter;степлер;die Hefter;daily_life;Hefter;степлер;noun;гефтер
+die Klammer;скріпка;die Klammern;daily_life;Klammer;скріпка;noun;кламер
+der Notizzettel;блокнот;die Notizzettel;daily_life;Notiz + Zettel;нотатка + аркуш;noun;нотіццетель
+das Post-it;стікер;die Post-its;daily_life;Post-it;стікер;noun;постіт
+die Pinnwand;дошка для оголошень;die Pinnwände;daily_life;Pinn + Wand;кнопка + стіна;noun;пінванд
+der Aktenschrank;шафа для документів;die Aktenschränke;daily_life;Akten + Schrank;справи + шафа;noun;актеншранк
+der Papierkorb;кошик для паперів;die Papierkörbe;daily_life;Papier + Korb;папір + кошик;noun;папіркорб
+der Mülleimer;смітник;die Mülleimer;daily_life;Müll + Eimer;сміття + відро;noun;мюльаймер
+die Schublade;шухляда;die Schubladen;daily_life;Schublade;шухляда;noun;шубладе
+der Schlüssel;ключ;die Schlüssel;daily_life;Schlüssel;ключ;noun;шлюссель
+das Schloss;замок;die Schlösser;daily_life;Schloss;замок;noun;шлосс
+das Stockwerk;поверх;die Stockwerke;daily_life;Stock + Werk;поверх + робота;noun;штокверк
+der Aufzug;ліфт;die Aufzüge;daily_life;Aufzug;ліфт;noun;ауфцуг
+die Treppe;сходи;die Treppen;daily_life;Treppe;сходи;noun;треппе
+das WC;туалет;die WCs;daily_life;WC;туалет;noun;веце
+der Kopierer;копіювальний апарат;die Kopierer;daily_life;Kopierer;копіювальник;noun;копірер
+das Faxgerät;факс;die Faxgeräte;daily_life;Fax + Gerät;факс + пристрій;noun;факсгерет
+der Beamer;проектор;die Beamer;daily_life;Beamer;проектор;noun;бімер
+die Leinwand;екран;die Leinwände;daily_life;Lein + Wand;полотно + стіна;noun;лайнванд
+die Stellenanzeige;оголошення про вакансію;die Stellenanzeigen;daily_life;Stelle + Anzeige;оголошення;noun;штелленанцайге
+der Arbeitgeber;роботодавець;die Arbeitgeber;daily_life;Arbeit + Geber;роботодавець;noun;арбайтгебер
+der Arbeitnehmer;працівник;die Arbeitnehmer;daily_life;Arbeit + Nehmer;працівник;noun;арбайтнемер
+die Bewerbungsmappe;папка для заявки;die Bewerbungsmappen;daily_life;Bewerbung + Mappe;папка;noun;бевербунгсмаппе
+das Anschreiben;супровідний лист;die Anschreiben;daily_life;Anschreiben;супровідний лист;noun;аншрайбен
+die Bewerbungsfrist;термін подання заявки;die Bewerbungsfristen;daily_life;Bewerbung + Frist;термін;noun;бевербунгсфріст
+die Zusage;згода;die Zusagen;daily_life;Zusage;згода;noun;цузаге
+die Absage;відмова;die Absagen;daily_life;Absage;відмова;noun;абзаге
+die Probezeit;випробувальний термін;die Probezeiten;daily_life;Probe + Zeit;випробувальний термін;noun;пробецайт
+das Arbeitszeugnis;характеристика з роботи;die Arbeitszeugnisse;daily_life;Arbeit + Zeugnis;характеристика;noun;арбайтсцойгніс
+die Gehaltsvorstellung;очікувана зарплата;die Gehaltsvorstellungen;daily_life;Gehalt + Vorstellung;очікування;noun;гегальтсфорштеллюнг
+der Urlaub;відпустка;die Urlaube;daily_life;Urlaub;відпустка;noun;урлауб
+die Qualifikation;кваліфікація;die Qualifikationen;daily_life;Qualifikation;кваліфікація;noun;кваліфікаціон
+die Berufserfahrung;професійний досвід;die Berufserfahrungen;daily_life;Beruf + Erfahrung;досвід;noun;беруфсерфарунг
+die Ausbildung;освіта;die Ausbildungen;daily_life;Ausbildung;освіта;noun;аусбільдунг
+das Zeugnis;свідоцтво;die Zeugnisse;daily_life;Zeugnis;свідоцтво;noun;цойгніс
+die Festanstellung;штатна посада;die Festanstellungen;daily_life;fest + Anstellung;посада;noun;фестанштеллюнг
+die Vollzeit;повна зайнятість;;daily_life;Vollzeit;повна зайнятість;noun;фольцайт
+das Unternehmen;компанія;die Unternehmen;daily_life;Unternehmen;компанія;noun;унтернемен
+die Branche;галузь;die Branchen;daily_life;Branche;галузь;noun;бранше
+die Personalabteilung;відділ кадрів;die Personalabteilungen;daily_life;Personal + Abteilung;відділ;noun;персоналабтайлюнг
+die Onlinebewerbung;онлайн-заявка;die Onlinebewerbungen;daily_life;online + Bewerbung;заявка;noun;онлайнебевербунг
+die Initiativbewerbung;ініціативна заявка;die Initiativbewerbungen;daily_life;Initiative + Bewerbung;заявка;noun;ініціатівбевербунг
+die Bewerbungsunterlage;документ заявки;die Bewerbungsunterlagen;daily_life;Bewerbung + Unterlage;підкладка;noun;бевербунгсунтерлаге
+qualifiziert;кваліфікований;;daily_life;qualifiziert;кваліфікований;adj;кваліфіцірт
+motiviert;мотивований;;daily_life;motiviert;мотивований;adj;мотівірт
+teamfähig;командний;;daily_life;teamfähig;командний;adj;тімфеїх
+selbstständig;самостійний;;daily_life;selbstständig;самостійний;adj;зельбстштендіх
+belastbar;стресостійкий;;daily_life;belastbar;стресостійкий;adj;беластбар
+sich vorstellen;представлятися;;daily_life;vorstellen (zu stellen);представляти;verb (separable);зіх форштеллен
+einstellen;наймати;;daily_life;einstellen (zu stellen);наймати;verb (separable);айнштеллен
+übernehmen;приймати на роботу;;daily_life;übernehmen;приймати;verb (strong);юбернемен
+das Meeting;зустріч;die Meetings;daily_life;Meeting;зустріч;noun;мітінг
+die E-Mail;імейл;die E-Mails;daily_life;E-Mail;імейл;noun;і-мейл
+die Frist;термін;die Fristen;daily_life;Frist;термін;noun;фріст
+die Aufgabe;завдання;die Aufgaben;daily_life;Aufgabe;завдання;noun;ауфгабе
+das Projekt;проєкт;die Projekte;daily_life;Projekt;проєкт;noun;проект
+das Feedback;фідбек;;daily_life;Feedback;фідбек;noun;фідбек
+der Vorschlag;пропозиція;die Vorschläge;daily_life;Vorschlag;пропозиція;noun;форшлаг
+das Gespräch;розмова;die Gespräche;daily_life;Gespräch;розмова;noun;гешпрех
+das Telefonat;телефонна розмова;die Telefonate;daily_life;Telefonat;телефонна розмова;noun;телефонат
+das Protokoll;протокол;die Protokolle;daily_life;Protokoll;протокол;noun;протокол
+die Tagesordnung;порядок денний;die Tagesordnungen;daily_life;Tages + Ordnung;порядок денний;noun;тагесорднунг
+der Teilnehmer;учасник;die Teilnehmer;daily_life;Teilnehmer;учасник;noun;тайльнемер
+die Verantwortung;відповідальність;;daily_life;Verantwortung;відповідальність;noun;ферантвортунг
+die Krankmeldung;лікарняний;die Krankmeldungen;daily_life;Krank + Meldung;повідомлення про хворобу;noun;кранкмельдунг
+die Abteilung;відділ;die Abteilungen;daily_life;Abteilung;відділ;noun;абтайлюнг
+die Datei;файл;die Dateien;daily_life;Datei;файл;noun;датай
+zustimmen;погоджуватися;;daily_life;zustimmen (zu stimmen);погоджуватися;verb (separable);цуштімен
+vereinbaren;домовлятися;;daily_life;vereinbaren;домовлятися;verb (weak);ферайнбарен
+klären;з'ясовувати;;daily_life;klären;з'ясовувати;verb (weak);клерен
+bestätigen;підтверджувати;;daily_life;bestätigen;підтверджувати;verb (weak);бештетіген
+informieren;інформувати;;daily_life;informieren;інформувати;verb (weak);інформірен
+bitten;просити;;daily_life;bitten;просити;verb (strong);бітен
+senden;надсилати;;daily_life;senden;надсилати;verb (mixed);зенден
+empfangen;отримувати;;daily_life;empfangen;отримувати;verb (strong);емпфанген
+kopieren;копіювати;;daily_life;kopieren;копіювати;verb (weak);копірен
+bearbeiten;редагувати;;daily_life;bearbeiten;редагувати;verb (weak);беарбайтен
+speichern;зберігати;;daily_life;speichern;зберігати;verb (weak);шпайхерн
+löschen;видаляти;;daily_life;löschen;видаляти;verb (weak);лешен
+drucken;друкувати;;daily_life;drucken;друкувати;verb (weak);друкен
+delegieren;делегувати;;daily_life;delegieren;делегувати;verb (weak);делегірен
+verhandeln;вести переговори;;daily_life;verhandeln;вести переговори;verb (weak);фергандельн

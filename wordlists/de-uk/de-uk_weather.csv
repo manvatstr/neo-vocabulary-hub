@@ -1,96 +1,135 @@
-der Vulkanausbruch;виверження вулкана;die Vulkanausbrüche;weather;Vulkan + Ausbruch;вулкан + виверження;noun;вулканаусбрух
-die Überschwemmung;повінь;die Überschwemmungen;weather;Überschwemmung;повінь;noun;юбершвемунг
-der Sturm;шторм;die Stürme;weather;Sturm;шторм;noun;штурм
-der Orkan;ураган;die Orkane;weather;Orkan;ураган;noun;оркан
-der Tornado;торнадо;die Tornados;weather;Tornado;торнадо;noun;торнадо
-der Wirbelsturm;циклон;die Wirbelstürme;weather;Wirbel + Sturm;вихор + буря;noun;вірбельштурм
-das Unwetter;негода;die Unwetter;weather;Unwetter;негода;noun;унветер
-der Blitz;блискавка;die Blitze;weather;Blitz;блискавка;noun;бліц
-der Donner;грім;;weather;Donner;грім;noun;доннер
-der Hagel;град;;weather;Hagel;град;noun;хаґель
-die Lawine;лавина;die Lawinen;weather;Lawine;лавина;noun;лавіне
-der Erdrutsch;зсув;die Erdrutsche;weather;Erde + Rutsch;земля + зсув;noun;ердруч
-der Waldbrand;лісова пожежа;die Waldbrände;weather;Wald + Brand;ліс + пожежа;noun;вальдбранд
-die Dürre;посуха;die Dürren;weather;Dürre;посуха;noun;дюре
-der Tsunami;цунамі;die Tsunamis;weather;Tsunami;цунамі;noun;цунамі
-der Hurrikan;ураган;die Hurrikane;weather;Hurrikan;ураган;noun;хуррікан
-die Sturmflut;штормовий приплив;die Sturmfluten;weather;Sturm + Flut;буря + приплив;noun;штурмфлут
-der Starkregen;злива;;weather;Stark + Regen;сильний + дощ;noun;штаркреген
-die Sintflut;потоп;die Sintfluten;weather;Sintflut;потоп;noun;зінтфлут
-der Steinschlag;каменепад;die Steinschläge;weather;Stein + Schlag;камінь + удар;noun;штайншлаг
-das Epizentrum;епіцентр;die Epizentren;weather;Epizentrum;епіцентр;noun;епіцентрум
-die Erschütterung;струс;die Erschütterungen;weather;Erschütterung;струс;noun;ершюттерунг
-die Warnung;попередження;die Warnungen;weather;Warnung;попередження;noun;варнунг
-die Katastrophe;катастрофа;die Katastrophen;weather;Katastrophe;катастрофа;noun;катастрофе
-das Hochwasser;повінь;die Hochwasser;weather;Hoch + Wasser;висока вода;noun;хохвассер
-die Schlammlawine;сель;die Schlammlawinen;weather;Schlamm + Lawine;грязь + лавина;noun;шламлавіне
-die Aschewolke;хмара попелу;die Aschewolken;weather;Asche + Wolke;попіл + хмара;noun;ашевольке
-die Lava;лава;;weather;Lava;лава;noun;лава
-die Magnitude;магнітуда;die Magnituden;weather;Magnitude;магнітуда;noun;магнітуде
-der Feuersturm;вогняний шторм;die Feuerstürme;weather;Feuer + Sturm;вогонь + буря;noun;фоєрштурм
-die Hitzewelle;хвиля спеки;die Hitzewellen;weather;Hitze + Welle;спека + хвиля;noun;хітцевeлле
-der Kälteeinbruch;різке похолодання;die Kälteeinbrüche;weather;Kälte + Einbruch;холод + вторгнення;noun;кельтеайнбрух
-der Blitzschlag;удар блискавки;die Blitzschläge;weather;Blitz + Schlag;блискавка + удар;noun;бліцшлаг
-die Hochwasserwarnung;попередження про повінь;die Hochwasserwarnungen;weather;Hochwasser + Warnung;висока вода + попередження;noun;хохвассерварнунг
-der Stromausfall;відключення електроенергії;die Stromausfälle;weather;Strom + Ausfall;струм + випадіння;noun;штромаусфаль
-die Notunterkunft;тимчасовий притулок;die Notunterkünfte;weather;Not + Unterkunft;біда + житло;noun;нотунтеркунфт
-die Spende;пожертва;die Spenden;weather;Spende;пожертва;noun;шпенде
-der Hilfseinsatz;рятувальна операція;die Hilfseinsätze;weather;Hilfe + Einsatz;допомога + дія;noun;гільфсайнзац
-die Rettungskraft;рятувальник;die Rettungskräfte;weather;Rettung + Kraft;порятунок + сила;noun;реттунґскрафт
-die Gefahrenzone;небезпечна зона;die Gefahrenzonen;weather;Gefahr + Zone;небезпека + зона;noun;ґефаренцоне
-die Vorwarnstufe;рівень попередження;die Vorwarnstufen;weather;Vorwarnung + Stufe;попереднє попередження + ступінь;noun;форварнштуфе
-der Notfallplan;план надзвичайних ситуацій;die Notfallpläne;weather;Notfall + Plan;надзвичайна ситуація + план;noun;нотфальплан
-warnen;попереджати;;weather;warnen;попереджати;verb (weak);варнен
-evakuieren;евакуювати;;weather;evakuieren;евакуювати;verb (weak);евакуірен
-überfluten;затоплювати;;weather;überfluten;затоплювати;verb (weak);юберфлутен
-ausbrechen;вивергатися;;weather;ausbrechen (zu brechen);вибухати;verb (separable);аусбрехен
-einschlagen;влучати (блискавка);;weather;einschlagen (zu schlagen);вдаряти;verb (separable);айншлаген
-heftig;сильний;;weather;heftig;сильний;adj;хефтіг
+der Frühling;весна;die Frühlinge;weather;Frühling;весна;noun;фрюлінґ
+der Sommer;літо;die Sommer;weather;Sommer;літо;noun;зоммер
+der Herbst;осінь;die Herbste;weather;Herbst;осінь;noun;гербст
+der Winter;зима;die Winter;weather;Winter;зима;noun;вінтер
+die Jahreszeit;пора року;die Jahreszeiten;weather;Jahr + es + Zeit;пора року;noun;яресцайт
+das Klima;клімат;die Klimata;weather;Klima;клімат;noun;кліма
 die Temperatur;температура;die Temperaturen;weather;Temperatur;температура;noun;температур
-die Hitze;спека;;weather;Hitze;спека;noun;гіце
-die Kälte;холод;;weather;Kälte;холод;noun;кельте
-die Wärme;тепло;;weather;Wärme;тепло;noun;верме
-der Frost;мороз;;weather;Frost;мороз;noun;фрост
-das Thermometer;термометр;die Thermometer;weather;Thermometer;термометр;noun;термометер
-kalt;холодний;;weather;kalt;холодний;adj;кальт
-kühl;прохолодний;;weather;kühl;прохолодний;adj;кюль
-mild;м'який;;weather;mild;м'який;adj;мілд
-warm;теплий;;weather;warm;теплий;adj;варм
-heiß;гарячий;;weather;heiß;гарячий;adj;гайс
-eisig;крижаний;;weather;eisig;крижаний;adj;айзіх
-frostig;морозний;;weather;frostig;морозний;adj;фростіх
+die Sonne;сонце;die Sonnen;weather;Sonne;сонце;noun;зонне
 der Regen;дощ;;weather;Regen;дощ;noun;реґен
 der Schnee;сніг;;weather;Schnee;сніг;noun;шне
-der Nebel;туман;;weather;Nebel;туман;noun;небель
-sonnig;сонячний;;weather;sonnig;сонячний;adj;зоніх
+der Wind;вітер;die Winde;weather;Wind;вітер;noun;вінд
+die Wolke;хмара;die Wolken;weather;Wolke;хмара;noun;вольке
+das Gewitter;гроза;die Gewitter;weather;Gewitter;гроза;noun;ґевіттер
+der Sturm;буря;die Stürme;weather;Sturm;буря;noun;штурм
+die Hitze;спека;;weather;Hitze;спека;noun;гітце
+die Kälte;холод;;weather;Kälte;холод;noun;кельте
+der Frost;мороз;die Fröste;weather;Frost;мороз;noun;фрост
+der Hagel;град;;weather;Hagel;град;noun;гаґель
+der Blitz;блискавка;die Blitze;weather;Blitz;блискавка;noun;бліц
+der Donner;грім;;weather;Donner;грім;noun;доннер
+der Niederschlag;опади;die Niederschläge;weather;nieder + Schlag;опади;noun;нідершлаґ
+die Wettervorhersage;прогноз погоди;die Wettervorhersagen;weather;Wetter + Vorhersage;прогноз погоди;noun;веттерфоргерзаґе
+das Grad;градус;die Grade;weather;Grad;градус;noun;ґрад
+die Luftfeuchtigkeit;вологість повітря;;weather;Luft + Feuchtigkeit;вологість повітря;noun;луфтфойхтіґкайт
+der Sonnenschein;сонячне світло;;weather;Sonne + n + Schein;сонячне світло;noun;зонненшайн
+die Brise;бриз;die Brisen;weather;Brise;бриз;noun;брізе
+die Wetterlage;погодна ситуація;die Wetterlagen;weather;Wetter + Lage;погодна ситуація;noun;веттерлаґе
+regnen;дощити;;weather;regnen;дощити;verb (weak);реґнен
+schneien;сніжити;;weather;schneien;сніжити;verb (weak);шнайєн
+hageln;іти граду;;weather;hageln;іти граду;verb (weak);гаґельн
+frieren;мерзнути;;weather;frieren;мерзнути;verb (strong);фрірен
+tauen;танути;;weather;tauen;танути;verb (weak);тауен
+wehen;віяти;;weather;wehen;віяти;verb (weak);веєн
+scheinen;світити;;weather;scheinen;світити;verb (strong);шайнен
+blitzen;блискати;;weather;blitzen;блискати;verb (weak);бліцен
+donnern;гриміти;;weather;donnern;гриміти;verb (weak);доннерн
+sich bewölken;захмарюватися;;weather;bewölken;захмарюватися;verb (weak);зїх бевелькен
+kalt;холодний;;weather;kalt;холодний;adj;кальт
+warm;теплий;;weather;warm;теплий;adj;варм
+heiß;спекотний;;weather;heiß;спекотний;adj;гайс
+kühl;прохолодний;;weather;kühl;прохолодний;adj;кюль
+mild;м'який;;weather;mild;м'який;adj;мільд
+feucht;вологий;;weather;feucht;вологий;adj;фойхт
+trocken;сухий;;weather;trocken;сухий;adj;трокен
+sonnig;сонячний;;weather;sonnig;сонячний;adj;зонніх
 bewölkt;хмарний;;weather;bewölkt;хмарний;adj;бевелькт
-regnerisch;дощовий;;weather;regnerisch;дощовий;adj;реґнеріш
 windig;вітряний;;weather;windig;вітряний;adj;віндіх
-neblig;туманний;;weather;neblig;туманний;adj;небліх
 stürmisch;штормовий;;weather;stürmisch;штормовий;adj;штюрміш
 schwül;задушливий;;weather;schwül;задушливий;adj;швюль
-heiter;ясний;;weather;heiter;ясний;adj;гайтер
-klar;ясний;;weather;klar;ясний;adj;клар
-wechselhaft;мінливий;;weather;wechselhaft;мінливий;adj;вексельхафт
-drückend;задушливий;;weather;drückend;задушливий;adj;дрюкенд
-regnen;дощити;;weather;regnen;дощити;verb (weak);реґнен
-schneien;сніжити;;weather;schneien;сніжити;verb (weak);шнаєн
-scheinen;світити;;weather;scheinen;світити;verb (strong);шайнен
-aufklaren;прояснюватися;;weather;aufklaren (zu klaren);прояснюватися;verb (separable);ауфкларен
-der Wind;вітер;die Winde;weather;Wind;вітер;noun;вінд
-die Brise;бриз;die Brisen;weather;Brise;бриз;noun;брізе
-die Böe;порив вітру;die Böen;weather;Böe;порив вітру;noun;бьо
-das Gewitter;гроза;die Gewitter;weather;Gewitter;гроза;noun;ґевіттер
-der Regenbogen;веселка;die Regenbögen;weather;Regen + Bogen;веселка;noun;реґенбоґен
-der Sonnenschein;сонячне світло;;weather;Sonne + Schein;сонячне світло;noun;зонненшайн
-die Bewölkung;хмарність;;weather;Bewölkung;хмарність;noun;бевелькунґ
+der Nebel;туман;die Nebel;weather;Nebel;туман;noun;небель
 die Feuchtigkeit;вологість;;weather;Feuchtigkeit;вологість;noun;фойхтіхкайт
+das Barometer;барометр;die Barometer;weather;Barometer;барометр;noun;барометер
 der Luftdruck;атмосферний тиск;;weather;Luft + Druck;атмосферний тиск;noun;люфтдрук
-das Hoch;область високого тиску;die Hochs;weather;Hoch;область високого тиску;noun;гох
-das Tief;область низького тиску;die Tiefs;weather;Tief;область низького тиску;noun;тіф
-die Vorhersage;прогноз;die Vorhersagen;weather;Vorhersage;прогноз;noun;форхерзаґе
-der Wetterbericht;прогноз погоди;die Wetterberichte;weather;Wetter + Bericht;прогноз погоди;noun;веттерберіхт
-der Regenschauer;злива;die Regenschauer;weather;Regen + Schauer;злива;noun;реґеншауер
-der Nieselregen;мряка;;weather;nieseln + Regen;мряка;noun;нізельреґен
-die Sicht;видимість;;weather;Sicht;видимість;noun;зіхт
-die Trockenheit;посуха;;weather;Trockenheit;посуха;noun;трокенгайт
+das Hochdruckgebiet;область високого тиску;die Hochdruckgebiete;weather;hoch + Druck + Gebiet;область високого тиску;noun;хохдрукґебіт
+das Tiefdruckgebiet;область низького тиску;die Tiefdruckgebiete;weather;tief + Druck + Gebiet;область низького тиску;noun;тіфдрукґебіт
+die Kaltfront;холодний фронт;die Kaltfronten;weather;kalt + Front;холодний фронт;noun;кальтфронт
+die Warmfront;теплий фронт;die Warmfronten;weather;warm + Front;теплий фронт;noun;вармфронт
+die Okklusion;оклюзія;die Okklusionen;weather;Okklusion;оклюзія;noun;окклюзіон
+der Meteorologe;метеоролог;die Meteorologen;weather;Meteorologe;метеоролог;noun;метеоролоґе
+der Wetterbericht;метеозведення;die Wetterberichte;weather;Wetter + Bericht;метеозведення;noun;веттерберіхт
+die Vorhersage;прогноз;die Vorhersagen;weather;vorher + Sage;прогноз;noun;форхерзаґе
+die Regenwahrscheinlichkeit;імовірність дощу;die Regenwahrscheinlichkeiten;weather;Regen + Wahrscheinlichkeit;імовірність дощу;noun;регенваршайнліхкайт
+die Unwetterwarnung;попередження про негоду;die Unwetterwarnungen;weather;Unwetter + Warnung;попередження про негоду;noun;унветтерварнунґ
+die Sturmwarnung;штормове попередження;die Sturmwarnungen;weather;Sturm + Warnung;штормове попередження;noun;штурмварнунґ
+die Sichtweite;видимість;die Sichtweiten;weather;Sicht + Weite;видимість;noun;зіхтвайте
+die Böe;порив вітру;die Böen;weather;Böe;порив вітру;noun;бее
+der Windstoß;порив вітру;die Windstöße;weather;Wind + Stoß;порив вітру;noun;віндштос
+der Tau;роса;;weather;Tau;роса;noun;тау
+die Glätte;ожеледиця;;weather;Glätte;ожеледиця;noun;ґлетте
+die Vereisung;обледеніння;die Vereisungen;weather;Vereisung;обледеніння;noun;ферайзунґ
+die Schneeschmelze;танення снігу;;weather;Schnee + Schmelze;танення снігу;noun;шнешмельце
+die Lawine;лавина;die Lawinen;weather;Lawine;лавина;noun;лавіне
+das Unwetter;негода;die Unwetter;weather;Unwetter;негода;noun;унветтер
+der Wetterdienst;метеослужба;die Wetterdienste;weather;Wetter + Dienst;метеослужба;noun;веттердінст
+die Satellitenaufnahme;супутниковий знімок;die Satellitenaufnahmen;weather;Satellit + Aufnahme;супутниковий знімок;noun;зателлітенауфнаме
+das Radar;радар;die Radare;weather;Radar;радар;noun;радар
+die Wetterkarte;синоптична карта;die Wetterkarten;weather;Wetter + Karte;синоптична карта;noun;веттеркарте
+die Prognose;прогноз;die Prognosen;weather;Prognose;прогноз;noun;проґнозе
+der Wetterumschwung;зміна погоди;die Wetterumschwünge;weather;Wetter + Umschwung;зміна погоди;noun;веттерумшвунґ
+der Klimawandel;зміна клімату;;weather;Klima + Wandel;зміна клімату;noun;клімавандель
+der Treibhauseffekt;парниковий ефект;;weather;Treibhaus + Effekt;парниковий ефект;noun;трайбгаусеффект
+die Hitzewelle;спека;die Hitzewellen;weather;Hitze + Welle;спека;noun;гітцевєлле
+das Erdbeben;землетрус;die Erdbeben;weather;Erde + Beben;землетрус;noun;ердбебен
+die Überschwemmung;повінь;die Überschwemmungen;weather;Überschwemmung;повінь;noun;юбершвеммунг
+der Tornado;торнадо;die Tornados;weather;Tornado;торнадо;noun;торнадо
+der Hurrikan;ураган;die Hurrikane;weather;Hurrikan;ураган;noun;хуррікан
+die Dürre;посуха;die Dürren;weather;Dürre;посуха;noun;дюре
+der Vulkanausbruch;виверження вулкану;die Vulkanausbrüche;weather;Vulkan + Ausbruch;виверження вулкану;noun;фулканаусбрух
+der Tsunami;цунамі;die Tsunamis;weather;Tsunami;цунамі;noun;цунамі
+der Waldbrand;лісова пожежа;die Waldbrände;weather;Wald + Brand;лісова пожежа;noun;вальдбранд
+der Schneesturm;сніжна буря;die Schneestürme;weather;Schnee + Sturm;сніжна буря;noun;шнештурм
+der Erdrutsch;зсув;die Erdrutsche;weather;Erde + Rutsch;зсув;noun;ердруч
+die Schlammlawine;сель;die Schlammlawinen;weather;Schlamm + Lawine;сель;noun;шламлавіне
+das Hochwasser;паводок;die Hochwasser;weather;hoch + Wasser;паводок;noun;хохвассер
+die Flut;потоп;die Fluten;weather;Flut;потоп;noun;флут
+die Katastrophe;катастрофа;die Katastrophen;weather;Katastrophe;катастрофа;noun;катастрофе
+die Warnung;попередження;die Warnungen;weather;Warnung;попередження;noun;варнунг
+die Evakuierung;евакуація;die Evakuierungen;weather;Evakuierung;евакуація;noun;ефакуірунг
+die Rettung;порятунок;die Rettungen;weather;Rettung;порятунок;noun;реттунг
+die Zerstörung;руйнування;die Zerstörungen;weather;Zerstörung;руйнування;noun;церштeрунг
+das Erdbebengebiet;сейсмонебезпечний район;die Erdbebengebiete;weather;Erdbeben + Gebiet;сейсмонебезпечний район;noun;ердбебенгебіт
+die Naturkatastrophe;природна катастрофа;die Naturkatastrophen;weather;Natur + Katastrophe;природна катастрофа;noun;натуркатастрофе
+die Rettungskräfte;рятувальні служби;die Rettungskräfte;weather;Rettung + Kraft;рятувальні сили;noun;реттунгскрефте
+die Überschwemmungswarnung;попередження про повінь;die Überschwemmungswarnungen;weather;Überschwemmung + Warnung;попередження про повінь;noun;юбершвеммунгсварнунг
+sintflutartig;зливовий;;weather;sintflutartig;зливовий;adj;зінтфлутартіг
+gefährlich;небезпечний;;weather;gefährlich;небезпечний;adj;геферліх
+zerstört;зруйнований;;weather;zerstört;зруйнований;adj;церштерт
+evakuieren;евакуювати;;weather;evakuieren;евакуювати;verb (weak);ефакуірен
+warnen;попереджати;;weather;warnen;попереджати;verb (weak);варнен
+zerstören;руйнувати;;weather;zerstören;руйнувати;verb (weak);церштeрен
+überschwemmen;затоплювати;;weather;überschwemmen;затоплювати;verb (weak);юбершвеммен
+ausrufen;оголошувати;;weather;ausrufen (zu rufen);оголошувати;verb (separable);аусруфен
+einstürzen;обвалюватися;;weather;einstürzen (zu stürzen);обвалюватися;verb (separable);айнштюрцен
+heulen;вити (сирена);;weather;heulen;вити;verb (weak);хойлен
+strömen;лити (про дощ);;weather;strömen;лити;verb (weak);штремен
+überfluten;затоплювати;;weather;überfluten;затоплювати;verb (weak);юберфлутен
+die Katastrophenhilfe;допомога при катастрофах;;weather;Katastrophe + Hilfe;допомога при катастрофах;noun;катастрофенхільфе
+die Schutzmaßnahme;захисний захід;die Schutzmaßnahmen;weather;Schutz + Maßnahme;захисний захід;noun;шуцмаснаме
+die Vorsichtsmaßnahme;застережний захід;die Vorsichtsmaßnahmen;weather;Vorsicht + Maßnahme;застережний захід;noun;форзіхтсмаснаме
+der Notstand;надзвичайний стан;die Notstände;weather;Not + Stand;надзвичайний стан;noun;нотштанд
+der Schneeregen;мокрий сніг;;weather;Schnee + Regen;мокрий сніг;noun;шнєрєґен
+der Regenschauer;злива;die Regenschauer;weather;Regen + Schauer;злива;noun;рєґеншауер
+der UV-Index;УФ-індекс;die UV-Indizes;weather;UV-Index;УФ-індекс;noun;у-фау-індекс
+die Trockenheit;сухість;die Trockenheiten;weather;trocken + -heit;сухість;noun;трокенгайт
+die Schneeflocke;сніжинка;die Schneeflocken;weather;Schnee + Flocke;сніжинка;noun;шнєфлоке
+die Windkühle;вітрове охолодження;die Windkühlen;weather;Wind + Kühle;вітрове охолодження;noun;віндкюле
+das Eis;лід;;weather;Eis;лід;noun;айс
+das Wetter;погода;die Wetter;weather;Wetter;погода;noun;ветер
+regnerisch;дощовий;;weather;regnerisch;дощовий;adj;рєґнеріш
+neblig;туманний;;weather;neblig;туманний;adj;нєбліх
+eisig;крижаний;;weather;eisig;крижаний;adj;айзіх
+frostig;морозний;;weather;frostig;морозний;adj;фростіх
+bedeckt;похмурий;;weather;bedeckt;похмурий;adj;бедект
+heiter;погожий;;weather;heiter;погожий;adj;гайтер
+wechselhaft;мінливий;;weather;wechselhaft;мінливий;adj;вексельгафт

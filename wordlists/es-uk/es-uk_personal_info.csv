@@ -1,200 +1,199 @@
-el padre;батько;los padres;personal_info;padre;батько;noun;
-la madre;мати;las madres;personal_info;madre;мати;noun;
-el hijo;син;los hijos;personal_info;hijo;син;noun;
-la hija;дочка;las hijas;personal_info;hija;дочка;noun;
-el hermano;брат;los hermanos;personal_info;hermano;брат;noun;
-la hermana;сестра;las hermanas;personal_info;hermana;сестра;noun;
-el abuelo;дідусь;los abuelos;personal_info;abuelo;дідусь;noun;
-la abuela;бабуся;las abuelas;personal_info;abuela;бабуся;noun;
-el nieto;онук;los nietos;personal_info;nieto;онук;noun;
-la nieta;онука;las nietas;personal_info;nieta;онука;noun;
-el tío;дядько;los tíos;personal_info;tío;дядько;noun;
-la tía;тітка;las tías;personal_info;tía;тітка;noun;
-el primo;двоюрідний брат;los primos;personal_info;primo;двоюрідний брат;noun;
-la prima;двоюрідна сестра;las primas;personal_info;prima;двоюрідна сестра;noun;
-el sobrino;племінник;los sobrinos;personal_info;sobrino;племінник;noun;
-la sobrina;племінниця;las sobrinas;personal_info;sobrina;племінниця;noun;
-el esposo;чоловік;los esposos;personal_info;esposo;чоловік;noun;
-la esposa;дружина;las esposas;personal_info;esposa;дружина;noun;
-el novio;наречений;los novios;personal_info;novio;наречений;noun;
-la novia;наречена;las novias;personal_info;novia;наречена;noun;
-el suegro;свекор;los suegros;personal_info;suegro;свекор;noun;
-la suegra;свекруха;las suegras;personal_info;suegra;свекруха;noun;
-el yerno;зять;los yernos;personal_info;yerno;зять;noun;
-la nuera;невістка;las nueras;personal_info;nuera;невістка;noun;
-el cuñado;шурин;los cuñados;personal_info;cuñado;шурин;noun;
-la cuñada;своячка;las cuñadas;personal_info;cuñada;своячка;noun;
-el padrastro;вітчим;los padrastros;personal_info;padrastro;вітчим;noun;
-la madrastra;мачуха;las madrastras;personal_info;madrastra;мачуха;noun;
-el hijastro;пасинок;los hijastros;personal_info;hijastro;пасинок;noun;
-la hijastra;падчерка;las hijastras;personal_info;hijastra;падчерка;noun;
-el bisabuelo;прадід;los bisabuelos;personal_info;bisabuelo;прадід;noun;
-la bisabuela;прабаба;las bisabuelas;personal_info;bisabuela;прабаба;noun;
-el ahijado;хрещеник;los ahijados;personal_info;ahijado;хрещеник;noun;
-la ahijada;хрещениця;las ahijadas;personal_info;ahijada;хрещениця;noun;
-el padrino;хрещений батько;los padrinos;personal_info;padrino;хрещений батько;noun;
-la madrina;хрещена мати;las madrinas;personal_info;madrina;хрещена мати;noun;
-la familia;сім'я;las familias;personal_info;familia;сім'я;noun;
-el matrimonio;шлюб;los matrimonios;personal_info;matrimonio;шлюб;noun;
-el divorcio;розлучення;los divorcios;personal_info;divorcio;розлучення;noun;
-la pareja;пара;las parejas;personal_info;pareja;пара;noun;
-la boda;весілля;las bodas;personal_info;boda;весілля;noun;
-el compromiso;заручини;los compromisos;personal_info;compromiso;заручини;noun;
-la viudez;вдівство;;personal_info;viudez;вдівство;noun;
-el amigo;друг;los amigos;personal_info;amigo;друг;noun;
-soltero;неодружений;;personal_info;soltero;неодружений;adj;
-casado;одружений;;personal_info;casado;одружений;adj;
-divorciado;розлучений;;personal_info;divorciado;розлучений;adj;
-viudo;вдовий;;personal_info;viudo;вдовий;adj;
-enamorarse;закохуватися;;personal_info;enamorarse;закохуватися;verb (-ar);
-separarse;розставатися;;personal_info;separarse;розставатися;verb (-ar);
-la apariencia;зовнішність;las apariencias;personal_info;apariencia;зовнішність;noun;
-el aspecto;вигляд;los aspectos;personal_info;aspecto;вигляд;noun;
-el cuerpo;тіло;los cuerpos;personal_info;cuerpo;тіло;noun;
-la piel;шкіра;las pieles;personal_info;piel;шкіра;noun;
-la cara;обличчя;las caras;personal_info;cara;обличчя;noun;
-el rostro;обличчя;los rostros;personal_info;rostro;обличчя;noun;
-la cabeza;голова;las cabezas;personal_info;cabeza;голова;noun;
-el pelo;волосся;los pelos;personal_info;pelo;волосся;noun;
-el cabello;волосся;los cabellos;personal_info;cabello;волосся;noun;
-la frente;лоб;las frentes;personal_info;frente;лоб;noun;
-la ceja;брова;las cejas;personal_info;ceja;брова;noun;
-el ojo;око;los ojos;personal_info;ojo;око;noun;
-la pestaña;вія;las pestañas;personal_info;pestaña;вія;noun;
-la nariz;ніс;las narices;personal_info;nariz;ніс;noun;
-la boca;рот;las bocas;personal_info;boca;рот;noun;
-el labio;губа;los labios;personal_info;labio;губа;noun;
-el diente;зуб;los dientes;personal_info;diente;зуб;noun;
-la lengua;язик;las lenguas;personal_info;lengua;язик;noun;
-la barbilla;підборіддя;las barbillas;personal_info;barbilla;підборіддя;noun;
-la mejilla;щока;las mejillas;personal_info;mejilla;щока;noun;
-la oreja;вухо;las orejas;personal_info;oreja;вухо;noun;
-el cuello;шия;los cuellos;personal_info;cuello;шия;noun;
-el hombro;плече;los hombros;personal_info;hombro;плече;noun;
-el brazo;рука;los brazos;personal_info;brazo;рука;noun;
-la mano;рука;las manos;personal_info;mano;рука;noun;
-el dedo;палець;los dedos;personal_info;dedo;палець;noun;
-la uña;ніготь;las uñas;personal_info;uña;ніготь;noun;
-la pierna;нога;las piernas;personal_info;pierna;нога;noun;
-el pie;стопа;los pies;personal_info;pie;стопа;noun;
-el dedo del pie;палець ноги;los dedos del pie;personal_info;dedo del pie;палець ноги;noun;
-la espalda;спина;las espaldas;personal_info;espalda;спина;noun;
-el pecho;груди;los pechos;personal_info;pecho;груди;noun;
-el estómago;живіт;los estómagos;personal_info;estómago;живіт;noun;
-la cintura;талія;las cinturas;personal_info;cintura;талія;noun;
-la cadera;стегно;las caderas;personal_info;cadera;стегно;noun;
-la rodilla;коліно;las rodillas;personal_info;rodilla;коліно;noun;
-el tobillo;щиколотка;los tobillos;personal_info;tobillo;щиколотка;noun;
-el talón;п'ята;los talones;personal_info;talón;п'ята;noun;
-la estatura;зріст;las estaturas;personal_info;estatura;зріст;noun;
-el peso;вага;los pesos;personal_info;peso;вага;noun;
-la altura;зріст;las alturas;personal_info;altura;зріст;noun;
-alto;високий;;personal_info;alto;високий;adj;
-bajo;низький;;personal_info;bajo;низький;adj;
-delgado;худий;;personal_info;delgado;худий;adj;
-gordo;товстий;;personal_info;gordo;товстий;adj;
-fuerte;сильний;;personal_info;fuerte;сильний;adj;
-débil;слабкий;;personal_info;débil;слабкий;adj;
-joven;молодий;;personal_info;joven;молодий;adj;
-viejo;старий;;personal_info;viejo;старий;adj;
-guapo;вродливий;;personal_info;guapo;вродливий;adj;
-simpático;симпатичний;;personal_info;simpático;симпатичний;adj;
-antipático;антипатичний;;personal_info;antipático;антипатичний;adj;
-amable;люб'язний;;personal_info;amable;люб'язний;adj;
-grosero;грубий;;personal_info;grosero;грубий;adj;
-generoso;щедрий;;personal_info;generoso;щедрий;adj;
-egoísta;егоїстичний;;personal_info;egoísta;егоїстичний;adj;
-valiente;хоробрий;;personal_info;valiente;хоробрий;adj;
-cobarde;боягузливий;;personal_info;cobarde;боягузливий;adj;
-inteligente;розумний;;personal_info;inteligente;розумний;adj;
-tonto;дурний;;personal_info;tonto;дурний;adj;
-hablador;балакучий;;personal_info;hablador;балакучий;adj;
-callado;мовчазний;;personal_info;callado;мовчазний;adj;
-trabajador;працьовитий;;personal_info;trabajador;працьовитий;adj;
-perezoso;лінивий;;personal_info;perezoso;лінивий;adj;
-organizado;організований;;personal_info;organizado;організований;adj;
-desorganizado;неорганізований;;personal_info;desorganizado;неорганізований;adj;
-puntual;пунктуальний;;personal_info;puntual;пунктуальний;adj;
-impuntual;непунктуальний;;personal_info;impuntual;непунктуальний;adj;
-divertido;веселий;;personal_info;divertido;веселий;adj;
-aburrido;нудний;;personal_info;aburrido;нудний;adj;
-serio;серйозний;;personal_info;serio;серйозний;adj;
-alegre;радісний;;personal_info;alegre;радісний;adj;
-triste;сумний;;personal_info;triste;сумний;adj;
-optimista;оптимістичний;;personal_info;optimista;оптимістичний;adj;
-pesimista;песимістичний;;personal_info;pesimista;песимістичний;adj;
-paciente;терплячий;;personal_info;paciente;терплячий;adj;
-impaciente;нетерплячий;;personal_info;impaciente;нетерплячий;adj;
-tolerante;толерантний;;personal_info;tolerante;толерантний;adj;
-intolerante;нетерпимий;;personal_info;intolerante;нетерпимий;adj;
-sociable;товариський;;personal_info;sociable;товариський;adj;
-insociable;нетовариський;;personal_info;insociable;нетовариський;adj;
-tímido;сором'язливий;;personal_info;tímido;сором'язливий;adj;
-extrovertido;екстравертний;;personal_info;extrovertido;екстравертний;adj;
-introvertido;інтровертний;;personal_info;introvertido;інтровертний;adj;
-cariñoso;ласкавий;;personal_info;cariñoso;ласкавий;adj;
-frío;холодний;;personal_info;frío;холодний;adj;
-sensible;чутливий;;personal_info;sensible;чутливий;adj;
-insensible;нечутливий;;personal_info;insensible;нечутливий;adj;
-honesto;чесний;;personal_info;honesto;чесний;adj;
-mentiroso;брехливий;;personal_info;mentiroso;брехливий;adj;
-fiel;вірний;;personal_info;fiel;вірний;adj;
-infiel;невірний;;personal_info;infiel;невірний;adj;
-educado;ввічливий;;personal_info;educado;ввічливий;adj;
-maleducado;невихований;;personal_info;maleducado;невихований;adj;
-comprensivo;співчутливий;;personal_info;comprensivo;співчутливий;adj;
-incomprensivo;неспівчутливий;;personal_info;incomprensivo;неспівчутливий;adj;
-maduro;зрілий;;personal_info;maduro;зрілий;adj;
-inmaduro;незрілий;;personal_info;inmaduro;незрілий;adj;
-responsable;відповідальний;;personal_info;responsable;відповідальний;adj;
-irresponsable;безвідповідальний;;personal_info;irresponsable;безвідповідальний;adj;
-el despertador;будильник;los despertadores;personal_info;despertador;будильник;noun;
-la cama;ліжко;las camas;personal_info;cama;ліжко;noun;
-la almohada;подушка;las almohadas;personal_info;almohada;подушка;noun;
-el baño;ванна;los baños;personal_info;baño;ванна;noun;
-la ducha;душ;las duchas;personal_info;ducha;душ;noun;
-el jabón;мило;los jabones;personal_info;jabón;мило;noun;
-el champú;шампунь;los champús;personal_info;champú;шампунь;noun;
-el cepillo de dientes;зубна щітка;los cepillos de dientes;personal_info;cepillo de dientes;зубна щітка;noun;
-la pasta de dientes;зубна паста;las pastas de dientes;personal_info;pasta de dientes;зубна паста;noun;
-la toalla;рушник;las toallas;personal_info;toalla;рушник;noun;
-la cocina;кухня;las cocinas;personal_info;cocina;кухня;noun;
-la nevera;холодильник;las neveras;personal_info;nevera;холодильник;noun;
-el café;кава;los cafés;personal_info;café;кава;noun;
-el agua;вода;las aguas;personal_info;agua;вода;noun;
-el desayuno;сніданок;los desayunos;personal_info;desayuno;сніданок;noun;
-el almuerzo;обід;los almuerzos;personal_info;almuerzo;обід;noun;
-la cena;вечеря;las cenas;personal_info;cena;вечеря;noun;
-el trabajo;робота;los trabajos;personal_info;trabajo;робота;noun;
-la oficina;офіс;las oficinas;personal_info;oficina;офіс;noun;
-el coche;автомобіль;los coches;personal_info;coche;автомобіль;noun;
-el autobús;автобус;los autobuses;personal_info;autobús;автобус;noun;
-el reloj;годинник;los relojes;personal_info;reloj;годинник;noun;
-despertar;прокидатися;;personal_info;despertar;прокидатися;verb (-ar);
-levantar;вставати;;personal_info;levantar;вставати;verb (-ar);
-duchar;приймати душ;;personal_info;duchar;приймати душ;verb (-ar);
-afeitar;голитися;;personal_info;afeitar;голитися;verb (-ar);
-maquillar;фарбуватися;;personal_info;maquillar;фарбуватися;verb (-ar);
-peinar;розчісуватися;;personal_info;peinar;розчісуватися;verb (-ar);
-vestir;одягатися;;personal_info;vestir;одягатися;verb (-ir);
-desayunar;снідати;;personal_info;desayunar;снідати;verb (-ar);
-almorzar;обідати;;personal_info;almorzar;обідати;verb (-ar);
-cenar;вечеряти;;personal_info;cenar;вечеряти;verb (-ar);
-trabajar;працювати;;personal_info;trabajar;працювати;verb (-ar);
-conducir;вести;;personal_info;conducir;вести;verb (-ir);
-caminar;ходити;;personal_info;caminar;ходити;verb (-ar);
-correr;бігати;;personal_info;correr;бігати;verb (-er);
-leer;читати;;personal_info;leer;читати;verb (-er);
-escribir;писати;;personal_info;escribir;писати;verb (-ir);
-mirar;дивитися;;personal_info;mirar;дивитися;verb (-ar);
-escuchar;слухати;;personal_info;escuchar;слухати;verb (-ar);
-hacer;робити;;personal_info;hacer;робити;verb (-er);
-dormir;спати;;personal_info;dormir;спати;verb (-ir);
-temprano;рано;;personal_info;temprano;рано;adv;
-tarde;пізно;;personal_info;tarde;пізно;adv;
-rápido;швидкий;;personal_info;rápido;швидкий;adj;
-lento;повільний;;personal_info;lento;повільний;adj;
-diario;щоденний;;personal_info;diario;щоденний;adj;
-nocturno;нічний;;personal_info;nocturno;нічний;adj;
-siempre;завжди;;personal_info;siempre;завжди;adv;
-nunca;ніколи;;personal_info;nunca;ніколи;adv;
+el padre;батько;los padres;personal_info;padre;батько;noun;падре
+la madre;мати;las madres;personal_info;madre;мати;noun;мадре
+el hijo;син;los hijos;personal_info;hijo;син;noun;іхо
+la hija;донька;las hijas;personal_info;hija;донька;noun;іха
+el hermano;брат;los hermanos;personal_info;hermano;брат;noun;ермано
+la hermana;сестра;las hermanas;personal_info;hermana;сестра;noun;ермана
+el abuelo;дід;los abuelos;personal_info;abuelo;дід;noun;абуело
+la abuela;бабуся;las abuelas;personal_info;abuela;бабуся;noun;абуела
+el nieto;онук;los nietos;personal_info;nieto;онук;noun;ньєто
+la nieta;онука;las nietas;personal_info;nieta;онука;noun;ньєта
+el tío;дядько;los tíos;personal_info;tío;дядько;noun;тіо
+la tía;тітка;las tías;personal_info;tía;тітка;noun;тіа
+el primo;двоюрідний брат;los primos;personal_info;primo;двоюрідний брат;noun;прімо
+la prima;двоюрідна сестра;las primas;personal_info;prima;двоюрідна сестра;noun;пріма
+el sobrino;племінник;los sobrinos;personal_info;sobrino;племінник;noun;собріно
+la sobrina;племінниця;las sobrinas;personal_info;sobrina;племінниця;noun;собріна
+el marido;чоловік;los maridos;personal_info;marido;чоловік;noun;марідо
+la esposa;дружина;las esposas;personal_info;esposa;дружина;noun;еспоса
+el novio;хлопець;los novios;personal_info;novio;хлопець;noun;нобіо
+la novia;дівчина;las novias;personal_info;novia;дівчина;noun;нобіа
+el suegro;свекор;los suegros;personal_info;suegro;свекор;noun;суегро
+la suegra;свекруха;las suegras;personal_info;suegra;свекруха;noun;суегра
+el yerno;зять;los yernos;personal_info;yerno;зять;noun;єрно
+la nuera;невістка;las nueras;personal_info;nuera;невістка;noun;нуера
+el cuñado;швагер;los cuñados;personal_info;cuñado;швагер;noun;куньядо
+la cuñada;швагрова;las cuñadas;personal_info;cuñada;швагрова;noun;куньяда
+el padrino;хрещений батько;los padrinos;personal_info;padrino;хрещений батько;noun;падріно
+la madrina;хрещена мати;las madrinas;personal_info;madrina;хрещена мати;noun;мадріна
+el ahijado;хрещеник;los ahijados;personal_info;ahijado;хрещеник;noun;айхадо
+la ahijada;хрещениця;las ahijadas;personal_info;ahijada;хрещениця;noun;айхада
+el gemelo;близнюк;los gemelos;personal_info;gemelo;близнюк;noun;хемело
+la gemela;близнючка;las gemelas;personal_info;gemela;близнючка;noun;хемела
+el pariente;родич;los parientes;personal_info;pariente;родич;noun;пар'єнте
+el bebé;немовля;los bebés;personal_info;bebé;немовля;noun;бебе
+el niño;хлопчик;los niños;personal_info;niño;хлопчик;noun;ніньйо
+la niña;дівчинка;las niñas;personal_info;niña;дівчинка;noun;нінья
+el adolescente;підліток;los adolescentes;personal_info;adolescente;підліток;noun;адолесенте
+el adulto;дорослий;los adultos;personal_info;adulto;дорослий;noun;адулто
+la adulta;доросла;las adultas;personal_info;adulta;доросла;noun;адулта
+el anciano;старий;los ancianos;personal_info;anciano;старий;noun;ансіано
+la anciana;стара;las ancianas;personal_info;anciana;стара;noun;ансіана
+el matrimonio;шлюб;los matrimonios;personal_info;matrimonio;шлюб;noun;матрімоніо
+el divorcio;розлучення;los divorcios;personal_info;divorcio;розлучення;noun;діборсіо
+la boda;весілля;las bodas;personal_info;boda;весілля;noun;бода
+el compromiso;заручини;los compromisos;personal_info;compromiso;заручини;noun;компромісо
+el apellido;прізвище;los apellidos;personal_info;apellido;прізвище;noun;апейїдо
+la pareja;пара;las parejas;personal_info;pareja;пара;noun;пареха
+el amor;кохання;;personal_info;amor;кохання;noun;амор
+la amistad;дружба;;personal_info;amistad;дружба;noun;амістад
+alto;високий;;personal_info;alto;високий;adj;альто
+bajo;низький;;personal_info;bajo;низький;adj;бахо
+delgado;худий;;personal_info;delgado;худий;adj;дельгадо
+gordo;товстий;;personal_info;gordo;товстий;adj;гордо
+guapo;гарний;;personal_info;guapo;гарний;adj;гуапо
+feo;потворний;;personal_info;feo;потворний;adj;фео
+joven;молодий;;personal_info;joven;молодий;adj;ховен
+viejo;старий;;personal_info;viejo;старий;adj;в'єхо
+rubio;білявий;;personal_info;rubio;білявий;adj;рубіо
+moreno;смаглявий;;personal_info;moreno;смаглявий;adj;морено
+pelirrojo;рудоволосий;;personal_info;pelirrojo;рудоволосий;adj;пеліррохо
+calvo;лисий;;personal_info;calvo;лисий;adj;кальво
+fuerte;сильний;;personal_info;fuerte;сильний;adj;фуерте
+débil;слабкий;;personal_info;débil;слабкий;adj;дебіль
+atlético;атлетичний;;personal_info;atlético;атлетичний;adj;атлетіко
+elegante;елегантний;;personal_info;elegante;елегантний;adj;елеганте
+musculoso;мускулистий;;personal_info;musculoso;мускулистий;adj;мускулосо
+esbelto;стрункий;;personal_info;esbelto;стрункий;adj;есбельто
+la altura;зріст;;personal_info;altura;зріст;noun;алтура
+el peso;вага;;personal_info;peso;вага;noun;песо
+la estatura;зріст;;personal_info;estatura;зріст;noun;естатура
+el aspecto;зовнішність;los aspectos;personal_info;aspecto;зовнішність;noun;аспекто
+la apariencia;зовнішність;las apariencias;personal_info;apariencia;зовнішність;noun;апар'єнсія
+la piel;шкіра;las pieles;personal_info;piel;шкіра;noun;п'єль
+el ojo;око;los ojos;personal_info;ojo;око;noun;охо
+la nariz;ніс;las narices;personal_info;nariz;ніс;noun;наріс
+la boca;рот;las bocas;personal_info;boca;рот;noun;бока
+el labio;губа;los labios;personal_info;labio;губа;noun;лабіо
+la oreja;вухо;las orejas;personal_info;oreja;вухо;noun;ореха
+el pelo;волосся;;personal_info;pelo;волосся;noun;пело
+la cara;обличчя;las caras;personal_info;cara;обличчя;noun;кара
+la frente;чоло;las frentes;personal_info;frente;чоло;noun;френте
+la mejilla;щока;las mejillas;personal_info;mejilla;щока;noun;мехійя
+la barbilla;підборіддя;las barbillas;personal_info;barbilla;підборіддя;noun;барбійя
+el cuello;шия;los cuellos;personal_info;cuello;шия;noun;куейо
+la cintura;талія;las cinturas;personal_info;cintura;талія;noun;сінтура
+la cadera;стегно;las caderas;personal_info;cadera;стегно;noun;кадера
+la pierna;нога;las piernas;personal_info;pierna;нога;noun;п'єрна
+el brazo;рука;los brazos;personal_info;brazo;рука;noun;брасо
+la mano;рука;las manos;personal_info;mano;рука;noun;мано
+la barba;борода;las barbas;personal_info;barba;борода;noun;барба
+el bigote;вуса;los bigotes;personal_info;bigote;вуса;noun;біготе
+las gafas;окуляри;;personal_info;gafa;окуляри;noun;гафас
+las pecas;веснянки;;personal_info;peca;веснянка;noun;пекас
+el lunar;родимка;los lunares;personal_info;lunar;родимка;noun;лунар
+parecer;виглядати;;personal_info;parecer;виглядати;verb (-er);паресер
+llevar;носити;;personal_info;llevar;носити;verb (-ar);йебар
+tener;мати;;personal_info;tener;мати;verb (-er);тенер
+medir;вимірювати;;personal_info;medir;вимірювати;verb (-ir);медір
+pesar;важити;;personal_info;pesar;важити;verb (-ar);песар
+la paciencia;терпіння;;personal_info;paciencia;терпіння;noun;пасьєнсія
+la impaciencia;нетерпіння;;personal_info;impaciencia;нетерпіння;noun;імпасьєнсія
+la honestidad;чесність;;personal_info;honestidad;чесність;noun;онестідад
+la deshonestidad;нечесність;;personal_info;deshonestidad;нечесність;noun;десонестідад
+la sinceridad;щирість;;personal_info;sinceridad;щирість;noun;сінсерідад
+la generosidad;щедрість;;personal_info;generosidad;щедрість;noun;хенеросідад
+la tacañería;скупість;;personal_info;tacañería;скупість;noun;таканьєрія
+la amabilidad;доброзичливість;;personal_info;amabilidad;доброзичливість;noun;амабілідад
+la grosería;грубість;;personal_info;grosería;грубість;noun;гросерія
+la timidez;сором'язливість;;personal_info;timidez;сором'язливість;noun;тімідес
+la valentía;хоробрість;;personal_info;valentía;хоробрість;noun;балентіа
+la cobardía;боягузтво;;personal_info;cobardía;боягузтво;noun;кобардіа
+la inteligencia;інтелект;;personal_info;inteligencia;інтелект;noun;інтеліхенсія
+la estupidez;дурість;;personal_info;estupidez;дурість;noun;еступідес
+la responsabilidad;відповідальність;;personal_info;responsabilidad;відповідальність;noun;респонсабілідад
+la irresponsabilidad;безвідповідальність;;personal_info;irresponsabilidad;безвідповідальність;noun;ірреспонсабілідад
+la creatividad;творчість;;personal_info;creatividad;творчість;noun;креатівідад
+la curiosidad;цікавість;;personal_info;curiosidad;цікавість;noun;курьосідад
+la madurez;зрілість;;personal_info;madurez;зрілість;noun;мадурес
+la inmadurez;незрілість;;personal_info;inmadurez;незрілість;noun;інмадурес
+el defecto;недолік;los defectos;personal_info;defecto;недолік;noun;дефекто
+la virtud;чеснота;las virtudes;personal_info;virtud;чеснота;noun;віртуд
+la cualidad;якість;las cualidades;personal_info;cualidad;якість;noun;куалідад
+el rasgo;риса;los rasgos;personal_info;rasgo;риса;noun;расго
+el carácter;характер;los caracteres;personal_info;carácter;характер;noun;карактер
+simpático;симпатичний;;personal_info;simpático;симпатичний;adj;сімпатіко
+antipático;несимпатичний;;personal_info;antipático;несимпатичний;adj;антіпатіко
+amable;люб'язний;;personal_info;amable;люб'язний;adj;амабле
+grosero;грубий;;personal_info;grosero;грубий;adj;гросеро
+sociable;товариський;;personal_info;sociable;товариський;adj;сосьябле
+introvertido;замкнутий;;personal_info;introvertido;замкнутий;adj;інтровертідо
+extrovertido;екстравертний;;personal_info;extrovertido;екстравертний;adj;екстровертідо
+tímido;сором'язливий;;personal_info;tímido;сором'язливий;adj;тімідо
+hablador;балакучий;;personal_info;hablador;балакучий;adj;абладор
+callado;мовчазний;;personal_info;callado;мовчазний;adj;кайядо
+generoso;щедрий;;personal_info;generoso;щедрий;adj;хенеросо
+tacaño;скупий;;personal_info;tacaño;скупий;adj;таканьо
+egoísta;егоїстичний;;personal_info;egoísta;егоїстичний;adj;егоїста
+altruista;альтруїстичний;;personal_info;altruista;альтруїстичний;adj;альтруїста
+sincero;щирий;;personal_info;sincero;щирий;adj;сінсеро
+mentiroso;брехливий;;personal_info;mentiroso;брехливий;adj;ментіросо
+honesto;чесний;;personal_info;honesto;чесний;adj;онесто
+deshonesto;нечесний;;personal_info;deshonesto;нечесний;adj;десонесто
+leal;вірний;;personal_info;leal;вірний;adj;леаль
+desleal;невірний;;personal_info;desleal;невірний;adj;деслеаль
+fiel;вірний;;personal_info;fiel;вірний;adj;ф'єль
+optimista;оптимістичний;;personal_info;optimista;оптимістичний;adj;оптіміста
+pesimista;песимістичний;;personal_info;pesimista;песимістичний;adj;песіміста
+paciente;терплячий;;personal_info;paciente;терплячий;adj;пасьєнте
+impaciente;нетерплячий;;personal_info;impaciente;нетерплячий;adj;імпасьєнте
+el despertador;будильник;los despertadores;personal_info;despertador;будильник;noun;деспертадор
+la cama;ліжко;las camas;personal_info;cama;ліжко;noun;кама
+la almohada;подушка;las almohadas;personal_info;almohada;подушка;noun;альмоада
+la sábana;простирадло;las sábanas;personal_info;sábana;простирадло;noun;сабана
+el baño;ванна кімната;los baños;personal_info;baño;ванна кімната;noun;баньо
+la ducha;душ;las duchas;personal_info;ducha;душ;noun;дуча
+el jabón;мило;los jabones;personal_info;jabón;мило;noun;хабон
+el champú;шампунь;los champús;personal_info;champú;шампунь;noun;чампу
+el cepillo;щітка;los cepillos;personal_info;cepillo;щітка;noun;сепійо
+la pasta;паста;las pastas;personal_info;pasta;паста;noun;паста
+el diente;зуб;los dientes;personal_info;diente;зуб;noun;дьєнте
+el peine;гребінець;los peines;personal_info;peine;гребінець;noun;пейне
+el espejo;дзеркало;los espejos;personal_info;espejo;дзеркало;noun;еспехо
+la toalla;рушник;las toallas;personal_info;toalla;рушник;noun;тоайя
+el desayuno;сніданок;los desayunos;personal_info;desayuno;сніданок;noun;десаюно
+el almuerzo;обід;los almuerzos;personal_info;almuerzo;обід;noun;альмуерсо
+la cena;вечеря;las cenas;personal_info;cena;вечеря;noun;сена
+la cocina;кухня;las cocinas;personal_info;cocina;кухня;noun;косіна
+la cafetera;кавоварка;las cafeteras;personal_info;cafetera;кавоварка;noun;кафетера
+el café;кава;los cafés;personal_info;café;кава;noun;кафе
+el pan;хліб;;personal_info;pan;хліб;noun;пан
+la mantequilla;масло;;personal_info;mantequilla;масло;noun;мантекійя
+la mermelada;варення;las mermeladas;personal_info;mermelada;варення;noun;мермелада
+el jugo;сік;los jugos;personal_info;jugo;сік;noun;хуго
+la leche;молоко;;personal_info;leche;молоко;noun;лече
+el azúcar;цукор;;personal_info;azúcar;цукор;noun;асукар
+el cereal;пластівці;los cereales;personal_info;cereal;пластівці;noun;сереаль
+el huevo;яйце;los huevos;personal_info;huevo;яйце;noun;уево
+el queso;сир;los quesos;personal_info;queso;сир;noun;кесо
+el jamón;шинка;los jamones;personal_info;jamón;шинка;noun;хамон
+la fruta;фрукт;las frutas;personal_info;fruta;фрукт;noun;фрута
+el yogur;йогурт;los yogures;personal_info;yogur;йогурт;noun;йогур
+despertarse;прокидатися;;personal_info;despertarse;прокидатися;verb (-ar);деспертарсе
+levantarse;вставати;;personal_info;levantarse;вставати;verb (-ar);левантарсе
+ducharse;приймати душ;;personal_info;ducharse;приймати душ;verb (-ar);дучарсе
+vestirse;одягатися;;personal_info;vestirse;одягатися;verb (-ir);вестірсе
+desayunar;снідати;;personal_info;desayunar;снідати;verb (-ar);десаюнар
+almorzar;обідати;;personal_info;almorzar;обідати;verb (-ar);альморсар
+cenar;вечеряти;;personal_info;cenar;вечеряти;verb (-ar);сенар
+cepillarse;чистити зуби;;personal_info;cepillarse;чистити зуби;verb (-ar);сепілярсе
+afeitarse;голитися;;personal_info;afeitarse;голитися;verb (-ar);афейтарсе
+peinarse;розчісуватися;;personal_info;peinarse;розчісуватися;verb (-ar);пейнарсе
+salir;виходити;;personal_info;salir;виходити;verb (-ir);салір
+volver;повертатися;;personal_info;volver;повертатися;verb (-er);вольвер
+llegar;прибувати;;personal_info;llegar;прибувати;verb (-ar);йегар
+trabajar;працювати;;personal_info;trabajar;працювати;verb (-ar);трабахар
+estudiar;вчитися;;personal_info;estudiar;вчитися;verb (-ar);естудіар
+temprano;рано;;personal_info;temprano;рано;adv;темпрано
+tarde;пізно;;personal_info;tarde;пізно;adv;тарде
+cansado;втомлений;;personal_info;cansado;втомлений;adj;кансадо

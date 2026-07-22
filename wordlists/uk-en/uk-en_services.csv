@@ -1,139 +1,131 @@
-account;рахунок;accounts (masculine);services;account;рахунок;noun;акаунт
-withdrawal;зняття;withdrawals (neuter);services;withdrawal;зняття;noun;віздроал
-statement;виписка;statements (feminine);services;statement;виписка;noun;стейтмент
-interest;відсоток;interests (masculine);services;interest;відсоток;noun;інтрест
-exchange rate;обмінний курс;exchange rates (masculine);services;exchange rate;обмінний курс;noun;ексчейндж рейт
-counter;вікно;counters (neuter);services;counter;вікно;noun;каунтер
-clerk;клерк;clerks (masculine);services;clerk;клерк;noun;клерк
-cashier;касир;cashiers (masculine);services;cashier;касир;noun;кешір
-teller;касир-операціоніст;tellers (masculine);services;teller;касир-операціоніст;noun;телер
-safe deposit box;сейфова скринька;safe deposit boxes (feminine);services;safe deposit box;сейфова скринька;noun;сейф депозит бокс
-banknote;банкнота;banknotes (feminine);services;banknote;банкнота;noun;банкнот
-postbox;поштова скринька;postboxes (feminine);services;postbox;поштова скринька;noun;поустбокс
-letter;лист;letters (masculine);services;letter;лист;noun;летер
-envelope;конверт;envelopes (masculine);services;envelope;конверт;noun;енвелоуп
-stamp;марка;stamps (feminine);services;stamp;марка;noun;стемп
-package;посилка;packages (feminine);services;package;посилка;noun;пекідж
-registered mail;рекомендована пошта;registered mail (uncountable, feminine);services;registered mail;рекомендована пошта;noun;реджістерд мейл
-airmail;авіапошта;airmail (uncountable, feminine);services;airmail;авіапошта;noun;еермейл
-address;адреса;addresses (feminine);services;address;адреса;noun;едрес
-sender;відправник;senders (masculine);services;sender;відправник;noun;сендер
-recipient;отримувач;recipients (masculine);services;recipient;отримувач;noun;рісіпієнт
-postman;листоноша;postmen (masculine);services;postman;листоноша;noun;поустмен
-queue ticket;талон черги;queue tickets (masculine);services;queue ticket;талон черги;noun;к'ю тікет
-fill out;заповнювати;;services;fill out;заповнювати (imperfective);verb;філ аут
-send;надсилати;;services;send;надсилати (imperfective);verb;сенд
-receive;отримувати;;services;receive;отримувати (imperfective);verb;рісів
-queue up;стояти в черзі;;services;queue up;стояти в черзі (imperfective);verb;к'ю ап
-haircut;стрижка;haircuts (feminine);services;haircut;стрижка;noun;хеаркат
-hairdresser;перукар;hairdressers (masculine);services;hairdresser;перукар;noun;хеардресер
-barber;барбер;barbers (masculine);services;barber;барбер;noun;барбер
-scissors;ножиці;scissors (feminine);services;scissors;ножиці;noun;сизорз
-conditioner;кондиціонер;conditioner (uncountable);services;conditioner;кондиціонер;noun;кандишенер
-hair dryer;фен;hair dryers (masculine);services;hair dryer;фен;noun;хеар драйер
-salon;салон;salons (masculine);services;salon;салон;noun;салон
-stylist;стиліст;stylists (masculine);services;stylist;стиліст;noun;стайліст
-blow-dry;укладка;blow-dries (feminine);services;blow-dry;укладка;noun;блоу драй
-bangs;чубчик;bangs (masculine);services;bangs;чубчик;noun;бенгз
-layers;шари;layers (masculine);services;layers;шари;noun;лейерз
-dye;фарба;dye (uncountable);services;dye;фарба;noun;дай
-color;колір;colors (masculine);services;color;колір;noun;калар
-highlight;мелірування;highlights (neuter);services;highlight;мелірування;noun;хайлайт
-perm;хімічна завивка;perms (feminine);services;perm;хімічна завивка;noun;перм
-relaxer;релаксант;relaxers (masculine);services;relaxer;релаксант;noun;рилаксер
-mask;маска;masks (feminine);services;mask;маска;noun;маск
-gel;гель;gels (masculine);services;gel;гель;noun;джел
-mousse;мус;mousses (masculine);services;mousse;мус;noun;мус
-spray;спрей;sprays (masculine);services;spray;спрей;noun;спрей
-wax;віск;wax (uncountable);services;wax;віск;noun;вакс
-pomade;помада;pomade (uncountable);services;pomade;помада;noun;помейд
-clip;затискач;clips (masculine);services;clip;затискач;noun;кліп
-roller;бігуді;rollers (neuter);services;roller;бігуді;noun;ролер
-gown;накидка;gowns (feminine);services;gown;накидка;noun;ґаун
-apron;фартух;aprons (masculine);services;apron;фартух;noun;ейпрен
-reception;рецепція;receptions (feminine);services;reception;рецепція;noun;рисепшн
-hairstyle;зачіска;hairstyles (feminine);services;hairstyle;зачіска;noun;хеарстайл
-curl;локон;curls (masculine);services;curl;локон;noun;керл
-wave;хвиля;waves (feminine);services;wave;хвиля;noun;вейв
-straightening;випрямлення;straightening (uncountable);services;straightening;випрямлення;noun;стрейтенінг
-appointment book;журнал записів;appointment books (masculine);services;appointment book;журнал записів;noun;апойнтмент бук
-waiting area;зона очікування;waiting areas (feminine);services;waiting area;зона очікування;noun;вейтінг еаріа
-hairdressing;перукарство;hairdressing (uncountable);services;hairdressing;перукарство;noun;хеардресінг
-mechanic;механік;mechanics (masculine);services;mechanic;механік;noun;мекенік
-check;перевіряти;;services;check;перевіряти (imperfective);verb;чек
-filter;фільтр;filters (masculine);services;filter;фільтр;noun;філтер
-brake;гальмо;brakes (neuter);services;brake;гальмо;noun;брейк
-tire;шина;tires (feminine);services;tire;шина;noun;тайр
-battery;акумулятор;batteries (masculine);services;battery;акумулятор;noun;батері
-engine;двигун;engines (masculine);services;engine;двигун;noun;енджин
-headlight;фара;headlights (feminine);services;headlight;фара;noun;хедлайт
-taillight;задній ліхтар;taillights (masculine);services;taillight;задній ліхтар;noun;тейллайт
-windshield;лобове скло;windshields (neuter);services;windshield;лобове скло;noun;віндшилд
-wiper;склоочисник;wipers (masculine);services;wiper;склоочисник;noun;вайпер
-exhaust;вихлоп;exhausts (masculine);services;exhaust;вихлоп;noun;ігзост
-muffler;глушник;mufflers (masculine);services;muffler;глушник;noun;мафлер
-spark plug;свічка запалювання;spark plugs (feminine);services;spark plug;свічка запалювання;noun;спарк плаг
-hose;шланг;hoses (masculine);services;hose;шланг;noun;хоуз
-radiator;радіатор;radiators (masculine);services;radiator;радіатор;noun;рейдіейтор
-coolant;охолоджувач;coolants (masculine);services;coolant;охолоджувач;noun;кулант
-transmission;трансмісія;transmissions (feminine);services;transmission;трансмісія;noun;трансмішн
-clutch;зчеплення;clutches (neuter);services;clutch;зчеплення;noun;клатч
-axle;вісь;axles (feminine);services;axle;вісь;noun;аксл
-suspension;підвіска;suspensions (feminine);services;suspension;підвіска;noun;саспеншн
-alignment;розвал-сходження;alignments (neuter);services;alignment;розвал-сходження;noun;алайнмент
-puncture;прокол;punctures (masculine);services;puncture;прокол;noun;панкчер
-flat tire;спущена шина;flat tires (feminine);services;flat tire;спущена шина;noun;флет тайр
-jump start;прикурювання;jump starts (neuter);services;jump start;прикурювання;noun;джамп старт
-tow truck;евакуатор;tow trucks (masculine);services;tow truck;евакуатор;noun;тоу трак
-estimate;кошторис;estimates (masculine);services;estimate;кошторис;noun;естімет
-part;деталь;parts (feminine);services;part;деталь;noun;парт
-labor;праця;labor (uncountable, feminine);services;labor;праця;noun;лейбор
-service;послуга;services (feminine);services;service;послуга;noun;сервіс
-diagnose;діагностувати;;services;diagnose;діагностувати (imperfective);verb;дайегноуз
-adjust;регулювати;;services;adjust;регулювати (imperfective);verb;аджаст
-tighten;затягувати;;services;tighten;затягувати (imperfective);verb;тайтен
-loosen;послаблювати;;services;loosen;послаблювати (imperfective);verb;лусен
-refill;доливати;;services;refill;доливати (imperfective);verb;ріфіл
-wheel;колесо;wheels (neuter);services;wheel;колесо;noun;віл
-jack;домкрат;jacks (masculine);services;jack;домкрат;noun;джек
-wrench;гайковий ключ;wrenches (masculine);services;wrench;гайковий ключ;noun;ренч
-police;поліція;police (uncountable);services;police;поліція;noun;поліс
-accident;аварія;accidents (feminine);services;accident;аварія;noun;ексідент
-crime;злочин;crimes (masculine);services;crime;злочин;noun;крайм
-thief;злодій;thieves (masculine);services;thief;злодій;noun;тіф
-robbery;пограбування;robberies (neuter);services;robbery;пограбування;noun;робері
-burglary;крадіжка зі зломом;burglaries (feminine);services;burglary;крадіжка зі зломом;noun;берглері
-assault;напад;assaults (masculine);services;assault;напад;noun;есолт
-murder;вбивство;murders (neuter);services;murder;вбивство;noun;мердер
-violence;насильство;violence (uncountable);services;violence;насильство;noun;вайоленс
-victim;жертва;victims (feminine);services;victim;жертва;noun;віктим
-witness;свідок;witnesses (masculine);services;witness;свідок;noun;вітнес
-suspect;підозрюваний;suspects (masculine);services;suspect;підозрюваний;noun;саспект
-evidence;доказ;evidence (uncountable);services;evidence;доказ;noun;евіденс
-investigation;розслідування;investigations (neuter);services;investigation;розслідування;noun;інвестігейшн
-arrest;арешт;arrests (masculine);services;arrest;арешт;noun;ерест
-officer;офіцер;officers (masculine);services;officer;офіцер;noun;офісер
-handcuffs;наручники;handcuffs (plural, no gender);services;handcuffs;наручники;noun;гендкафс
-badge;значок;badges (masculine);services;badge;значок;noun;бадж
-uniform;форма;uniforms (feminine);services;uniform;форма;noun;юніформ
-weapon;зброя;weapons (feminine);services;weapon;зброя;noun;вепон
-gun;пістолет;guns (masculine);services;gun;пістолет;noun;ган
-threat;загроза;threats (feminine);services;threat;загроза;noun;трет
-danger;небезпека;dangers (feminine);services;danger;небезпека;noun;дейнджер
-help;допомога;help (uncountable);services;help;допомога;noun;хелп
-rescue;рятування;rescues (neuter);services;rescue;рятування;noun;рескью
-paramedic;парамедик;paramedics (masculine);services;paramedic;парамедик;noun;паремедик
-alarm;сигналізація;alarms (feminine);services;alarm;сигналізація;noun;еларм
-siren;сирена;sirens (feminine);services;siren;сирена;noun;сайрен
-escape;втеча;escapes (feminine);services;escape;втеча;noun;іскейп
-hostage;заручник;hostages (masculine);services;hostage;заручник;noun;гостідж
-terrorism;тероризм;terrorism (uncountable);services;terrorism;тероризм;noun;тероризм
-bomb;бомба;bombs (feminine);services;bomb;бомба;noun;бом
-detective;детектив;detectives (masculine);services;detective;детектив;noun;дітектів
-patrol;патруль;patrols (masculine);services;patrol;патруль;noun;петрол
-security;безпека;security (uncountable);services;security;безпека;noun;сек'юріті
-crime scene;місце злочину;crime scenes (neuter);services;crime scene;місце злочину;noun;крайм сін
-fingerprint;відбиток пальця;fingerprints (masculine);services;fingerprint;відбиток пальця;noun;фінгерпрінт
-interrogation;допит;interrogations (masculine);services;interrogation;допит;noun;інтерогейшн
-chase;переслідування;chases (neuter);services;chase;переслідування;noun;чейс
-injured;поранений;;services;injured;поранений;adj;інджед
+savings;заощадження;zaoshchadzhennya / n.;services;savings;заощадження;noun;
+withdrawal;зняття;znyattya / n.;services;withdrawal;зняття;noun;
+transfer;переказ;perekaz / m.;services;transfer;переказ;noun;
+teller;касир;kasyr / m.;services;teller;касир;noun;
+statement;виписка;vypyska / f.;services;statement;виписка;noun;
+branch;відділення;viddilennya / n.;services;branch;відділення;noun;
+online banking;онлайн-банкінг;onlayn-bankinh / m.;services;online banking;онлайн-банкінг;noun;
+cheque;чек;chek / m.;services;cheque;чек;noun;
+safe;сейф;seyf / m.;services;safe;сейф;noun;
+stamp;марка;marka / f.;services;stamp;марка;noun;
+envelope;конверт;konvert / m.;services;envelope;конверт;noun;
+package;посилка;posylka / f.;services;package;посилка;noun;
+parcel;пакунок;pakunok / m.;services;parcel;пакунок;noun;
+address;адреса;adresa / f.;services;address;адреса;noun;
+sender;відправник;vidpravnyk / m.;services;sender;відправник;noun;
+recipient;одержувач;oderzhuvach / m.;services;recipient;одержувач;noun;
+postbox;поштова скринька;poshtova skrynka / f.;services;postbox;поштова скринька;noun;
+delivery;доставка;dostavka / f.;services;delivery;доставка;noun;
+postman;листоноша;lystonosha / m.;services;postman;листоноша;noun;
+counter;віконце;vikontse / n.;services;counter;віконце;noun;
+postal code;поштовий індекс;poshtovyi indeks / m.;services;postal code;поштовий індекс;noun;
+registered mail;рекомендований лист;rekomendovanyi lyst / m.;services;registered mail;рекомендований лист;noun;
+airmail;авіапошта;aviaposhta / f.;services;airmail;авіапошта;noun;
+express delivery;термінова доставка;terminova dostavka / f.;services;express delivery;термінова доставка;noun;
+hair dryer;фен;fen / m.;services;hair dryer;фен;noun;
+hair spray;лак;lak / m.;services;hair spray;лак;noun;
+curling iron;плойка;ployka / f.;services;curling iron;плойка;noun;
+scalp;скальп;skal'p / m.;services;scalp;скальп;noun;
+dandruff;лупа;lupa / f.;services;dandruff;лупа;noun;
+hair loss;облисіння;oblysinnya / n.;services;hair loss;облисіння;noun;
+hair color;колір волосся;kolir volossia / m.;services;hair color;колір волосся;noun;
+hairdresser;перукар;perukar / m.;services;hairdresser;перукар;noun;
+barber;барбер;barber / m.;services;barber;барбер;noun;
+haircut;стрижка;stryzhka / f.;services;haircut;стрижка;noun;
+hairstyle;зачіска;zachiska / f.;services;hairstyle;зачіска;noun;
+conditioner;кондиціонер;kondytsioner / m.;services;conditioner;кондиціонер;noun;
+straightener;праска;praska / f.;services;straightener;праска;noun;
+mousse;мус;mus / m.;services;mousse;мус;noun;
+gel;гель;hel' / m.;services;gel;гель;noun;
+hair dye;фарба;farba / f.;services;hair dye;фарба;noun;
+highlights;мелірування;meliruvannya / n.;services;highlights;мелірування;noun;
+blow-dry;укладка;ukladka / f.;services;blow-dry;укладка;noun;
+wash;миття;myttia / n.;services;wash;миття;noun;
+trim;підстригання;pidstryhannya / n.;services;trim;підстригання;noun;
+cape;накидка;nakydka / f.;services;cape;накидка;noun;
+apron;фартух;fartukh / m.;services;apron;фартух;noun;
+shaving cream;крем;krem / m.;services;shaving cream;крем;noun;
+hair clip;затискач;zatyskach / m.;services;hair clip;затискач;noun;
+bobby pin;шпилька;shpyl'ka / f.;services;bobby pin;шпилька;noun;
+headband;обруч;obruch / m.;services;headband;обруч;noun;
+perm;завивка;zavyvka / f.;services;perm;завивка;noun;
+straightening;випрямлення;vypryamlennya / n.;services;straightening;випрямлення;noun;
+styling;стайлінг;staylinh / m.;services;styling;стайлінг;noun;
+mask;маска;maska / f.;services;mask;маска;noun;
+serum;сироватка;syrovatka / f.;services;serum;сироватка;noun;
+thick;густий;hustyj;services;thick;густий;adj;
+cut;стригти;stryhty;services;cut;стригти (imperfective);verb;
+dye;фарбувати;farbuvaty;services;dye;фарбувати (imperfective);verb;
+car;автомобіль;avtomobil / m.;services;car;автомобіль;noun;
+engine;двигун;dvyhun / m.;services;engine;двигун;noun;
+battery;акумулятор;akumulyator / m.;services;battery;акумулятор;noun;
+tire;шина;shyna / f.;services;tire;шина;noun;
+wheel;колесо;koleso / n.;services;wheel;колесо;noun;
+brake;гальмо;halmo / n.;services;brake;гальмо;noun;
+headlight;фара;fara / f.;services;headlight;фара;noun;
+windshield;лобове скло;lobove sklo / n.;services;windshield;лобове скло;noun;
+filter;фільтр;filtr / m.;services;filter;фільтр;noun;
+spark plug;свічка запалювання;svichka zapalyuvannya / f.;services;spark plug;свічка запалювання;noun;
+alternator;генератор;henerator / m.;services;alternator;генератор;noun;
+starter;стартер;starter / m.;services;starter;стартер;noun;
+fuse;запобіжник;zapobizhnyk / m.;services;fuse;запобіжник;noun;
+bolt;болт;bolt / m.;services;bolt;болт;noun;
+nut;гайка;hayka / f.;services;nut;гайка;noun;
+wrench;гайковий ключ;haykovyi klyuch / m.;services;wrench;гайковий ключ;noun;
+jack;домкрат;domkrat / m.;services;jack;домкрат;noun;
+mechanic;механік;mekhanik / m.;services;mechanic;механік;noun;
+garage;гараж;harazh / m.;services;garage;гараж;noun;
+diagnostics;діагностика;diahnostyka / f.;services;diagnostics;діагностика;noun;
+breakdown;поломка;polomka / f.;services;breakdown;поломка;noun;
+tow truck;евакуатор;evakuator / m.;services;tow truck;евакуатор;noun;
+dent;вм'ятина;vmyatyna / f.;services;dent;вм'ятина;noun;
+rust;іржа;irzha / f. unc.;services;rust;іржа;noun;
+service;сервіс;servis / m.;services;service;сервіс;noun;
+inspection;огляд;ohlyad / m.;services;inspection;огляд;noun;
+license plate;номерний знак;nomernyi znak / m.;services;license plate;номерний знак;noun;
+drive;вести;vesty;services;drive;вести (imperfective);verb;
+break down;ламатися;lamatysya;services;break down;ламатися (imperfective);verb;
+tow;буксирувати;buksyruvaty;services;tow;буксирувати (imperfective);verb;
+fill up;заправляти;zapravlyaty;services;fill up;заправляти (imperfective);verb;
+charge;заряджати;zaryadzhaty;services;charge;заряджати (imperfective);verb;
+flat;спущений;spushchenyi;services;flat;спущений;adj;
+new;новий;novyi;services;new;новий;adj;
+safely;безпечно;bezpechno;services;safely;безпечно;adv;
+police;поліція;politsiya / f.;services;police;поліція;noun;
+officer;офіцер;ofitser / m.;services;officer;офіцер;noun;
+crime;злочин;zlochyn / m.;services;crime;злочин;noun;
+accident;аварія;avariya / f.;services;accident;аварія;noun;
+danger;небезпека;nebezpeka / f.;services;danger;небезпека;noun;
+thief;злодій;zlodiy / m.;services;thief;злодій;noun;
+arrest;арешт;aresht / m.;services;arrest;арешт;noun;
+investigation;розслідування;rozsliduvannya / n.;services;investigation;розслідування;noun;
+firefighter;пожежник;pozhezhnyk / m.;services;firefighter;пожежник;noun;
+paramedic;парамедик;paramedyk / m.;services;paramedic;парамедик;noun;
+rescue;рятування;ryatuvannya / n.;services;rescue;рятування;noun;
+alarm;тривога;tryvoha / f.;services;alarm;тривога;noun;
+siren;сирена;syrena / f.;services;siren;сирена;noun;
+gun;пістолет;pistolet / m.;services;gun;пістолет;noun;
+weapon;зброя;zbroyа / f.;services;weapon;зброя;noun;
+evidence;доказ;dokaz / m.;services;evidence;доказ;noun;
+court;суд;sud / m.;services;court;суд;noun;
+judge;суддя;suddya / m.;services;judge;суддя;noun;
+prison;в'язниця;vyaznytsya / f.;services;prison;в'язниця;noun;
+criminal;злочинець;zlochynets' / m.;services;criminal;злочинець;noun;
+stolen;вкрадений;vkradenyy;services;stolen;вкрадений;adj;
+robbery;пограбування;pohrabuvannya / n.;services;robbery;пограбування;noun;
+theft;крадіжка;kradizhka / f.;services;theft;крадіжка;noun;
+assault;напад;napad / m.;services;assault;напад;noun;
+murder;вбивство;vbyvstvo / n.;services;murder;вбивство;noun;
+traffic accident;ДТП;de-te-pe / f.;services;traffic accident;ДТП (дорожньо-транспортна пригода);noun;
+speeding;перевищення швидкості;perevyshchennya shvydkosti / n.;services;speeding;перевищення швидкості;noun;
+fine;штраф;shtraf / m.;services;fine;штраф;noun;
+driver's license;водійські права;vodiy's'ki prava / n. pl.;services;driver's license;водійські права;noun;
+patrol;патруль;patrul' / m.;services;patrol;патруль;noun;
+handcuffs;наручники;naruchnyky / m. pl.;services;handcuffs;наручники;noun;
+flashlight;ліхтарик;likhtaryk / m.;services;flashlight;ліхтарик;noun;
+uniform;форма;forma / f.;services;uniform;форма;noun;
+police station;відділок поліції;viddilok politsiyi / m.;services;police station;відділок поліції;noun;
+emergency exit;аварійний вихід;avariynyy vykhid / m.;services;emergency exit;аварійний вихід;noun;
+first aid;перша допомога;persha dopomoha / f.;services;first aid;перша допомога;noun;
+injury;травма;travma / f.;services;injury;травма;noun;
+unconscious;непритомний;neprytomnyy;services;unconscious;непритомний;adj;

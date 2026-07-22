@@ -5,25 +5,35 @@ Generate {WORDS_PER_CHUNK} common B1-level vocabulary words related to the theme
 The words should be translated from Ukrainian to English.
 
 Output format MUST be strictly CSV with no headers, no markdown blocks, no numbering, and separated by semicolons (;).
-Format: foreign_word;ukrainian_word;english_plural_and_gender;category_tag;lemma;lemma_translation;part_of_speech;transliteration
+Format: foreign_word;ukrainian_word;transliteration_and_gender;category_tag;lemma;lemma_translation;part_of_speech;reserved
+
+## CARD DISPLAY STRUCTURE (top to bottom):
+1. Ukrainian word (the word being learned — column 2)
+2. Latin transliteration + gender (pronunciation guide for English speakers — column 3)
+3. English word (native translation — column 1)
+4. Lemma family (columns 5 + 6)
 
 ## COLUMN RULES:
 1. 'foreign_word': The word in English (do not capitalize unless proper noun)
 2. 'ukrainian_word': The word in Ukrainian (must use proper Ukrainian diacritics: ї, є, ґ, etc.)
-3. 'english_plural_and_gender': The plural form in English if countable noun, otherwise empty. For Ukrainian nouns, add grammatical gender in parentheses (e.g., 'tables (neuter)', 'water (uncountable)')
+3. 'transliteration_and_gender': Latin-script transliteration of the UKRAINIAN word, approximating Ukrainian pronunciation for English speakers. For nouns, append a slash and gender abbreviation: m. (masculine), f. (feminine), n. (neuter). For uncountable nouns add: unc. For non-nouns (verbs, adjectives, adverbs, etc.) — transliteration only, no gender.
 4. 'category_tag': Always '{category}' (do not substitute)
 5. 'lemma': The root dictionary form of the foreign_word. If already a lemma, repeat it.
 6. 'lemma_translation': The translation of the lemma in Ukrainian (for verbs, specify aspect: e.g., 'писати (imperfective)')
 7. 'part_of_speech': The part of speech using standardized terms (see below)
-8. 'transliteration': Ukrainian transliterative pronunciation guide (e.g., 'епл' for 'apple', 'вота' for 'water')
+8. 'reserved': Leave this column EMPTY
+
+## TRANSLITERATION RULES:
+- Use simplified Latin-script transliteration that an English speaker can read aloud to approximate the Ukrainian pronunciation
+- Use common romanization: я→ya, є→ye, ї→yi, ю→yu, ж→zh, ч→ch, ш→sh, щ→shch, ц→ts, х→kh, г→h, ґ→g, ь→(soften preceding consonant or omit)
+- Examples: яблуко→yabluko, вода→voda, читати→chytaty, щастя→shchastya, місто→misto
 
 ## CRITICAL RULES FOR UKRAINIAN:
 - Lemma must be in nominative singular case for nouns
-- For nouns: specify grammatical gender (masculine/feminine/neuter) in plural_and_gender column
+- For nouns: gender is embedded in column 3 after slash (m./f./n./unc.)
 - For verbs: specify aspect (perfective/imperfective) in lemma_translation
 - For adjectives: provide masculine singular form as lemma
 - Use proper Ukrainian diacritics (ї, є, ґ, etc.)
-- For uncountable nouns: note 'uncountable' in gender field
 
 ## STANDARDIZED PART OF SPEECH TERMS:
 - noun
@@ -39,10 +49,10 @@ Format: foreign_word;ukrainian_word;english_plural_and_gender;category_tag;lemma
 ## QUALITY ASSURANCE RULES:
 - Verify lemma and foreign_word are different when the word is inflected
 - Ensure lemma_translation includes aspect for verbs
-- Cross-check that plural forms match the noun's countability
+- Cross-check that gender abbreviation matches the Ukrainian noun's actual grammatical gender
 - Never include explanatory text, notes, or example sentences
 - Avoid hyphenation or line breaks within words
-- Ensure all semicolons are followed by content (no trailing semicolons)
+- Ensure all semicolons are followed by content (no trailing semicolons except column 8 which is empty)
 
 ## CULTURAL CONTEXT NOTES:
 - Prioritize words used in everyday conversation in both languages
@@ -51,26 +61,28 @@ Format: foreign_word;ukrainian_word;english_plural_and_gender;category_tag;lemma
 - Avoid idioms or expressions that don't translate literally
 
 ## VALIDATION EXAMPLES (must match these patterns exactly):
-# Nouns (with gender specification)
-apple;яблуко;apples (neuter);{category};apple;яблуко;noun;епл
-water;вода;water (uncountable);{category};water;вода;noun;вота
+# Nouns (transliteration + gender)
+apple;яблуко;yabluko / n.;{category};apple;яблуко;noun;
+water;вода;voda / f.;{category};water;вода;noun;
+table;стіл;stil / m.;{category};table;стіл;noun;
 
-# Verbs (with aspect)
-write;писати;;{category};write;писати (imperfective);verb;райт
-read;читати;;{category};read;читати (imperfective);verb;рід
+# Verbs (transliteration only, no gender)
+write;писати;pysaty;{category};write;писати (imperfective);verb;
+read;читати;chytaty;{category};read;читати (imperfective);verb;
 
-# Adjectives
-red;червоний;;{category};red;червоний;adj;ред
+# Adjectives (transliteration only)
+red;червоний;chervonyi;{category};red;червоний;adj;
 
-# Ukrainian case forms
-стіл;table;tables (masculine);{category};стіл;table;noun;тейбл
+# Adverbs
+often;часто;chasto;{category};often;часто;adv;
 
 ## ERROR PREVENTION:
 - Never use quotation marks around words
 - Do not capitalize English words unless proper nouns
-- Ensure transliterative transcription uses Cyrillic characters to approximate English pronunciation
+- Ensure transliteration uses LATIN characters (NOT Cyrillic)
+- Gender abbreviation must be one of: m. / f. / n. / unc.
 - Verify Ukrainian diacritics are used correctly
 - Confirm verb aspect is specified in lemma_translation
-- Check that gender specification matches Ukrainian grammar
+- Column 8 must always be EMPTY
 
 Ensure output contains ONLY the requested words, formatted strictly as specified above.

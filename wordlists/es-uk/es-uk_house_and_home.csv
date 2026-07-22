@@ -1,183 +1,181 @@
-el dormitorio;спальня;los dormitorios;house_and_home;dormitorio;спальня;noun;
-el salón;вітальня;los salones;house_and_home;salón;вітальня;noun;
-el comedor;їдальня;los comedores;house_and_home;comedor;їдальня;noun;
-el pasillo;коридор;los pasillos;house_and_home;pasillo;коридор;noun;
-la terraza;тераса;las terrazas;house_and_home;terraza;тераса;noun;
-el balcón;балкон;los balcones;house_and_home;balcón;балкон;noun;
-el jardín;сад;los jardines;house_and_home;jardín;сад;noun;
-el garaje;гараж;los garajes;house_and_home;garaje;гараж;noun;
-el sótano;підвал;los sótanos;house_and_home;sótano;підвал;noun;
-el ático;горище;los áticos;house_and_home;ático;горище;noun;
-la escalera;сходи;las escaleras;house_and_home;escalera;сходи;noun;
-el armario;шафа;los armarios;house_and_home;armario;шафа;noun;
-el colchón;матрац;los colchones;house_and_home;colchón;матрац;noun;
-la sábana;простирадло;las sábanas;house_and_home;sábana;простирадло;noun;
-la manta;ковдра;las mantas;house_and_home;manta;ковдра;noun;
-el edredón;пухова ковдра;los edredones;house_and_home;edredón;пухова ковдра;noun;
-la mesita de noche;нічний столик;las mesitas de noche;house_and_home;mesita de noche;нічний столик;noun;
-el escritorio;письмовий стіл;los escritorios;house_and_home;escritorio;письмовий стіл;noun;
-la silla;стілець;las sillas;house_and_home;silla;стілець;noun;
-el sillón;крісло;los sillones;house_and_home;sillón;крісло;noun;
-el sofá;диван;los sofás;house_and_home;sofá;диван;noun;
-la mesa;стіл;las mesas;house_and_home;mesa;стіл;noun;
-la estantería;книжкова полиця;las estanterías;house_and_home;estantería;книжкова полиця;noun;
-el estante;полиця;los estantes;house_and_home;estante;полиця;noun;
-la lámpara;лампа;las lámparas;house_and_home;lámpara;лампа;noun;
-la cortina;завіса;las cortinas;house_and_home;cortina;завіса;noun;
-la alfombra;килим;las alfombras;house_and_home;alfombra;килим;noun;
-el espejo;дзеркало;los espejos;house_and_home;espejo;дзеркало;noun;
-el cuadro;картина;los cuadros;house_and_home;cuadro;картина;noun;
-la puerta;двері;las puertas;house_and_home;puerta;двері;noun;
-la ventana;вікно;las ventanas;house_and_home;ventana;вікно;noun;
-el enchufe;розетка;los enchufes;house_and_home;enchufe;розетка;noun;
-el interruptor;вимикач;los interruptores;house_and_home;interruptor;вимикач;noun;
-la lavadora;пральна машина;las lavadoras;house_and_home;lavadora;пральна машина;noun;
-el lavavajillas;посудомийна машина;los lavavajillas;house_and_home;lavavajillas;посудомийна машина;noun;
-el horno;духовка;los hornos;house_and_home;horno;духовка;noun;
-el microondas;мікрохвильовка;los microondas;house_and_home;microondas;мікрохвильовка;noun;
-la bañera;ванна;las bañeras;house_and_home;bañera;ванна;noun;
-el lavabo;раковина;los lavabos;house_and_home;lavabo;раковина;noun;
-el grifo;кран;los grifos;house_and_home;grifo;кран;noun;
-el inodoro;унітаз;los inodoros;house_and_home;inodoro;унітаз;noun;
-la cómoda;комод;las cómodas;house_and_home;cómoda;комод;noun;
-el perchero;вішалка;los percheros;house_and_home;perchero;вішалка;noun;
-la despensa;комора;las despensas;house_and_home;despensa;комора;noun;
-la escoba;мітла;las escobas;house_and_home;escoba;мітла;noun;
-el recogedor;совок;los recogedores;house_and_home;recogedor;совок;noun;
-la fregona;швабра;las fregonas;house_and_home;fregona;швабра;noun;
-el cubo;відро;los cubos;house_and_home;cubo;відро;noun;
-la bayeta;ганчірка;las bayetas;house_and_home;bayeta;ганчірка;noun;
-el detergente;мийний засіб;los detergentes;house_and_home;detergente;мийний засіб;noun;
-la aspiradora;пилосос;las aspiradoras;house_and_home;aspiradora;пилосос;noun;
-la plancha;праска;las planchas;house_and_home;plancha;праска;noun;
-la tabla de planchar;прасувальна дошка;las tablas de planchar;house_and_home;tabla de planchar;прасувальна дошка;noun;
-el tendedero;сушарка для білизни;los tendederos;house_and_home;tendedero;сушарка для білизни;noun;
-la pinza de la ropa;прищіпка;las pinzas de la ropa;house_and_home;pinza de la ropa;прищіпка;noun;
-el estropajo;мочалка;los estropajos;house_and_home;estropajo;мочалка;noun;
-la esponja;губка;las esponjas;house_and_home;esponja;губка;noun;
-el plumero;щітка для пилу;los plumeros;house_and_home;plumero;щітка для пилу;noun;
-el desatascador;вантуз;los desatascadores;house_and_home;desatascador;вантуз;noun;
-el cubo de basura;відро для сміття;los cubos de basura;house_and_home;cubo de basura;відро для сміття;noun;
-la bolsa de basura;сміттєвий пакет;las bolsas de basura;house_and_home;bolsa de basura;сміттєвий пакет;noun;
-el cepillo;щітка;los cepillos;house_and_home;cepillo;щітка;noun;
-la lejía;відбілювач;las lejías;house_and_home;lejía;відбілювач;noun;
-el quitamanchas;засіб для виведення плям;los quitamanchas;house_and_home;quitamanchas;засіб для виведення плям;noun;
-el martillo;молоток;los martillos;house_and_home;martillo;молоток;noun;
-el destornillador;викрутка;los destornilladores;house_and_home;destornillador;викрутка;noun;
-la llave inglesa;гайковий ключ;las llaves inglesas;house_and_home;llave inglesa;гайковий ключ;noun;
-los alicates;плоскогубці;los alicates;house_and_home;alicate;плоскогубці;noun;
-la cinta métrica;рулетка;las cintas métricas;house_and_home;cinta métrica;рулетка;noun;
-el taladro;дриль;los taladros;house_and_home;taladro;дриль;noun;
-el fusible;запобіжник;los fusibles;house_and_home;fusible;запобіжник;noun;
-la herramienta;інструмент;las herramientas;house_and_home;herramienta;інструмент;noun;
-limpiar;прибирати;;house_and_home;limpiar;прибирати;verb (-ar);
-barrer;підмітати;;house_and_home;barrer;підмітати;verb (-er);
-fregar;мити підлогу;;house_and_home;fregar;мити підлогу;verb (-ar);
-aspirar;пилососити;;house_and_home;aspirar;пилососити;verb (-ar);
-planchar;прасувати;;house_and_home;planchar;прасувати;verb (-ar);
-tender;вішати білизну;;house_and_home;tender;вішати білизну;verb (-er);
-lavar;прати;;house_and_home;lavar;прати;verb (-ar);
-secar;сушити;;house_and_home;secar;сушити;verb (-ar);
-desempolvar;витирати пил;;house_and_home;desempolvar;витирати пил;verb (-ar);
-doblar;складати;;house_and_home;doblar;складати;verb (-ar);
-ordenar;упорядковувати;;house_and_home;ordenar;упорядковувати;verb (-ar);
-reparar;ремонтувати;;house_and_home;reparar;ремонтувати;verb (-ar);
-arreglar;лагодити;;house_and_home;arreglar;лагодити;verb (-ar);
-pintar;фарбувати;;house_and_home;pintar;фарбувати;verb (-ar);
-colgar;вішати;;house_and_home;colgar;вішати;verb (-ar);
-desatascar;прочищати;;house_and_home;desatascar;прочищати;verb (-ar);
-cambiar;змінювати;;house_and_home;cambiar;змінювати;verb (-ar);
-el alquiler;оренда;los alquileres;house_and_home;alquiler;оренда;noun;
-la renta;квартплата;las rentas;house_and_home;renta;квартплата;noun;
-la fianza;завдаток;las fianzas;house_and_home;fianza;завдаток;noun;
-el contrato de alquiler;договір оренди;los contratos de alquiler;house_and_home;contrato de alquiler;договір оренди;noun;
-la hipoteca;іпотека;las hipotecas;house_and_home;hipoteca;іпотека;noun;
-el préstamo hipotecario;іпотечний кредит;los préstamos hipotecarios;house_and_home;préstamo hipotecario;іпотечний кредит;noun;
-la entrada;початковий внесок;las entradas;house_and_home;entrada;початковий внесок;noun;
-la tasación;оцінка;las tasaciones;house_and_home;tasación;оцінка;noun;
-la escritura;свідоцтво про власність;las escrituras;house_and_home;escritura;свідоцтво про власність;noun;
-el notario;нотаріус;los notarios;house_and_home;notario;нотаріус;noun;
-la inmobiliaria;агентство нерухомості;las inmobiliarias;house_and_home;inmobiliaria;агентство нерухомості;noun;
-el agente inmobiliario;агент з нерухомості;los agentes inmobiliarios;house_and_home;agente inmobiliario;агент з нерухомості;noun;
-el propietario;власник;los propietarios;house_and_home;propietario;власник;noun;
-el inquilino;орендар;los inquilinos;house_and_home;inquilino;орендар;noun;
-el casero;орендодавець;los caseros;house_and_home;casero;орендодавець;noun;
-la vivienda;житло;las viviendas;house_and_home;vivienda;житло;noun;
-el piso;квартира;los pisos;house_and_home;piso;квартира;noun;
-el apartamento;апартаменти;los apartamentos;house_and_home;apartamento;апартаменти;noun;
-la casa;будинок;las casas;house_and_home;casa;будинок;noun;
-el seguro de hogar;страхування житла;los seguros de hogar;house_and_home;seguro de hogar;страхування житла;noun;
-la comisión;комісія;las comisiones;house_and_home;comisión;комісія;noun;
-los gastos;витрати;;house_and_home;gasto;витрата;noun;
-el impuesto;податок;los impuestos;house_and_home;impuesto;податок;noun;
-la plusvalía;приріст вартості;las plusvalías;house_and_home;plusvalía;приріст вартості;noun;
-el préstamo;кредит;los préstamos;house_and_home;préstamo;кредит;noun;
-la cuota;платіж;las cuotas;house_and_home;cuota;платіж;noun;
-el interés;відсоток;los intereses;house_and_home;interés;відсоток;noun;
-el tipo de interés;відсоткова ставка;los tipos de interés;house_and_home;tipo de interés;відсоткова ставка;noun;
-la amortización;амортизація;las amortizaciones;house_and_home;amortización;амортизація;noun;
-el plazo;строк;los plazos;house_and_home;plazo;строк;noun;
-la cláusula;пункт;las cláusulas;house_and_home;cláusula;пункт;noun;
-el desahucio;виселення;los desahucios;house_and_home;desahucio;виселення;noun;
-la renovación;продовження;las renovaciones;house_and_home;renovación;продовження;noun;
-la rescisión;розірвання;las rescisiones;house_and_home;rescisión;розірвання;noun;
-el subarriendo;суборенда;los subarriendos;house_and_home;subarriendo;суборенда;noun;
-el fiador;поручитель;los fiadores;house_and_home;fiador;поручитель;noun;
-alquilar;орендувати;;house_and_home;alquilar;орендувати;verb (-ar);
-comprar;купувати;;house_and_home;comprar;купувати;verb (-ar);
-vender;продавати;;house_and_home;vender;продавати;verb (-er);
-hipotecar;іпотекувати;;house_and_home;hipotecar;іпотекувати;verb (-ar);
-mudarse;переїжджати;;house_and_home;mudar;переїжджати;verb (-ar);
-renovar;продовжувати;;house_and_home;renovar;продовжувати;verb (-ar);
-rescindir;розривати;;house_and_home;rescindir;розривати;verb (-ir);
-pagar;платити;;house_and_home;pagar;платити;verb (-ar);
-firmar;підписувати;;house_and_home;firmar;підписувати;verb (-ar);
-negociar;вести переговори;;house_and_home;negociar;вести переговори;verb (-ar);
-tasar;оцінювати;;house_and_home;tasar;оцінювати;verb (-ar);
-asegurar;страхувати;;house_and_home;asegurar;страхувати;verb (-ar);
-amueblado;мебльований;;house_and_home;amueblado;мебльований;adj;
-vacío;порожній;;house_and_home;vacío;порожній;adj;
-el barrio;район;los barrios;house_and_home;barrio;район;noun;
-la calle;вулиця;las calles;house_and_home;calle;вулиця;noun;
-la avenida;проспект;las avenidas;house_and_home;avenida;проспект;noun;
-el callejón;провулок;los callejones;house_and_home;callejón;провулок;noun;
-la acera;тротуар;las aceras;house_and_home;acera;тротуар;noun;
-la plaza;площа;las plazas;house_and_home;plaza;площа;noun;
-el parque;парк;los parques;house_and_home;parque;парк;noun;
-el árbol;дерево;los árboles;house_and_home;árbol;дерево;noun;
-la farola;ліхтар;las farolas;house_and_home;farola;ліхтар;noun;
-la papelera;урна;las papeleras;house_and_home;papelera;урна;noun;
-el banco;лавка;los bancos;house_and_home;banco;лавка;noun;
-la fuente;фонтан;las fuentes;house_and_home;fuente;фонтан;noun;
-la parada;зупинка;las paradas;house_and_home;parada;зупинка;noun;
-la estación;станція;las estaciones;house_and_home;estación;станція;noun;
-el metro;метро;los metros;house_and_home;metro;метро;noun;
-el supermercado;супермаркет;los supermercados;house_and_home;supermercado;супермаркет;noun;
-la tienda;магазин;las tiendas;house_and_home;tienda;магазин;noun;
-la panadería;пекарня;las panaderías;house_and_home;panadería;пекарня;noun;
-la farmacia;аптека;las farmacias;house_and_home;farmacia;аптека;noun;
-la biblioteca;бібліотека;las bibliotecas;house_and_home;biblioteca;бібліотека;noun;
-la escuela;школа;las escuelas;house_and_home;escuela;школа;noun;
-el hospital;лікарня;los hospitales;house_and_home;hospital;лікарня;noun;
-la iglesia;церква;las iglesias;house_and_home;iglesia;церква;noun;
-la comisaría;поліцейський відділок;las comisarías;house_and_home;comisaría;поліцейський відділок;noun;
-el mercado;ринок;los mercados;house_and_home;mercado;ринок;noun;
-el centro comercial;торговий центр;los centros comerciales;house_and_home;centro comercial;торговий центр;noun;
-el quiosco;кіоск;los quioscos;house_and_home;quiosco;кіоск;noun;
-el semáforo;світлофор;los semáforos;house_and_home;semáforo;світлофор;noun;
-el cruce;перехрестя;los cruces;house_and_home;cruce;перехрестя;noun;
-la esquina;ріг;las esquinas;house_and_home;esquina;ріг;noun;
-la manzana;квартал;las manzanas;house_and_home;manzana;квартал;noun;
-el edificio;будівля;los edificios;house_and_home;edificio;будівля;noun;
-el vecino;сусід;los vecinos;house_and_home;vecino;сусід;noun;
-el buzón;поштова скринька;los buzones;house_and_home;buzón;поштова скринька;noun;
-la salida;вихід;las salidas;house_and_home;salida;вихід;noun;
-la piscina;басейн;las piscinas;house_and_home;piscina;басейн;noun;
-el gimnasio;спортзал;los gimnasios;house_and_home;gimnasio;спортзал;noun;
-la lavandería;пральня;las lavanderías;house_and_home;lavandería;пральня;noun;
-el estanco;тютюнова крамниця;los estancos;house_and_home;estanco;тютюнова крамниця;noun;
-la peluquería;перукарня;las peluquerías;house_and_home;peluquería;перукарня;noun;
-el cine;кінотеатр;los cines;house_and_home;cine;кінотеатр;noun;
-el teatro;театр;los teatros;house_and_home;teatro;театр;noun;
-el restaurante;ресторан;los restaurantes;house_and_home;restaurante;ресторан;noun;
-la cafetería;кафе;las cafeterías;house_and_home;cafetería;кафе;noun;
+la habitación;абітасьйон;las habitaciones;house_and_home;habitación;кімната;noun;абітасьйон
+el dormitorio;дорміторіо;los dormitorios;house_and_home;dormitorio;спальня;noun;дорміторіо
+el salón;салон;los salones;house_and_home;salón;вітальня;noun;салон
+el comedor;комедор;los comedores;house_and_home;comedor;їдальня;noun;комедор
+la terraza;терраса;las terrazas;house_and_home;terraza;тераса;noun;терраса
+el pasillo;пасійо;los pasillos;house_and_home;pasillo;коридор;noun;пасійо
+el estudio;естудіо;los estudios;house_and_home;estudio;кабінет;noun;естудіо
+el garaje;гарахе;los garajes;house_and_home;garaje;гараж;noun;гарахе
+el balcón;балкон;los balcones;house_and_home;balcón;балкон;noun;балкон
+el sótano;сотано;los sótanos;house_and_home;sótano;підвал;noun;сотано
+el ático;атіко;los áticos;house_and_home;ático;горище;noun;атіко
+el recibidor;ресібідор;los recibidores;house_and_home;recibidor;передпокій;noun;ресібідор
+la despensa;деспенса;las despensas;house_and_home;despensa;комора;noun;деспенса
+el aseo;асео;los aseos;house_and_home;aseo;туалет;noun;асео
+el lavadero;лабадеро;los lavaderos;house_and_home;lavadero;пральня;noun;лабадеро
+la buhardilla;буардійя;las buhardillas;house_and_home;buhardilla;мансарда;noun;буардійя
+la sala;сала;las salas;house_and_home;sala;вітальня;noun;сала
+el vestíbulo;вестібуло;los vestíbulos;house_and_home;vestíbulo;вестибюль;noun;вестібуло
+la biblioteca;бібліотека;las bibliotecas;house_and_home;biblioteca;бібліотека;noun;бібліотека
+el despacho;деспачо;los despachos;house_and_home;despacho;кабінет;noun;деспачо
+el trastero;трастеро;los trasteros;house_and_home;trastero;комірчина;noun;трастеро
+la mesa;меса;las mesas;house_and_home;mesa;стіл;noun;меса
+la silla;сійя;las sillas;house_and_home;silla;стілець;noun;сійя
+el sofá;софа;los sofás;house_and_home;sofá;диван;noun;софа
+el sillón;сійон;los sillones;house_and_home;sillón;крісло;noun;сійон
+el armario;армаріо;los armarios;house_and_home;armario;шафа;noun;армаріо
+la cómoda;комода;las cómodas;house_and_home;cómoda;комод;noun;комода
+la estantería;естантерія;las estanterías;house_and_home;estantería;книжкова полиця;noun;естантерія
+la librería;лібрерія;las librerías;house_and_home;librería;книжкова шафа;noun;лібрерія
+el escritorio;ескріторіо;los escritorios;house_and_home;escritorio;письмовий стіл;noun;ескріторіо
+la butaca;бутака;las butacas;house_and_home;butaca;крісло;noun;бутака
+la banqueta;банкета;las banquetas;house_and_home;banqueta;табурет;noun;банкета
+la alfombra;альфомбра;las alfombras;house_and_home;alfombra;килим;noun;альфомбра
+la cortina;кортіна;las cortinas;house_and_home;cortina;штора;noun;кортіна
+la persiana;персіана;las persianas;house_and_home;persiana;жалюзі;noun;персіана
+la lámpara;лампара;las lámparas;house_and_home;lámpara;лампа;noun;лампара
+el cuadro;куадро;los cuadros;house_and_home;cuadro;картина;noun;куадро
+la planta;планта;las plantas;house_and_home;planta;рослина;noun;планта
+el jarrón;харрон;los jarrones;house_and_home;jarrón;ваза;noun;харрон
+la nevera;небера;las neveras;house_and_home;nevera;холодильник;noun;небера
+el horno;орно;los hornos;house_and_home;horno;духовка;noun;орно
+la vitrocerámica;вітросераміка;las vitrocerámicas;house_and_home;vitrocerámica;склокерамічна плита;noun;вітросераміка
+la campana;кампана;las campanas;house_and_home;campana;витяжка;noun;кампана
+el fregadero;фрегадеро;los fregaderos;house_and_home;fregadero;кухонна мийка;noun;фрегадеро
+el lavavajillas;лабабахійяс;los lavavajillas;house_and_home;lavavajillas;посудомийна машина;noun;лабабахійяс
+la lavadora;лабадора;las lavadoras;house_and_home;lavadora;пральна машина;noun;лабадора
+la aspiradora;пилосос;las aspiradoras;house_and_home;aspiradora;пилосос;noun;аспірадора
+la escoba;віник;las escobas;house_and_home;escoba;віник;noun;ескоба
+el recogedor;совок;los recogedores;house_and_home;recogedor;совок;noun;рекохедор
+la fregona;швабра;las fregonas;house_and_home;fregona;швабра;noun;фреґона
+el cubo;відро;los cubos;house_and_home;cubo;відро;noun;кубо
+el trapo;ганчірка;los trapos;house_and_home;trapo;ганчірка;noun;трапо
+el detergente;миючий засіб;los detergentes;house_and_home;detergente;миючий засіб;noun;детерхенте
+la secadora;сушильна машина;las secadoras;house_and_home;secadora;сушильна машина;noun;секадора
+el tendedero;сушарка для білизни;los tendederos;house_and_home;tendedero;сушарка для білизни;noun;тендедеро
+la plancha;праска;las planchas;house_and_home;plancha;праска;noun;планча
+la tabla de planchar;дошка для прасування;las tablas de planchar;house_and_home;tabla de planchar;дошка для прасування;noun;табла де планчар
+el cesto de la ropa;кошик для білизни;los cestos de la ropa;house_and_home;cesto de la ropa;кошик для білизни;noun;сесто де ла ропа
+la basura;сміття;;house_and_home;basura;сміття;noun;басура
+el polvo;пил;;house_and_home;polvo;пил;noun;польбо
+la bayeta;ганчірка для миття;las bayetas;house_and_home;bayeta;ганчірка для миття;noun;байета
+el estropajo;мочалка;los estropajos;house_and_home;estropajo;мочалка;noun;естропахо
+el plumero;пір'яний віник;los plumeros;house_and_home;plumero;пір'яний віник;noun;плумеро
+la lejía;відбілювач;las lejías;house_and_home;lejía;відбілювач;noun;лехіа
+el limpiacristales;засіб для миття вікон;los limpiacristales;house_and_home;limpiacristales;засіб для миття вікон;noun;лімпьякрісталес
+el desatascador;вантуз;los desatascadores;house_and_home;desatascador;вантуз;noun;десатаскадор
+el cubo de basura;сміттєве відро;los cubos de basura;house_and_home;cubo de basura;сміттєве відро;noun;кубо де басура
+el trapeador;швабра для підлоги;los trapeadores;house_and_home;trapeador;швабра для підлоги;noun;трапеадор
+limpiar;прибирати;;house_and_home;limpiar;прибирати;verb (-ar);лімпьяр
+barrer;підмітати;;house_and_home;barrer;підмітати;verb (-er);барер
+fregar;мити підлогу;;house_and_home;fregar;мити підлогу;verb (-ar);фреґар
+trapear;мити підлогу шваброю;;house_and_home;trapear;мити підлогу шваброю;verb (-ar);трапеар
+lavar;мити;;house_and_home;lavar;мити;verb (-ar);лабар
+planchar;прасувати;;house_and_home;planchar;прасувати;verb (-ar);планчар
+doblar;складати одяг;;house_and_home;doblar;складати одяг;verb (-ar);доблар
+tender;розвішувати білизну;;house_and_home;tender;розвішувати білизну;verb (-er);тендер
+cocinar;готувати;;house_and_home;cocinar;готувати;verb (-ar);косинар
+sacar;виносити сміття;;house_and_home;sacar;виносити сміття;verb (-ar);сакар
+desempolvar;витирати пил;;house_and_home;desempolvar;витирати пил;verb (-ar);десемпольбар
+secar;сушити;;house_and_home;secar;сушити;verb (-ar);секар
+ordenar;прибирати, наводити порядок;;house_and_home;ordenar;прибирати, наводити порядок;verb (-ar);орденар
+arreglar;лагодити, ремонтувати;;house_and_home;arreglar;лагодити, ремонтувати;verb (-ar);арреґлар
+reparar;ремонтувати;;house_and_home;reparar;ремонтувати;verb (-ar);репарар
+pintar;фарбувати;;house_and_home;pintar;фарбувати;verb (-ar);пінтар
+aspirar;пилососити;;house_and_home;aspirar;пилососити;verb (-ar);аспірар
+enjuagar;полоскати;;house_and_home;enjuagar;полоскати;verb (-ar);енхуаґар
+escurrir;зливати воду, віджимати;;house_and_home;escurrir;зливати воду, віджимати;verb (-ir);ескуррір
+colgar;вішати;;house_and_home;colgar;вішати;verb (-ar);кольґар
+regar;поливати;;house_and_home;regar;поливати;verb (-ar);реґар
+cuidar;доглядати;;house_and_home;cuidar;доглядати;verb (-ar);куйдар
+cambiar;замінювати білизну;;house_and_home;cambiar;замінювати білизну;verb (-ar);камбьяр
+limpio;чистий;;house_and_home;limpio;чистий;adj;лімпьо
+sucio;брудний;;house_and_home;sucio;брудний;adj;сусьо
+el alquiler;оренда;los alquileres;house_and_home;alquiler;оренда;noun;алькілер
+la hipoteca;іпотека;las hipotecas;house_and_home;hipoteca;іпотека;noun;іпотека
+la fianza;завдаток;las fianzas;house_and_home;fianza;завдаток;noun;фіанса
+el contrato;договір;los contratos;house_and_home;contrato;договір;noun;контрато
+el casero;орендодавець;los caseros;house_and_home;casero;орендодавець;noun;касеро
+el inquilino;орендар;los inquilinos;house_and_home;inquilino;орендар;noun;інкіліно
+el propietario;власник;los propietarios;house_and_home;propietario;власник;noun;проп'єтаріо
+la propiedad;власність;las propiedades;house_and_home;propiedad;власність;noun;проп'єдад
+el piso;квартира;los pisos;house_and_home;piso;квартира;noun;пісо
+el apartamento;апартаменти;los apartamentos;house_and_home;apartamento;апартамент;noun;апартаменто
+la casa;будинок;las casas;house_and_home;casa;будинок;noun;каса
+la vivienda;житло;las viviendas;house_and_home;vivienda;житло;noun;вів'єнда
+el jardín;сад;los jardines;house_and_home;jardín;сад;noun;хардін
+la calefacción;опалення;;house_and_home;calefacción;опалення;noun;калефаксьйон
+el aire acondicionado;кондиціонер;;house_and_home;aire acondicionado;кондиціонер;noun;айре акондісьйонадо
+la mudanza;переїзд;las mudanzas;house_and_home;mudanza;переїзд;noun;муданса
+los muebles;меблі;;house_and_home;mueble;меблі;noun;муеблес
+la reparación;ремонт;las reparaciones;house_and_home;reparación;ремонт;noun;репарасьйон
+la reforma;ремонт;las reformas;house_and_home;reforma;ремонт;noun;реформа
+el seguro de hogar;страхування житла;los seguros de hogar;house_and_home;seguro de hogar;страхування житла;noun;сегуро де огар
+los gastos de comunidad;комунальні платежі;;house_and_home;gasto de comunidad;комунальний платіж;noun;гастос де комунідад
+el aval;поручитель;los avales;house_and_home;aval;поручитель;noun;абаль
+la agencia inmobiliaria;агентство нерухомості;las agencias inmobiliarias;house_and_home;agencia inmobiliaria;агентство нерухомості;noun;ахенсія інмобіліаріа
+el agente inmobiliario;ріелтор;los agentes inmobiliarios;house_and_home;agente inmobiliario;ріелтор;noun;ахенте інмобіліаріо
+la entrada;аванс;las entradas;house_and_home;entrada;аванс;noun;ентрада
+la cuota;платіж;las cuotas;house_and_home;cuota;платіж;noun;куота
+la mensualidad;щомісячний платіж;las mensualidades;house_and_home;mensualidad;щомісячний платіж;noun;менсуалідад
+el precio;ціна;los precios;house_and_home;precio;ціна;noun;пресьйо
+el valor;вартість;los valores;house_and_home;valor;вартість;noun;валор
+la oferta;пропозиція;las ofertas;house_and_home;oferta;пропозиція;noun;оферта
+la demanda;попит;las demandas;house_and_home;demanda;попит;noun;деманда
+el pago;платіж;los pagos;house_and_home;pago;платіж;noun;паго
+alquilar;орендувати;;house_and_home;alquilar;орендувати;verb (-ar);алькіляр
+comprar;купувати;;house_and_home;comprar;купувати;verb (-ar);компрар
+vender;продавати;;house_and_home;vender;продавати;verb (-er);вендер
+firmar;підписувати;;house_and_home;firmar;підписувати;verb (-ar);фірмар
+pagar;платити;;house_and_home;pagar;платити;verb (-ar);пагар
+financiar;фінансувати;;house_and_home;financiar;фінансувати;verb (-ar);фінансьяр
+mudarse;переїжджати;;house_and_home;mudar;переїжджати;verb (-ar);мударсе
+amueblar;меблювати;;house_and_home;amueblar;меблювати;verb (-ar);амуебляр
+invertir;інвестувати;;house_and_home;invertir;інвестувати;verb (-ir);інвертір
+compartir;ділити;;house_and_home;compartir;ділити;verb (-ir);компартір
+el barrio;район;los barrios;house_and_home;barrio;район;noun;барріо
+la calle;вулиця;las calles;house_and_home;calle;вулиця;noun;кайє
+la avenida;авеню;las avenidas;house_and_home;avenida;авеню;noun;абеніда
+la plaza;площа;las plazas;house_and_home;plaza;площа;noun;пласа
+el parque;парк;los parques;house_and_home;parque;парк;noun;парке
+la acera;тротуар;las aceras;house_and_home;acera;тротуар;noun;асера
+el semáforo;світлофор;los semáforos;house_and_home;semáforo;світлофор;noun;семафоро
+la farola;ліхтар;las farolas;house_and_home;farola;ліхтар;noun;фарола
+el banco;лавка;los bancos;house_and_home;banco;лавка;noun;банко
+la fuente;фонтан;las fuentes;house_and_home;fuente;фонтан;noun;фуенте
+la parada de autobús;автобусна зупинка;las paradas de autobús;house_and_home;parada;зупинка;noun;парада
+la estación de metro;станція метро;las estaciones de metro;house_and_home;estación;станція;noun;естасьон
+el buzón;поштова скринька;los buzones;house_and_home;buzón;поштова скринька;noun;бусон
+la papelera;сміттєвий кошик;las papeleras;house_and_home;papelera;сміттєвий кошик;noun;папелера
+el contenedor;контейнер;los contenedores;house_and_home;contenedor;контейнер;noun;контенедо́р
+la iglesia;церква;las iglesias;house_and_home;iglesia;церква;noun;іглесія
+el supermercado;супермаркет;los supermercados;house_and_home;supermercado;супермаркет;noun;супермеркадо
+la panadería;пекарня;las panaderías;house_and_home;panadería;пекарня;noun;панадері́я
+la farmacia;аптека;las farmacias;house_and_home;farmacia;аптека;noun;фармасіа
+la carnicería;м'ясний магазин;las carnicerías;house_and_home;carnicería;м'ясний магазин;noun;карнісері́я
+la pescadería;рибний магазин;las pescaderías;house_and_home;pescadería;рибний магазин;noun;пескадері́я
+la frutería;фруктовий магазин;las fruterías;house_and_home;frutería;фруктовий магазин;noun;фрутері́я
+la esquina;ріг;las esquinas;house_and_home;esquina;ріг;noun;ескіна
+la peluquería;перукарня;las peluquerías;house_and_home;peluquería;перукарня;noun;пелукері́я
+la manzana;квартал;las manzanas;house_and_home;manzana;квартал;noun;мансана
+el mercado;ринок;los mercados;house_and_home;mercado;ринок;noun;меркадо
+el centro de salud;медичний центр;los centros de salud;house_and_home;centro;центр;noun;сентро
+la comisaría;поліцейський відділок;las comisarías;house_and_home;comisaría;поліцейський відділок;noun;комісарі́я
+el ayuntamiento;мерія;los ayuntamientos;house_and_home;ayuntamiento;мерія;noun;айунтам'єнто
+la oficina de correos;поштове відділення;las oficinas de correos;house_and_home;oficina;офіс;noun;офісіна
+el colegio;школа;los colegios;house_and_home;colegio;школа;noun;колехіо
+el instituto;інститут;los institutos;house_and_home;instituto;інститут;noun;інстітуто
+la guardería;дитячий садок;las guarderías;house_and_home;guardería;дитячий садок;noun;гуардері́я
+el polideportivo;спорткомплекс;los polideportivos;house_and_home;polideportivo;спорткомплекс;noun;полідепортіво
+el gimnasio;спортзал;los gimnasios;house_and_home;gimnasio;спортзал;noun;хімнасіо
+la piscina;басейн;las piscinas;house_and_home;piscina;басейн;noun;піссіна
+el cine;кінотеатр;los cines;house_and_home;cine;кінотеатр;noun;сіне
+el teatro;театр;los teatros;house_and_home;teatro;театр;noun;театро
+la gasolinera;автозаправна станція;las gasolineras;house_and_home;gasolinera;автозаправна станція;noun;гасолінера
+el aparcamiento;автостоянка;los aparcamientos;house_and_home;aparcamiento;автостоянка;noun;апаркаміенто
+la rotonda;ротонда;las rotondas;house_and_home;rotonda;ротонда;noun;ротонда
+el cruce;перехрестя;los cruces;house_and_home;cruce;перехрестя;noun;крусе
+el paso de peatones;пішохідний перехід;los pasos de peatones;house_and_home;paso;перехід;noun;пасо
+el carril bici;велосипедна доріжка;los carriles bici;house_and_home;carril;смуга;noun;карріль
+la zona verde;зелена зона;las zonas verdes;house_and_home;zona;зона;noun;сона
+el vecino;сусід;los vecinos;house_and_home;vecino;сусід;noun;бесіно
